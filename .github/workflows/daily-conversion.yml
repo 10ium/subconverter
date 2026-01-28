@@ -1,9 +1,9 @@
 name: Daily Subscription Converter
 
 on:
-  schedule:
-    - cron: '30 5 * * *'
-    - cron: '30 17 * * *'
+ # schedule:
+  #  - cron: '30 5 * * *'
+   # - cron: '30 17 * * *'
   workflow_dispatch:
 
 jobs:
