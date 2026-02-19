@@ -1,14 +1,6 @@
 proxies:
   - {name: KingRezaPahlavi, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
-  - {name: "SI | VLESS | @v2raych #1", server: en.nattyzwerg.org, port: 443, type: vless, tls: true, uuid: e292fde3-e11d-43ba-9805-a43836bcbabc, skip-cert-verify: false, tfo: false}
   - {name: جاویدشاه, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
   - {name: همکاری_ملی, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
   - {name: "🇳🇱 NL | VLESS | @qeshmserver #1", server: 95.179.138.190, port: 443, type: vless, tls: true, uuid: telegram-id-qeshmserver, skip-cert-verify: false, tfo: false}
-  - {name: "🇷🇺 RU | VLESS | @config_proxy #1", server: 79.137.175.59, port: 443, type: vless, tls: true, uuid: b8b20850-fa09-4ac3-97fc-7d5be10e11ef, skip-cert-verify: false, tfo: false}
-  - {name: "🇷🇺 RU | VLESS | @config_proxy #2", server: 158.160.105.121, port: 51102, type: vless, tls: true, uuid: 225f5dd9-d885-49ad-8e7f-c0900bbc2230, skip-cert-verify: false, tfo: false}
-  - {name: "🇷🇺 RU | VLESS | @config_proxy #3", server: 84.252.143.25, port: 8443, type: vless, tls: true, uuid: 2936e344-2c52-4508-9523-1f3ed6824770, skip-cert-verify: false, tfo: false}
-  - {name: "🇷🇺 RU | VLESS | @config_proxy #4", server: 84.252.143.25, port: 443, type: vless, tls: true, uuid: 2936e344-2c52-4508-9523-1f3ed6824770, skip-cert-verify: false, tfo: false}
-  - {name: "🇷🇺 RU | VLESS | @config_proxy #5", server: 79.137.175.44, port: 8443, type: vless, tls: true, uuid: 829ce713-8748-4049-ba76-be56e60bc449, skip-cert-verify: false, tfo: false}
-  - {name: "🇷🇺 RU | VLESS | @config_proxy #6", server: 84.252.136.245, port: 8443, type: vless, tls: true, uuid: 525e49c0-8396-4dac-bb2d-36412723e5cb, skip-cert-verify: false, tfo: false}
-  - {name: "🇷🇺 RU | VLESS | @v2raych #1", server: 84.23.52.70, port: 8443, type: vless, tls: true, uuid: afffbafe-881f-4a06-bc22-d1a49121ba36, skip-cert-verify: false, tfo: false}
-  - {name: "🇷🇺 RU | VLESS | @v2raych #2", server: 89.169.162.214, port: 443, type: vless, tls: true, uuid: b23f1721-43ac-40fd-988c-b31d398b22cb, skip-cert-verify: false, tfo: false}
+  - {name: "🇳🇱 NL | VLESS | @v2raych #1", server: osn.takovpn.ru, port: 443, type: vless, tls: true, uuid: 79b5b31e-9557-4ea6-9ec5-450d7cdefecd, skip-cert-verify: false, tfo: false}
