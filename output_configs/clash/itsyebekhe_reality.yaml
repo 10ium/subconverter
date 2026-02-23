@@ -2,7 +2,5 @@ proxies:
   - {name: KingRezaPahlavi, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
   - {name: جاویدشاه, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
   - {name: همکاری_ملی, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
-  - {name: "🇩🇪 DE | VLESS | @vpnplusee_free #1", server: partners.dissertationhelpspecialist.com, port: 2083, type: vless, tls: true, uuid: 9e5d9354-6be4-4bdb-a78a-92062312f8f3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ""}, skip-cert-verify: false, tfo: false}
   - {name: "🇳🇱 NL | VLESS | @qeshmserver #1", server: 95.179.138.190, port: 443, type: vless, tls: true, uuid: telegram-id-qeshmserver, skip-cert-verify: false, tfo: false}
-  - {name: "🇷🇺 RU | VLESS | @Fr33C0nfig #1", server: netherland.boot-lee.ru, port: 8443, type: vless, tls: true, uuid: 05dc09d5-5c56-454b-a34e-6ef743d91e1a, skip-cert-verify: false, tfo: false}
-  - {name: "🇺🇸 US | VLESS | @Fr33C0nfig #2", server: 159.89.87.21, port: 28190, type: vless, tls: true, uuid: 14c80e0e-f7ce-4991-94fc-99a1db4a9b1e, skip-cert-verify: false, tfo: false}
+  - {name: "🇷🇺 RU | VLESS | @v2raych #1", server: 84.201.187.140, port: 4443, type: vless, tls: true, uuid: 01a57a60-2ac0-48ce-ba63-fd7946e89670, skip-cert-verify: false, tfo: false}
