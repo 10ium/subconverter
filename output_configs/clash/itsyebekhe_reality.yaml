@@ -3,4 +3,4 @@ proxies:
   - {name: جاویدشاه, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
   - {name: همکاری_ملی, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
   - {name: "🇳🇱 NL | VLESS | @qeshmserver #1", server: 95.179.138.190, port: 443, type: vless, tls: true, uuid: telegram-id-qeshmserver, skip-cert-verify: false, tfo: false}
-  - {name: "🇷🇺 RU | VLESS | @v2raych #1", server: 84.201.187.140, port: 4443, type: vless, tls: true, uuid: 01a57a60-2ac0-48ce-ba63-fd7946e89670, skip-cert-verify: false, tfo: false}
+  - {name: "🇳🇱 NL | VLESS | @v2raych #1", server: 87.239.252.186, port: 443, type: vless, tls: true, uuid: c819f3b4-0c46-4ad3-8b6c-beef5215be4a, skip-cert-verify: false, tfo: false}
