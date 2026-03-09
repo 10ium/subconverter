@@ -1,5 +1,5 @@
 proxies:
-  - {name: "CY | VLESS | @config_proxy #1", server: cy.harknmav.fun, port: 443, type: vless, tls: true, uuid: ff238176-3cc9-4b97-a295-5678919d5cdb, skip-cert-verify: false, tfo: false}
+  - {name: "KZ | VLESS | @config_proxy #1", server: kz.darknet.run, port: 443, type: vless, tls: true, uuid: c970f910-1103-446a-bdc8-a9cfb22381bf, skip-cert-verify: false, tfo: false}
   - {name: KingRezaPahlavi, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
   - {name: جاویدشاه, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
   - {name: همکاری_ملی, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
