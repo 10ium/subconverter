@@ -1,5 +1,4 @@
 proxies:
-  - {name: "HU | VLESS | @config_proxy #1", server: 87.229.97.231, port: 443, type: vless, tls: true, uuid: d65cc14c-f53f-4fe2-b262-97856601319c, skip-cert-verify: false, tfo: false}
   - {name: KingRezaPahlavi, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
   - {name: جاویدشاه, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
   - {name: همکاری_ملی, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
