@@ -1,10 +1,8 @@
 proxies:
-  - {name: "IL | VLESS | @config_proxy #1", server: il.zqwerty.ru, port: 2053, type: vless, tls: true, uuid: 110d7bad-5e17-4ce3-afd0-2cf2ebc71787, skip-cert-verify: false, tfo: false}
   - {name: KingRezaPahlavi, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
   - {name: جاویدشاه, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
   - {name: همکاری_ملی, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
-  - {name: "🇬🇧 GB | VLESS | @config_proxy #1", server: backup.eerieperet.top, port: 443, type: vless, tls: true, uuid: 42ce7a2e-c147-4388-9b38-4ccfc2e47a30, skip-cert-verify: false, tfo: false}
-  - {name: "🇬🇧 GB | VLESS | @config_proxy #2", server: backup.eerieperet.top, port: 443, type: vless, tls: true, uuid: e85db295-fa5a-4220-beaf-a7a71842e1a7, skip-cert-verify: false, tfo: false}
-  - {name: "🇬🇧 GB | VLESS | @config_proxy #3", server: backup.eerieperet.top, port: 443, type: vless, tls: true, uuid: 78dc7d29-b76d-443c-8e85-20fc2e60a041, skip-cert-verify: false, tfo: false}
+  - {name: "🇩🇪 DE | VLESS | @config_proxy #1", server: 64.188.106.39, port: 443, type: vless, tls: true, uuid: e1c3b1b5-5d8f-4bce-a999-b442762dc245, skip-cert-verify: false, tfo: false}
   - {name: "🇳🇱 NL | VLESS | @netfreedom0 #1", server: 51.158.206.87, port: 23576, type: vless, tls: true, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, skip-cert-verify: false, tfo: false}
   - {name: "🇳🇱 NL | VLESS | @qeshmserver #1", server: 95.179.138.190, port: 443, type: vless, tls: true, uuid: telegram-id-qeshmserver, skip-cert-verify: false, tfo: false}
+  - {name: "🇵🇱 PL | VLESS | @v2ray_free_conf #1", server: pl-waw-1.blook.network, port: 443, type: vless, tls: true, uuid: f3689c7c-d233-4fdb-b5ee-1bc8a65a637e, skip-cert-verify: false, tfo: false}
