@@ -1,6 +1,4 @@
 proxies:
-  - {name: "EE | VLESS | @config_proxy #1", server: ee.stardevs.top, port: 443, type: vless, tls: true, uuid: f00984ef-f57e-41db-9182-b25f7bc3a1e2, skip-cert-verify: false, tfo: false}
-  - {name: "EE | VLESS | @config_proxy #2", server: 144.31.178.192, port: 443, type: vless, tls: true, uuid: a5fe029b-ed4d-4caf-b53f-2f8584c1a103, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ""}, skip-cert-verify: false, tfo: false}
   - {name: KingRezaPahlavi, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
   - {name: جاویدشاه, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
   - {name: همکاری_ملی, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
