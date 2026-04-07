@@ -5,7 +5,6 @@ proxies:
   - {name: "CO | SS | @netfreedom0 #1", server: 154.223.16.212, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, tfo: false}
   - {name: "CY | SS | @NamiraConfigs #1", server: 134.255.210.49, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3, tfo: false}
   - {name: "CZ | VMESS | @freev2rays #1", server: time.is, port: 443, type: vmess, uuid: b526926d-1474-4f41-985e-8b877cb840cd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: time.is, network: ws, ws-path: /, ws-headers: {Host: shs111.kejixiaoqi666.store}, tfo: false}
-  - {name: "IR | VLESS | @v2ray_free_conf #1", server: de22.fastplus7.site, port: 2086, type: vless, tls: true, uuid: 0d1c3cee-2952-4a3e-a03e-fbe99d32dc72, network: ws, skip-cert-verify: false, tfo: false}
   - {name: "IR | VLESS | @vmesskhodam #3", server: 185.143.234.200, port: 80, type: vless, tls: true, uuid: c1e0aa57-6ae8-429d-a304-80cc52eba9c1, network: ws, skip-cert-verify: false, tfo: false}
   - {name: "IR | VMESS | @config_proxy #1", server: i-love-iran.amlakayuni.ir, port: 2053, type: vmess, uuid: f2fe0d70-1cb1-ae84-4585-ec96d450da80, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: i-love-iran.amlakayuni.ir, network: ws, ws-path: "?ed=2053", ws-headers: {Host: i-love-iran.amlakayuni.ir}, tfo: false}
   - {name: "IR | VMESS | @config_proxy #2", server: i-love-iran.amlakayuni.ir, port: 2053, type: vmess, uuid: f2fe0d70-1cb1-ae84-4585-ec96d450da80, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: i-love-iran.amlakayuni.ir, network: ws, ws-path: "?ed=2053", ws-headers: {Host: i-love-iran.amlakayuni.ir}, tfo: false}
@@ -33,9 +32,8 @@ proxies:
   - {name: "XX | TROJAN | @teamvpnpro #2", server: chatbuzzteambhm.chatbuzzt7150.workers.dev, port: 443, type: trojan, password: c7f9b8f0-bfdb-11ee-a15c-1239d0255272, skip-cert-verify: false, tfo: false}
   - {name: "XX | TROJAN | @v2ray_vmes #1", server: mfa.gov.ua, port: 2096, type: trojan, password: 22367c45-f6c4-4ca8-8d52-d9787d7bbe91, skip-cert-verify: false, tfo: false}
   - {name: "XX | TROJAN | @vmesc #1", server: 172.64.152.23, port: 443, type: trojan, password: humanity, skip-cert-verify: false, tfo: false}
-  - {name: "XX | TROJAN | @vpn_ioss #1", server: 104.21.40.34, port: 443, type: trojan, password: humanity, skip-cert-verify: false, tfo: false}
-  - {name: "XX | TROJAN | @vpn_ioss #2", server: 172.64.152.23, port: 443, type: trojan, password: humanity, skip-cert-verify: false, tfo: false}
-  - {name: "XX | TROJAN | @vpn_ioss #3", server: 188.114.98.0, port: 443, type: trojan, password: humanity, skip-cert-verify: false, tfo: false}
+  - {name: "XX | TROJAN | @vpn_ioss #1", server: 172.64.152.23, port: 443, type: trojan, password: humanity, skip-cert-verify: false, tfo: false}
+  - {name: "XX | TROJAN | @vpn_ioss #2", server: 188.114.98.0, port: 443, type: trojan, password: humanity, skip-cert-verify: false, tfo: false}
   - {name: "XX | TROJAN | @vpnv2raytop #1", server: persiancdn.top, port: 443, type: trojan, password: 51410d3cb2931a01b366bb5c868264bf, skip-cert-verify: false, tfo: false}
   - {name: "XX | VLESS | @buffalo_vpn #1", server: 188.114.97.0, port: 443, type: vless, tls: true, uuid: 884f9b2c-f0c5-44dd-a68e-3e39ce93bb39, network: ws, skip-cert-verify: false, tfo: false}
   - {name: "XX | VLESS | @goldenvpn_v2rayy #1", server: v2proxy.v2p.top, port: 443, type: vless, tls: true, uuid: 001bb217-4cf2-4b8a-b48d-b80ac72b116a, skip-cert-verify: false, tfo: false}
@@ -68,21 +66,16 @@ proxies:
   - {name: "🇨🇦 CA | VLESS | @jokerv2ray #2", server: 23.227.60.12, port: 2096, type: vless, tls: true, uuid: dd777f39-2996-4269-b88f-0b64436d0274, network: ws, skip-cert-verify: false, tfo: false}
   - {name: "🇩🇪 DE | SS | @free4allvpn #1", server: 194.59.183.134, port: 46114, type: ss, cipher: chacha20-ietf-poly1305, password: lejSRyqa033OEPmEQsvRsl, tfo: false}
   - {name: "🇩🇪 DE | TROJAN | @goldenshiinevpn #1", server: us2.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen, port: 443, type: trojan, password: ad8bab9c-f5e2-4957-96fa-3f59e7e4007b, skip-cert-verify: false, tfo: false}
-  - {name: "🇩🇪 DE | TROJAN | @v2rayvpnchannel #1", server: 18.156.97.29, port: 22223, type: trojan, password: telegram-id-v2rayvpnchannel, skip-cert-verify: false, tfo: false}
   - {name: "🇩🇪 DE | VLESS | @NamiraConfigs #1", server: 212.192.31.146, port: 443, type: vless, tls: true, uuid: 199a78a5-b4d4-4064-a0db-bb37c5839134, network: ws, ws-path: /panika, skip-cert-verify: false, tfo: false}
-  - {name: "🇩🇪 DE | VLESS | @vlessconfig #1", server: 18.156.97.29, port: 22224, type: vless, tls: true, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, network: ws, skip-cert-verify: false, tfo: false}
   - {name: "🇩🇪 DE | VMESS | @khoneproxy #1", server: 142.132.163.200, port: 80, type: vmess, uuid: 7f965e3e-b03f-455e-a96e-01b61f72537a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /graphql, tfo: false}
   - {name: "🇩🇪 DE | VMESS | @khoneproxy #2", server: 167.235.205.182, port: 443, type: vmess, uuid: 6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, tfo: false}
   - {name: "🇩🇪 DE | VMESS | @magickey_shop #1", server: 168.119.174.229, port: 443, type: vmess, uuid: 6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, tfo: false}
   - {name: "🇫🇷 FR | SS | @mt_proxy #1", server: 54.36.174.140, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: pvgz9pq, tfo: false}
   - {name: "🇫🇷 FR | SS | @v2rayng3 #1", server: 57.130.28.148, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 74918bc801d53a4b, tfo: false}
-  - {name: "🇫🇷 FR | TROJAN | @privatevpns #1", server: 15.188.46.103, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: false, tfo: false}
-  - {name: "🇫🇷 FR | TROJAN | @privatevpns #2", server: 15.224.29.219, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: false, tfo: false}
+  - {name: "🇫🇷 FR | TROJAN | @privatevpns #1", server: 13.38.177.145, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: false, tfo: false}
   - {name: "🇫🇷 FR | TROJAN | @proxyfn #1", server: 51.91.11.29, port: 80, type: trojan, password: 598c19f3-a48e-47cd-8451-1ba04ea094d0, skip-cert-verify: false, tfo: false}
-  - {name: "🇫🇷 FR | TROJAN | @v2rayvpnchannel #1", server: 15.188.46.103, port: 22223, type: trojan, password: telegram-id-v2rayvpnchannel, skip-cert-verify: false, tfo: false}
-  - {name: "🇫🇷 FR | TROJAN | @v2rayvpnchannel #2", server: 15.224.29.219, port: 22223, type: trojan, password: telegram-id-v2rayvpnchannel, skip-cert-verify: false, tfo: false}
-  - {name: "🇫🇷 FR | VLESS | @vlessconfig #1", server: 15.188.46.103, port: 22224, type: vless, tls: true, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, network: ws, skip-cert-verify: false, tfo: false}
-  - {name: "🇫🇷 FR | VLESS | @vlessconfig #2", server: 15.224.29.219, port: 22224, type: vless, tls: true, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, network: ws, skip-cert-verify: false, tfo: false}
+  - {name: "🇫🇷 FR | TROJAN | @v2rayvpnchannel #1", server: 13.38.177.145, port: 22223, type: trojan, password: telegram-id-v2rayvpnchannel, skip-cert-verify: false, tfo: false}
+  - {name: "🇫🇷 FR | VLESS | @vlessconfig #1", server: 13.38.177.145, port: 22224, type: vless, tls: true, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, network: ws, skip-cert-verify: false, tfo: false}
   - {name: "🇬🇧 GB | SS | @free4allvpn #2", server: 82.38.31.205, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
   - {name: "🇬🇧 GB | SS | @netfreedom0 #1", server: 141.98.101.182, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
   - {name: "🇬🇧 GB | SS | @prrofile_purple #1", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, tfo: false}
@@ -100,9 +93,8 @@ proxies:
   - {name: "🇵🇱 PL | SS | @netfreedom0 #1", server: 217.30.10.70, port: 9000, type: ss, cipher: aes-256-cfb, password: a3GFYt36Sm82Vys9, tfo: false}
   - {name: "🇵🇱 PL | SS | @outlinereleasedkey #1", server: 217.30.10.18, port: 9011, type: ss, cipher: aes-256-cfb, password: M3t2ZEQcMGRWBjRa, tfo: false}
   - {name: "🇺🇸 US | HY2 | @vipv2rey #1", server: 66.245.192.15, port: 443, type: hysteria2, ports: 443, password: 9f73c619627d6a5d, skip-cert-verify: false, tfo: false}
-  - {name: "🇺🇸 US | SS | @key_outline #1", server: 216.105.168.18, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: bQZl7HDxSabr1FurTYQHFU, tfo: false}
-  - {name: "🇺🇸 US | SS | @key_outline #2", server: 104.192.227.164, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 2NjR8ef7LEDd3jeXdE6Pkd, tfo: false}
-  - {name: "🇺🇸 US | SS | @outlinevpn_ru #1", server: 104.192.227.163, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: NeORiiA1d3vHdXsfPV37Lr, tfo: false}
+  - {name: "🇺🇸 US | SS | @key_outline #1", server: 104.192.227.164, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 2NjR8ef7LEDd3jeXdE6Pkd, tfo: false}
+  - {name: "🇺🇸 US | SS | @outlinevpn_ru #1", server: 216.105.168.18, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: bQZl7HDxSabr1FurTYQHFU, tfo: false}
   - {name: "🇺🇸 US | SS | @proxy_confiingir #1", server: ak1857.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c, tfo: false}
   - {name: "🇺🇸 US | TROJAN | @v2ray_collector #1", server: 198.23.229.250, port: 443, type: trojan, password: 2ee85121-31de-4581-a492-eb00f606e392, skip-cert-verify: false, tfo: false}
   - {name: "🇺🇸 US | VLESS | @NamiraConfigs #1", server: 104.129.167.161, port: 443, type: vless, tls: true, uuid: 401374e6-df77-41fb-f638-dad8184f175b, servername: pqh23v4.hiddendom.shop, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ""}, skip-cert-verify: false, tfo: false}
