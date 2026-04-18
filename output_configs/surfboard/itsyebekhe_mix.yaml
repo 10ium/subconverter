@@ -8,9 +8,10 @@ CZ | VMESS | @freev2rays #1 = vmess, time.is, 443, username=b526926d-1474-4f41-9
 IR | VMESS | @config_proxy #1 = vmess, i-love-iran.amlakayuni.ir, 2053, username=f2fe0d70-1cb1-ae84-4585-ec96d450da80, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=?ed=2053, sni=i-love-iran.amlakayuni.ir, ws-headers=Host:i-love-iran.amlakayuni.ir, skip-cert-verify=false, tfo=false, udp-relay=true
 IR | VMESS | @config_proxy #2 = vmess, i-love-iran.amlakayuni.ir, 2053, username=f2fe0d70-1cb1-ae84-4585-ec96d450da80, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=?ed=2053, sni=i-love-iran.amlakayuni.ir, ws-headers=Host:i-love-iran.amlakayuni.ir, skip-cert-verify=false, tfo=false, udp-relay=true
 IR | VMESS | @khoneproxy #1 = vmess, 78.47.131.39, 8443, username=4d598e48-234f-4c60-fdd3-fa90e084770d, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+IR | VMESS | @v2ray_free_conf #1 = vmess, cdn.midasnet.work, 80, username=9b78392c-c709-4c4f-a7f0-c2ac8d78d030, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=test.midasnet.work, ws-headers=Host:test.midasnet.work, skip-cert-verify=false, tfo=false, udp-relay=true
 PE | SS | @NamiraConfigs #1 = ss, 185.47.252.251, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
-SC | TROJAN | @mpproxy #1 = trojan, srv1.khatibirepair.ir, 443, password=842b5f9dd11e458d8613c907c4cc5723, skip-cert-verify=false, tfo=false, udp-relay=true
-SC | TROJAN | @mpproxy #2 = trojan, srv1.khatibirepair.ir, 443, password=humanity, skip-cert-verify=false, tfo=false, udp-relay=true
+SC | TROJAN | @mpproxy #1 = trojan, srv1.khatibirepair.ir, 443, password=humanity, skip-cert-verify=false, tfo=false, udp-relay=true
+SC | TROJAN | @mpproxy #2 = trojan, srv1.khatibirepair.ir, 443, password=842b5f9dd11e458d8613c907c4cc5723, skip-cert-verify=false, tfo=false, udp-relay=true
 SI | SS | @NamiraConfigs #1 = ss, 192.71.244.150, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
 VN | SS | @netfreedom0 #1 = ss, 103.186.154.187, 38388, encrypt-method=aes-256-cfb, password=Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, tfo=false, udp-relay=true
 XX | TROJAN | @ehsawn8 #1 = trojan, 172.64.149.54, 2096, password=8r%3C%5B9%27l6hAO%238ZQi, skip-cert-verify=false, tfo=false, udp-relay=true
@@ -24,7 +25,6 @@ XX | TROJAN | @teamvpnpro #2 = trojan, chatbuzzteambhm.chatbuzzt7150.workers.dev
 XX | TROJAN | @v2rayngvpn_1 #1 = trojan, 172.64.149.54, 2096, password=8r%3C%5B9%27l6hAO%238ZQi, skip-cert-verify=false, tfo=false, udp-relay=true
 XX | TROJAN | @v2rayngvpn_1 #2 = trojan, 172.64.152.23, 443, password=humanity, skip-cert-verify=false, tfo=false, udp-relay=true
 XX | TROJAN | @vmesc #1 = trojan, 172.64.152.23, 443, password=humanity, skip-cert-verify=false, tfo=false, udp-relay=true
-XX | TROJAN | @vpn_ioss #1 = trojan, 172.67.180.92, 443, password=humanity, skip-cert-verify=false, tfo=false, udp-relay=true
 XX | TROJAN | @vpnv2raytop #1 = trojan, persiancdn.top, 443, password=51410d3cb2931a01b366bb5c868264bf, skip-cert-verify=false, tfo=false, udp-relay=true
 XX | VMESS | @iranvpnet #1 = vmess, mute-math-d64e.0e503992ad7026.WOrKERs.deV, 443, username=03fcc618-b93d-6796-6aed-8a38c975d581, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/aveiror.com:443/linkvws, sni=mute-math-d64e.0e503992ad7026.woRKERS.DeV, ws-headers=Host:mute-math-d64e.0e503992ad7026.woRKERS.DeV, skip-cert-verify=false, tfo=false, udp-relay=true
 XX | VMESS | @manstervpn #1 = vmess, 104.16.60.8, 2086, username=76221bfb-e92f-4e80-81c5-6fe48f50ac0b, tls=false, vmess-aead=true, ws=true, ws-path=/glweidf.sbs/linkws, sni=1c11-muddy-rice-1c11.vetanex501.workers.dev, ws-headers=Host:1c11-muddy-rice-1c11.vetanex501.workers.dev, skip-cert-verify=false, tfo=false, udp-relay=true
@@ -32,6 +32,8 @@ ZA | SS | @oonfig #1 = ss, 102.37.156.224, 443, encrypt-method=chacha20-ietf-pol
 🇦🇺 AU | VMESS | @dailyv2ray #1 = vmess, 104.31.16.104, 80, username=12c25b50-f6c7-11ed-b230-205c6d5f5d78, tls=false, vmess-aead=true, ws=true, ws-path=/qmbdkyzn, sni=us-4.0rd.net, ws-headers=Host:us-4.0rd.net, skip-cert-verify=false, tfo=false, udp-relay=true
 🇦🇺 AU | VMESS | @khoneproxy #1 = vmess, us-2.0rd.net, 443, username=597888c0-a318-11ed-b536-205c6d5f5d78, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/tq98e0yk, sni=us-2.0rd.net, skip-cert-verify=false, tfo=false, udp-relay=true
 🇩🇪 DE | TROJAN | @goldenshiinevpn #1 = trojan, us2.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen, 443, password=ad8bab9c-f5e2-4957-96fa-3f59e7e4007b, skip-cert-verify=false, tfo=false, udp-relay=true
+🇩🇪 DE | TROJAN | @privatevpns #1 = trojan, 3.65.185.26, 22222, password=telegram-id-privatevpns, skip-cert-verify=false, tfo=false, udp-relay=true
+🇩🇪 DE | TROJAN | @v2rayvpnchannel #1 = trojan, 3.65.185.26, 22223, password=telegram-id-v2rayvpnchannel, skip-cert-verify=false, tfo=false, udp-relay=true
 🇩🇪 DE | VMESS | @freev2rays #1 = vmess, u8.huvicloud.com, 443, username=6796611b-260e-4d63-9016-20c27b12e420, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/6796611b-260e-4d63-9016-20c27b12e420, sni=u8.huvicloud.com, ws-headers=Host:u8.huvicloud.com, skip-cert-verify=false, tfo=false, udp-relay=true
 🇩🇪 DE | VMESS | @khoneproxy #1 = vmess, 142.132.163.200, 80, username=7f965e3e-b03f-455e-a96e-01b61f72537a, tls=false, vmess-aead=true, ws=true, ws-path=/graphql, sni=142.132.163.200, skip-cert-verify=false, tfo=false, udp-relay=true
 🇩🇪 DE | VMESS | @khoneproxy #2 = vmess, 167.235.205.182, 443, username=6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
@@ -39,20 +41,20 @@ ZA | SS | @oonfig #1 = ss, 102.37.156.224, 443, encrypt-method=chacha20-ietf-pol
 🇫🇷 FR | SS | @mt_proxy #1 = ss, 54.36.174.140, 443, encrypt-method=chacha20-ietf-poly1305, password=pvgz9pq, tfo=false, udp-relay=true
 🇫🇷 FR | SS | @v2rayng3 #1 = ss, 57.130.28.148, 11201, encrypt-method=chacha20-ietf-poly1305, password=74918bc801d53a4b, tfo=false, udp-relay=true
 🇫🇷 FR | SS | @v2raytg #1 = ss, 135.125.245.131, 20939, encrypt-method=chacha20-ietf-poly1305, password=85d3d8ccba287d3e, tfo=false, udp-relay=true
-🇫🇷 FR | TROJAN | @privatevpns #1 = trojan, 15.236.63.145, 22222, password=telegram-id-privatevpns, skip-cert-verify=false, tfo=false, udp-relay=true
+🇫🇷 FR | TROJAN | @privatevpns #1 = trojan, 13.37.187.91, 22222, password=telegram-id-privatevpns, skip-cert-verify=false, tfo=false, udp-relay=true
+🇫🇷 FR | TROJAN | @privatevpns #2 = trojan, 15.188.200.62, 22222, password=telegram-id-privatevpns, skip-cert-verify=false, tfo=false, udp-relay=true
 🇫🇷 FR | TROJAN | @proxyfn #1 = trojan, 51.91.11.29, 80, password=598c19f3-a48e-47cd-8451-1ba04ea094d0, skip-cert-verify=false, tfo=false, udp-relay=true
-🇫🇷 FR | TROJAN | @v2rayvpnchannel #1 = trojan, 15.236.63.145, 22223, password=telegram-id-v2rayvpnchannel, skip-cert-verify=false, tfo=false, udp-relay=true
+🇫🇷 FR | TROJAN | @v2rayvpnchannel #1 = trojan, 13.37.187.91, 22223, password=telegram-id-v2rayvpnchannel, skip-cert-verify=false, tfo=false, udp-relay=true
 🇬🇧 GB | SS | @free4allvpn #2 = ss, 82.38.31.205, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
 🇬🇧 GB | SS | @netfreedom0 #1 = ss, 141.98.101.182, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
 🇬🇧 GB | SS | @torang_vpn #1 = ss, series-a1.samanehha.co, 443, encrypt-method=chacha20-ietf-poly1305, password=W74XFALLLuw6m5IA, tfo=false, udp-relay=true
-🇬🇧 GB | SS | @v2ray_free_conf #1 = ss, 82.38.31.62, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
 🇭🇰 HK | SS | @mftizi #1 = ss, hk01.x.quickcht3.club, 52611, encrypt-method=chacha20-ietf-poly1305, password=2be0c954-4291-45ea-b47d-ca713180550b, tfo=false, udp-relay=true
 🇭🇰 HK | VMESS | @freev2rays #1 = vmess, hk2.lrzdx.uk, 443, username=db69d5bc-d36c-4903-f471-74b98c5cefe5, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/register, sni=hk2.lrzdx.uk, skip-cert-verify=false, tfo=false, udp-relay=true
 🇯🇵 JP | SS | @outlinereleasedkey #1 = ss, 149.22.87.240, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
 🇰🇷 KR | SS | @netfreedom0 #1 = ss, 218.237.185.230, 4652, encrypt-method=aes-256-cfb, password=qwerREWQ@@, tfo=false, udp-relay=true
 🇳🇱 NL | SS | @easy_free_vpn #1 = ss, 193.29.139.151, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇳🇱 NL | SS | @netfreedom0 #1 = ss, 193.29.139.141, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
 🇳🇱 NL | SS | @outlinereleasedkey #1 = ss, 193.29.139.235, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇵🇱 PL | SS | @netfreedom0 #1 = ss, 217.30.10.70, 9000, encrypt-method=aes-256-cfb, password=a3GFYt36Sm82Vys9, tfo=false, udp-relay=true
 🇺🇸 US | SS | @proxy_confiingir #1 = ss, ak1857.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, 443, encrypt-method=chacha20-ietf-poly1305, password=u17T3BvpYaaiuW2c, tfo=false, udp-relay=true
 🇺🇸 US | VMESS | @freev2rays #1 = vmess, xcf037.facai2024.com, 443, username=d9863037-0463-4615-e972-36ba9662d1e9, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/d9863037, sni=xcf037.facai2024.com, ws-headers=Host:xcf037.facai2024.com, skip-cert-verify=false, tfo=false, udp-relay=true
 🇺🇸 US | VMESS | @ir_netproxy #1 = vmess, 172.67.207.114, 443, username=03fcc618-b93d-6796-6aed-8a38c975d581, tls=true, vmess-aead=false, tls13=false, ws=true, ws-path=linkvws, sni=ophelia.mom, ws-headers=Host:ophelia.mom, skip-cert-verify=false, tfo=false, udp-relay=true
