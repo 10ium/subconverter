@@ -1,4 +1,13 @@
 proxies:
   - {name: "@FreakConfig", server: 158.51.121.63, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: seribus.org, network: ws, ws-path: linkvws, ws-headers: {Host: seribus.org}, tfo: false}
-  - {name: "[", server: 156.38.168.58, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
+  - {name: "@V2raysCollector 🪻", server: 185.47.255.22, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
+  - {name: United Arab Emirates, server: 103.57.251.240, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
+  - {name: "[", server: 188.214.157.58, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
+  - {name: "[ 2", server: 185.47.255.22, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
+  - {name: "[ 3", server: 185.237.185.89, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
+  - {name: "[ 4", server: 156.38.168.58, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
+  - {name: "[ 5", server: 103.75.119.38, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
+  - {name: "[🇨🇦]t.me/ConfigsHub", server: 158.51.121.63, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: seribus.org, network: ws, ws-path: linkvws, ws-headers: {Host: seribus.org}, tfo: false}
   - {name: telegram ➠ @v2rayNG_Matsuri, server: 37.235.56.69, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
+  - {name: 🇨🇦 t.me/v2Line | Free | 3191 | Canada, server: 158.51.121.63, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: seribus.org, network: ws, ws-path: linkvws, tfo: false}
+  - {name: 🇭🇷 t.me/OutlineVpnOfficial | Free | 3270 | Croatia, server: 169.150.242.77, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
