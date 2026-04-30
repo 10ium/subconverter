@@ -1,31 +1,26 @@
 proxies:
-  - {name: 12@oneclickvpnkeys, server: 152.233.28.198, port: 8443, type: vless, tls: true, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, servername: uk1.fromblancwithlove.com, host: uk1.fromblancwithlove.com, skip-cert-verify: false, tfo: false}
   - {name: 18@oneclickvpnkeys, server: de2.sanzone.ir, port: 4040, type: vless, tls: true, uuid: b738db04-c73c-4551-b6f2-9041e93914d4, host: soft98.ir, skip-cert-verify: false, tfo: false}
   - {name: 2@oneclickvpnkeys, server: 18.130.13.55, port: 4040, type: vless, tls: true, uuid: b738db04-c73c-4551-b6f2-9041e93914d4, host: soft98.ir, skip-cert-verify: false, tfo: false}
   - {name: 32@oneclickvpnkeys, server: 152.233.28.198, port: 8443, type: vless, tls: true, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, servername: uk1.fromblancwithlove.com, host: uk1.fromblancwithlove.com, skip-cert-verify: false, tfo: false}
-  - {name: 3@oneclickvpnkeys, server: 194.154.30.150, port: 443, type: vless, tls: true, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.latonyamadeline.ndjp.net, network: ws, ws-path: /, ws-headers: {Host: sni.latonyamadeline.ndjp.net}, skip-cert-verify: false, tfo: false}
-  - {name: 69@oneclickvpnkeys, server: 45.138.16.58, port: 30086, type: vless, tls: true, uuid: 595ae3f9-5a91-4eaa-82a3-28a221cf8f7f, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: gprc}, skip-cert-verify: false, tfo: false}
-  - {name: "@Hemesvpn💜کانفینگ بیشتر", server: 104.17.77.77, port: 8443, type: vmess, uuid: 60441548-b68e-43b2-8191-e3b884be4b3c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: v2ray1.dozapp.xyz, network: ws, ws-path: /lMnsZUN4/, tfo: false}
   - {name: "@V2raysCollector ☄", server: 193.47.60.186, port: 28687, type: ss, cipher: chacha20-ietf-poly1305, password: yKVMoB3AwiTEznpnoq2FYR, tfo: false}
   - {name: "@V2raysCollector 🌷", server: 144.126.145.77, port: 443, type: ss, cipher: aes-256-gcm, password: QzM0NfuMNngbVnZK, tfo: false}
-  - {name: "@V2raysCollector 🏵️", server: 82.38.31.208, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@V2raysCollector 👺-👳", server: 185.67.125.109, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: be4a6fd2209f62a7, tfo: false}
-  - {name: "@V2raysCollector 📡", server: 103.75.119.38, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
   - {name: "@V2raysCollector 🗿", server: 82.38.31.99, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
   - {name: "@V2raysCollector 😈", server: 193.29.139.173, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, tfo: false}
-  - {name: "@V2raysCollector 🤔", server: 163.172.214.188, port: 80, type: vless, tls: true, uuid: 40cc9b52-25b8-4cd5-8b45-715ae26e6baf, network: ws, ws-path: /vless/, skip-cert-verify: false, tfo: false}
-  - {name: "@VPNTwitt👈بیا-تو-چنل", server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: Telegram:@config_proxy 🔥, server: 104.17.77.77, port: 8443, type: vmess, uuid: 60441548-b68e-43b2-8191-e3b884be4b3c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: v2ray1.dozapp.xyz, network: ws, ws-path: /lMnsZUN4/, ws-headers: {Host: v2ray1.dozapp.xyz}, tfo: false}
   - {name: "[", server: 135.125.219.2, port: 42681, type: ss, cipher: chacha20-ietf-poly1305, password: 33e1f4f6e369d673, tfo: false}
-  - {name: "telegram: @tajrobe_wiki 🟢", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, tfo: false}
-  - {name: v2ray_dalghak, server: 45.138.16.58, port: 30086, type: vless, tls: true, uuid: 595ae3f9-5a91-4eaa-82a3-28a221cf8f7f, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: gprc}, skip-cert-verify: false, tfo: false}
-  - {name: v2ray_dalghak 2, server: 108.181.57.93, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: RSo52SbxW40r, tfo: false}
-  - {name: v2ray_dalghak 3, server: 152.233.28.198, port: 8443, type: vless, tls: true, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, servername: uk1.fromblancwithlove.com, alpn: [h2], host: uk1.fromblancwithlove.com, skip-cert-verify: false, tfo: false}
-  - {name: v2ray_dalghak 4, server: uk2.sanzone.ir, port: 4040, type: vless, tls: true, uuid: b738db04-c73c-4551-b6f2-9041e93914d4, host: soft98.ir, skip-cert-verify: false, tfo: false}
-  - {name: v2ray_dalghak 5, server: de2.sanzone.ir, port: 4040, type: vless, tls: true, uuid: b738db04-c73c-4551-b6f2-9041e93914d4, host: soft98.ir, skip-cert-verify: false, tfo: false}
-  - {name: v2ray_dalghak 6, server: 91.148.135.31, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
-  - {name: v2ray_dalghak 7, server: 141.101.115.71, port: 443, type: vless, tls: true, uuid: 4e125438-1a39-440e-95fc-36b9dec03e5f, servername: adderall.adaspoloandco.com, alpn: ["h2,http/1.1"], network: ws, ws-path: /faq, ws-headers: {Host: adderall.adaspoloandco.com}, skip-cert-verify: false, tfo: false}
-  - {name: v2raygulf, server: 141.101.115.71, port: 443, type: vless, tls: true, uuid: 4e125438-1a39-440e-95fc-36b9dec03e5f, servername: adderall.adaspoloandco.com, alpn: ["h2,http/1.1"], network: ws, ws-path: /faq, ws-headers: {Host: adderall.adaspoloandco.com}, skip-cert-verify: false, tfo: false}
+  - {name: "[ 2", server: 82.38.31.208, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "[ 3", server: 82.38.31.208, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "[ 4", server: 103.75.119.38, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
+  - {name: v2ray_dalghak, server: 206.189.9.97, port: 443, type: vless, tls: true, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: mug.support.gfw.hidns.co, network: ws, ws-path: /danfeng, ws-headers: {Host: mug.support.gfw.hidns.co}, skip-cert-verify: false, tfo: false}
+  - {name: v2ray_dalghak 2, server: 47.243.112.34, port: 443, type: vless, tls: true, uuid: 3e7f67de-648e-4871-b51a-a225214d41ee, servername: api.company-target.com, host: api.company-target.com, skip-cert-verify: false, tfo: false}
+  - {name: v2ray_dalghak 3, server: 79.117.121.85, port: 35766, type: vless, tls: true, uuid: ebf7d712-7690-4028-81f7-616c106cfd5f, servername: apple.com, host: apple.com, flow: xtls-rprx-vision, reality-opts: {public-key: JrsNPt4yDyRcLO2-eL0VkVlPBSM2Cp19iDl-A-enrS8, short-id: 738b3ed2}, client-fingerprint: random, skip-cert-verify: false, tfo: false}
+  - {name: v2ray_dalghak 4, server: 45.138.16.58, port: 30086, type: vless, tls: true, uuid: 595ae3f9-5a91-4eaa-82a3-28a221cf8f7f, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: gprc}, skip-cert-verify: false, tfo: false}
+  - {name: v2ray_dalghak 5, server: 108.181.57.93, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: RSo52SbxW40r, tfo: false}
+  - {name: v2ray_dalghak 6, server: 82.198.246.46, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, tfo: false}
+  - {name: v2ray_dalghak 7, server: uk1.fromblancwithlove.com, port: 8443, type: vless, tls: true, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, skip-cert-verify: false, tfo: false}
+  - {name: v2ray_dalghak 8, server: uk2.sanzone.ir, port: 4040, type: vless, tls: true, uuid: b738db04-c73c-4551-b6f2-9041e93914d4, host: soft98.ir, skip-cert-verify: false, tfo: false}
+  - {name: v2ray_dalghak 9, server: de2.sanzone.ir, port: 4040, type: vless, tls: true, uuid: b738db04-c73c-4551-b6f2-9041e93914d4, host: soft98.ir, skip-cert-verify: false, tfo: false}
+  - {name: v2ray_dalghak 10, server: 141.101.115.71, port: 443, type: vless, tls: true, uuid: 4e125438-1a39-440e-95fc-36b9dec03e5f, servername: adderall.adaspoloandco.com, alpn: ["h2,http/1.1"], network: ws, ws-path: /faq, ws-headers: {Host: adderall.adaspoloandco.com}, skip-cert-verify: false, tfo: false}
   - {name: ☮️1@oneclickvpnkeys, server: 3.125.212.24, port: 4040, type: vless, tls: true, uuid: b738db04-c73c-4551-b6f2-9041e93914d4, host: soft98.ir, skip-cert-verify: false, tfo: false}
   - {name: ☮️1@oneclickvpnkeys 2, server: 3.125.212.24, port: 4040, type: vless, tls: true, uuid: b738db04-c73c-4551-b6f2-9041e93914d4, host: soft98.ir, skip-cert-verify: false, tfo: false}
-  - {name: ♦26@oneclickvpnkeys, server: uk1.fromblancwithlove.com, port: 8443, type: vless, tls: true, uuid: 394f6981-a782-4779-9a85-e6cf22935d93, skip-cert-verify: false, tfo: false}
+  - {name: 🇪🇸 Spain, server: 37.143.130.203, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
+  - {name: 🇳🇴 Norway, server: 185.213.23.63, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
