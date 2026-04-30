@@ -1,46 +1,51 @@
 #!MANAGED-CONFIG http://127.0.0.1:25500/sub?add_emoji=true&append_info=true&append_type=false&classic=false&emoji=true&expand=true&fdn=true&insert=true&list=true&new_name=false&prepend=true&remove_emoji=false&script=false&scv=false&sort=true&target=surfboard&tfo=false&tls13=false&udp=true&url=https%3A%2F%2Fraw.githubusercontent.com%2F10ium%2FHiN-VPN%2Fmain%2Fsubscription%2Fbase64%2Fmix interval=86400 strict=false
 
-anty_filter 🔒 SS-TCP-TLS ❔ XX 233ms = ss, 20.87.107.99, 443, encrypt-method=chacha20-ietf-poly1305, password=akMKO9KXowxFcx5A, tfo=false, udp-relay=true
-anty_filter 🔓 TR-WS-N/A ❔ XX 2ms = trojan, 104.20.6.134, 443, password=humanity, sni=www.ignitelimit.com, skip-cert-verify=false, tfo=false, udp-relay=true
-anty_filter 🔓 TR-WS-N/A ❔ XX 3ms = trojan, 104.20.6.134, 443, password=humanity, sni=www.multiplydose.com, skip-cert-verify=false, tfo=false, udp-relay=true
-anty_filter 🔓 VM-TCP-N/A ❔ XX down = vmess, 217.218.52.1, 10841, username=79edf429-f5c0-4226-8235-18c470cedd29, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-anty_filter 🔓 VM-TCP-N/A ❔ XX down 2 = vmess, 217.218.52.1, 10841, username=79edf429-f5c0-4226-8235-18c470cedd29, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-ar14n24b 🔒 SS-TCP-TLS ❔ XX 108ms = ss, 82.38.31.101, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-ar14n24b 🔒 SS-TCP-TLS ❔ XX 108ms 2 = ss, 82.38.31.89, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-ar14n24b 🔒 SS-TCP-TLS ❔ XX 110ms = ss, 82.38.31.210, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-ar14n24b 🔒 SS-TCP-TLS ❔ XX 110ms 2 = ss, 82.38.31.62, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-ar14n24b 🔒 SS-TCP-TLS ❔ XX 111ms = ss, 82.38.31.35, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-ar14n24b 🔒 SS-TCP-TLS ❔ XX 114ms = ss, 82.38.31.61, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-ar14n24b 🔒 SS-TCP-TLS ❔ XX 52ms = ss, 23.177.40.226, 30011, encrypt-method=chacha20-ietf-poly1305, password=somebody, tfo=false, udp-relay=true
+anty_filter 🔒 SS-TCP-TLS 🇿🇦 ZA 279ms = ss, 20.87.107.99, 443, encrypt-method=chacha20-ietf-poly1305, password=akMKO9KXowxFcx5A, tfo=false, udp-relay=true
+anty_filter 🔒 VM-WS-TLS 🇮🇷 IR down = vmess, mig-sin.darkube.ir, 443, username=254721a9-5739-4baf-b35d-9bc950e346db, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/api/direct, sni=mig-sin.darkube.ir, skip-cert-verify=false, tfo=false, udp-relay=true
+anty_filter 🔓 VM-TCP-N/A 🇮🇷 IR down = vmess, 188.121.108.90, 46742, username=221ed633-838f-4110-bf41-86936c1bc8fc, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+ar14n24b 🔒 SS-TCP-TLS ❔ XX 156ms = ss, 82.38.31.35, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+ar14n24b 🔒 SS-TCP-TLS ❔ XX 156ms 2 = ss, 82.38.31.89, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+ar14n24b 🔒 SS-TCP-TLS ❔ XX 156ms 3 = ss, 82.38.31.210, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+ar14n24b 🔒 SS-TCP-TLS ❔ XX 156ms 4 = ss, 82.38.31.62, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+ar14n24b 🔒 SS-TCP-TLS ❔ XX 157ms = ss, 82.38.31.101, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+ar14n24b 🔒 SS-TCP-TLS ❔ XX 161ms = ss, 82.38.31.61, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+ar14n24b 🔒 SS-TCP-TLS ❔ XX 167ms = ss, 82.38.31.210, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+ar14n24b 🔒 SS-TCP-TLS ❔ XX 9ms = ss, 23.177.40.226, 30011, encrypt-method=chacha20-ietf-poly1305, password=somebody, tfo=false, udp-relay=true
+ar14n24b 🔒 SS-TCP-TLS ❔ XX 9ms 2 = ss, 23.177.40.226, 30011, encrypt-method=chacha20-ietf-poly1305, password=somebody, tfo=false, udp-relay=true
 ar14n24b 🔒 SS-TCP-TLS ❔ XX down = ss, 141.95.106.127, 11201, encrypt-method=chacha20-ietf-poly1305, password=94aae0510188e8c5, tfo=false, udp-relay=true
-ar14n24b 🔒 TR-TCP-N/A ❔ XX 114ms = trojan, 35.159.185.219, 22222, password=telegram-id-privatevpns, sni=trojan.burgerip.co.uk, skip-cert-verify=false, tfo=false, udp-relay=true
+ar14n24b 🔒 TR-TCP-N/A ❔ XX 162ms = trojan, 35.158.91.156, 22222, password=telegram-id-privatevpns, sni=trojan.burgerip.co.uk, skip-cert-verify=false, tfo=false, udp-relay=true
+ar14n24b 🔒 TR-TCP-N/A ❔ XX down = trojan, melllli.ioap-pajid.org, 443, password=37154ae9-0bf1-4d7f-9c6a-d0d7d12f9906, sni=melllli.ioap-pajid.org, skip-cert-verify=false, tfo=false, udp-relay=true
+ar14n24b 🔒 TR-WS-N/A ❔ XX 1ms = trojan, 172.64.152.23, 443, password=humanity, sni=www.calmlunch.com, skip-cert-verify=false, tfo=false, udp-relay=true
+ar14n24b 🔒 TR-WS-N/A ❔ XX 1ms 2 = trojan, 172.67.180.92, 443, password=humanity, sni=www.multiplydose.com, skip-cert-verify=false, tfo=false, udp-relay=true
 ar14n24b 🔒 TR-WS-N/A ❔ XX 2ms = trojan, 104.18.32.47, 443, password=humanity, sni=www.multiplydose.com, skip-cert-verify=false, tfo=false, udp-relay=true
-ar14n24b 🔒 TR-WS-N/A ❔ XX 2ms 2 = trojan, 172.64.152.23, 443, password=humanity, sni=www.calmlunch.com, skip-cert-verify=false, tfo=false, udp-relay=true
-ar14n24b 🔒 TR-WS-N/A ❔ XX 2ms 3 = trojan, 188.114.98.0, 443, password=humanity, sni=www.creationlong.org, skip-cert-verify=false, tfo=false, udp-relay=true
-ar14n24b 🔒 TR-WS-N/A ❔ XX 3ms = trojan, 172.67.180.92, 443, password=humanity, sni=www.multiplydose.com, skip-cert-verify=false, tfo=false, udp-relay=true
+ar14n24b 🔒 TR-WS-N/A ❔ XX 2ms 2 = trojan, 188.114.98.0, 443, password=humanity, sni=www.creationlong.org, skip-cert-verify=false, tfo=false, udp-relay=true
+ar14n24b 🔒 TR-WS-N/A ❔ XX 2ms 3 = trojan, 172.67.180.92, 443, password=humanity, sni=www.multiplydose.com, skip-cert-verify=false, tfo=false, udp-relay=true
 ar14n24b 🔒 VM-- ❔ XX down = vmess, , 0, username=00000000-0000-0000-0000-000000000000, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
 ar14n24b 🔒 VM-- ❔ XX down 2 = vmess, , 0, username=00000000-0000-0000-0000-000000000000, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
 ar14n24b 🔒 VM-- ❔ XX down 3 = vmess, , 0, username=00000000-0000-0000-0000-000000000000, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
 ar14n24b 🔒 VM-- ❔ XX down 4 = vmess, , 0, username=00000000-0000-0000-0000-000000000000, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
 ar14n24b 🔒 VM-- ❔ XX down 5 = vmess, , 0, username=00000000-0000-0000-0000-000000000000, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-ar14n24b 🔓 VM-TCP-N/A ❔ XX down = vmess, client.afracloud.top, 4260, username=d7fbfb13-7ed1-4533-aa3f-a34361f9177f, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-ar14n24b 🔓 VM-WS-N/A 🇮🇷 IR 324ms = vmess, cdn.ip-static.com, 80, username=120d4fe6-97aa-4b7a-a6d0-acee6c7d74fc, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=FRA004.midasnet.work, ws-headers=Host:FRA004.midasnet.work, skip-cert-verify=false, tfo=false, udp-relay=true
-ar14n24b 🔓 VM-WS-N/A 🇮🇷 IR 405ms = vmess, snapp.ir, 80, username=0d3654ca-256c-48f3-b835-5dce496e7d73, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=rxm.bravo-six.ir, ws-headers=Host:rxm.bravo-six.ir, skip-cert-verify=false, tfo=false, udp-relay=true
-conectvpn10 🔒 VM-TCP- 🇮🇷 IR down = vmess, 185.11.89.38, 12809, username=aeddbbbd-ad95-49e8-ee31-7cacc7ede117, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-conectvpn10 🔓 VM-TCP-N/A 🇮🇷 IR down = vmess, b51d64cb-c5d6-4791-8ecf-0a6d8d71c717.wtf, 20227, username=fbcddd21-fc3b-47ea-a21d-178e5e706c97, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-configfa 🔒 SS-TCP-TLS 🇿🇦 ZA 234ms = ss, 102.37.156.224, 443, encrypt-method=chacha20-ietf-poly1305, password=aduB9HGxQHjA2SBMRjkHX6, tfo=false, udp-relay=true
+ar14n24b 🔒 VM-- ❔ XX down 6 = vmess, , 0, username=00000000-0000-0000-0000-000000000000, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+ar14n24b 🔒 VM-- ❔ XX down 7 = vmess, , 0, username=00000000-0000-0000-0000-000000000000, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+ar14n24b 🔒 VM-WS- 🇮🇷 IR 151ms = vmess, snapp.ir, 8880, username=0f4e0282-8230-4624-88d9-f7a637a6ef40, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=dl600tobi.sudoserver.ir, ws-headers=Host:dl600tobi.sudoserver.ir, skip-cert-verify=false, tfo=false, udp-relay=true
+ar14n24b 🔒 VM-WS- 🇮🇷 IR 431ms = vmess, snapp.ir, 8880, username=35da6a50-2392-489c-b554-a3dba7c64146, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=dl600tobi.sudoserver.ir, ws-headers=Host:dl600tobi.sudoserver.ir, skip-cert-verify=false, tfo=false, udp-relay=true
+ar14n24b 🔒 VM-WS- 🇮🇷 IR down = vmess, snapp.ir, 8880, username=679eaa64-b59d-4c01-940a-78a3bc7b6964, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=dl600tobi.sudoserver.ir, ws-headers=Host:dl600tobi.sudoserver.ir, skip-cert-verify=false, tfo=false, udp-relay=true
+ar14n24b 🔒 VM-WS- 🇮🇷 IR down 2 = vmess, snapp.ir, 8880, username=ad09cb55-04cb-4b08-9915-50e37e8c9b5b, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=dl600tobi.sudoserver.ir, ws-headers=Host:dl600tobi.sudoserver.ir, skip-cert-verify=false, tfo=false, udp-relay=true
+ar14n24b 🔓 VM-WS-N/A 🇮🇷 IR 173ms = vmess, snapp.ir, 80, username=691e5b5c-b02f-4c1b-bf96-4240bf93b4f0, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=darxhinteam.bravo-six.ir, ws-headers=Host:darxhinteam.bravo-six.ir, skip-cert-verify=false, tfo=false, udp-relay=true
+ar14n24b 🔓 VM-WS-N/A 🇮🇷 IR down = vmess, snapp.ir, 80, username=c2723947-ed06-4560-abe7-4120dc188b55, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=darxhinteam.bravo-six.ir, ws-headers=Host:darxhinteam.bravo-six.ir, skip-cert-verify=false, tfo=false, udp-relay=true
+ar14n24b 🔓 VM-WS-N/A 🇮🇷 IR down 2 = vmess, snapp.ir, 80, username=07f522fc-325c-4f8e-a9ce-f55a7df67e60, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=ar1.techroads.ir, ws-headers=Host:ar1.techroads.ir, skip-cert-verify=false, tfo=false, udp-relay=true
+configfa 🔒 SS-TCP-TLS 🇿🇦 ZA 277ms = ss, 102.37.156.224, 443, encrypt-method=chacha20-ietf-poly1305, password=aduB9HGxQHjA2SBMRjkHX6, tfo=false, udp-relay=true
 configfa 🔒 SS-TCP-TLS 🇿🇦 ZA down = ss, 102.37.155.1, 443, encrypt-method=chacha20-ietf-poly1305, password=M4LmONApzUAE3D5z, tfo=false, udp-relay=true
 configfa 🔒 TR-WS-N/A ❔ XX down = trojan, [::ffff:5eb8:1f32], 443, password=W6u8Tsa7Wh2q8wXQVbxJucgf7FFw3o2, sni=%3Ca, skip-cert-verify=false, tfo=false, udp-relay=true
-soskeynet 🔒 VM-TCP- 🇮🇷 IR down = vmess, b51d64cb-c5d6-4791-8ecf-0a6d8d71c717.wtf, 20450, username=907fb3f7-c7bc-429d-9276-872be5367a58, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-soskeynet 🔓 VM-WS-N/A 🇮🇷 IR 400ms = vmess, www.arvancloud.ir, 8080, username=6d9c8084-1b78-41b9-baef-bd650acf5935, tls=false, vmess-aead=true, ws=true, ws-path=/aria, sni=vip6.ariatakpoyan.ir, ws-headers=Host:vip6.ariatakpoyan.ir, skip-cert-verify=false, tfo=false, udp-relay=true
+soskeynet 🔒 VM-WS- 🇮🇷 IR down = vmess, snapp.ir, 8880, username=35da6a50-2392-489c-b554-a3dba7c64146, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=dl600tobi.sudoserver.ir, ws-headers=Host:dl600tobi.sudoserver.ir, skip-cert-verify=false, tfo=false, udp-relay=true
+soskeynet 🔓 VM-TCP-N/A 🇮🇷 IR down = vmess, 185.11.89.38, 12809, username=aeddbbbd-ad95-49e8-ee31-7cacc7ede117, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
 spotify_porteghali 🔒 VM-WS-TLS 🇮🇷 IR down = vmess, mig-sin.darkube.ir, 443, username=254721a9-5739-4baf-b35d-9bc950e346db, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/api/direct, sni=mig-sin.darkube.ir, skip-cert-verify=false, tfo=false, udp-relay=true
 spotify_porteghali 🔓 VM-TCP-N/A 🇮🇷 IR down = vmess, dn.torontomovie.com, 8080, username=2206de3b-53ed-405a-893f-f9a83c96fe93, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
 surfboardv2ray 🔓 VM-TCP-N/A 🇮🇷 IR down = vmess, 185.11.89.38, 12809, username=aeddbbbd-ad95-49e8-ee31-7cacc7ede117, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-vpnbaz 🔒 SS-TCP-TLS 🇿🇦 ZA 233ms = ss, 20.87.107.99, 443, encrypt-method=chacha20-ietf-poly1305, password=akMKO9KXowxFcx5A, tfo=false, udp-relay=true
-vpnbaz 🔓 VM-TCP-N/A 🇮🇷 IR down = vmess, 217.218.52.1, 10841, username=79edf429-f5c0-4226-8235-18c470cedd29, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-vpnbaz 🔓 VM-TCP-N/A 🇮🇷 IR down 2 = vmess, 217.218.52.1, 10841, username=79edf429-f5c0-4226-8235-18c470cedd29, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-vpnserverrr 🔓 VM-TCP-N/A ❔ XX down = vmess, 185.236.38.44, 19946, username=c9e42537-8652-4a4c-85d3-0d36abf38f88, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 freeconfigsplus 🔒 TR-WS-N/A 🇺🇸 US 3ms = trojan, 172.64.149.54, 2096, password=8r%3C%5B9%27l6hAO%238ZQi, sni=Koma-YT.PAGeS.Dev, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 freeconfigsplus 🔒 TR-WS-N/A 🇺🇸 US 5ms = trojan, 104.16.80.73, 8443, password=m4P3RHFI7K, sni=f3.zero-trust.click, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 vpnbaz 🔓 TR-WS-N/A 🇺🇸 US 2ms = trojan, 104.20.6.134, 443, password=humanity, sni=www.multiplydose.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 vpnbaz 🔓 TR-WS-N/A 🇺🇸 US 2ms 2 = trojan, 104.20.6.134, 443, password=humanity, sni=www.ignitelimit.com, skip-cert-verify=false, tfo=false, udp-relay=true
+v2ray_vpn_ir 🔓 VM-TCP-N/A 🇮🇷 IR down = vmess, 185.11.89.38, 12809, username=aeddbbbd-ad95-49e8-ee31-7cacc7ede117, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+vpnbaz 🔒 SS-TCP-TLS 🇿🇦 ZA 278ms = ss, 20.87.107.99, 443, encrypt-method=chacha20-ietf-poly1305, password=akMKO9KXowxFcx5A, tfo=false, udp-relay=true
+vpnbaz 🔒 VM-WS-TLS 🇮🇷 IR down = vmess, mig-sin.darkube.ir, 443, username=254721a9-5739-4baf-b35d-9bc950e346db, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/api/direct, sni=mig-sin.darkube.ir, skip-cert-verify=false, tfo=false, udp-relay=true
+vpnbaz 🔓 VM-TCP-N/A 🇮🇷 IR down = vmess, 188.121.108.90, 46742, username=221ed633-838f-4110-bf41-86936c1bc8fc, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+vpnserverrr 🔓 VM-WS-N/A 🇮🇷 IR 5187ms = vmess, cdn.ip-static.com, 80, username=d749e814-c75b-416e-8aed-f744903d0eec, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=POL001.midasnet.work, ws-headers=Host:POL001.midasnet.work, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 freeconfigsplus 🔒 TR-WS-N/A 🇺🇸 US 2ms = trojan, 172.64.149.54, 2096, password=8r%3C%5B9%27l6hAO%238ZQi, sni=Koma-YT.PAGeS.Dev, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 freeconfigsplus 🔒 TR-WS-N/A 🇺🇸 US 2ms 2 = trojan, 104.16.80.73, 8443, password=m4P3RHFI7K, sni=f3.zero-trust.click, skip-cert-verify=false, tfo=false, udp-relay=true
