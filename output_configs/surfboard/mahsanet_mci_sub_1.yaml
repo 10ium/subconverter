@@ -1,19 +1,13 @@
 #!MANAGED-CONFIG http://127.0.0.1:25500/sub?add_emoji=true&append_info=true&append_type=false&classic=false&emoji=true&expand=true&fdn=true&insert=true&list=true&new_name=false&prepend=true&remove_emoji=false&script=false&scv=false&sort=true&target=surfboard&tfo=false&tls13=false&udp=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fmahsanet%2FMahsaFreeConfig%2Frefs%2Fheads%2Fmain%2Fmci%2Fsub_1.txt interval=86400 strict=false
 
-@V2raysCollector 🌷 = ss, 144.126.145.77, 443, encrypt-method=aes-256-gcm, password=QzM0NfuMNngbVnZK, tfo=false, udp-relay=true
-@V2raysCollector 🏵️ = ss, 82.38.31.208, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-@V2raysCollector 👳-🫏 = ss, 45.15.185.70, 990, encrypt-method=chacha20-ietf-poly1305, password=ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo=false, udp-relay=true
-@V2raysCollector 👺-👳 = ss, 185.67.125.109, 11201, encrypt-method=chacha20-ietf-poly1305, password=be4a6fd2209f62a7, tfo=false, udp-relay=true
-@V2raysCollector 🗿 = ss, 82.38.31.99, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-@V2raysCollector 🦴 = ss, 46.183.185.37, 990, encrypt-method=chacha20-ietf-poly1305, password=ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo=false, udp-relay=true
-@V2raysCollector 🩷 = ss, 144.126.145.77, 80, encrypt-method=aes-256-gcm, password=QzM0NfuMNngbVnZK, tfo=false, udp-relay=true
-United Arab Emirates = ss, 103.57.251.240, 990, encrypt-method=chacha20-ietf-poly1305, password=ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo=false, udp-relay=true
-[ = ss, 37.235.56.69, 990, encrypt-method=chacha20-ietf-poly1305, password=ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo=false, udp-relay=true
-[ 2 = ss, 82.38.31.208, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-[ 3 = ss, 82.38.31.208, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-[ 4 = ss, 185.93.173.60, 990, encrypt-method=chacha20-ietf-poly1305, password=ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo=false, udp-relay=true
-t.me/OutlineVpnOfficial = ss, 103.75.119.38, 990, encrypt-method=chacha20-ietf-poly1305, password=ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo=false, udp-relay=true
-t.me/OutlineVpnOfficial | Free | 3248 | United Arab Emirates = ss, 103.57.251.240, 990, encrypt-method=chacha20-ietf-poly1305, password=ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo=false, udp-relay=true
-telegram ➠ @v2rayNG_Matsuri = ss, 103.57.251.240, 990, encrypt-method=chacha20-ietf-poly1305, password=ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo=false, udp-relay=true
-v2ray_dalghak = vmess, 82.198.246.46, 180, username=d13fc2f5-3e05-4795-81eb-44143a09e552, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-🇨🇾 Cyprus = ss, 91.148.135.31, 990, encrypt-method=chacha20-ietf-poly1305, password=ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo=false, udp-relay=true
+(S103) = trojan, 13.36.135.179, 22222, password=telegram-id-privatevpns, sni=trojan.burgerip.co.uk, skip-cert-verify=false, tfo=false, udp-relay=true
+@Hemesvpn💜کانفینگ بیشتر = vmess, 104.17.77.77, 8443, username=60441548-b68e-43b2-8191-e3b884be4b3c, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/lMnsZUN4/, sni=104.17.77.77, skip-cert-verify=false, tfo=false, udp-relay=true
+v2ray_dalghak = ss, 71.19.148.74, 443, encrypt-method=chacha20-ietf-poly1305, password=XUMTygEM1jVYIvysXKqA5T, tfo=false, udp-relay=true
+v2ray_dalghak 2 = ss, 36.230.5.241, 50099, encrypt-method=chacha20-ietf-poly1305, password=7e731ec3-f8e1-43f6-92cf-3978d14705c4, tfo=false, udp-relay=true
+v2ray_dalghak 3 = ss, r3mrcg007117fb8.cybervena.com, 50099, encrypt-method=chacha20-ietf-poly1305, password=7e731ec3-f8e1-43f6-92cf-3978d14705c4, tfo=false, udp-relay=true
+v2ray_dalghak 4 = ss, 20.87.107.99, 443, encrypt-method=chacha20-ietf-poly1305, password=VKcGHydApr9F7Gux, tfo=false, udp-relay=true
+v2ray_dalghak 5 = ss, 20.87.107.99, 443, encrypt-method=chacha20-ietf-poly1305, password=VKcGHydApr9F7Gux, tfo=false, udp-relay=true
+v2ray_dalghak 6 = vmess, 82.198.246.46, 180, username=d13fc2f5-3e05-4795-81eb-44143a09e552, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+v2ray_dalghak 7 = ss, 171.22.254.129, 990, encrypt-method=chacha20-ietf-poly1305, password=ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo=false, udp-relay=true
+v2ray_dalghak 8 = ss, 91.148.135.31, 990, encrypt-method=chacha20-ietf-poly1305, password=ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo=false, udp-relay=true
+v2ray_dalghak 9 = ss, 37.143.130.203, 990, encrypt-method=chacha20-ietf-poly1305, password=ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo=false, udp-relay=true
