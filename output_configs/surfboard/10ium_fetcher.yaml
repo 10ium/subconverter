@@ -1,21 +1,10 @@
 #!MANAGED-CONFIG http://127.0.0.1:25500/sub?add_emoji=true&append_info=true&append_type=false&classic=false&emoji=true&expand=true&fdn=true&insert=true&list=true&new_name=false&prepend=true&remove_emoji=false&script=false&scv=false&sort=true&target=surfboard&tfo=false&tls13=false&udp=true&url=https%3A%2F%2Fraw.githubusercontent.com%2F10ium%2Fbase64-encoder%2Fmain%2Fencoded%2F10ium_proxy_configs.txt interval=86400 strict=false
 
- = vmess, 35.212.177.67, 40029, username=e8ab37c7-2b1d-4776-c062-2cac8fc066e1, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
- 2 = vmess, 35.212.177.67, 40029, username=e8ab37c7-2b1d-4776-c062-2cac8fc066e1, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
- 3 = vmess, 67.220.72.237, 22324, username=04621bae-ab36-11ec-b909-0242ac120002, tls=false, vmess-aead=false, skip-cert-verify=false, tfo=false, udp-relay=true
-  = trojan, 172.67.180.92, 443, password=humanity, sni=www.multiplydose.com, skip-cert-verify=false, tfo=false, udp-relay=true
-  2 = ss, 82.38.31.101, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-  3 = ss, 82.38.31.89, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-19814 | ⚡️Telegram - t.me/SOSkeyNET = ss, 92.114.24.178, 443, encrypt-method=2022-blake3-aes-256-gcm, password=wZ4yIvhSBwupwPczd15rFkd+E/RicaC8A0ChlEaclno=:J/tHIJYJuq2Pgs9TPIaw3eUNRXwYQXnr7io7FaXlVuw=, tfo=false, udp-relay=true
-@V2rayHapp = vmess, 185.236.38.44, 19946, username=c9e42537-8652-4a4c-85d3-0d36abf38f88, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
 @meliproxyy = trojan, 104.20.6.134, 443, password=humanity, sni=www.multiplydose.com, skip-cert-verify=false, tfo=false, udp-relay=true
-آمریکابرای کپی کردن روی لینک کلیک کنید، = trojan, 104.18.32.47, 443, password=humanity, sni=www.multiplydose.com, skip-cert-verify=false, tfo=false, udp-relay=true
-آمریکابرای کپی کردن روی لینک کلیک کنید، 2 = trojan, 172.64.152.23, 443, password=humanity, sni=www.calmlunch.com, skip-cert-verify=false, tfo=false, udp-relay=true
-آمریکابرای کپی کردن روی لینک کلیک کنید، 3 = trojan, 172.67.180.92, 443, password=humanity, sni=www.multiplydose.com, skip-cert-verify=false, tfo=false, udp-relay=true
-آمریکابرای کپی کردن روی لینک کلیک کنید، 4 = trojan, 188.114.98.0, 443, password=humanity, sni=www.creationlong.org, skip-cert-verify=false, tfo=false, udp-relay=true
-کانادابرای کپی کردن روی لینک کلیک کنید، = trojan, 104.18.32.47, 443, password=humanity, sni=www.multiplydose.com, skip-cert-verify=false, tfo=false, udp-relay=true
-کانادابرای کپی کردن روی لینک کلیک کنید، 2 = trojan, 172.64.152.23, 443, password=humanity, sni=www.calmlunch.com, skip-cert-verify=false, tfo=false, udp-relay=true
-کانادابرای کپی کردن روی لینک کلیک کنید، 3 = trojan, 172.67.180.92, 443, password=humanity, sni=www.multiplydose.com, skip-cert-verify=false, tfo=false, udp-relay=true
-کانادابرای کپی کردن روی لینک کلیک کنید، 4 = trojan, 188.114.98.0, 443, password=humanity, sni=www.creationlong.org, skip-cert-verify=false, tfo=false, udp-relay=true
-✅@AR14N24b = trojan, 18.196.242.104, 22222, password=telegram-id-privatevpns, sni=trojan.burgerip.co.uk, skip-cert-verify=false, tfo=false, udp-relay=true
-✅@AR14N24b 2 = trojan, 35.180.146.148, 22222, password=telegram-id-privatevpns, sni=trojan.burgerip.co.uk, skip-cert-verify=false, tfo=false, udp-relay=true
+Join+Telegram:@Farah_VPN 🇨🇳 = vmess, 47.244.120.197, 44867, username=845e6b08-2919-4290-ade0-5dc7dcea59ca, tls=false, vmess-aead=true, ws=true, ws-path=/arki?ed=2048, sni=47.244.120.197, skip-cert-verify=false, tfo=false, udp-relay=true
+✅@AR14N24b = trojan, 104.19.229.21, 443, password=humanity, sni=www.creationlong.org, skip-cert-verify=false, tfo=false, udp-relay=true
+✅@AR14N24b 2 = trojan, 15.236.94.52, 22222, password=telegram-id-privatevpns, sni=trojan.burgerip.co.uk, skip-cert-verify=false, tfo=false, udp-relay=true
+✅@AR14N24b 3 = trojan, 52.47.190.65, 22222, password=telegram-id-privatevpns, sni=trojan.burgerip.co.uk, skip-cert-verify=false, tfo=false, udp-relay=true
+✅@AR14N24b 4 = trojan, 52.57.232.245, 22222, password=telegram-id-privatevpns, sni=trojan.burgerip.co.uk, skip-cert-verify=false, tfo=false, udp-relay=true
+✅@AR14N24b 5 = trojan, tr-1.stunnel.cc, 8441, password=tunnel-jdybi, sni=creativecommons.org, skip-cert-verify=false, tfo=false, udp-relay=true
+✨ @RegaPlus = vmess, b51d64cb-c5d6-4791-8ecf-0a6d8d71c717.wtf, 8090, username=6434d692-78e6-4bbf-b1ca-b5c1dbb9226e, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
