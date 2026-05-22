@@ -1,6 +1,9 @@
 #!MANAGED-CONFIG http://127.0.0.1:25500/sub?add_emoji=true&append_info=true&append_type=false&classic=false&emoji=true&expand=true&fdn=true&insert=true&list=true&new_name=false&prepend=true&remove_emoji=false&script=false&scv=false&sort=true&target=surfboard&tfo=false&tls13=false&udp=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fmahsanet%2FMahsaFreeConfig%2Frefs%2Fheads%2Fmain%2Fmtn%2Fsub_1.txt interval=86400 strict=false
 
-proxymelimon = trojan, 8.6.112.0, 443, password=humanity, sni=www.ignitelimit.com, skip-cert-verify=false, tfo=false, udp-relay=true
-v2ray_dalghak = ss, 195.133.2.2, 34898, encrypt-method=chacha20-ietf-poly1305, password=RbIsi7QmpwbYYG9CbN40BS, tfo=false, udp-relay=true
-v2ray_dalghak 2 = trojan, 104.20.6.134, 443, password=humanity, sni=www.ignitelimit.com, skip-cert-verify=false, tfo=false, udp-relay=true
+37@oneclickvpnkeys = ss, 195.133.2.2, 34898, encrypt-method=chacha20-ietf-poly1305, password=RbIsi7QmpwbYYG9CbN40BS, tfo=false, udp-relay=true
+74@oneclickvpnkeys = trojan, 185.18.250.252, 443, password=humanity, sni=www.calmlunch.com, skip-cert-verify=false, tfo=false, udp-relay=true
+@VIPV2rayNGNP = ss, 20.87.107.99, 443, encrypt-method=chacha20-ietf-poly1305, password=akMKO9KXowxFcx5A, tfo=false, udp-relay=true
+@v2rayconfigamir 1517 = vmess, 45.92.70.236, 22324, username=04621bae-ab36-11ec-b909-0242ac120002, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+v2ray_dalghak = ss, 195.93.253.245, 49137, encrypt-method=chacha20-ietf-poly1305, password=FDeCHSu4lt8qflCS5zDOy8, tfo=false, udp-relay=true
+v2ray_dalghak 2 = trojan, 104.20.6.134, 443, password=humanity, sni=www.multiplydose.com, skip-cert-verify=false, tfo=false, udp-relay=true
 v2ray_dalghak 3 = ss, 195.93.253.245, 49137, encrypt-method=chacha20-ietf-poly1305, password=gwX0aD7rr0yPP18A0T6a5T, tfo=false, udp-relay=true

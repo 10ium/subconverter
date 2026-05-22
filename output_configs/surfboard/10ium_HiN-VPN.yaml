@@ -2,28 +2,20 @@
 
 anty_filter 🔒 TR-WS-N/A 🇮🇷 IR down = trojan, 85.198.11.172, 40443, password=humanity, sni=www.ignitelimit.com, skip-cert-verify=false, tfo=false, udp-relay=true
 anty_filter 🔒 TR-WS-N/A 🇮🇷 IR down 2 = trojan, 2.144.22.10, 40443, password=humanity, sni=www.creationlong.org, skip-cert-verify=false, tfo=false, udp-relay=true
-anty_filter 🔓 VM-TCP-N/A 🇮🇷 IR down = vmess, client.hostkhalij.top, 4361, username=838a1016-f708-40e2-b27c-136fdd1f929f, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-ar14n24b 🔒 SS-TCP-TLS 🇮🇷 IR down = ss, 185.220.224.81, 2052, encrypt-method=chacha20-ietf-poly1305, password=3V9x2EW2VCkM5F9cBOLPxbNmkWX+KxDh4sDf6Fnu0/w=, tfo=false, udp-relay=true
-ar14n24b 🔒 TR-WS-N/A 🇮🇷 IR down = trojan, 2.144.2.18, 40443, password=humanity, sni=www.ignitelimit.com, skip-cert-verify=false, tfo=false, udp-relay=true
-ar14n24b 🔒 TR-WS-N/A 🇮🇷 IR down 2 = trojan, 2.144.2.247, 40443, password=humanity, sni=www.ignitelimit.com, skip-cert-verify=false, tfo=false, udp-relay=true
+ar14n24b 🔒 TR-WS-N/A 🇮🇷 IR down = trojan, 94.183.173.165, 443, password=733a3ab1-5ad0-4f09-96ea-071c1f2b9176, sni=morning-glitter-3e3b.gooorb-d.workers.dev, skip-cert-verify=false, tfo=false, udp-relay=true
 ar14n24b 🔒 VM-- ❔ XX down = vmess, , 0, username=00000000-0000-0000-0000-000000000000, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
 ar14n24b 🔒 VM-- ❔ XX down 2 = vmess, , 0, username=00000000-0000-0000-0000-000000000000, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
 ar14n24b 🔒 VM-- ❔ XX down 3 = vmess, , 0, username=00000000-0000-0000-0000-000000000000, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-ar14n24b 🔓 TR-TCP-N/A 🇮🇷 IR down = trojan, 45.82.137.236, 45664, password=V2zbbYiMTe, skip-cert-verify=false, tfo=false, udp-relay=true
-ar14n24b 🔓 TR-WS-N/A 🇮🇷 IR 444ms = trojan, snappfood.ir, 80, password=2Bb8zvNNJd, skip-cert-verify=false, tfo=false, udp-relay=true
-ar14n24b 🔓 VM-TCP-N/A 🇮🇷 IR down = vmess, b51d64cb-c5d6-4791-8ecf-0a6d8d71c717.wtf, 22301, username=c0d7c2ee-87ed-499e-a0cc-eaff16f563bb, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-configfa 🔒 SS-TCP-TLS 🇿🇦 ZA 252ms = ss, 102.37.156.224, 443, encrypt-method=chacha20-ietf-poly1305, password=aduB9HGxQHjA2SBMRjkHX6, tfo=false, udp-relay=true
+ar14n24b 🔒 VM-- ❔ XX down 4 = vmess, , 0, username=00000000-0000-0000-0000-000000000000, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+ar14n24b 🔒 VM-- ❔ XX down 5 = vmess, , 0, username=00000000-0000-0000-0000-000000000000, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+ar14n24b 🔓 VM-TCP-N/A 🇮🇷 IR down = vmess, b51d64cb-c5d6-4791-8ecf-0a6d8d71c717.wtf, 22408, username=cc8beb1e-94ed-42e4-9985-45c80d2c59a9, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+configfa 🔒 SS-TCP-TLS 🇿🇦 ZA 243ms = ss, 102.37.156.224, 443, encrypt-method=chacha20-ietf-poly1305, password=aduB9HGxQHjA2SBMRjkHX6, tfo=false, udp-relay=true
 configfa 🔒 SS-TCP-TLS 🇿🇦 ZA down = ss, 102.37.155.1, 443, encrypt-method=chacha20-ietf-poly1305, password=M4LmONApzUAE3D5z, tfo=false, udp-relay=true
 configfa 🔒 TR-WS-N/A ❔ XX down = trojan, [::ffff:5eb8:1f32], 443, password=W6u8Tsa7Wh2q8wXQVbxJucgf7FFw3o2, sni=%3Ca, skip-cert-verify=false, tfo=false, udp-relay=true
-configx2ray 🔒 TR-WS-N/A 🇮🇷 IR down = trojan, 85.198.11.172, 40443, password=humanity, sni=www.ignitelimit.com, skip-cert-verify=false, tfo=false, udp-relay=true
-soskeynet 🔒 SS-TCP-TLS 🇮🇷 IR down = ss, 185.220.224.81, 2052, encrypt-method=chacha20-ietf-poly1305, password=3V9x2EW2VCkM5F9cBOLPxbNmkWX+KxDh4sDf6Fnu0/w=, tfo=false, udp-relay=true
+soskeynet 🔓 VM-TCP-N/A 🇮🇷 IR down = vmess, b51d64cb-c5d6-4791-8ecf-0a6d8d71c717.wtf, 22408, username=cc8beb1e-94ed-42e4-9985-45c80d2c59a9, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+surfboardv2ray 🔓 VM-TCP-N/A 🇮🇷 IR down = vmess, 185.236.38.44, 19946, username=c9e42537-8652-4a4c-85d3-0d36abf38f88, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
 vpnbaz 🔒 TR-WS-N/A 🇮🇷 IR down = trojan, 85.198.11.172, 40443, password=humanity, sni=www.ignitelimit.com, skip-cert-verify=false, tfo=false, udp-relay=true
 vpnbaz 🔒 TR-WS-N/A 🇮🇷 IR down 2 = trojan, 2.144.22.10, 40443, password=humanity, sni=www.creationlong.org, skip-cert-verify=false, tfo=false, udp-relay=true
-vpnbaz 🔓 VM-TCP-N/A 🇮🇷 IR down = vmess, client.hostkhalij.top, 4361, username=838a1016-f708-40e2-b27c-136fdd1f929f, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-vpnserverrr 🔒 TR-WS-N/A 🇮🇷 IR down = trojan, 2.144.22.10, 40443, password=humanity, sni=www.creationlong.org, skip-cert-verify=false, tfo=false, udp-relay=true
-vpnserverrr 🔒 TR-WS-N/A 🇮🇷 IR down 2 = trojan, 85.198.11.172, 40443, password=humanity, sni=www.ignitelimit.com, skip-cert-verify=false, tfo=false, udp-relay=true
-vpnserverrr 🔓 VM-TCP-N/A 🇮🇷 IR down = vmess, b51d64cb-c5d6-4791-8ecf-0a6d8d71c717.wtf, 22156, username=e0d72f4b-f759-4bed-addf-3a34a36ba983, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
-🇫🇷 ar14n24b 🔒 TR-TCP-N/A 🇫🇷 FR 113ms = trojan, 13.38.175.41, 22222, password=telegram-id-privatevpns, sni=trojan.burgerip.co.uk, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 anty_filter 🔒 TR-WS-N/A 🇺🇸 US 14ms = trojan, 104.19.229.21, 443, password=humanity, sni=www.creationlong.org, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 vpnbaz 🔒 TR-WS-N/A 🇺🇸 US 15ms = trojan, 104.19.229.21, 443, password=humanity, sni=www.creationlong.org, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 vpnserverrr 🔒 TR-WS-N/A 🇺🇸 US 13ms = trojan, 104.19.229.21, 443, password=humanity, sni=www.multiplydose.com, skip-cert-verify=false, tfo=false, udp-relay=true
+vpnserverrr 🔓 VM-TCP-N/A 🇮🇷 IR down = vmess, 185.236.38.44, 19946, username=c9e42537-8652-4a4c-85d3-0d36abf38f88, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
+🇩🇪 ar14n24b 🔒 TR-TCP-N/A 🇩🇪 DE 119ms = trojan, 63.183.106.71, 22222, password=telegram-id-privatevpns, sni=trojan.burgerip.co.uk, skip-cert-verify=false, tfo=false, udp-relay=true
+🇫🇷 ar14n24b 🔒 TR-TCP-N/A 🇫🇷 FR 119ms = trojan, 13.38.186.226, 22222, password=telegram-id-privatevpns, sni=trojan.burgerip.co.uk, skip-cert-verify=false, tfo=false, udp-relay=true
