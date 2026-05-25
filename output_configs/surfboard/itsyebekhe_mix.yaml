@@ -4,7 +4,6 @@ AE | SS | @manstervpn #1 = ss, 3.29.198.112, 443, encrypt-method=chacha20-ietf-p
 AT | TROJAN | @mpproxy #1 = trojan, 152.53.45.251, 8888, password=trojan, skip-cert-verify=false, tfo=false, udp-relay=true
 BY | VMESS | @ir_netproxy #1 = vmess, 5.161.156.196, 443, username=d20e38ef-1a4d-4009-a00d-2f0d44e3c65a, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
 CO | SS | @netfreedom0 #1 = ss, 154.223.16.212, 989, encrypt-method=aes-256-cfb, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
-CO | SS | @vpn_ioss #1 = ss, 154.223.16.41, 4444, encrypt-method=aes-256-gcm, password=pKEW8JPByTVTLtM, tfo=false, udp-relay=true
 CY | SS | @NamiraConfigs #1 = ss, 134.255.210.49, 990, encrypt-method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, tfo=false, udp-relay=true
 CZ | VMESS | @freev2rays #1 = vmess, time.is, 443, username=b526926d-1474-4f41-985e-8b877cb840cd, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=shs111.kejixiaoqi666.store, ws-headers=Host:shs111.kejixiaoqi666.store, skip-cert-verify=false, tfo=false, udp-relay=true
 IR | VMESS | @khoneproxy #1 = vmess, 78.47.131.39, 8443, username=4d598e48-234f-4c60-fdd3-fa90e084770d, tls=false, vmess-aead=true, skip-cert-verify=false, tfo=false, udp-relay=true
@@ -15,9 +14,11 @@ XX | TROJAN | @outline_ir #1 = trojan, irancell.buzzmuzzpanel.online, 443, passw
 XX | TROJAN | @red2ray #1 = trojan, 172.64.149.54, 2096, password=8r%3C%5B9%27l6hAO%238ZQi, skip-cert-verify=false, tfo=false, udp-relay=true
 XX | TROJAN | @teamvpnpro #1 = trojan, chatbuzzteambhm.chatbuzzt7150.workers.dev, 443, password=22f86840-bcac-11ee-abea-1239d0255272, skip-cert-verify=false, tfo=false, udp-relay=true
 XX | TROJAN | @teamvpnpro #2 = trojan, chatbuzzteambhm.chatbuzzt7150.workers.dev, 443, password=c7f9b8f0-bfdb-11ee-a15c-1239d0255272, skip-cert-verify=false, tfo=false, udp-relay=true
+XX | TROJAN | @v2ray_free_conf #1 = trojan, 104.20.42.250, 443, password=humanity, skip-cert-verify=false, tfo=false, udp-relay=true
 XX | TROJAN | @vmesc #1 = trojan, 172.64.152.23, 443, password=humanity, skip-cert-verify=false, tfo=false, udp-relay=true
 XX | TROJAN | @vpn_ioss #1 = trojan, 172.64.152.23, 443, password=humanity, skip-cert-verify=false, tfo=false, udp-relay=true
 XX | TROJAN | @vpn_ioss #2 = trojan, 188.114.98.0, 443, password=humanity, skip-cert-verify=false, tfo=false, udp-relay=true
+XX | TROJAN | @vpn_ioss #3 = trojan, 172.67.180.92, 443, password=humanity, skip-cert-verify=false, tfo=false, udp-relay=true
 XX | TROJAN | @vpnv2raytop #1 = trojan, persiancdn.top, 443, password=51410d3cb2931a01b366bb5c868264bf, skip-cert-verify=false, tfo=false, udp-relay=true
 XX | VMESS | @ir_netproxy #1 = vmess, 172.67.207.114, 443, username=03fcc618-b93d-6796-6aed-8a38c975d581, tls=true, vmess-aead=false, tls13=false, ws=true, ws-path=linkvws, sni=ophelia.mom, ws-headers=Host:ophelia.mom, skip-cert-verify=false, tfo=false, udp-relay=true
 XX | VMESS | @iranvpnet #1 = vmess, mute-math-d64e.0e503992ad7026.WOrKERs.deV, 443, username=03fcc618-b93d-6796-6aed-8a38c975d581, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/aveiror.com:443/linkvws, sni=mute-math-d64e.0e503992ad7026.woRKERS.DeV, ws-headers=Host:mute-math-d64e.0e503992ad7026.woRKERS.DeV, skip-cert-verify=false, tfo=false, udp-relay=true
