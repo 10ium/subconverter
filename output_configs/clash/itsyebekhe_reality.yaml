@@ -3,5 +3,4 @@ proxies:
   - {name: "SE | VLESS | @v2raych #1", server: se01.goodmaximum.com, port: 443, type: vless, tls: true, uuid: 7d1591c2-c313-0029-a56a-cfff98808bdc, skip-cert-verify: false, tfo: false}
   - {name: جاویدشاه, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
   - {name: همکاری_ملی, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
-  - {name: "🇳🇱 NL | VLESS | @freeconfigsplus #1", server: 88.218.120.60, port: 4443, type: vless, tls: true, uuid: 41b903e0-7d0a-45d0-9b29-83086024a88b, skip-cert-verify: false, tfo: false}
   - {name: "🇳🇱 NL | VLESS | @qeshmserver #1", server: 95.179.138.190, port: 443, type: vless, tls: true, uuid: telegram-id-qeshmserver, skip-cert-verify: false, tfo: false}
