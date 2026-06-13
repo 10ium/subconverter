@@ -1,170 +1,53 @@
 proxies:
-  - {name: 交个朋友VPN，永久免费, server: hk02.jgpy.help, port: 20001, type: anytls, password: d44724a9-0c88-4437-9f88-e1f86aa32e25, skip-cert-verify: false, tfo: false}
-  - {name: 交个朋友VPN，永久免费 2, server: hk02.jgpy.help, port: 20001, type: anytls, password: 93bbcae2-2ce8-4231-af2a-17628dcd36a7, skip-cert-verify: false, tfo: false}
-  - {name: 交个朋友VPN，永久免费 3, server: hk02.jgpy.help, port: 20001, type: anytls, password: 0de39650-f988-4370-8837-99ffd7bff680, skip-cert-verify: false, tfo: false}
-  - {name: 交个朋友VPN，永久免费 4, server: hk02.jgpy.help, port: 20001, type: anytls, password: 9f4ba886-5772-4b99-bf2b-2e2e489ba77a, skip-cert-verify: false, tfo: false}
-  - {name: 交个朋友VPN，永久免费 5, server: hk02.jgpy.help, port: 20001, type: anytls, password: 45a90d32-08bd-4dea-8345-f1f541cc7f90, skip-cert-verify: false, tfo: false}
-  - {name: 交个朋友VPN，永久免费 6, server: hk02.jgpy.help, port: 20001, type: anytls, password: 573402b7-156e-4141-8c3b-f01b6ebedf05, skip-cert-verify: false, tfo: false}
-  - {name: 交个朋友VPN，永久免费 7, server: hk02.jgpy.help, port: 20001, type: anytls, password: 18f0da43-6555-4732-8565-5869076befca, skip-cert-verify: false, tfo: false}
-  - {name: 交个朋友VPN，永久免费 8, server: hk02.jgpy.help, port: 20001, type: anytls, password: 96204982-00a2-4e96-9981-11e73dfcee79, skip-cert-verify: false, tfo: false}
-  - {name: 交个朋友VPN，永久免费 9, server: hk02.jgpy.help, port: 20001, type: anytls, password: 379d00e1-26e9-4a3a-8417-8d326b90e683, skip-cert-verify: false, tfo: false}
-  - {name: 交个朋友VPN，永久免费 10, server: hk02.jgpy.help, port: 20001, type: anytls, password: a4521dcc-01fc-4d5d-bd23-1543c6f8c571, skip-cert-verify: false, tfo: false}
-  - {name: 交个朋友VPN，永久免费 11, server: hk02.jgpy.help, port: 20001, type: anytls, password: 0fa44720-7739-4c32-b8d6-8582c19b15c6, skip-cert-verify: false, tfo: false}
-  - {name: 台北1, server: tw1.yuntong.click, port: 2052, type: anytls, password: c60a4b5b-63fc-42fe-b8df-8ddb2ce6f835, skip-cert-verify: false, tfo: false}
-  - {name: 台北1 2, server: tw1.yuntong.click, port: 2052, type: anytls, password: 456cb195-93f4-4891-a897-212906c1a77b, skip-cert-verify: false, tfo: false}
-  - {name: 台北1 3, server: tw1.yuntong.click, port: 2052, type: anytls, password: 22d05bac-eed0-4ee7-b5e8-a66c691cdb27, skip-cert-verify: false, tfo: false}
-  - {name: 台北2, server: cdn.yuntong.click, port: 2052, type: anytls, password: c60a4b5b-63fc-42fe-b8df-8ddb2ce6f835, skip-cert-verify: false, tfo: false}
-  - {name: 台北2 2, server: cdn.yuntong.click, port: 2052, type: anytls, password: 22d05bac-eed0-4ee7-b5e8-a66c691cdb27, skip-cert-verify: false, tfo: false}
-  - {name: 台北2 3, server: cdn.yuntong.click, port: 2052, type: anytls, password: 456cb195-93f4-4891-a897-212906c1a77b, skip-cert-verify: false, tfo: false}
+  - {name: 台北1, server: tw1.yuntong.click, port: 2052, type: anytls, password: 22d05bac-eed0-4ee7-b5e8-a66c691cdb27, skip-cert-verify: false, tfo: false}
+  - {name: 台北1 2, server: tw1.yuntong.click, port: 2052, type: anytls, password: c60a4b5b-63fc-42fe-b8df-8ddb2ce6f835, skip-cert-verify: false, tfo: false}
+  - {name: 台北1 3, server: tw1.yuntong.click, port: 2052, type: anytls, password: 456cb195-93f4-4891-a897-212906c1a77b, skip-cert-verify: false, tfo: false}
+  - {name: 台北2, server: cdn.yuntong.click, port: 2052, type: anytls, password: 22d05bac-eed0-4ee7-b5e8-a66c691cdb27, skip-cert-verify: false, tfo: false}
+  - {name: 台北2 2, server: cdn.yuntong.click, port: 2052, type: anytls, password: 456cb195-93f4-4891-a897-212906c1a77b, skip-cert-verify: false, tfo: false}
+  - {name: 台北2 3, server: cdn.yuntong.click, port: 2052, type: anytls, password: c60a4b5b-63fc-42fe-b8df-8ddb2ce6f835, skip-cert-verify: false, tfo: false}
   - {name: 吉隆坡1, server: kl1.yuntong.click, port: 2052, type: anytls, password: c60a4b5b-63fc-42fe-b8df-8ddb2ce6f835, skip-cert-verify: false, tfo: false}
   - {name: 吉隆坡1 2, server: kl1.yuntong.click, port: 2052, type: anytls, password: 456cb195-93f4-4891-a897-212906c1a77b, skip-cert-verify: false, tfo: false}
   - {name: 吉隆坡1 3, server: kl1.yuntong.click, port: 2052, type: anytls, password: 22d05bac-eed0-4ee7-b5e8-a66c691cdb27, skip-cert-verify: false, tfo: false}
-  - {name: 🇦🇪 迪拜1, server: db1.yuntong.click, port: 2052, type: anytls, password: 456cb195-93f4-4891-a897-212906c1a77b, skip-cert-verify: false, tfo: false}
-  - {name: 🇦🇪 迪拜1 2, server: db1.yuntong.click, port: 2052, type: anytls, password: c60a4b5b-63fc-42fe-b8df-8ddb2ce6f835, skip-cert-verify: false, tfo: false}
-  - {name: 🇦🇪 迪拜1 3, server: db1.yuntong.click, port: 2052, type: anytls, password: 22d05bac-eed0-4ee7-b5e8-a66c691cdb27, skip-cert-verify: false, tfo: false}
-  - {name: 🇦🇷 阿根廷1, server: ar1.yuntong.click, port: 2052, type: anytls, password: 456cb195-93f4-4891-a897-212906c1a77b, skip-cert-verify: false, tfo: false}
-  - {name: 🇦🇷 阿根廷1 2, server: ar1.yuntong.click, port: 2052, type: anytls, password: c60a4b5b-63fc-42fe-b8df-8ddb2ce6f835, skip-cert-verify: false, tfo: false}
-  - {name: 🇦🇷 阿根廷1 3, server: ar1.yuntong.click, port: 2052, type: anytls, password: 22d05bac-eed0-4ee7-b5e8-a66c691cdb27, skip-cert-verify: false, tfo: false}
+  - {name: 🇦🇪 迪拜1, server: db1.yuntong.click, port: 2052, type: anytls, password: 22d05bac-eed0-4ee7-b5e8-a66c691cdb27, skip-cert-verify: false, tfo: false}
+  - {name: 🇦🇪 迪拜1 2, server: db1.yuntong.click, port: 2052, type: anytls, password: 456cb195-93f4-4891-a897-212906c1a77b, skip-cert-verify: false, tfo: false}
+  - {name: 🇦🇪 迪拜1 3, server: db1.yuntong.click, port: 2052, type: anytls, password: c60a4b5b-63fc-42fe-b8df-8ddb2ce6f835, skip-cert-verify: false, tfo: false}
+  - {name: 🇦🇷 阿根廷1, server: ar1.yuntong.click, port: 2052, type: anytls, password: 22d05bac-eed0-4ee7-b5e8-a66c691cdb27, skip-cert-verify: false, tfo: false}
+  - {name: 🇦🇷 阿根廷1 2, server: ar1.yuntong.click, port: 2052, type: anytls, password: 456cb195-93f4-4891-a897-212906c1a77b, skip-cert-verify: false, tfo: false}
+  - {name: 🇦🇷 阿根廷1 3, server: ar1.yuntong.click, port: 2052, type: anytls, password: c60a4b5b-63fc-42fe-b8df-8ddb2ce6f835, skip-cert-verify: false, tfo: false}
   - {name: 🇦🇺 澳大利亚1, server: au1.yuntong.click, port: 2052, type: anytls, password: 22d05bac-eed0-4ee7-b5e8-a66c691cdb27, skip-cert-verify: false, tfo: false}
   - {name: 🇦🇺 澳大利亚1 2, server: au1.yuntong.click, port: 2052, type: anytls, password: 456cb195-93f4-4891-a897-212906c1a77b, skip-cert-verify: false, tfo: false}
   - {name: 🇦🇺 澳大利亚1 3, server: au1.yuntong.click, port: 2052, type: anytls, password: c60a4b5b-63fc-42fe-b8df-8ddb2ce6f835, skip-cert-verify: false, tfo: false}
-  - {name: 🇧🇷 巴西1, server: br1.yuntong.click, port: 2052, type: anytls, password: c60a4b5b-63fc-42fe-b8df-8ddb2ce6f835, skip-cert-verify: false, tfo: false}
-  - {name: 🇧🇷 巴西1 2, server: br1.yuntong.click, port: 2052, type: anytls, password: 22d05bac-eed0-4ee7-b5e8-a66c691cdb27, skip-cert-verify: false, tfo: false}
+  - {name: 🇧🇷 巴西1, server: br1.yuntong.click, port: 2052, type: anytls, password: 22d05bac-eed0-4ee7-b5e8-a66c691cdb27, skip-cert-verify: false, tfo: false}
+  - {name: 🇧🇷 巴西1 2, server: br1.yuntong.click, port: 2052, type: anytls, password: c60a4b5b-63fc-42fe-b8df-8ddb2ce6f835, skip-cert-verify: false, tfo: false}
   - {name: 🇧🇷 巴西1 3, server: br1.yuntong.click, port: 2052, type: anytls, password: 456cb195-93f4-4891-a897-212906c1a77b, skip-cert-verify: false, tfo: false}
-  - {name: 🇨🇦 加拿大1, server: ca1.yuntong.click, port: 2052, type: anytls, password: 22d05bac-eed0-4ee7-b5e8-a66c691cdb27, skip-cert-verify: false, tfo: false}
-  - {name: 🇨🇦 加拿大1 2, server: ca1.yuntong.click, port: 2052, type: anytls, password: c60a4b5b-63fc-42fe-b8df-8ddb2ce6f835, skip-cert-verify: false, tfo: false}
+  - {name: 🇨🇦 加拿大1, server: ca1.yuntong.click, port: 2052, type: anytls, password: c60a4b5b-63fc-42fe-b8df-8ddb2ce6f835, skip-cert-verify: false, tfo: false}
+  - {name: 🇨🇦 加拿大1 2, server: ca1.yuntong.click, port: 2052, type: anytls, password: 22d05bac-eed0-4ee7-b5e8-a66c691cdb27, skip-cert-verify: false, tfo: false}
   - {name: 🇨🇦 加拿大1 3, server: ca1.yuntong.click, port: 2052, type: anytls, password: 456cb195-93f4-4891-a897-212906c1a77b, skip-cert-verify: false, tfo: false}
-  - {name: 🇬🇧 伦敦1, server: uk1.yuntong.click, port: 2052, type: anytls, password: 22d05bac-eed0-4ee7-b5e8-a66c691cdb27, skip-cert-verify: false, tfo: false}
-  - {name: 🇬🇧 伦敦1 2, server: uk1.yuntong.click, port: 2052, type: anytls, password: 456cb195-93f4-4891-a897-212906c1a77b, skip-cert-verify: false, tfo: false}
-  - {name: 🇬🇧 伦敦1 3, server: uk1.yuntong.click, port: 2052, type: anytls, password: c60a4b5b-63fc-42fe-b8df-8ddb2ce6f835, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港02 [ipv4]", server: hk02.jgpy.help, port: 20001, type: anytls, password: 573402b7-156e-4141-8c3b-f01b6ebedf05, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港02 [ipv4] 2", server: hk02.jgpy.help, port: 20001, type: anytls, password: 18f0da43-6555-4732-8565-5869076befca, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港02 [ipv4] 3", server: hk02.jgpy.help, port: 20001, type: anytls, password: d44724a9-0c88-4437-9f88-e1f86aa32e25, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港02 [ipv4] 4", server: hk02.jgpy.help, port: 20001, type: anytls, password: 9f4ba886-5772-4b99-bf2b-2e2e489ba77a, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港02 [ipv4] 5", server: hk02.jgpy.help, port: 20001, type: anytls, password: 379d00e1-26e9-4a3a-8417-8d326b90e683, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港02 [ipv4] 6", server: hk02.jgpy.help, port: 20001, type: anytls, password: 96204982-00a2-4e96-9981-11e73dfcee79, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港02 [ipv4] 7", server: hk02.jgpy.help, port: 20001, type: anytls, password: 93bbcae2-2ce8-4231-af2a-17628dcd36a7, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港02 [ipv4] 8", server: hk02.jgpy.help, port: 20001, type: anytls, password: 45a90d32-08bd-4dea-8345-f1f541cc7f90, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港02 [ipv4] 9", server: hk02.jgpy.help, port: 20001, type: anytls, password: a4521dcc-01fc-4d5d-bd23-1543c6f8c571, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港02 [ipv4] 10", server: hk02.jgpy.help, port: 20001, type: anytls, password: 0fa44720-7739-4c32-b8d6-8582c19b15c6, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港02 [ipv4] 11", server: hk02.jgpy.help, port: 20001, type: anytls, password: 0de39650-f988-4370-8837-99ffd7bff680, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港02 [ipv6]", server: hk02v6.jgpy.help, port: 20001, type: anytls, password: a4521dcc-01fc-4d5d-bd23-1543c6f8c571, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港02 [ipv6] 2", server: hk02v6.jgpy.help, port: 20001, type: anytls, password: 93bbcae2-2ce8-4231-af2a-17628dcd36a7, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港02 [ipv6] 3", server: hk02v6.jgpy.help, port: 20001, type: anytls, password: 0fa44720-7739-4c32-b8d6-8582c19b15c6, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港02 [ipv6] 4", server: hk02v6.jgpy.help, port: 20001, type: anytls, password: 45a90d32-08bd-4dea-8345-f1f541cc7f90, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港02 [ipv6] 5", server: hk02v6.jgpy.help, port: 20001, type: anytls, password: 573402b7-156e-4141-8c3b-f01b6ebedf05, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港02 [ipv6] 6", server: hk02v6.jgpy.help, port: 20001, type: anytls, password: 96204982-00a2-4e96-9981-11e73dfcee79, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港02 [ipv6] 7", server: hk02v6.jgpy.help, port: 20001, type: anytls, password: d44724a9-0c88-4437-9f88-e1f86aa32e25, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港02 [ipv6] 8", server: hk02v6.jgpy.help, port: 20001, type: anytls, password: 9f4ba886-5772-4b99-bf2b-2e2e489ba77a, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港02 [ipv6] 9", server: hk02v6.jgpy.help, port: 20001, type: anytls, password: 18f0da43-6555-4732-8565-5869076befca, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港02 [ipv6] 10", server: hk02v6.jgpy.help, port: 20001, type: anytls, password: 379d00e1-26e9-4a3a-8417-8d326b90e683, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港02 [ipv6] 11", server: hk02v6.jgpy.help, port: 20001, type: anytls, password: 0de39650-f988-4370-8837-99ffd7bff680, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港04 [ipv4]", server: hk04.jgpy.help, port: 20006, type: anytls, password: 18f0da43-6555-4732-8565-5869076befca, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港04 [ipv4] 2", server: hk04.jgpy.help, port: 20006, type: anytls, password: 0de39650-f988-4370-8837-99ffd7bff680, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港04 [ipv4] 3", server: hk04.jgpy.help, port: 20006, type: anytls, password: d44724a9-0c88-4437-9f88-e1f86aa32e25, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港04 [ipv4] 4", server: hk04.jgpy.help, port: 20006, type: anytls, password: 45a90d32-08bd-4dea-8345-f1f541cc7f90, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港04 [ipv4] 5", server: hk04.jgpy.help, port: 20006, type: anytls, password: 0fa44720-7739-4c32-b8d6-8582c19b15c6, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港04 [ipv4] 6", server: hk04.jgpy.help, port: 20006, type: anytls, password: 96204982-00a2-4e96-9981-11e73dfcee79, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港04 [ipv4] 7", server: hk04.jgpy.help, port: 20006, type: anytls, password: 379d00e1-26e9-4a3a-8417-8d326b90e683, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港04 [ipv4] 8", server: hk04.jgpy.help, port: 20006, type: anytls, password: 9f4ba886-5772-4b99-bf2b-2e2e489ba77a, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港04 [ipv4] 9", server: hk04.jgpy.help, port: 20006, type: anytls, password: 93bbcae2-2ce8-4231-af2a-17628dcd36a7, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港04 [ipv4] 10", server: hk04.jgpy.help, port: 20006, type: anytls, password: a4521dcc-01fc-4d5d-bd23-1543c6f8c571, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港04 [ipv4] 11", server: hk04.jgpy.help, port: 20006, type: anytls, password: 573402b7-156e-4141-8c3b-f01b6ebedf05, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港04 [ipv6]", server: hk04v6.jgpy.help, port: 20006, type: anytls, password: 0fa44720-7739-4c32-b8d6-8582c19b15c6, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港04 [ipv6] 2", server: hk04v6.jgpy.help, port: 20006, type: anytls, password: 379d00e1-26e9-4a3a-8417-8d326b90e683, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港04 [ipv6] 3", server: hk04v6.jgpy.help, port: 20006, type: anytls, password: 18f0da43-6555-4732-8565-5869076befca, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港04 [ipv6] 4", server: hk04v6.jgpy.help, port: 20006, type: anytls, password: d44724a9-0c88-4437-9f88-e1f86aa32e25, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港04 [ipv6] 5", server: hk04v6.jgpy.help, port: 20006, type: anytls, password: 0de39650-f988-4370-8837-99ffd7bff680, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港04 [ipv6] 6", server: hk04v6.jgpy.help, port: 20006, type: anytls, password: 45a90d32-08bd-4dea-8345-f1f541cc7f90, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港04 [ipv6] 7", server: hk04v6.jgpy.help, port: 20006, type: anytls, password: 9f4ba886-5772-4b99-bf2b-2e2e489ba77a, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港04 [ipv6] 8", server: hk04v6.jgpy.help, port: 20006, type: anytls, password: a4521dcc-01fc-4d5d-bd23-1543c6f8c571, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港04 [ipv6] 9", server: hk04v6.jgpy.help, port: 20006, type: anytls, password: 573402b7-156e-4141-8c3b-f01b6ebedf05, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港04 [ipv6] 10", server: hk04v6.jgpy.help, port: 20006, type: anytls, password: 93bbcae2-2ce8-4231-af2a-17628dcd36a7, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港04 [ipv6] 11", server: hk04v6.jgpy.help, port: 20006, type: anytls, password: 96204982-00a2-4e96-9981-11e73dfcee79, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港06 [ipv6]", server: hk06v6.jgpy.help, port: 21001, type: anytls, password: d44724a9-0c88-4437-9f88-e1f86aa32e25, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港06 [ipv6] 2", server: hk06v6.jgpy.help, port: 21001, type: anytls, password: 0fa44720-7739-4c32-b8d6-8582c19b15c6, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港06 [ipv6] 3", server: hk06v6.jgpy.help, port: 21001, type: anytls, password: 9f4ba886-5772-4b99-bf2b-2e2e489ba77a, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港06 [ipv6] 4", server: hk06v6.jgpy.help, port: 21001, type: anytls, password: 379d00e1-26e9-4a3a-8417-8d326b90e683, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港06 [ipv6] 5", server: hk06v6.jgpy.help, port: 21001, type: anytls, password: 18f0da43-6555-4732-8565-5869076befca, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港06 [ipv6] 6", server: hk06v6.jgpy.help, port: 21001, type: anytls, password: 45a90d32-08bd-4dea-8345-f1f541cc7f90, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港06 [ipv6] 7", server: hk06v6.jgpy.help, port: 21001, type: anytls, password: 573402b7-156e-4141-8c3b-f01b6ebedf05, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港06 [ipv6] 8", server: hk06v6.jgpy.help, port: 21001, type: anytls, password: a4521dcc-01fc-4d5d-bd23-1543c6f8c571, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港06 [ipv6] 9", server: hk06v6.jgpy.help, port: 21001, type: anytls, password: 96204982-00a2-4e96-9981-11e73dfcee79, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港06 [ipv6] 10", server: hk06v6.jgpy.help, port: 21001, type: anytls, password: 93bbcae2-2ce8-4231-af2a-17628dcd36a7, skip-cert-verify: false, tfo: false}
-  - {name: "🇭🇰 香港06 [ipv6] 11", server: hk06v6.jgpy.help, port: 21001, type: anytls, password: 0de39650-f988-4370-8837-99ffd7bff680, skip-cert-verify: false, tfo: false}
+  - {name: 🇨🇳 台湾-03 | 住宅, server: hinet-home1.xn--9kqp42aims.top, port: 443, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
+  - {name: 🇨🇳 台湾-04 | 住宅, server: hinet-home1.xn--9kqp42aims.top, port: 443, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
+  - {name: 🇬🇧 伦敦1, server: uk1.yuntong.click, port: 2052, type: anytls, password: c60a4b5b-63fc-42fe-b8df-8ddb2ce6f835, skip-cert-verify: false, tfo: false}
+  - {name: 🇬🇧 伦敦1 2, server: uk1.yuntong.click, port: 2052, type: anytls, password: 22d05bac-eed0-4ee7-b5e8-a66c691cdb27, skip-cert-verify: false, tfo: false}
+  - {name: 🇬🇧 伦敦1 3, server: uk1.yuntong.click, port: 2052, type: anytls, password: 456cb195-93f4-4891-a897-212906c1a77b, skip-cert-verify: false, tfo: false}
   - {name: 🇭🇰 香港1, server: hk1.yuntong.click, port: 2052, type: anytls, password: 456cb195-93f4-4891-a897-212906c1a77b, skip-cert-verify: false, tfo: false}
   - {name: 🇭🇰 香港1 2, server: hk1.yuntong.click, port: 2052, type: anytls, password: c60a4b5b-63fc-42fe-b8df-8ddb2ce6f835, skip-cert-verify: false, tfo: false}
   - {name: 🇭🇰 香港1 3, server: hk1.yuntong.click, port: 2052, type: anytls, password: 22d05bac-eed0-4ee7-b5e8-a66c691cdb27, skip-cert-verify: false, tfo: false}
-  - {name: "🇯🇵 日本02 [ipv4]", server: jp02.jgpy.help, port: 20003, type: anytls, password: 96204982-00a2-4e96-9981-11e73dfcee79, skip-cert-verify: false, tfo: false}
-  - {name: "🇯🇵 日本02 [ipv4] 2", server: jp02.jgpy.help, port: 20003, type: anytls, password: 9f4ba886-5772-4b99-bf2b-2e2e489ba77a, skip-cert-verify: false, tfo: false}
-  - {name: "🇯🇵 日本02 [ipv4] 3", server: jp02.jgpy.help, port: 20003, type: anytls, password: 45a90d32-08bd-4dea-8345-f1f541cc7f90, skip-cert-verify: false, tfo: false}
-  - {name: "🇯🇵 日本02 [ipv4] 4", server: jp02.jgpy.help, port: 20003, type: anytls, password: 18f0da43-6555-4732-8565-5869076befca, skip-cert-verify: false, tfo: false}
-  - {name: "🇯🇵 日本02 [ipv4] 5", server: jp02.jgpy.help, port: 20003, type: anytls, password: 379d00e1-26e9-4a3a-8417-8d326b90e683, skip-cert-verify: false, tfo: false}
-  - {name: "🇯🇵 日本02 [ipv4] 6", server: jp02.jgpy.help, port: 20003, type: anytls, password: 0fa44720-7739-4c32-b8d6-8582c19b15c6, skip-cert-verify: false, tfo: false}
-  - {name: "🇯🇵 日本02 [ipv4] 7", server: jp02.jgpy.help, port: 20003, type: anytls, password: 0de39650-f988-4370-8837-99ffd7bff680, skip-cert-verify: false, tfo: false}
-  - {name: "🇯🇵 日本02 [ipv4] 8", server: jp02.jgpy.help, port: 20003, type: anytls, password: a4521dcc-01fc-4d5d-bd23-1543c6f8c571, skip-cert-verify: false, tfo: false}
-  - {name: "🇯🇵 日本02 [ipv4] 9", server: jp02.jgpy.help, port: 20003, type: anytls, password: 93bbcae2-2ce8-4231-af2a-17628dcd36a7, skip-cert-verify: false, tfo: false}
-  - {name: "🇯🇵 日本02 [ipv4] 10", server: jp02.jgpy.help, port: 20003, type: anytls, password: d44724a9-0c88-4437-9f88-e1f86aa32e25, skip-cert-verify: false, tfo: false}
-  - {name: "🇯🇵 日本02 [ipv4] 11", server: jp02.jgpy.help, port: 20003, type: anytls, password: 573402b7-156e-4141-8c3b-f01b6ebedf05, skip-cert-verify: false, tfo: false}
-  - {name: "🇯🇵 日本02 [ipv6]", server: jp02v6.jgpy.help, port: 20003, type: anytls, password: 0fa44720-7739-4c32-b8d6-8582c19b15c6, skip-cert-verify: false, tfo: false}
-  - {name: "🇯🇵 日本02 [ipv6] 2", server: jp02v6.jgpy.help, port: 20003, type: anytls, password: 96204982-00a2-4e96-9981-11e73dfcee79, skip-cert-verify: false, tfo: false}
-  - {name: "🇯🇵 日本02 [ipv6] 3", server: jp02v6.jgpy.help, port: 20003, type: anytls, password: 18f0da43-6555-4732-8565-5869076befca, skip-cert-verify: false, tfo: false}
-  - {name: "🇯🇵 日本02 [ipv6] 4", server: jp02v6.jgpy.help, port: 20003, type: anytls, password: 9f4ba886-5772-4b99-bf2b-2e2e489ba77a, skip-cert-verify: false, tfo: false}
-  - {name: "🇯🇵 日本02 [ipv6] 5", server: jp02v6.jgpy.help, port: 20003, type: anytls, password: 379d00e1-26e9-4a3a-8417-8d326b90e683, skip-cert-verify: false, tfo: false}
-  - {name: "🇯🇵 日本02 [ipv6] 6", server: jp02v6.jgpy.help, port: 20003, type: anytls, password: a4521dcc-01fc-4d5d-bd23-1543c6f8c571, skip-cert-verify: false, tfo: false}
-  - {name: "🇯🇵 日本02 [ipv6] 7", server: jp02v6.jgpy.help, port: 20003, type: anytls, password: d44724a9-0c88-4437-9f88-e1f86aa32e25, skip-cert-verify: false, tfo: false}
-  - {name: "🇯🇵 日本02 [ipv6] 8", server: jp02v6.jgpy.help, port: 20003, type: anytls, password: 573402b7-156e-4141-8c3b-f01b6ebedf05, skip-cert-verify: false, tfo: false}
-  - {name: "🇯🇵 日本02 [ipv6] 9", server: jp02v6.jgpy.help, port: 20003, type: anytls, password: 93bbcae2-2ce8-4231-af2a-17628dcd36a7, skip-cert-verify: false, tfo: false}
-  - {name: "🇯🇵 日本02 [ipv6] 10", server: jp02v6.jgpy.help, port: 20003, type: anytls, password: 45a90d32-08bd-4dea-8345-f1f541cc7f90, skip-cert-verify: false, tfo: false}
-  - {name: "🇯🇵 日本02 [ipv6] 11", server: jp02v6.jgpy.help, port: 20003, type: anytls, password: 0de39650-f988-4370-8837-99ffd7bff680, skip-cert-verify: false, tfo: false}
   - {name: 🇯🇵 日本1, server: jp1.yuntong.click, port: 2052, type: anytls, password: 22d05bac-eed0-4ee7-b5e8-a66c691cdb27, skip-cert-verify: false, tfo: false}
   - {name: 🇯🇵 日本1 2, server: jp1.yuntong.click, port: 2052, type: anytls, password: 456cb195-93f4-4891-a897-212906c1a77b, skip-cert-verify: false, tfo: false}
   - {name: 🇯🇵 日本1 3, server: jp1.yuntong.click, port: 2052, type: anytls, password: c60a4b5b-63fc-42fe-b8df-8ddb2ce6f835, skip-cert-verify: false, tfo: false}
-  - {name: 🇯🇵 日本2, server: jp2.yuntong.click, port: 2052, type: anytls, password: c60a4b5b-63fc-42fe-b8df-8ddb2ce6f835, skip-cert-verify: false, tfo: false}
-  - {name: 🇯🇵 日本2 2, server: jp2.yuntong.click, port: 2052, type: anytls, password: 22d05bac-eed0-4ee7-b5e8-a66c691cdb27, skip-cert-verify: false, tfo: false}
-  - {name: 🇯🇵 日本2 3, server: jp2.yuntong.click, port: 2052, type: anytls, password: 456cb195-93f4-4891-a897-212906c1a77b, skip-cert-verify: false, tfo: false}
-  - {name: 🇰🇷 韩国1, server: kr1.yuntong.click, port: 2052, type: anytls, password: 22d05bac-eed0-4ee7-b5e8-a66c691cdb27, skip-cert-verify: false, tfo: false}
-  - {name: 🇰🇷 韩国1 2, server: kr1.yuntong.click, port: 2052, type: anytls, password: c60a4b5b-63fc-42fe-b8df-8ddb2ce6f835, skip-cert-verify: false, tfo: false}
+  - {name: 🇯🇵 日本2, server: jp2.yuntong.click, port: 2052, type: anytls, password: 456cb195-93f4-4891-a897-212906c1a77b, skip-cert-verify: false, tfo: false}
+  - {name: 🇯🇵 日本2 2, server: jp2.yuntong.click, port: 2052, type: anytls, password: c60a4b5b-63fc-42fe-b8df-8ddb2ce6f835, skip-cert-verify: false, tfo: false}
+  - {name: 🇯🇵 日本2 3, server: jp2.yuntong.click, port: 2052, type: anytls, password: 22d05bac-eed0-4ee7-b5e8-a66c691cdb27, skip-cert-verify: false, tfo: false}
+  - {name: 🇰🇷 韩国1, server: kr1.yuntong.click, port: 2052, type: anytls, password: c60a4b5b-63fc-42fe-b8df-8ddb2ce6f835, skip-cert-verify: false, tfo: false}
+  - {name: 🇰🇷 韩国1 2, server: kr1.yuntong.click, port: 2052, type: anytls, password: 22d05bac-eed0-4ee7-b5e8-a66c691cdb27, skip-cert-verify: false, tfo: false}
   - {name: 🇰🇷 韩国1 3, server: kr1.yuntong.click, port: 2052, type: anytls, password: 456cb195-93f4-4891-a897-212906c1a77b, skip-cert-verify: false, tfo: false}
-  - {name: 🇸🇬 开【全局代理】更新订阅, server: hk02.jgpy.help, port: 20001, type: anytls, password: 45a90d32-08bd-4dea-8345-f1f541cc7f90, skip-cert-verify: false, tfo: false}
-  - {name: 🇸🇬 开【全局代理】更新订阅 2, server: hk02.jgpy.help, port: 20001, type: anytls, password: 573402b7-156e-4141-8c3b-f01b6ebedf05, skip-cert-verify: false, tfo: false}
-  - {name: 🇸🇬 开【全局代理】更新订阅 3, server: hk02.jgpy.help, port: 20001, type: anytls, password: d44724a9-0c88-4437-9f88-e1f86aa32e25, skip-cert-verify: false, tfo: false}
-  - {name: 🇸🇬 开【全局代理】更新订阅 4, server: hk02.jgpy.help, port: 20001, type: anytls, password: 9f4ba886-5772-4b99-bf2b-2e2e489ba77a, skip-cert-verify: false, tfo: false}
-  - {name: 🇸🇬 开【全局代理】更新订阅 5, server: hk02.jgpy.help, port: 20001, type: anytls, password: 379d00e1-26e9-4a3a-8417-8d326b90e683, skip-cert-verify: false, tfo: false}
-  - {name: 🇸🇬 开【全局代理】更新订阅 6, server: hk02.jgpy.help, port: 20001, type: anytls, password: 0fa44720-7739-4c32-b8d6-8582c19b15c6, skip-cert-verify: false, tfo: false}
-  - {name: 🇸🇬 开【全局代理】更新订阅 7, server: hk02.jgpy.help, port: 20001, type: anytls, password: 93bbcae2-2ce8-4231-af2a-17628dcd36a7, skip-cert-verify: false, tfo: false}
-  - {name: 🇸🇬 开【全局代理】更新订阅 8, server: hk02.jgpy.help, port: 20001, type: anytls, password: a4521dcc-01fc-4d5d-bd23-1543c6f8c571, skip-cert-verify: false, tfo: false}
-  - {name: 🇸🇬 开【全局代理】更新订阅 9, server: hk02.jgpy.help, port: 20001, type: anytls, password: 0de39650-f988-4370-8837-99ffd7bff680, skip-cert-verify: false, tfo: false}
-  - {name: 🇸🇬 开【全局代理】更新订阅 10, server: hk02.jgpy.help, port: 20001, type: anytls, password: 96204982-00a2-4e96-9981-11e73dfcee79, skip-cert-verify: false, tfo: false}
-  - {name: 🇸🇬 开【全局代理】更新订阅 11, server: hk02.jgpy.help, port: 20001, type: anytls, password: 18f0da43-6555-4732-8565-5869076befca, skip-cert-verify: false, tfo: false}
   - {name: 🇸🇬 新加坡1, server: sg1.yuntong.click, port: 2052, type: anytls, password: c60a4b5b-63fc-42fe-b8df-8ddb2ce6f835, skip-cert-verify: false, tfo: false}
   - {name: 🇸🇬 新加坡1 2, server: sg1.yuntong.click, port: 2052, type: anytls, password: 22d05bac-eed0-4ee7-b5e8-a66c691cdb27, skip-cert-verify: false, tfo: false}
   - {name: 🇸🇬 新加坡1 3, server: sg1.yuntong.click, port: 2052, type: anytls, password: 456cb195-93f4-4891-a897-212906c1a77b, skip-cert-verify: false, tfo: false}
-  - {name: 🇹🇷 土耳其1, server: tr1.yuntong.click, port: 2052, type: anytls, password: 456cb195-93f4-4891-a897-212906c1a77b, skip-cert-verify: false, tfo: false}
-  - {name: 🇹🇷 土耳其1 2, server: tr1.yuntong.click, port: 2052, type: anytls, password: c60a4b5b-63fc-42fe-b8df-8ddb2ce6f835, skip-cert-verify: false, tfo: false}
-  - {name: 🇹🇷 土耳其1 3, server: tr1.yuntong.click, port: 2052, type: anytls, password: 22d05bac-eed0-4ee7-b5e8-a66c691cdb27, skip-cert-verify: false, tfo: false}
-  - {name: "🇺🇸 美国02 [ipv4]", server: us02.jgpy.help, port: 20010, type: anytls, password: 573402b7-156e-4141-8c3b-f01b6ebedf05, skip-cert-verify: false, tfo: false}
-  - {name: "🇺🇸 美国02 [ipv4] 2", server: us02.jgpy.help, port: 20010, type: anytls, password: d44724a9-0c88-4437-9f88-e1f86aa32e25, skip-cert-verify: false, tfo: false}
-  - {name: "🇺🇸 美国02 [ipv4] 3", server: us02.jgpy.help, port: 20010, type: anytls, password: 379d00e1-26e9-4a3a-8417-8d326b90e683, skip-cert-verify: false, tfo: false}
-  - {name: "🇺🇸 美国02 [ipv4] 4", server: us02.jgpy.help, port: 20010, type: anytls, password: 45a90d32-08bd-4dea-8345-f1f541cc7f90, skip-cert-verify: false, tfo: false}
-  - {name: "🇺🇸 美国02 [ipv4] 5", server: us02.jgpy.help, port: 20010, type: anytls, password: 18f0da43-6555-4732-8565-5869076befca, skip-cert-verify: false, tfo: false}
-  - {name: "🇺🇸 美国02 [ipv4] 6", server: us02.jgpy.help, port: 20010, type: anytls, password: 96204982-00a2-4e96-9981-11e73dfcee79, skip-cert-verify: false, tfo: false}
-  - {name: "🇺🇸 美国02 [ipv4] 7", server: us02.jgpy.help, port: 20010, type: anytls, password: 93bbcae2-2ce8-4231-af2a-17628dcd36a7, skip-cert-verify: false, tfo: false}
-  - {name: "🇺🇸 美国02 [ipv4] 8", server: us02.jgpy.help, port: 20010, type: anytls, password: a4521dcc-01fc-4d5d-bd23-1543c6f8c571, skip-cert-verify: false, tfo: false}
-  - {name: "🇺🇸 美国02 [ipv4] 9", server: us02.jgpy.help, port: 20010, type: anytls, password: 9f4ba886-5772-4b99-bf2b-2e2e489ba77a, skip-cert-verify: false, tfo: false}
-  - {name: "🇺🇸 美国02 [ipv4] 10", server: us02.jgpy.help, port: 20010, type: anytls, password: 0de39650-f988-4370-8837-99ffd7bff680, skip-cert-verify: false, tfo: false}
-  - {name: "🇺🇸 美国02 [ipv4] 11", server: us02.jgpy.help, port: 20010, type: anytls, password: 0fa44720-7739-4c32-b8d6-8582c19b15c6, skip-cert-verify: false, tfo: false}
-  - {name: "🇺🇸 美国02 [ipv6]", server: us02v6.jgpy.help, port: 20010, type: anytls, password: 93bbcae2-2ce8-4231-af2a-17628dcd36a7, skip-cert-verify: false, tfo: false}
-  - {name: "🇺🇸 美国02 [ipv6] 2", server: us02v6.jgpy.help, port: 20010, type: anytls, password: d44724a9-0c88-4437-9f88-e1f86aa32e25, skip-cert-verify: false, tfo: false}
-  - {name: "🇺🇸 美国02 [ipv6] 3", server: us02v6.jgpy.help, port: 20010, type: anytls, password: 96204982-00a2-4e96-9981-11e73dfcee79, skip-cert-verify: false, tfo: false}
-  - {name: "🇺🇸 美国02 [ipv6] 4", server: us02v6.jgpy.help, port: 20010, type: anytls, password: 379d00e1-26e9-4a3a-8417-8d326b90e683, skip-cert-verify: false, tfo: false}
-  - {name: "🇺🇸 美国02 [ipv6] 5", server: us02v6.jgpy.help, port: 20010, type: anytls, password: a4521dcc-01fc-4d5d-bd23-1543c6f8c571, skip-cert-verify: false, tfo: false}
-  - {name: "🇺🇸 美国02 [ipv6] 6", server: us02v6.jgpy.help, port: 20010, type: anytls, password: 9f4ba886-5772-4b99-bf2b-2e2e489ba77a, skip-cert-verify: false, tfo: false}
-  - {name: "🇺🇸 美国02 [ipv6] 7", server: us02v6.jgpy.help, port: 20010, type: anytls, password: 573402b7-156e-4141-8c3b-f01b6ebedf05, skip-cert-verify: false, tfo: false}
-  - {name: "🇺🇸 美国02 [ipv6] 8", server: us02v6.jgpy.help, port: 20010, type: anytls, password: 18f0da43-6555-4732-8565-5869076befca, skip-cert-verify: false, tfo: false}
-  - {name: "🇺🇸 美国02 [ipv6] 9", server: us02v6.jgpy.help, port: 20010, type: anytls, password: 0fa44720-7739-4c32-b8d6-8582c19b15c6, skip-cert-verify: false, tfo: false}
-  - {name: "🇺🇸 美国02 [ipv6] 10", server: us02v6.jgpy.help, port: 20010, type: anytls, password: 45a90d32-08bd-4dea-8345-f1f541cc7f90, skip-cert-verify: false, tfo: false}
-  - {name: "🇺🇸 美国02 [ipv6] 11", server: us02v6.jgpy.help, port: 20010, type: anytls, password: 0de39650-f988-4370-8837-99ffd7bff680, skip-cert-verify: false, tfo: false}
-  - {name: 🇺🇸 美国1, server: us1.yuntong.click, port: 2052, type: anytls, password: c60a4b5b-63fc-42fe-b8df-8ddb2ce6f835, skip-cert-verify: false, tfo: false}
-  - {name: 🇺🇸 美国1 2, server: us1.yuntong.click, port: 2052, type: anytls, password: 22d05bac-eed0-4ee7-b5e8-a66c691cdb27, skip-cert-verify: false, tfo: false}
-  - {name: 🇺🇸 美国1 3, server: us1.yuntong.click, port: 2052, type: anytls, password: 456cb195-93f4-4891-a897-212906c1a77b, skip-cert-verify: false, tfo: false}
+  - {name: 🇹🇷 土耳其1, server: tr1.yuntong.click, port: 2052, type: anytls, password: 22d05bac-eed0-4ee7-b5e8-a66c691cdb27, skip-cert-verify: false, tfo: false}
+  - {name: 🇹🇷 土耳其1 2, server: tr1.yuntong.click, port: 2052, type: anytls, password: 456cb195-93f4-4891-a897-212906c1a77b, skip-cert-verify: false, tfo: false}
+  - {name: 🇹🇷 土耳其1 3, server: tr1.yuntong.click, port: 2052, type: anytls, password: c60a4b5b-63fc-42fe-b8df-8ddb2ce6f835, skip-cert-verify: false, tfo: false}
+  - {name: 🇺🇸 美国-02, server: us2.xn--9kqp42aims.top, port: 18444, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
+  - {name: 🇺🇸 美国-03, server: us2.xn--9kqp42aims.top, port: 18444, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
+  - {name: 🇺🇸 美国1, server: us1.yuntong.click, port: 2052, type: anytls, password: 22d05bac-eed0-4ee7-b5e8-a66c691cdb27, skip-cert-verify: false, tfo: false}
+  - {name: 🇺🇸 美国1 2, server: us1.yuntong.click, port: 2052, type: anytls, password: 456cb195-93f4-4891-a897-212906c1a77b, skip-cert-verify: false, tfo: false}
+  - {name: 🇺🇸 美国1 3, server: us1.yuntong.click, port: 2052, type: anytls, password: c60a4b5b-63fc-42fe-b8df-8ddb2ce6f835, skip-cert-verify: false, tfo: false}

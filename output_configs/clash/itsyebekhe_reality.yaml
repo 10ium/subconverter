@@ -1,9 +1,6 @@
 proxies:
-  - {name: "BE | VLESS | @v2ray_free_conf #1", server: belgium-1.pandaonline.org, port: 443, type: vless, tls: true, uuid: 0c7fdb10-b893-4537-a37f-f6c30ded2f6d, skip-cert-verify: false, tfo: false}
   - {name: "IT | VLESS | @freeconfigsplus #1", server: 31.76.113.51, port: 443, type: vless, tls: true, uuid: dfc0cb9d-f005-41b0-848c-7703bd39d0de, skip-cert-verify: false, tfo: false}
   - {name: KingRezaPahlavi, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
   - {name: جاویدشاه, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
   - {name: همکاری_ملی, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
   - {name: "🇳🇱 NL | VLESS | @qeshmserver #1", server: 95.179.138.190, port: 443, type: vless, tls: true, uuid: telegram-id-qeshmserver, skip-cert-verify: false, tfo: false}
-  - {name: "🇵🇱 PL | VLESS | @v2ray_free_conf #1", server: pol1.pandaonline.org, port: 443, type: vless, tls: true, uuid: 0c7fdb10-b893-4537-a37f-f6c30ded2f6d, skip-cert-verify: false, tfo: false}
-  - {name: "🇺🇸 US | VLESS | @v2ray_free_conf #2", server: usa-1.pandaonline.org, port: 443, type: vless, tls: true, uuid: 0c7fdb10-b893-4537-a37f-f6c30ded2f6d, skip-cert-verify: false, tfo: false}
