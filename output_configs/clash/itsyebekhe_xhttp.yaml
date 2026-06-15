@@ -2,4 +2,4 @@ proxies:
   - {name: KingRezaPahlavi, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
   - {name: جاویدشاه, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
   - {name: همکاری_ملی, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
-  - {name: "🇷🇺 RU | TROJAN | @vmesc #1", server: ip.feywebsite.ir, port: 8443, type: trojan, password: 15dde292f853ec5, skip-cert-verify: false, tfo: false}
+  - {name: "🇺🇸 US | TROJAN | @vmesc #1", server: ip.feywebsite.ir, port: 8443, type: trojan, password: 15dde292f853ec5, skip-cert-verify: false, tfo: false}
