@@ -1,1 +1,7 @@
-No nodes were found!
+proxies:
+  - {name: 🇯🇵 日本 01, server: sg1.hneko.shop, port: 30002, type: anytls, password: a8d37bf8-ff5b-4de8-8796-2de9c4072b41, skip-cert-verify: false, tfo: false}
+  - {name: 🇯🇵 日本 02, server: sg1.hneko.shop, port: 30002, type: anytls, password: a8d37bf8-ff5b-4de8-8796-2de9c4072b41, skip-cert-verify: false, tfo: false}
+  - {name: 🇯🇵 日本 03, server: sg1.hneko.shop, port: 30002, type: anytls, password: a8d37bf8-ff5b-4de8-8796-2de9c4072b41, skip-cert-verify: false, tfo: false}
+  - {name: 🇯🇵 日本 04, server: sg1.hneko.shop, port: 30003, type: anytls, password: a8d37bf8-ff5b-4de8-8796-2de9c4072b41, skip-cert-verify: false, tfo: false}
+  - {name: 🇯🇵 日本 05, server: sg1.hneko.shop, port: 30003, type: anytls, password: a8d37bf8-ff5b-4de8-8796-2de9c4072b41, skip-cert-verify: false, tfo: false}
+  - {name: 🇯🇵 日本 06, server: sg1.hneko.shop, port: 30003, type: anytls, password: a8d37bf8-ff5b-4de8-8796-2de9c4072b41, skip-cert-verify: false, tfo: false}
