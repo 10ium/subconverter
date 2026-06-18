@@ -2,8 +2,17 @@ proxies:
   - {name: 🇨🇳 台湾公共01, server: ii03a01.78787878.top, port: 34001, type: anytls, password: c8961598-14f5-4b8f-bcdd-ccd780a864c1, skip-cert-verify: false, tfo: false}
   - {name: 🇭🇰 香港03 直连｜x0.1, server: inbound-hkt.78787878.top, port: 35118, type: anytls, password: c8961598-14f5-4b8f-bcdd-ccd780a864c1, skip-cert-verify: false, tfo: false}
   - {name: 🇭🇰 香港公共01, server: ii03a01.78787878.top, port: 31001, type: anytls, password: c8961598-14f5-4b8f-bcdd-ccd780a864c1, skip-cert-verify: false, tfo: false}
+  - {name: 🇯🇵 日本 01, server: sg1.hneko.shop, port: 20005, type: anytls, password: a8d37bf8-ff5b-4de8-8796-2de9c4072b41, skip-cert-verify: false, tfo: false}
+  - {name: 🇯🇵 日本 02, server: sg1.hneko.shop, port: 20005, type: anytls, password: a8d37bf8-ff5b-4de8-8796-2de9c4072b41, skip-cert-verify: false, tfo: false}
+  - {name: 🇯🇵 日本 03, server: sg1.hneko.shop, port: 20005, type: anytls, password: a8d37bf8-ff5b-4de8-8796-2de9c4072b41, skip-cert-verify: false, tfo: false}
   - {name: 🇯🇵 日本公共01, server: ii03a01.78787878.top, port: 33001, type: anytls, password: c8961598-14f5-4b8f-bcdd-ccd780a864c1, skip-cert-verify: false, tfo: false}
+  - {name: 🇯🇵 日本软银 2, server: sg1.hneko.shop, port: 20006, type: anytls, password: a8d37bf8-ff5b-4de8-8796-2de9c4072b41, skip-cert-verify: false, tfo: false}
   - {name: 🇸🇬 新加坡公共01, server: ii03a01.78787878.top, port: 32001, type: anytls, password: c8961598-14f5-4b8f-bcdd-ccd780a864c1, skip-cert-verify: false, tfo: false}
+  - {name: 🇸🇬 新加坡实验性, server: siyuetest.dickaws.top, port: 443, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
   - {name: 🇺🇸 AWS--美国01, server: sg1.hneko.shop, port: 20001, type: anytls, password: a8d37bf8-ff5b-4de8-8796-2de9c4072b41, skip-cert-verify: false, tfo: false}
   - {name: 🇺🇸 AWS--美国02, server: sg1.hneko.shop, port: 20001, type: anytls, password: a8d37bf8-ff5b-4de8-8796-2de9c4072b41, skip-cert-verify: false, tfo: false}
+  - {name: 🇺🇸 AWS--美国03, server: sg1.hneko.shop, port: 20004, type: anytls, password: a8d37bf8-ff5b-4de8-8796-2de9c4072b41, skip-cert-verify: false, tfo: false}
+  - {name: 🇺🇸 AWS--美国04, server: sg1.hneko.shop, port: 20004, type: anytls, password: a8d37bf8-ff5b-4de8-8796-2de9c4072b41, skip-cert-verify: false, tfo: false}
+  - {name: 🇺🇸 美国-02, server: us2.xn--9kqp42aims.top, port: 18444, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
+  - {name: 🇺🇸 美国-03, server: us2.xn--9kqp42aims.top, port: 18444, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
   - {name: 🇺🇸 美国公共01, server: ii03a01.78787878.top, port: 35001, type: anytls, password: c8961598-14f5-4b8f-bcdd-ccd780a864c1, skip-cert-verify: false, tfo: false}

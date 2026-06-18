@@ -1,5 +1,5 @@
 proxies:
   - {name: "@FreakConfig", server: 158.51.121.63, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: seribus.org, network: ws, ws-path: linkvws, ws-headers: {Host: seribus.org}, tfo: false}
-  - {name: "@V2raysCollector ☃️", server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@mehrosaboran", server: 172.67.210.215, port: 443, type: trojan, password: MiTiVPN, sni: linkkon-w.ir, skip-cert-verify: false, network: ws, ws-opts: {path: /ed=mitivpn, headers: {Host: linkkon-w.ir}}, tfo: false}
   - {name: "[🇨🇦]t.me/ConfigsHub", server: 158.51.121.63, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: seribus.org, network: ws, ws-path: linkvws, ws-headers: {Host: seribus.org}, tfo: false}
-  - {name: ️12@oneclickvpnkeys, server: 77.74.123.163, port: 8443, type: vless, tls: true, uuid: 931729a8-3c20-4841-89a1-f18dc9ce0a6f, servername: cdn3-87.vk-cdnvideo.com, host: cdn3-87.vk-cdnvideo.com, skip-cert-verify: false, tfo: false}
+  - {name: 🇨🇦 t.me/v2Line | Free | 3191 | Canada, server: 158.51.121.63, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: seribus.org, network: ws, ws-path: linkvws, tfo: false}
