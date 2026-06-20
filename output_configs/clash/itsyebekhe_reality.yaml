@@ -1,6 +1,7 @@
 proxies:
   - {name: KingRezaPahlavi, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
+  - {name: "SC | VLESS | @netfreedom0 #1", server: ch-gt-02.com, port: 8443, type: vless, tls: true, uuid: 06bcd513-ef0b-4c0c-a03b-e25fcda66fe2, skip-cert-verify: false, tfo: false}
   - {name: جاویدشاه, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
   - {name: همکاری_ملی, server: 127.0.0.1, port: 443, type: vless, tls: true, uuid: 00000000-0000-0000-0000-000000000000, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
   - {name: "🇳🇱 NL | VLESS | @qeshmserver #1", server: 95.179.138.190, port: 443, type: vless, tls: true, uuid: telegram-id-qeshmserver, skip-cert-verify: false, tfo: false}
-  - {name: "🇺🇸 US | VLESS | @freeconfigsplus #1", server: 72.56.18.179, port: 443, type: vless, tls: true, uuid: a2415a12-3f92-4636-9823-9828d3ceb818, skip-cert-verify: false, tfo: false}
+  - {name: "🇺🇸 US | VLESS | @netfreedom0 #1", server: 72.56.92.177, port: 40443, type: vless, tls: true, uuid: 4480161e-2c59-4d37-8736-675c9af32bf1, skip-cert-verify: false, tfo: false}
