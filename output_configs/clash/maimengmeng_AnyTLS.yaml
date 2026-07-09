@@ -1,11 +1,11 @@
 proxies:
   - {name: 订阅链接已失效, server: youtube.com, port: 24525, type: anytls, password: 7456253f-6d63-46a2-a1ed-9d37cae32811, skip-cert-verify: false, tfo: false}
-  - {name: 距离下次重置剩余：19 天, server: rk.mdlbqwl.com, port: 19204, type: anytls, password: 850a75e0-2969-4391-8182-3044b6429c6a, skip-cert-verify: false, tfo: false}
+  - {name: 距离下次重置剩余：18 天, server: rk.mdlbqwl.com, port: 19204, type: anytls, password: 850a75e0-2969-4391-8182-3044b6429c6a, skip-cert-verify: false, tfo: false}
   - {name: 🇨🇦 加拿大 3x, server: rk.mdlbqwl.com, port: 19025, type: anytls, password: 850a75e0-2969-4391-8182-3044b6429c6a, skip-cert-verify: false, tfo: false}
   - {name: 🇨🇦 加拿大|BGP优化, server: ca.yuyan.vin, port: 10021, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
-  - {name: 🇨🇭 瑞士 |不加速|1x, server: free.ch1.laodavip.com, port: 443, type: anytls, password: 2f3a2a4d-ca46-4012-a472-b559d379ad0a, skip-cert-verify: false, tfo: false}
+  - {name: 🇨🇭 瑞士 |不加速|1x, server: free.ch1.laodavip.com, port: 443, type: anytls, password: 7468649e-cebd-4a76-8470-982e33062086, skip-cert-verify: false, tfo: false}
   - {name: 🇨🇭 瑞士 |不加速|1x 2, server: free.ch1.laodavip.com, port: 443, type: anytls, password: 69f56e4d-6403-48c4-876d-16a5819c3672, skip-cert-verify: false, tfo: false}
-  - {name: 🇨🇭 瑞士 |不加速|1x 3, server: free.ch1.laodavip.com, port: 443, type: anytls, password: 7468649e-cebd-4a76-8470-982e33062086, skip-cert-verify: false, tfo: false}
+  - {name: 🇨🇭 瑞士 |不加速|1x 3, server: free.ch1.laodavip.com, port: 443, type: anytls, password: 2f3a2a4d-ca46-4012-a472-b559d379ad0a, skip-cert-verify: false, tfo: false}
   - {name: 🇨🇳 台湾 1, server: rk.mdlbqwl.com, port: 19833, type: anytls, password: 850a75e0-2969-4391-8182-3044b6429c6a, skip-cert-verify: false, tfo: false}
   - {name: 🇨🇳 台湾 2, server: rk.mdlbqwl.com, port: 19834, type: anytls, password: 850a75e0-2969-4391-8182-3044b6429c6a, skip-cert-verify: false, tfo: false}
   - {name: 🇨🇳 台湾1|BGP优化, server: tw1.yuyan.vin, port: 10028, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
@@ -71,8 +71,8 @@ proxies:
   - {name: 🇲🇾 马来西亚3|BGP优化, server: my3.yuyan.vin, port: 10035, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
   - {name: 🇳🇬 尼日利亚|BGP优化, server: ng.yuyan.vin, port: 10046, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
   - {name: 🇳🇱 荷兰 |不加速|1x, server: free.nl1.laodavip.com, port: 443, type: anytls, password: 69f56e4d-6403-48c4-876d-16a5819c3672, skip-cert-verify: false, tfo: false}
-  - {name: 🇳🇱 荷兰 |不加速|1x 2, server: free.nl1.laodavip.com, port: 443, type: anytls, password: 7468649e-cebd-4a76-8470-982e33062086, skip-cert-verify: false, tfo: false}
-  - {name: 🇳🇱 荷兰 |不加速|1x 3, server: free.nl1.laodavip.com, port: 443, type: anytls, password: 2f3a2a4d-ca46-4012-a472-b559d379ad0a, skip-cert-verify: false, tfo: false}
+  - {name: 🇳🇱 荷兰 |不加速|1x 2, server: free.nl1.laodavip.com, port: 443, type: anytls, password: 2f3a2a4d-ca46-4012-a472-b559d379ad0a, skip-cert-verify: false, tfo: false}
+  - {name: 🇳🇱 荷兰 |不加速|1x 3, server: free.nl1.laodavip.com, port: 443, type: anytls, password: 7468649e-cebd-4a76-8470-982e33062086, skip-cert-verify: false, tfo: false}
   - {name: 🇳🇱 荷兰|BGP优化, server: nl.yuyan.vin, port: 10037, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
   - {name: 🇵🇭 菲律宾1|BGP优化, server: ph1.yuyan.vin, port: 10032, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
   - {name: 🇵🇭 菲律宾2|BGP优化, server: ph2.yuyan.vin, port: 10055, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
@@ -116,8 +116,8 @@ proxies:
   - {name: 🇺🇸 美国 1, server: rk.mdlbqwl.com, port: 19016, type: anytls, password: 850a75e0-2969-4391-8182-3044b6429c6a, skip-cert-verify: false, tfo: false}
   - {name: 🇺🇸 美国 2, server: rk.mdlbqwl.com, port: 19017, type: anytls, password: 850a75e0-2969-4391-8182-3044b6429c6a, skip-cert-verify: false, tfo: false}
   - {name: 🇺🇸 美国 3, server: rk.mdlbqwl.com, port: 19018, type: anytls, password: 850a75e0-2969-4391-8182-3044b6429c6a, skip-cert-verify: false, tfo: false}
-  - {name: 🇺🇸 美国 |不加速|1x, server: free.us1.laodavip.com, port: 443, type: anytls, password: 7468649e-cebd-4a76-8470-982e33062086, skip-cert-verify: false, tfo: false}
-  - {name: 🇺🇸 美国 |不加速|1x 2, server: free.us1.laodavip.com, port: 443, type: anytls, password: 69f56e4d-6403-48c4-876d-16a5819c3672, skip-cert-verify: false, tfo: false}
+  - {name: 🇺🇸 美国 |不加速|1x, server: free.us1.laodavip.com, port: 443, type: anytls, password: 69f56e4d-6403-48c4-876d-16a5819c3672, skip-cert-verify: false, tfo: false}
+  - {name: 🇺🇸 美国 |不加速|1x 2, server: free.us1.laodavip.com, port: 443, type: anytls, password: 7468649e-cebd-4a76-8470-982e33062086, skip-cert-verify: false, tfo: false}
   - {name: 🇺🇸 美国 |不加速|1x 3, server: free.us1.laodavip.com, port: 443, type: anytls, password: 2f3a2a4d-ca46-4012-a472-b559d379ad0a, skip-cert-verify: false, tfo: false}
   - {name: 🇺🇸 美国-04, server: us2.xn--9kqp42aims.top, port: 18445, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
   - {name: 🇺🇸 美国1|BGP优化, server: us1.yuyan.vin, port: 10025, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
@@ -129,5 +129,5 @@ proxies:
   - {name: 🇻🇳 越南 3x, server: rk.mdlbqwl.com, port: 19029, type: anytls, password: 850a75e0-2969-4391-8182-3044b6429c6a, skip-cert-verify: false, tfo: false}
   - {name: 🇻🇳 越南|BGP优化, server: vn1.yuyan.vin, port: 10050, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
   - {name: 🏳️‍🌈 地点 |是否加速 | 流量消耗倍数, server: "baidu.com:24525?security=none&type=tcp&sni=txwl233.t.me#https%3A%2F%2Ft.me%2Ftxwl666anytls://2f3a2a4d-ca46-4012-a472-b559d379ad0a@1.1.1.1", port: 443, type: anytls, password: 7456253f-6d63-46a2-a1ed-9d37cae32811, skip-cert-verify: false, tfo: false}
-  - {name: 🏳️‍🌈 地点 |是否加速 | 流量消耗倍数 2, server: 1.1.1.1, port: 443, type: anytls, password: 7468649e-cebd-4a76-8470-982e33062086, skip-cert-verify: false, tfo: false}
-  - {name: 🏳️‍🌈 地点 |是否加速 | 流量消耗倍数 3, server: 1.1.1.1, port: 443, type: anytls, password: 69f56e4d-6403-48c4-876d-16a5819c3672, skip-cert-verify: false, tfo: false}
+  - {name: 🏳️‍🌈 地点 |是否加速 | 流量消耗倍数 2, server: 1.1.1.1, port: 443, type: anytls, password: 69f56e4d-6403-48c4-876d-16a5819c3672, skip-cert-verify: false, tfo: false}
+  - {name: 🏳️‍🌈 地点 |是否加速 | 流量消耗倍数 3, server: 1.1.1.1, port: 443, type: anytls, password: 7468649e-cebd-4a76-8470-982e33062086, skip-cert-verify: false, tfo: false}
