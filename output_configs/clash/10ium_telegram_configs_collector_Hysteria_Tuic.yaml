@@ -1,4 +1,5 @@
 proxies:
+  - {name: 🇨🇳 HYSTERIA-UDP 🇹🇼 TW-103.115.109.49:443, server: 103.115.109.49, port: 443, type: hysteria2, ports: 443, password: H7mP2xY9kJ4nQ8wR5tF6vB3z, sni: https%3A%2F%2Ft.me%2Foneclickvpnkeys, skip-cert-verify: false, tfo: false}
   - {name: 🇩🇪 HYSTERIA-UDP 🇩🇪 DE-181.214.231.226:35200, server: 181.214.231.226, port: 35200, type: hysteria2, ports: 35200, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, tfo: false}
   - {name: 🇩🇪 HYSTERIA-UDP 🇩🇪 DE-181.214.231.226:36300, server: 181.214.231.226, port: 36300, type: hysteria2, ports: 36300, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, tfo: false}
   - {name: 🇩🇪 HYSTERIA-UDP 🇩🇪 DE-181.214.231.226:36400, server: 181.214.231.226, port: 36400, type: hysteria2, ports: 36400, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, tfo: false}
