@@ -1,566 +1,563 @@
 proxies:
-  - {name: "@vpnclashfa - 100", server: series-a2-mec.varzesh360.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c, tfo: false}
-  - {name: "@vpnclashfa - 101", server: 128.251.12.23, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u7MBhnD1kM8GhweY, tfo: false}
-  - {name: "@vpnclashfa - 103", server: series-a2-mec.varzesh360.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c, tfo: false}
-  - {name: "@vpnclashfa - 104", server: 128.251.12.23, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u7MBhnD1kM8GhweY, tfo: false}
-  - {name: "@vpnclashfa - 104 2", server: 145.249.109.14, port: 60245, type: ss, cipher: chacha20-ietf-poly1305, password: vY0pWuOJDdIVu5Ofqelkn4, tfo: false}
-  - {name: "@vpnclashfa - 106", server: 57.129.121.230, port: 10443, type: ss, cipher: chacha20-ietf-poly1305, password: uROuEqsL8IUMMVb4wDwnGU, tfo: false}
-  - {name: "@vpnclashfa - 107", server: 145.249.109.144, port: 15544, type: ss, cipher: chacha20-ietf-poly1305, password: wk6lA4XRnEWfEnDrdm0NY6, tfo: false}
-  - {name: "@vpnclashfa - 107 2", server: 145.249.109.14, port: 60245, type: ss, cipher: chacha20-ietf-poly1305, password: vY0pWuOJDdIVu5Ofqelkn4, tfo: false}
-  - {name: "@vpnclashfa - 108", server: 185.117.0.38, port: 54753, type: ss, cipher: chacha20-ietf-poly1305, password: wtnt2yuxwlveksz5, tfo: false}
-  - {name: "@vpnclashfa - 108 2", server: 103.174.86.113, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: vZr8MlUXUihNEndqIpjDxQdSeqi37FbgoHBmQ1syy6ZjkbBn, tfo: false}
-  - {name: "@vpnclashfa - 110", server: 145.249.109.144, port: 15544, type: ss, cipher: chacha20-ietf-poly1305, password: wk6lA4XRnEWfEnDrdm0NY6, tfo: false}
-  - {name: "@vpnclashfa - 111", server: 45.95.232.236, port: 4248, type: ss, cipher: chacha20-ietf-poly1305, password: xTg583yo1Qd4fPK3YgU0OR, tfo: false}
-  - {name: "@vpnclashfa - 112", server: 5.253.59.156, port: 32140, type: ss, cipher: chacha20-ietf-poly1305, password: x94a8dz7oTPg6Xtgar7LlY, tfo: false}
-  - {name: "@vpnclashfa - 113", server: 136.244.100.113, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: yODLXVLz2FWNTFeSSng3Fm, tfo: false}
-  - {name: "@vpnclashfa - 114", server: 103.106.1.92, port: 23492, type: ss, cipher: chacha20-ietf-poly1305, password: yMX9WGPgUEcRZmlaa0YHHC, tfo: false}
-  - {name: "@vpnclashfa - 115", server: 62.60.233.226, port: 62763, type: ss, cipher: chacha20-ietf-poly1305, password: yRdxvK32gcKq8xxNguwU99, tfo: false}
+  - {name: "@vpnclashfa - 100", server: 43.173.98.184, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 3t21e/P6fxeSULmI2S4f0mJ3q3b2TiQO, tfo: false}
+  - {name: "@vpnclashfa - 100 2", server: 74.177.207.175, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c, tfo: false}
+  - {name: "@vpnclashfa - 102", server: 74.177.207.175, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c, tfo: false}
+  - {name: "@vpnclashfa - 104", server: series-a2-mec.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c, tfo: false}
+  - {name: "@vpnclashfa - 105", server: 20.166.91.10, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: uJFknobQotFFYaFW, tfo: false}
+  - {name: "@vpnclashfa - 106", server: 128.251.12.23, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u7MBhnD1kM8GhweY, tfo: false}
+  - {name: "@vpnclashfa - 106 2", server: 57.129.121.230, port: 10443, type: ss, cipher: chacha20-ietf-poly1305, password: uROuEqsL8IUMMVb4wDwnGU, tfo: false}
+  - {name: "@vpnclashfa - 107", server: 145.249.109.14, port: 60245, type: ss, cipher: chacha20-ietf-poly1305, password: vY0pWuOJDdIVu5Ofqelkn4, tfo: false}
+  - {name: "@vpnclashfa - 109", server: 45.15.162.208, port: 17499, type: ss, cipher: chacha20-ietf-poly1305, password: vnxfs1r2QESzY2ZkIXQtCy, tfo: false}
+  - {name: "@vpnclashfa - 110", server: 165.22.238.239, port: 44386, type: ss, cipher: chacha20-ietf-poly1305, password: vpEtEutc37wWy55bUqtHDX, tfo: false}
+  - {name: "@vpnclashfa - 110 2", server: 103.174.86.113, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: vZr8MlUXUihNEndqIpjDxQdSeqi37FbgoHBmQ1syy6ZjkbBn, tfo: false}
+  - {name: "@vpnclashfa - 111", server: 45.15.162.208, port: 17499, type: ss, cipher: chacha20-ietf-poly1305, password: vnxfs1r2QESzY2ZkIXQtCy, tfo: false}
+  - {name: "@vpnclashfa - 112", server: 165.22.238.239, port: 44386, type: ss, cipher: chacha20-ietf-poly1305, password: vpEtEutc37wWy55bUqtHDX, tfo: false}
+  - {name: "@vpnclashfa - 112 2", server: 185.117.0.38, port: 54753, type: ss, cipher: chacha20-ietf-poly1305, password: wtnt2yuxwlveksz5, tfo: false}
+  - {name: "@vpnclashfa - 114", server: 185.117.0.38, port: 54753, type: ss, cipher: chacha20-ietf-poly1305, password: wtnt2yuxwlveksz5, tfo: false}
+  - {name: "@vpnclashfa - 115", server: 45.95.232.236, port: 4248, type: ss, cipher: chacha20-ietf-poly1305, password: xTg583yo1Qd4fPK3YgU0OR, tfo: false}
   - {name: "@vpnclashfa - 116", server: 136.244.100.113, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: yODLXVLz2FWNTFeSSng3Fm, tfo: false}
+  - {name: "@vpnclashfa - 116 2", server: 62.60.233.226, port: 62763, type: ss, cipher: chacha20-ietf-poly1305, password: yRdxvK32gcKq8xxNguwU99, tfo: false}
   - {name: "@vpnclashfa - 117", server: 103.106.1.92, port: 23492, type: ss, cipher: chacha20-ietf-poly1305, password: yMX9WGPgUEcRZmlaa0YHHC, tfo: false}
-  - {name: "@vpnclashfa - 117 2", server: 78.40.116.178, port: 34094, type: ss, cipher: chacha20-ietf-poly1305, password: yo6h9qkhwz8UJoTZCRtoSi, tfo: false}
-  - {name: "@vpnclashfa - 118", server: 62.60.233.226, port: 62763, type: ss, cipher: chacha20-ietf-poly1305, password: yRdxvK32gcKq8xxNguwU99, tfo: false}
-  - {name: "@vpnclashfa - 118 2", server: 81.90.29.126, port: 53672, type: ss, cipher: chacha20-ietf-poly1305, password: yprgZbB7xDL4PSvE4wJU4m, tfo: false}
-  - {name: "@vpnclashfa - 121", server: 185.218.3.131, port: 60664, type: ss, cipher: chacha20-ietf-poly1305, password: Aex4y92EluOwjtinhoxlsO, tfo: false}
-  - {name: "@vpnclashfa - 122", server: 81.90.29.126, port: 53672, type: ss, cipher: chacha20-ietf-poly1305, password: yprgZbB7xDL4PSvE4wJU4m, tfo: false}
-  - {name: "@vpnclashfa - 124", server: 62.113.114.116, port: 42320, type: ss, cipher: chacha20-ietf-poly1305, password: BShcek5ydIWbXEnhI2vIym, tfo: false}
-  - {name: "@vpnclashfa - 125", server: 62.133.63.230, port: 1580, type: ss, cipher: chacha20-ietf-poly1305, password: BTPmFf7EttoUTOFAL2r69C, tfo: false}
-  - {name: "@vpnclashfa - 125 2", server: 176.123.5.253, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
-  - {name: "@vpnclashfa - 127", server: 74.177.119.255, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Bog0ELmMM9DSxDdQ, tfo: false}
-  - {name: "@vpnclashfa - 127 2", server: 38.54.107.101, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
-  - {name: "@vpnclashfa - 129", server: 45.15.185.70, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
-  - {name: "@vpnclashfa - 130", server: series-a2-me.varzesh360.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Bog0ELmMM9DSxDdQ, tfo: false}
-  - {name: "@vpnclashfa - 131", server: 130.0.233.100, port: 33610, type: ss, cipher: chacha20-ietf-poly1305, password: Bqyimiv3YNgu6dApctpw7t, tfo: false}
-  - {name: "@vpnclashfa - 132", server: 108.181.58.239, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: CJmTCCx7Ltud, tfo: false}
-  - {name: "@vpnclashfa - 132 2", server: 4.250.57.235, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: AcGFEsMR6c07Txux, tfo: false}
-  - {name: "@vpnclashfa - 133", server: 45.12.109.198, port: 24604, type: ss, cipher: chacha20-ietf-poly1305, password: Cikn5gPJtNZqurNBPspEDz, tfo: false}
-  - {name: "@vpnclashfa - 134", server: 46.29.238.83, port: 28768, type: ss, cipher: chacha20-ietf-poly1305, password: B4Nokj3Yqfta6tWqum6r8k, tfo: false}
-  - {name: "@vpnclashfa - 135", server: 85.208.139.158, port: 25607, type: ss, cipher: chacha20-ietf-poly1305, password: DXQocbpII6cMgNuMK5xClQ, tfo: false}
-  - {name: "@vpnclashfa - 135 2", server: 62.60.233.219, port: 55922, type: ss, cipher: chacha20-ietf-poly1305, password: B5NTTp0zOY7xFiIVj8ScNh, tfo: false}
-  - {name: "@vpnclashfa - 136", server: 62.113.114.116, port: 42320, type: ss, cipher: chacha20-ietf-poly1305, password: BShcek5ydIWbXEnhI2vIym, tfo: false}
-  - {name: "@vpnclashfa - 137", server: 62.133.63.167, port: 61377, type: ss, cipher: chacha20-ietf-poly1305, password: E12yZBPC7y8SnmkSYjf0Wl, tfo: false}
-  - {name: "@vpnclashfa - 139", server: 74.177.119.255, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Bog0ELmMM9DSxDdQ, tfo: false}
-  - {name: "@vpnclashfa - 140", server: 193.43.104.125, port: 15983, type: ss, cipher: chacha20-ietf-poly1305, password: FB5RQoZwtEIx3cUsJeGxj2, tfo: false}
-  - {name: "@vpnclashfa - 142", server: 185.172.113.182, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, tfo: false}
-  - {name: "@vpnclashfa - 143", server: 130.0.233.100, port: 33610, type: ss, cipher: chacha20-ietf-poly1305, password: Bqyimiv3YNgu6dApctpw7t, tfo: false}
-  - {name: "@vpnclashfa - 144", server: 108.181.58.239, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: CJmTCCx7Ltud, tfo: false}
-  - {name: "@vpnclashfa - 144 2", server: 196.247.59.156, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, tfo: false}
-  - {name: "@vpnclashfa - 146", server: 212.192.14.224, port: 57995, type: ss, cipher: chacha20-ietf-poly1305, password: GEKphmflEN6zsCX2tVVJhq, tfo: false}
-  - {name: "@vpnclashfa - 147", server: 85.208.139.158, port: 25607, type: ss, cipher: chacha20-ietf-poly1305, password: DXQocbpII6cMgNuMK5xClQ, tfo: false}
-  - {name: "@vpnclashfa - 147 2", server: 149.28.255.6, port: 816, type: ss, cipher: chacha20-ietf-poly1305, password: GyZ5Xo0ht41vYmW3H4, tfo: false}
-  - {name: "@vpnclashfa - 148", server: 195.66.27.81, port: 11746, type: ss, cipher: chacha20-ietf-poly1305, password: DaiJfYM6WoCXmBbF69QFR0, tfo: false}
-  - {name: "@vpnclashfa - 149", server: 62.133.63.167, port: 61377, type: ss, cipher: chacha20-ietf-poly1305, password: E12yZBPC7y8SnmkSYjf0Wl, tfo: false}
-  - {name: "@vpnclashfa - 149 2", server: 168.119.57.171, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: I53uJsZc6dzTBYDEqg1a30Bh1hAd4HQzgpwCVdpzKwfF2ZUh, tfo: false}
-  - {name: "@vpnclashfa - 150", server: 38.244.137.202, port: 45380, type: ss, cipher: chacha20-ietf-poly1305, password: E6GbjW3IZ4Wokvz4VYLj4o, tfo: false}
-  - {name: "@vpnclashfa - 153", server: 208.67.105.196, port: 42029, type: ss, cipher: chacha20-ietf-poly1305, password: Fzf5vaXFs7oCY3Xb33aZ945xkhvFt2rrxdRBY9D3dQecNQKEXysBXb2eVPzDVb9iqM3iBhwJHEi5eWhzAXJXEP2vUwWCpZXD, tfo: false}
-  - {name: "@vpnclashfa - 154", server: 142.4.216.225, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: JIhN6rBKkaEboLNXVSv5rq, tfo: false}
-  - {name: "@vpnclashfa - 155", server: 5.181.2.76, port: 36608, type: ss, cipher: chacha20-ietf-poly1305, password: JOZ5Mb3nJCmmoKhd8Cc9aC, tfo: false}
-  - {name: "@vpnclashfa - 156", server: 196.247.59.156, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, tfo: false}
-  - {name: "@vpnclashfa - 157", server: e4.cover20.ir, port: 16156, type: ss, cipher: chacha20-ietf-poly1305, password: K02VR5NVCL9DTJgdAdow0jjQRQ+RmhBhtJ12gyHzyxo=, tfo: false}
-  - {name: "@vpnclashfa - 158", server: 206.206.125.53, port: 20199, type: ss, cipher: chacha20-ietf-poly1305, password: KGPXpv5QjRflKfGPS0ltNq, tfo: false}
-  - {name: "@vpnclashfa - 159", server: 149.28.255.6, port: 816, type: ss, cipher: chacha20-ietf-poly1305, password: GyZ5Xo0ht41vYmW3H4, tfo: false}
-  - {name: "@vpnclashfa - 160", server: 95.164.113.198, port: 53829, type: ss, cipher: chacha20-ietf-poly1305, password: Kbm3xoK04p4OhoqVpEzdlj, tfo: false}
-  - {name: "@vpnclashfa - 162", server: 141.98.4.67, port: 52952, type: ss, cipher: chacha20-ietf-poly1305, password: LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj, tfo: false}
-  - {name: "@vpnclashfa - 163", server: 45.153.48.114, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: ICTOtROjrAqIotsEYTG8Nc, tfo: false}
-  - {name: "@vpnclashfa - 164", server: 212.113.106.76, port: 61992, type: ss, cipher: chacha20-ietf-poly1305, password: IJY8gXZ8KqYRva7HGr0MZJ, tfo: false}
-  - {name: "@vpnclashfa - 165", server: 83.217.9.140, port: 1381, type: ss, cipher: chacha20-ietf-poly1305, password: JHqptZxDVsnQf0wL2EgNuo, tfo: false}
-  - {name: "@vpnclashfa - 166", server: 45.12.150.212, port: 22658, type: ss, cipher: chacha20-ietf-poly1305, password: NiPzObWODHbCoAI8f1Ty3X, tfo: false}
-  - {name: "@vpnclashfa - 166 2", server: 142.4.216.225, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: JIhN6rBKkaEboLNXVSv5rq, tfo: false}
-  - {name: "@vpnclashfa - 167", server: 5.181.2.76, port: 36608, type: ss, cipher: chacha20-ietf-poly1305, password: JOZ5Mb3nJCmmoKhd8Cc9aC, tfo: false}
-  - {name: "@vpnclashfa - 168", server: trollhastambotrvg-production-a62f.up.railway.app, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: O3snfrxYjgNK3VZG4Fajkw, plugin: v2ray-plugin, plugin-opts: {mode: "", host: trollhastambotrvg-production-a62f.up.railway.app, path: /ss-ws, tls: true, mux: true, skip-cert-verify: false}, tfo: false}
-  - {name: "@vpnclashfa - 170", server: 134.17.17.36, port: 26349, type: ss, cipher: chacha20-ietf-poly1305, password: OMH97I7mRNBcUugKs2a8Og, tfo: false}
-  - {name: "@vpnclashfa - 170 2", server: 206.206.125.53, port: 20199, type: ss, cipher: chacha20-ietf-poly1305, password: KGPXpv5QjRflKfGPS0ltNq, tfo: false}
-  - {name: "@vpnclashfa - 172", server: 212.192.14.234, port: 24441, type: ss, cipher: chacha20-ietf-poly1305, password: Ow8iSExQNaobZPY9bJ4EPI, tfo: false}
-  - {name: "@vpnclashfa - 173", server: 185.39.204.189, port: 34085, type: ss, cipher: chacha20-ietf-poly1305, password: LFBZQIJCZGOfwhHFlOzK7r, tfo: false}
-  - {name: "@vpnclashfa - 173 2", server: 167.235.139.105, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: P0VmjYa00wNNEDBoDuWKfIdWKIxycJQuq1eIwXMCRi2T650R, tfo: false}
-  - {name: "@vpnclashfa - 174", server: 141.98.4.67, port: 52952, type: ss, cipher: chacha20-ietf-poly1305, password: LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj, tfo: false}
-  - {name: "@vpnclashfa - 175", server: 91.238.180.132, port: 18611, type: ss, cipher: chacha20-ietf-poly1305, password: LXHyLxtiJzJWG9DmVMwAbT, tfo: false}
-  - {name: "@vpnclashfa - 177", server: 185.18.54.70, port: 31348, type: ss, cipher: chacha20-ietf-poly1305, password: MPS4QxIySO20yGnFTGEbyYTOwd2HlEmcC0ksqogxZtLyLYRl, tfo: false}
-  - {name: "@vpnclashfa - 178", server: 45.12.150.212, port: 22658, type: ss, cipher: chacha20-ietf-poly1305, password: NiPzObWODHbCoAI8f1Ty3X, tfo: false}
-  - {name: "@vpnclashfa - 180", server: trollhastambotrvg-production-a62f.up.railway.app, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: O3snfrxYjgNK3VZG4Fajkw, plugin: v2ray-plugin, plugin-opts: {mode: "", host: trollhastambotrvg-production-a62f.up.railway.app, path: /ss-ws, tls: true, mux: true, skip-cert-verify: false}, tfo: false}
+  - {name: "@vpnclashfa - 118", server: 78.40.116.178, port: 34094, type: ss, cipher: chacha20-ietf-poly1305, password: yo6h9qkhwz8UJoTZCRtoSi, tfo: false}
+  - {name: "@vpnclashfa - 119", server: 81.90.29.126, port: 53672, type: ss, cipher: chacha20-ietf-poly1305, password: yprgZbB7xDL4PSvE4wJU4m, tfo: false}
+  - {name: "@vpnclashfa - 120", server: 81.90.29.126, port: 53672, type: ss, cipher: chacha20-ietf-poly1305, password: yprgZbB7xDL4PSvE4wJU4m, tfo: false}
+  - {name: "@vpnclashfa - 121", server: 81.90.29.126, port: 53672, type: ss, cipher: chacha20-ietf-poly1305, password: yprgZbB7xDL4PSvE4wJU4m, tfo: false}
+  - {name: "@vpnclashfa - 123", server: 4.250.57.235, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: AcGFEsMR6c07Txux, tfo: false}
+  - {name: "@vpnclashfa - 124", server: 185.218.3.131, port: 60664, type: ss, cipher: chacha20-ietf-poly1305, password: Aex4y92EluOwjtinhoxlsO, tfo: false}
+  - {name: "@vpnclashfa - 124 2", server: 194.164.92.198, port: 1234, type: ss, cipher: chacha20-ietf-poly1305, password: zz0dHjDfoaSaZuRFLGH-hNfBALSEJUYD, tfo: false}
+  - {name: "@vpnclashfa - 125", server: 46.29.238.83, port: 28768, type: ss, cipher: chacha20-ietf-poly1305, password: B4Nokj3Yqfta6tWqum6r8k, tfo: false}
+  - {name: "@vpnclashfa - 125 2", server: 156.38.168.58, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
+  - {name: "@vpnclashfa - 126", server: 62.60.233.219, port: 55922, type: ss, cipher: chacha20-ietf-poly1305, password: B5NTTp0zOY7xFiIVj8ScNh, tfo: false}
+  - {name: "@vpnclashfa - 128", server: 38.54.107.101, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
+  - {name: "@vpnclashfa - 129", server: 157.175.189.66, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Bog0ELmMM9DSxDdQ, tfo: false}
+  - {name: "@vpnclashfa - 130", server: 45.15.185.70, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
+  - {name: "@vpnclashfa - 130 2", server: 74.177.119.255, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Bog0ELmMM9DSxDdQ, tfo: false}
+  - {name: "@vpnclashfa - 131", server: 46.183.217.204, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
+  - {name: "@vpnclashfa - 131 2", server: 85.210.120.237, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Bog0ELmMM9DSxDdQ, tfo: false}
+  - {name: "@vpnclashfa - 133", server: series-a2-me.varzesh360.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Bog0ELmMM9DSxDdQ, tfo: false}
+  - {name: "@vpnclashfa - 134", server: 185.218.3.131, port: 60664, type: ss, cipher: chacha20-ietf-poly1305, password: Aex4y92EluOwjtinhoxlsO, tfo: false}
+  - {name: "@vpnclashfa - 135", server: 108.181.58.239, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: CJmTCCx7Ltud, tfo: false}
+  - {name: "@vpnclashfa - 135 2", server: 46.29.238.83, port: 28768, type: ss, cipher: chacha20-ietf-poly1305, password: B4Nokj3Yqfta6tWqum6r8k, tfo: false}
+  - {name: "@vpnclashfa - 136", server: 45.12.109.198, port: 24604, type: ss, cipher: chacha20-ietf-poly1305, password: Cikn5gPJtNZqurNBPspEDz, tfo: false}
+  - {name: "@vpnclashfa - 139", server: 157.175.189.66, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Bog0ELmMM9DSxDdQ, tfo: false}
+  - {name: "@vpnclashfa - 140", server: 62.133.63.167, port: 61377, type: ss, cipher: chacha20-ietf-poly1305, password: E12yZBPC7y8SnmkSYjf0Wl, tfo: false}
+  - {name: "@vpnclashfa - 141", server: 85.210.120.237, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Bog0ELmMM9DSxDdQ, tfo: false}
+  - {name: "@vpnclashfa - 141 2", server: 212.113.106.76, port: 61992, type: ss, cipher: chacha20-ietf-poly1305, password: E6BLdD30F3S49unTcmTp3g, tfo: false}
+  - {name: "@vpnclashfa - 145", server: 108.181.58.239, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: CJmTCCx7Ltud, tfo: false}
+  - {name: "@vpnclashfa - 145 2", server: 208.67.105.196, port: 42029, type: ss, cipher: chacha20-ietf-poly1305, password: Fzf5vaXFs7oCY3Xb33aZ945xkhvFt2rrxdRBY9D3dQecNQKEXysBXb2eVPzDVb9iqM3iBhwJHEi5eWhzAXJXEP2vUwWCpZXD, tfo: false}
+  - {name: "@vpnclashfa - 146", server: 45.12.109.198, port: 24604, type: ss, cipher: chacha20-ietf-poly1305, password: Cikn5gPJtNZqurNBPspEDz, tfo: false}
+  - {name: "@vpnclashfa - 149", server: 149.28.255.6, port: 816, type: ss, cipher: chacha20-ietf-poly1305, password: GyZ5Xo0ht41vYmW3H4, tfo: false}
+  - {name: "@vpnclashfa - 149 2", server: 195.66.27.81, port: 11746, type: ss, cipher: chacha20-ietf-poly1305, password: DaiJfYM6WoCXmBbF69QFR0, tfo: false}
+  - {name: "@vpnclashfa - 152", server: 20.223.152.73, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: I6RsSUIYrKHpI26J, tfo: false}
+  - {name: "@vpnclashfa - 152 2", server: 38.244.137.202, port: 45380, type: ss, cipher: chacha20-ietf-poly1305, password: E6GbjW3IZ4Wokvz4VYLj4o, tfo: false}
+  - {name: "@vpnclashfa - 153", server: 83.217.9.140, port: 1381, type: ss, cipher: chacha20-ietf-poly1305, password: JHqptZxDVsnQf0wL2EgNuo, tfo: false}
+  - {name: "@vpnclashfa - 153 2", server: 84.54.44.54, port: 11270, type: ss, cipher: chacha20-ietf-poly1305, password: EHF59cqRIPUWCdCVVesVv3, tfo: false}
+  - {name: "@vpnclashfa - 154", server: 193.43.104.125, port: 15983, type: ss, cipher: chacha20-ietf-poly1305, password: FB5RQoZwtEIx3cUsJeGxj2, tfo: false}
+  - {name: "@vpnclashfa - 156", server: e4.cover20.ir, port: 16156, type: ss, cipher: chacha20-ietf-poly1305, password: K02VR5NVCL9DTJgdAdow0jjQRQ+RmhBhtJ12gyHzyxo=, tfo: false}
+  - {name: "@vpnclashfa - 157", server: 185.172.113.182, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, tfo: false}
+  - {name: "@vpnclashfa - 158", server: 62.133.63.169, port: 37096, type: ss, cipher: chacha20-ietf-poly1305, password: KP6FQVmJhlXPgvPhrw2gnI, tfo: false}
+  - {name: "@vpnclashfa - 159", server: 95.164.113.198, port: 53829, type: ss, cipher: chacha20-ietf-poly1305, password: Kbm3xoK04p4OhoqVpEzdlj, tfo: false}
+  - {name: "@vpnclashfa - 16", server: 193.151.128.97, port: 443, type: ss, cipher: 2022-blake3-chacha20-poly1305, password: iFxltqscJVLJdHunZXPCmb4ToHN7LhkoeYwpQcU/Pbo=, tfo: false}
+  - {name: "@vpnclashfa - 16 2", server: gr-2.tiptop-1.top, port: 443, type: ss, cipher: 2022-blake3-aes-128-gcm, password: YyO3pfhWyveU+LJmfKmLnw==:m1K6a3UDLjBAtGb1UKTrVw==, tfo: false}
+  - {name: "@vpnclashfa - 160", server: 185.39.204.189, port: 34085, type: ss, cipher: chacha20-ietf-poly1305, password: LFBZQIJCZGOfwhHFlOzK7r, tfo: false}
+  - {name: "@vpnclashfa - 160 2", server: 149.28.255.6, port: 816, type: ss, cipher: chacha20-ietf-poly1305, password: GyZ5Xo0ht41vYmW3H4, tfo: false}
+  - {name: "@vpnclashfa - 161", server: 168.119.57.171, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: I53uJsZc6dzTBYDEqg1a30Bh1hAd4HQzgpwCVdpzKwfF2ZUh, tfo: false}
+  - {name: "@vpnclashfa - 161 2", server: 141.98.4.67, port: 52952, type: ss, cipher: chacha20-ietf-poly1305, password: LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj, tfo: false}
+  - {name: "@vpnclashfa - 164", server: 142.4.216.225, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: JIhN6rBKkaEboLNXVSv5rq, tfo: false}
+  - {name: "@vpnclashfa - 164 2", server: 45.12.150.212, port: 22658, type: ss, cipher: chacha20-ietf-poly1305, password: NiPzObWODHbCoAI8f1Ty3X, tfo: false}
+  - {name: "@vpnclashfa - 165", server: 5.181.2.76, port: 36608, type: ss, cipher: chacha20-ietf-poly1305, password: JOZ5Mb3nJCmmoKhd8Cc9aC, tfo: false}
+  - {name: "@vpnclashfa - 166", server: e4.cover20.ir, port: 16156, type: ss, cipher: chacha20-ietf-poly1305, password: K02VR5NVCL9DTJgdAdow0jjQRQ+RmhBhtJ12gyHzyxo=, tfo: false}
+  - {name: "@vpnclashfa - 167", server: 206.206.125.53, port: 20199, type: ss, cipher: chacha20-ietf-poly1305, password: KGPXpv5QjRflKfGPS0ltNq, tfo: false}
+  - {name: "@vpnclashfa - 168", server: 134.17.17.36, port: 26349, type: ss, cipher: chacha20-ietf-poly1305, password: OMH97I7mRNBcUugKs2a8Og, tfo: false}
+  - {name: "@vpnclashfa - 169", server: 95.164.113.198, port: 53829, type: ss, cipher: chacha20-ietf-poly1305, password: Kbm3xoK04p4OhoqVpEzdlj, tfo: false}
+  - {name: "@vpnclashfa - 17", server: gr-2.tiptop-1.top, port: 443, type: ss, cipher: 2022-blake3-aes-128-gcm, password: YyO3pfhWyveU+LJmfKmLnw==:m1K6a3UDLjBAtGb1UKTrVw==, tfo: false}
+  - {name: "@vpnclashfa - 170", server: 212.192.14.234, port: 24441, type: ss, cipher: chacha20-ietf-poly1305, password: Ow8iSExQNaobZPY9bJ4EPI, tfo: false}
+  - {name: "@vpnclashfa - 171", server: 167.235.139.105, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: P0VmjYa00wNNEDBoDuWKfIdWKIxycJQuq1eIwXMCRi2T650R, tfo: false}
+  - {name: "@vpnclashfa - 172", server: 91.238.180.132, port: 18611, type: ss, cipher: chacha20-ietf-poly1305, password: LXHyLxtiJzJWG9DmVMwAbT, tfo: false}
+  - {name: "@vpnclashfa - 172 2", server: bot.sobhanpor.ir, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Ppdyi-lK6fllEnmLF0NKJfObeckYbZBz, tfo: false}
+  - {name: "@vpnclashfa - 174", server: 45.12.150.212, port: 22658, type: ss, cipher: chacha20-ietf-poly1305, password: NiPzObWODHbCoAI8f1Ty3X, tfo: false}
+  - {name: "@vpnclashfa - 175", server: 151.242.251.147, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, tfo: false}
+  - {name: "@vpnclashfa - 177", server: 151.242.251.153, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, tfo: false}
+  - {name: "@vpnclashfa - 178", server: 134.17.17.36, port: 26349, type: ss, cipher: chacha20-ietf-poly1305, password: OMH97I7mRNBcUugKs2a8Og, tfo: false}
+  - {name: "@vpnclashfa - 179", server: 154.46.31.106, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: QFWzCw2uX9B9i6qAYeFBIE, tfo: false}
+  - {name: "@vpnclashfa - 18", server: silver.diginetv.online, port: 2052, type: ss, cipher: 2022-blake3-aes-256-gcm, password: S5RCI6gJ6SUOcdnNpcEgR1UVzid+8O8/+DceUSHDnFs=:iffgdPSR8g75t49n3xCb9+OG2WGJTjUhohpPoHNT598=, tfo: false}
   - {name: "@vpnclashfa - 181", server: 176.125.240.25, port: 8433, type: ss, cipher: chacha20-ietf-poly1305, password: QR4ynrAzAhBapPryha15NJ, tfo: false}
-  - {name: "@vpnclashfa - 182", server: 108.181.57.93, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: RSo52SbxW40r, tfo: false}
-  - {name: "@vpnclashfa - 183", server: 31.210.50.196, port: 12422, type: ss, cipher: chacha20-ietf-poly1305, password: Oqt9kgyMGBiOAJPG4uZXlv, tfo: false}
-  - {name: "@vpnclashfa - 183 2", server: 46.246.96.42, port: 12346, type: ss, cipher: chacha20-ietf-poly1305, password: Rm5GvqKyOLkvMYgzgAE1KG, tfo: false}
-  - {name: "@vpnclashfa - 185", server: 167.235.139.105, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: P0VmjYa00wNNEDBoDuWKfIdWKIxycJQuq1eIwXMCRi2T650R, tfo: false}
-  - {name: "@vpnclashfa - 186", server: 212.192.14.221, port: 24548, type: ss, cipher: chacha20-ietf-poly1305, password: TfKSKevaDXHnvNzCyUUsMo, tfo: false}
-  - {name: "@vpnclashfa - 188", server: 151.242.251.131, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, tfo: false}
-  - {name: "@vpnclashfa - 188 2", server: 141.133.175.194, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: UZQY9hNjVNWwamajrXAf1vt8u63nj0fF, tfo: false}
-  - {name: "@vpnclashfa - 189", server: 151.242.251.147, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, tfo: false}
-  - {name: "@vpnclashfa - 19", server: 46.38.143.236, port: 60633, type: ss, cipher: 2022-blake3-chacha20-poly1305, password: HnzIN1CLGGEh+mD/uzbbvTQc/Alq+hkmrC7Po3D4k4E=, tfo: false}
-  - {name: "@vpnclashfa - 190", server: 151.242.251.147, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, tfo: false}
-  - {name: "@vpnclashfa - 191", server: 141.133.175.194, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: VEFFUGZkNtbTGAGde4vUQjqnGST-bgTP, tfo: false}
-  - {name: "@vpnclashfa - 192", server: 193.29.139.227, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, tfo: false}
-  - {name: "@vpnclashfa - 192 2", server: 4.168.201.246, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: VX3adDk6IO3bZ9nL, tfo: false}
-  - {name: "@vpnclashfa - 193", server: 176.125.240.25, port: 8433, type: ss, cipher: chacha20-ietf-poly1305, password: QR4ynrAzAhBapPryha15NJ, tfo: false}
-  - {name: "@vpnclashfa - 193 2", server: 162.19.175.40, port: 7425, type: ss, cipher: chacha20-ietf-poly1305, password: VeUJj6HWCyDZeSaqpmf8AM, tfo: false}
-  - {name: "@vpnclashfa - 194", server: 45.12.150.199, port: 39447, type: ss, cipher: chacha20-ietf-poly1305, password: VnSL5YmYusDmMsUV2Y9dh7, tfo: false}
-  - {name: "@vpnclashfa - 194 2", server: 108.181.57.93, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: RSo52SbxW40r, tfo: false}
-  - {name: "@vpnclashfa - 195", server: 46.246.96.42, port: 12346, type: ss, cipher: chacha20-ietf-poly1305, password: Rm5GvqKyOLkvMYgzgAE1KG, tfo: false}
-  - {name: "@vpnclashfa - 197", server: 146.70.146.222, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
-  - {name: "@vpnclashfa - 198", server: 146.70.26.156, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
+  - {name: "@vpnclashfa - 182", server: bot.sobhanpor.ir, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Ppdyi-lK6fllEnmLF0NKJfObeckYbZBz, tfo: false}
+  - {name: "@vpnclashfa - 185", server: paris.telegavpn.com, port: 9802, type: ss, cipher: chacha20-ietf-poly1305, password: SUrD4FzlDyz0DPutW22LPV, tfo: false}
+  - {name: "@vpnclashfa - 186", server: 151.242.251.147, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, tfo: false}
+  - {name: "@vpnclashfa - 186 2", server: 45.77.232.213, port: 15675, type: ss, cipher: chacha20-ietf-poly1305, password: TWG7J1KR5KsPaV5qZI+rieueKxxafZSpCH, tfo: false}
+  - {name: "@vpnclashfa - 187", server: 212.192.14.221, port: 24548, type: ss, cipher: chacha20-ietf-poly1305, password: TfKSKevaDXHnvNzCyUUsMo, tfo: false}
+  - {name: "@vpnclashfa - 188", server: 193.29.139.227, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, tfo: false}
+  - {name: "@vpnclashfa - 188 2", server: 103.174.86.114, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: US4tskJaYStBPUKvcNVkf0PVhXbsAGCNvrhbfZybtOx9u2cF, tfo: false}
+  - {name: "@vpnclashfa - 189", server: 154.46.31.106, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: QFWzCw2uX9B9i6qAYeFBIE, tfo: false}
+  - {name: "@vpnclashfa - 190", server: 141.133.175.194, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: UZQY9hNjVNWwamajrXAf1vt8u63nj0fF, tfo: false}
+  - {name: "@vpnclashfa - 191", server: 62.133.63.169, port: 37096, type: ss, cipher: chacha20-ietf-poly1305, password: Ul0rGyAAed5HRDpvFqr2C0, tfo: false}
+  - {name: "@vpnclashfa - 194", server: 46.246.96.42, port: 12346, type: ss, cipher: chacha20-ietf-poly1305, password: Rm5GvqKyOLkvMYgzgAE1KG, tfo: false}
+  - {name: "@vpnclashfa - 194 2", server: 162.19.175.40, port: 7425, type: ss, cipher: chacha20-ietf-poly1305, password: VeUJj6HWCyDZeSaqpmf8AM, tfo: false}
+  - {name: "@vpnclashfa - 196", server: 45.77.232.213, port: 15675, type: ss, cipher: chacha20-ietf-poly1305, password: TWG7J1KR5KsPaV5qZI+rieueKxxafZSpCH, tfo: false}
+  - {name: "@vpnclashfa - 196 2", server: 213.109.147.242, port: 62685, type: ss, cipher: chacha20-ietf-poly1305, password: VpKABcOpNNA0l5G2AVOmw8, tfo: false}
+  - {name: "@vpnclashfa - 197", server: 212.192.14.221, port: 24548, type: ss, cipher: chacha20-ietf-poly1305, password: TfKSKevaDXHnvNzCyUUsMo, tfo: false}
+  - {name: "@vpnclashfa - 197 2", server: 146.70.146.222, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
   - {name: "@vpnclashfa - 199", server: 31.76.80.205, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: UZQY9hNjVNWwamajrXAf1vt8u63nj0fF, tfo: false}
-  - {name: "@vpnclashfa - 199 2", server: 156.146.40.84, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
-  - {name: "@vpnclashfa - 200", server: 163.172.244.41, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
-  - {name: "@vpnclashfa - 201", server: 185.117.88.9, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
-  - {name: "@vpnclashfa - 202", server: 185.128.25.36, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
-  - {name: "@vpnclashfa - 203", server: 185.128.25.44, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
-  - {name: "@vpnclashfa - 204", server: 185.128.27.178, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
-  - {name: "@vpnclashfa - 204 2", server: 4.168.201.246, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: VX3adDk6IO3bZ9nL, tfo: false}
-  - {name: "@vpnclashfa - 205", server: 185.156.173.206, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
-  - {name: "@vpnclashfa - 205 2", server: 162.19.175.40, port: 7425, type: ss, cipher: chacha20-ietf-poly1305, password: VeUJj6HWCyDZeSaqpmf8AM, tfo: false}
-  - {name: "@vpnclashfa - 206", server: 45.12.150.199, port: 39447, type: ss, cipher: chacha20-ietf-poly1305, password: VnSL5YmYusDmMsUV2Y9dh7, tfo: false}
-  - {name: "@vpnclashfa - 207", server: 213.109.147.242, port: 62685, type: ss, cipher: chacha20-ietf-poly1305, password: VpKABcOpNNA0l5G2AVOmw8, tfo: false}
-  - {name: "@vpnclashfa - 208", server: 146.70.146.222, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
-  - {name: "@vpnclashfa - 210", server: 146.70.222.126, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
-  - {name: "@vpnclashfa - 211", server: 146.70.26.156, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
-  - {name: "@vpnclashfa - 212", server: 156.146.40.84, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
-  - {name: "@vpnclashfa - 213", server: 163.172.244.41, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
+  - {name: "@vpnclashfa - 199 2", server: 146.70.26.156, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
+  - {name: "@vpnclashfa - 200", server: 156.146.40.84, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
+  - {name: "@vpnclashfa - 202", server: 141.133.175.194, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: VEFFUGZkNtbTGAGde4vUQjqnGST-bgTP, tfo: false}
+  - {name: "@vpnclashfa - 203", server: 184.75.221.134, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
+  - {name: "@vpnclashfa - 205", server: 45.12.150.199, port: 39447, type: ss, cipher: chacha20-ietf-poly1305, password: VnSL5YmYusDmMsUV2Y9dh7, tfo: false}
+  - {name: "@vpnclashfa - 206", server: 213.109.147.242, port: 62685, type: ss, cipher: chacha20-ietf-poly1305, password: VpKABcOpNNA0l5G2AVOmw8, tfo: false}
+  - {name: "@vpnclashfa - 207", server: 185.128.27.178, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
+  - {name: "@vpnclashfa - 207 2", server: 146.70.146.222, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
+  - {name: "@vpnclashfa - 208", server: 185.156.173.206, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
+  - {name: "@vpnclashfa - 208 2", server: 146.70.146.222, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
+  - {name: "@vpnclashfa - 209", server: 146.70.222.126, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
+  - {name: "@vpnclashfa - 209 2", server: 188.119.149.27, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
+  - {name: "@vpnclashfa - 211", server: 194.187.249.220, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
+  - {name: "@vpnclashfa - 212", server: 194.187.251.2, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
+  - {name: "@vpnclashfa - 213", server: 178.255.41.214, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
   - {name: "@vpnclashfa - 214", server: 184.75.221.134, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
-  - {name: "@vpnclashfa - 215", server: 51.159.19.174, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
-  - {name: "@vpnclashfa - 217", server: 62.113.194.49, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
-  - {name: "@vpnclashfa - 218", server: 185.128.27.178, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
-  - {name: "@vpnclashfa - 218 2", server: 62.113.237.3, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
-  - {name: "@vpnclashfa - 219", server: 185.156.173.206, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
-  - {name: "@vpnclashfa - 219 2", server: 62.210.123.100, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
-  - {name: "@vpnclashfa - 220", server: 185.156.174.106, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
-  - {name: "@vpnclashfa - 220 2", server: 84.247.48.78, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
-  - {name: "@vpnclashfa - 222", server: 2FreakConfig.usecharge.ir, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, tfo: false}
-  - {name: "@vpnclashfa - 223", server: 74.177.215.110, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, tfo: false}
-  - {name: "@vpnclashfa - 224", server: admin.c1.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, tfo: false}
-  - {name: "@vpnclashfa - 225", server: 195.12.48.126, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
-  - {name: "@vpnclashfa - 226", server: 195.123.209.159, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
-  - {name: "@vpnclashfa - 227", server: 195.154.29.29, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
-  - {name: "@vpnclashfa - 228", server: 103.111.114.61, port: 28061, type: ss, cipher: chacha20-ietf-poly1305, password: WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm, tfo: false}
+  - {name: "@vpnclashfa - 215", server: 185.117.88.9, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
+  - {name: "@vpnclashfa - 215 2", server: 195.154.29.29, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
+  - {name: "@vpnclashfa - 216", server: 185.128.25.36, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
+  - {name: "@vpnclashfa - 217", server: 217.138.207.106, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
+  - {name: "@vpnclashfa - 22", server: 65.109.219.124, port: 18269, type: ss, cipher: 2022-blake3-aes-256-gcm, password: uXSgW2m4sbfoYckTbFiGnaVnP1ygIULi12LPQvUZNjM=:FNWzI4OwPTNgAFZUUUFjx19m5YfLo3qNXt07tCQ3lZw=, tfo: false}
+  - {name: "@vpnclashfa - 220", server: 62.113.194.49, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
+  - {name: "@vpnclashfa - 220 2", server: 185.156.174.106, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
+  - {name: "@vpnclashfa - 221", server: 188.119.149.27, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
+  - {name: "@vpnclashfa - 221 2", server: 62.113.237.3, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
+  - {name: "@vpnclashfa - 222", server: 194.187.249.218, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
+  - {name: "@vpnclashfa - 223", server: 194.187.249.220, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
+  - {name: "@vpnclashfa - 224", server: 194.187.251.2, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
+  - {name: "@vpnclashfa - 226", server: 74.177.215.110, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, tfo: false}
+  - {name: "@vpnclashfa - 229", server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, tfo: false}
+  - {name: "@vpnclashfa - 229 2", server: 217.138.207.106, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
   - {name: "@vpnclashfa - 230", server: 51.159.19.174, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
-  - {name: "@vpnclashfa - 230 2", server: 5.181.2.73, port: 43248, type: ss, cipher: chacha20-ietf-poly1305, password: WavHeSGFxfvrkkbQd48PrB, tfo: false}
-  - {name: "@vpnclashfa - 232", server: 4.168.201.246, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: XEnZedp2mkTbT1qC, tfo: false}
-  - {name: "@vpnclashfa - 233", server: 62.113.237.3, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
-  - {name: "@vpnclashfa - 234", server: 62.210.123.100, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
-  - {name: "@vpnclashfa - 235", server: bot.sobhanpor.ir, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: XySJ4pe3nLBMgDFOONhTlKHlJEbIpytj, tfo: false}
-  - {name: "@vpnclashfa - 236", server: 20.164.216.112, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Y1YSWNVWfufolplK, tfo: false}
+  - {name: "@vpnclashfa - 231", server: 62.113.194.158, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
+  - {name: "@vpnclashfa - 235", server: 84.247.48.78, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
+  - {name: "@vpnclashfa - 235 2", server: 4.250.57.235, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: WstuSnlu4ieA9M0L, tfo: false}
+  - {name: "@vpnclashfa - 236", server: 91.193.5.112, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
   - {name: "@vpnclashfa - 237", server: 2FreakConfig.usecharge.ir, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, tfo: false}
-  - {name: "@vpnclashfa - 238", server: 145.249.109.108, port: 18740, type: ss, cipher: chacha20-ietf-poly1305, password: YHalDvP1z5RriU6l4LngKi, tfo: false}
-  - {name: "@vpnclashfa - 239", server: 83.217.9.17, port: 25232, type: ss, cipher: chacha20-ietf-poly1305, password: YHtXD4pojvormVWRiHgIfv, tfo: false}
-  - {name: "@vpnclashfa - 24", server: 107.189.7.176, port: 46294, type: ss, cipher: 2022-blake3-aes-256-gcm, password: bgQWg+zTiyoVMe9U6U72Ii6gffD7FPqjALnluOyB/k8=:EDqtwvLBF0CVoNjZrr+Nwomm4Os4jtH3ugFmPxTfEuU=, tfo: false}
-  - {name: "@vpnclashfa - 240", server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, tfo: false}
-  - {name: "@vpnclashfa - 241", server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, tfo: false}
-  - {name: "@vpnclashfa - 242", server: 103.111.114.55, port: 28061, type: ss, cipher: chacha20-ietf-poly1305, password: WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm, tfo: false}
+  - {name: "@vpnclashfa - 237 2", server: 147.45.178.24, port: 56259, type: ss, cipher: chacha20-ietf-poly1305, password: XEgifzBjI9TWGZzzOU6XOg, tfo: false}
+  - {name: "@vpnclashfa - 238", server: 62.60.233.226, port: 62763, type: ss, cipher: chacha20-ietf-poly1305, password: XG7MMevfyz7jA3IteAA8Qn, tfo: false}
+  - {name: "@vpnclashfa - 239", server: 13.213.129.106, port: 15260, type: ss, cipher: chacha20-ietf-poly1305, password: Xq92YtGYW05wpGilvQg9SE, tfo: false}
+  - {name: "@vpnclashfa - 239 2", server: admin.c1.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, tfo: false}
+  - {name: "@vpnclashfa - 24", server: 38.244.137.202, port: 45380, type: ss, cipher: chacha20-ietf-poly1305, password: 43fXf1uMKbIKkxoNYGQMtt, tfo: false}
+  - {name: "@vpnclashfa - 242", server: 145.249.109.108, port: 18740, type: ss, cipher: chacha20-ietf-poly1305, password: YHalDvP1z5RriU6l4LngKi, tfo: false}
+  - {name: "@vpnclashfa - 242 2", server: 103.111.114.55, port: 28061, type: ss, cipher: chacha20-ietf-poly1305, password: WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm, tfo: false}
   - {name: "@vpnclashfa - 243", server: 103.111.114.61, port: 28061, type: ss, cipher: chacha20-ietf-poly1305, password: WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm, tfo: false}
-  - {name: "@vpnclashfa - 244", server: 103.111.114.71, port: 28061, type: ss, cipher: chacha20-ietf-poly1305, password: WOir3lXBhMHDcLFPQdEZXPu37_pTQDCXfm, tfo: false}
-  - {name: "@vpnclashfa - 245", server: 5.181.2.73, port: 43248, type: ss, cipher: chacha20-ietf-poly1305, password: WavHeSGFxfvrkkbQd48PrB, tfo: false}
-  - {name: "@vpnclashfa - 246", server: 4.250.57.235, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: WstuSnlu4ieA9M0L, tfo: false}
-  - {name: "@vpnclashfa - 247", server: 81.19.137.222, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: a58fa62b4944ddbf, tfo: false}
-  - {name: "@vpnclashfa - 248", server: 193.29.139.215, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: a8bt9fY0QsLS6eLnXUe0Ym, tfo: false}
-  - {name: "@vpnclashfa - 249", server: 62.60.233.226, port: 62763, type: ss, cipher: chacha20-ietf-poly1305, password: XG7MMevfyz7jA3IteAA8Qn, tfo: false}
-  - {name: "@vpnclashfa - 249 2", server: 45.158.171.141, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: a8bt9fY0QsLS6eLnXUe0Ym, tfo: false}
-  - {name: "@vpnclashfa - 25", server: 49.13.3.249, port: 23997, type: ss, cipher: 2022-blake3-aes-256-gcm, password: dyL+KqX8hIMn+UyADwSJOPm72A0A83TsDOFXBn6I2mA=, tfo: false}
-  - {name: "@vpnclashfa - 251", server: 185.39.204.161, port: 33563, type: ss, cipher: chacha20-ietf-poly1305, password: a9FUnGJH7b8e5jFbFclfX2, tfo: false}
-  - {name: "@vpnclashfa - 251 2", server: 20.164.216.112, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Y1YSWNVWfufolplK, tfo: false}
-  - {name: "@vpnclashfa - 253", server: 145.249.109.108, port: 18740, type: ss, cipher: chacha20-ietf-poly1305, password: YHalDvP1z5RriU6l4LngKi, tfo: false}
-  - {name: "@vpnclashfa - 254", server: 62.133.63.222, port: 48981, type: ss, cipher: chacha20-ietf-poly1305, password: abC43WeNxuDAXdmQZdkwVx, tfo: false}
-  - {name: "@vpnclashfa - 255", server: 62.133.63.222, port: 48981, type: ss, cipher: chacha20-ietf-poly1305, password: abC43WeNxuDAXdmQZdkwVx, tfo: false}
-  - {name: "@vpnclashfa - 256", server: 62.133.63.154, port: 20255, type: ss, cipher: chacha20-ietf-poly1305, password: ZFqZH1cIw5jPRChWxlX36F, tfo: false}
-  - {name: "@vpnclashfa - 257", server: azjnac1.uksouth.cloudapp.azure.com, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: b2EJuconC460KllN, tfo: false}
-  - {name: "@vpnclashfa - 258", server: 46.246.97.140, port: 53908, type: ss, cipher: chacha20-ietf-poly1305, password: ZweuXavjovuhzt1AF0d6qx, tfo: false}
-  - {name: "@vpnclashfa - 259", server: 216.173.70.187, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: a58fa62b4944ddbf, tfo: false}
-  - {name: "@vpnclashfa - 260", server: 5.181.2.73, port: 43248, type: ss, cipher: chacha20-ietf-poly1305, password: bSFMvNLHapp4ZrcGIXy9Vt, tfo: false}
-  - {name: "@vpnclashfa - 260 2", server: 38.107.234.38, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: a58fa62b4944ddbf, tfo: false}
-  - {name: "@vpnclashfa - 261", server: 45.144.49.140, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: a58fa62b4944ddbf, tfo: false}
-  - {name: "@vpnclashfa - 261 2", server: 185.39.204.161, port: 33563, type: ss, cipher: chacha20-ietf-poly1305, password: bSlgCoGhApOb55tIMD0zxY, tfo: false}
-  - {name: "@vpnclashfa - 262", server: 83.217.9.17, port: 25232, type: ss, cipher: chacha20-ietf-poly1305, password: bgvLZUfs8sivoB9A7wkYdm, tfo: false}
-  - {name: "@vpnclashfa - 264", server: 46.226.163.225, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: c40641c1f89e7acb, tfo: false}
-  - {name: "@vpnclashfa - 265", server: 45.76.180.205, port: 31298, type: ss, cipher: chacha20-ietf-poly1305, password: c976721a-e390-4dbf-b4f9-72c3feb9594c, tfo: false}
-  - {name: "@vpnclashfa - 266", server: 31.76.80.205, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: cAqbBYBB0f9CAmpU_mc_7FyvvLCcwzt0, tfo: false}
-  - {name: "@vpnclashfa - 267", server: USA.tiny1.cloud, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: aJrY225YM4FD8SOXlRjnIA, tfo: false}
-  - {name: "@vpnclashfa - 268", server: 95.164.113.153, port: 5669, type: ss, cipher: chacha20-ietf-poly1305, password: cJvGkXLQg1TCouv8BmE0Xu, tfo: false}
-  - {name: "@vpnclashfa - 268 2", server: 130.0.233.100, port: 33610, type: ss, cipher: chacha20-ietf-poly1305, password: aRNFYKtLOnaPE5FCHI9ylr, tfo: false}
-  - {name: "@vpnclashfa - 269", server: 213.156.137.142, port: 43660, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, tfo: false}
-  - {name: "@vpnclashfa - 270", server: 62.133.63.222, port: 48981, type: ss, cipher: chacha20-ietf-poly1305, password: abC43WeNxuDAXdmQZdkwVx, tfo: false}
-  - {name: "@vpnclashfa - 271", server: 141.164.63.32, port: 30936, type: ss, cipher: chacha20-ietf-poly1305, password: b25727df-15ea-453c-a006-13fe98fee1d2, tfo: false}
-  - {name: "@vpnclashfa - 273", server: 212.192.14.73, port: 65330, type: ss, cipher: chacha20-ietf-poly1305, password: b9zdJ5Jdth3j9O4qKAFtgS, tfo: false}
-  - {name: "@vpnclashfa - 274", server: 104.156.233.234, port: 27116, type: ss, cipher: chacha20-ietf-poly1305, password: bIOoi5TuImG2KccxV7-jcA7Cez+vun-c_E, tfo: false}
-  - {name: "@vpnclashfa - 275", server: 137.74.119.18, port: 10443, type: ss, cipher: chacha20-ietf-poly1305, password: diOMBU5IDvJcFqyNPbRjYR, tfo: false}
-  - {name: "@vpnclashfa - 276", server: 185.39.204.161, port: 33563, type: ss, cipher: chacha20-ietf-poly1305, password: bSlgCoGhApOb55tIMD0zxY, tfo: false}
-  - {name: "@vpnclashfa - 277", server: 162.19.214.191, port: 59724, type: ss, cipher: chacha20-ietf-poly1305, password: e7yQKOelKM4UIJCZYLrzQX, tfo: false}
-  - {name: "@vpnclashfa - 278", server: 198.98.53.130, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: eDfN7SODQceIOmIAbtJJtK, tfo: false}
-  - {name: "@vpnclashfa - 280", server: 212.192.14.234, port: 24441, type: ss, cipher: chacha20-ietf-poly1305, password: eaTzMJaYNiUu8GKuTOefke, tfo: false}
-  - {name: "@vpnclashfa - 281", server: 31.76.80.205, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: cAqbBYBB0f9CAmpU_mc_7FyvvLCcwzt0, tfo: false}
-  - {name: "@vpnclashfa - 283", server: 95.164.123.39, port: 32821, type: ss, cipher: chacha20-ietf-poly1305, password: fBTl409Xqg3DwqKili0NQF, tfo: false}
-  - {name: "@vpnclashfa - 284", server: 213.156.137.142, port: 43660, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, tfo: false}
-  - {name: "@vpnclashfa - 285", server: 46.246.96.191, port: 15721, type: ss, cipher: chacha20-ietf-poly1305, password: fkZZaQfxglQEbFpiDyKEdN, tfo: false}
-  - {name: "@vpnclashfa - 287", server: 193.29.139.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, tfo: false}
-  - {name: "@vpnclashfa - 292", server: 185.39.204.189, port: 34085, type: ss, cipher: chacha20-ietf-poly1305, password: depjSbjv2Uql6W4Vge7sDf, tfo: false}
-  - {name: "@vpnclashfa - 293", server: 95.164.114.76, port: 31013, type: ss, cipher: chacha20-ietf-poly1305, password: heSfaKlqBfvDznKkyEKxvr, tfo: false}
-  - {name: "@vpnclashfa - 294", server: 78.40.116.11, port: 50589, type: ss, cipher: chacha20-ietf-poly1305, password: e0AuSSE9kqrZnpK1RgcuPt, tfo: false}
-  - {name: "@vpnclashfa - 294 2", server: 212.192.14.73, port: 65330, type: ss, cipher: chacha20-ietf-poly1305, password: hyeRslWhyBanRDW6PyTiSC, tfo: false}
-  - {name: "@vpnclashfa - 295", server: 91.239.208.204, port: 17477, type: ss, cipher: chacha20-ietf-poly1305, password: hzxQofNAcTk2xo2drzxpIE, tfo: false}
-  - {name: "@vpnclashfa - 295 2", server: 162.19.214.191, port: 59724, type: ss, cipher: chacha20-ietf-poly1305, password: e7yQKOelKM4UIJCZYLrzQX, tfo: false}
-  - {name: "@vpnclashfa - 298", server: mmd.radanjami.org, port: 37309, type: ss, cipher: chacha20-ietf-poly1305, password: jjmjdvnkfy9al8jb, tfo: false}
-  - {name: "@vpnclashfa - 30", server: 38.244.137.202, port: 45380, type: ss, cipher: chacha20-ietf-poly1305, password: 43fXf1uMKbIKkxoNYGQMtt, tfo: false}
-  - {name: "@vpnclashfa - 303", server: 82.38.31.181, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 305", server: 2.56.176.23, port: 4533, type: ss, cipher: chacha20-ietf-poly1305, password: gCX8nn3nm7qlzcrBuAnxrK, tfo: false}
-  - {name: "@vpnclashfa - 306", server: 82.38.31.185, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 307", server: 82.38.31.185, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 308", server: 145.249.109.148, port: 16548, type: ss, cipher: chacha20-ietf-poly1305, password: ge0S0k9UQZuJS4N5pEH80E, tfo: false}
-  - {name: "@vpnclashfa - 309", server: 195.66.27.148, port: 28709, type: ss, cipher: chacha20-ietf-poly1305, password: hShp1Km0NcFSmSigc8ozky, tfo: false}
-  - {name: "@vpnclashfa - 309 2", server: 82.38.31.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 311", server: 82.38.31.190, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 313", server: 82.38.31.192, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 313 2", server: 95.164.114.76, port: 31013, type: ss, cipher: chacha20-ietf-poly1305, password: heSfaKlqBfvDznKkyEKxvr, tfo: false}
-  - {name: "@vpnclashfa - 314", server: 212.192.14.73, port: 65330, type: ss, cipher: chacha20-ietf-poly1305, password: hyeRslWhyBanRDW6PyTiSC, tfo: false}
-  - {name: "@vpnclashfa - 314 2", server: 82.38.31.193, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 315", server: 82.38.31.194, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 316", server: 82.38.31.195, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 317", server: 62.60.233.220, port: 18685, type: ss, cipher: chacha20-ietf-poly1305, password: ixfXBq6dfMQQFiEz6PBcTy, tfo: false}
-  - {name: "@vpnclashfa - 317 2", server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 318", server: 82.38.31.200, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 32", server: m-iri.onlinevip1.ir, port: 2095, type: ss, cipher: chacha20-ietf-poly1305, password: 46fe359c8ced485792afc79a689b7aff, tfo: false}
-  - {name: "@vpnclashfa - 320", server: 82.38.31.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 321", server: 82.38.31.204, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 322", server: 82.38.31.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 323", server: 82.38.31.205, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 324", server: 82.38.31.181, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 325", server: 82.38.31.181, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 328", server: 82.38.31.213, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 329", server: 82.38.31.186, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 331", server: 82.38.31.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 331 2", server: 82.38.31.190, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 332", server: 82.38.31.190, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 334", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, tfo: false}
-  - {name: "@vpnclashfa - 336", server: 82.38.31.194, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 337", server: 82.38.31.195, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 337 2", server: 128.251.12.23, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: lghX3rcG7bqSQ8L6, tfo: false}
-  - {name: "@vpnclashfa - 339", server: 82.38.31.200, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 340", server: 54.238.207.188, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., tfo: false}
-  - {name: "@vpnclashfa - 341", server: 82.38.31.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 342", server: 77.105.166.12, port: 8594, type: ss, cipher: chacha20-ietf-poly1305, password: mSQiuT5jR17nyWgcXOPrTW, tfo: false}
-  - {name: "@vpnclashfa - 343", server: 195.54.161.168, port: 35561, type: ss, cipher: chacha20-ietf-poly1305, password: mRpeMFX4YwgdtAzVezDq1h, tfo: false}
-  - {name: "@vpnclashfa - 344", server: 46.8.231.216, port: 1010, type: ss, cipher: chacha20-ietf-poly1305, password: mdp65g6lfwphz2w6, tfo: false}
-  - {name: "@vpnclashfa - 344 2", server: 82.38.31.205, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 243 2", server: 83.217.9.17, port: 25232, type: ss, cipher: chacha20-ietf-poly1305, password: YHtXD4pojvormVWRiHgIfv, tfo: false}
+  - {name: "@vpnclashfa - 244", server: 83.147.216.70, port: 64519, type: ss, cipher: chacha20-ietf-poly1305, password: YXgS8ComTam7qoesPlzlMo, tfo: false}
+  - {name: "@vpnclashfa - 245", server: 108.181.121.226, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: WSyL4XTwNsdv, tfo: false}
+  - {name: "@vpnclashfa - 245 2", server: 62.133.63.154, port: 20255, type: ss, cipher: chacha20-ietf-poly1305, password: ZFqZH1cIw5jPRChWxlX36F, tfo: false}
+  - {name: "@vpnclashfa - 247", server: 4.250.57.235, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: WstuSnlu4ieA9M0L, tfo: false}
+  - {name: "@vpnclashfa - 248", server: 216.173.70.187, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: a58fa62b4944ddbf, tfo: false}
+  - {name: "@vpnclashfa - 248 2", server: 4.168.201.246, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: XEnZedp2mkTbT1qC, tfo: false}
+  - {name: "@vpnclashfa - 25", server: 193.29.139.157, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, tfo: false}
+  - {name: "@vpnclashfa - 252", server: bot.sobhanpor.ir, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: XySJ4pe3nLBMgDFOONhTlKHlJEbIpytj, tfo: false}
+  - {name: "@vpnclashfa - 254", server: 145.249.109.108, port: 18740, type: ss, cipher: chacha20-ietf-poly1305, password: YHalDvP1z5RriU6l4LngKi, tfo: false}
+  - {name: "@vpnclashfa - 255", server: USA.tiny1.cloud, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: aJrY225YM4FD8SOXlRjnIA, tfo: false}
+  - {name: "@vpnclashfa - 256", server: 83.147.216.70, port: 64519, type: ss, cipher: chacha20-ietf-poly1305, password: YXgS8ComTam7qoesPlzlMo, tfo: false}
+  - {name: "@vpnclashfa - 257", server: 62.133.63.154, port: 20255, type: ss, cipher: chacha20-ietf-poly1305, password: ZFqZH1cIw5jPRChWxlX36F, tfo: false}
+  - {name: "@vpnclashfa - 258", server: 93.152.207.248, port: 34242, type: ss, cipher: chacha20-ietf-poly1305, password: ZMCV3ECpby85V6wP9NMfkm, tfo: false}
+  - {name: "@vpnclashfa - 259", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, tfo: false}
+  - {name: "@vpnclashfa - 260", server: 104.167.197.23, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: afa22bb1050134b8, tfo: false}
+  - {name: "@vpnclashfa - 261", server: 141.164.63.32, port: 30936, type: ss, cipher: chacha20-ietf-poly1305, password: b25727df-15ea-453c-a006-13fe98fee1d2, tfo: false}
+  - {name: "@vpnclashfa - 261 2", server: 38.107.234.38, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: a58fa62b4944ddbf, tfo: false}
+  - {name: "@vpnclashfa - 263", server: 212.192.14.73, port: 65330, type: ss, cipher: chacha20-ietf-poly1305, password: b9zdJ5Jdth3j9O4qKAFtgS, tfo: false}
+  - {name: "@vpnclashfa - 263 2", server: 81.19.137.222, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: a58fa62b4944ddbf, tfo: false}
+  - {name: "@vpnclashfa - 266", server: 185.39.204.161, port: 33563, type: ss, cipher: chacha20-ietf-poly1305, password: bSlgCoGhApOb55tIMD0zxY, tfo: false}
+  - {name: "@vpnclashfa - 268", server: 130.0.233.100, port: 33610, type: ss, cipher: chacha20-ietf-poly1305, password: aRNFYKtLOnaPE5FCHI9ylr, tfo: false}
+  - {name: "@vpnclashfa - 268 2", server: 147.45.178.200, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: c40641c1f89e7acb, tfo: false}
+  - {name: "@vpnclashfa - 269", server: 62.133.63.222, port: 48981, type: ss, cipher: chacha20-ietf-poly1305, password: abC43WeNxuDAXdmQZdkwVx, tfo: false}
+  - {name: "@vpnclashfa - 272", server: 104.167.197.23, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: afa22bb1050134b8, tfo: false}
+  - {name: "@vpnclashfa - 272 2", server: 185.117.89.100, port: 5301, type: ss, cipher: chacha20-ietf-poly1305, password: cBnjBofanoSjdXF6qoZbvg, tfo: false}
+  - {name: "@vpnclashfa - 274", server: azjnac1.uksouth.cloudapp.azure.com, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: b2EJuconC460KllN, tfo: false}
+  - {name: "@vpnclashfa - 275", server: 212.192.14.73, port: 65330, type: ss, cipher: chacha20-ietf-poly1305, password: b9zdJ5Jdth3j9O4qKAFtgS, tfo: false}
+  - {name: "@vpnclashfa - 275 2", server: 193.29.139.164, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, tfo: false}
+  - {name: "@vpnclashfa - 278", server: 57.129.95.198, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: d6b0973401858b29, tfo: false}
+  - {name: "@vpnclashfa - 278 2", server: 185.39.204.161, port: 33563, type: ss, cipher: chacha20-ietf-poly1305, password: bSlgCoGhApOb55tIMD0zxY, tfo: false}
+  - {name: "@vpnclashfa - 279", server: 185.39.204.189, port: 34085, type: ss, cipher: chacha20-ietf-poly1305, password: depjSbjv2Uql6W4Vge7sDf, tfo: false}
+  - {name: "@vpnclashfa - 280", server: 147.45.178.200, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: c40641c1f89e7acb, tfo: false}
+  - {name: "@vpnclashfa - 281", server: 78.40.116.11, port: 50589, type: ss, cipher: chacha20-ietf-poly1305, password: e0AuSSE9kqrZnpK1RgcuPt, tfo: false}
+  - {name: "@vpnclashfa - 281 2", server: 46.226.163.225, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: c40641c1f89e7acb, tfo: false}
+  - {name: "@vpnclashfa - 282", server: 162.19.214.191, port: 59724, type: ss, cipher: chacha20-ietf-poly1305, password: e7yQKOelKM4UIJCZYLrzQX, tfo: false}
+  - {name: "@vpnclashfa - 282 2", server: 45.76.180.205, port: 31298, type: ss, cipher: chacha20-ietf-poly1305, password: c976721a-e390-4dbf-b4f9-72c3feb9594c, tfo: false}
+  - {name: "@vpnclashfa - 284", server: 185.117.89.100, port: 5301, type: ss, cipher: chacha20-ietf-poly1305, password: cBnjBofanoSjdXF6qoZbvg, tfo: false}
+  - {name: "@vpnclashfa - 285", server: 95.164.113.153, port: 5669, type: ss, cipher: chacha20-ietf-poly1305, password: cJvGkXLQg1TCouv8BmE0Xu, tfo: false}
+  - {name: "@vpnclashfa - 286", server: 213.156.137.142, port: 43660, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, tfo: false}
+  - {name: "@vpnclashfa - 286 2", server: 134.17.17.188, port: 38729, type: ss, cipher: chacha20-ietf-poly1305, password: elhXAAKJPv4Dhh73bulQzt, tfo: false}
+  - {name: "@vpnclashfa - 288", server: 193.29.139.164, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, tfo: false}
+  - {name: "@vpnclashfa - 290", server: 46.246.96.191, port: 15721, type: ss, cipher: chacha20-ietf-poly1305, password: fkZZaQfxglQEbFpiDyKEdN, tfo: false}
+  - {name: "@vpnclashfa - 290 2", server: 45.87.175.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, tfo: false}
+  - {name: "@vpnclashfa - 292", server: 212.192.14.226, port: 41968, type: ss, cipher: chacha20-ietf-poly1305, password: gC7aQv9DsENaVfKzTPDKYV, tfo: false}
+  - {name: "@vpnclashfa - 293", server: 145.249.109.148, port: 16548, type: ss, cipher: chacha20-ietf-poly1305, password: ge0S0k9UQZuJS4N5pEH80E, tfo: false}
+  - {name: "@vpnclashfa - 294", server: n2.cover20.ir, port: 13641, type: ss, cipher: chacha20-ietf-poly1305, password: gwTl9iSxaj6BeRn61LfQSMLAOhLA7IGnmYHx870cJVQ=, tfo: false}
+  - {name: "@vpnclashfa - 295", server: 137.74.119.18, port: 10443, type: ss, cipher: chacha20-ietf-poly1305, password: diOMBU5IDvJcFqyNPbRjYR, tfo: false}
+  - {name: "@vpnclashfa - 295 2", server: 195.66.27.148, port: 28709, type: ss, cipher: chacha20-ietf-poly1305, password: hShp1Km0NcFSmSigc8ozky, tfo: false}
+  - {name: "@vpnclashfa - 296", server: 78.40.116.11, port: 50589, type: ss, cipher: chacha20-ietf-poly1305, password: e0AuSSE9kqrZnpK1RgcuPt, tfo: false}
+  - {name: "@vpnclashfa - 297", server: 162.19.214.191, port: 59724, type: ss, cipher: chacha20-ietf-poly1305, password: e7yQKOelKM4UIJCZYLrzQX, tfo: false}
+  - {name: "@vpnclashfa - 297 2", server: 38.135.24.131, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, tfo: false}
+  - {name: "@vpnclashfa - 298", server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, tfo: false}
+  - {name: "@vpnclashfa - 298 2", server: 198.98.53.130, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: eDfN7SODQceIOmIAbtJJtK, tfo: false}
+  - {name: "@vpnclashfa - 299", server: 95.163.176.37, port: 8506, type: ss, cipher: chacha20-ietf-poly1305, password: eUh4lSpi7nOYj0vSrqLUh0, tfo: false}
+  - {name: "@vpnclashfa - 30", server: 205.134.180.151, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 5cp9Z3iWnJZ2, tfo: false}
+  - {name: "@vpnclashfa - 301", server: 134.17.17.188, port: 38729, type: ss, cipher: chacha20-ietf-poly1305, password: elhXAAKJPv4Dhh73bulQzt, tfo: false}
+  - {name: "@vpnclashfa - 303", server: 66.151.34.98, port: 57261, type: ss, cipher: chacha20-ietf-poly1305, password: jnjGx8tBSDAk1ErbjoRZFg, tfo: false}
+  - {name: "@vpnclashfa - 304", server: 95.164.123.39, port: 32821, type: ss, cipher: chacha20-ietf-poly1305, password: fBTl409Xqg3DwqKili0NQF, tfo: false}
+  - {name: "@vpnclashfa - 305", server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 306", server: 82.38.31.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 306 2", server: 46.246.96.191, port: 15721, type: ss, cipher: chacha20-ietf-poly1305, password: fkZZaQfxglQEbFpiDyKEdN, tfo: false}
+  - {name: "@vpnclashfa - 309", server: 82.38.31.181, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 310", server: 82.38.31.183, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 311", server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 312", server: 195.66.27.148, port: 28709, type: ss, cipher: chacha20-ietf-poly1305, password: hShp1Km0NcFSmSigc8ozky, tfo: false}
+  - {name: "@vpnclashfa - 313", server: 147.90.234.133, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, tfo: false}
+  - {name: "@vpnclashfa - 314", server: 38.135.24.131, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, tfo: false}
+  - {name: "@vpnclashfa - 314 2", server: 82.38.31.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 315", server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, tfo: false}
+  - {name: "@vpnclashfa - 317", server: 82.38.31.192, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 318", server: 82.38.31.193, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 318 2", server: 91.239.208.204, port: 17477, type: ss, cipher: chacha20-ietf-poly1305, password: hzxQofNAcTk2xo2drzxpIE, tfo: false}
+  - {name: "@vpnclashfa - 319", server: 62.60.233.220, port: 18685, type: ss, cipher: chacha20-ietf-poly1305, password: ixfXBq6dfMQQFiEz6PBcTy, tfo: false}
+  - {name: "@vpnclashfa - 320", server: 66.151.34.98, port: 57261, type: ss, cipher: chacha20-ietf-poly1305, password: jnjGx8tBSDAk1ErbjoRZFg, tfo: false}
+  - {name: "@vpnclashfa - 321", server: 45.87.175.158, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 322", server: 45.87.175.197, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 323", server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 324", server: 82.38.31.204, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 324 2", server: 82.38.31.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 326", server: 82.38.31.181, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 328", server: 82.38.31.183, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 328 2", server: 82.38.31.207, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 329", server: 82.38.31.208, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 331", server: 82.38.31.211, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 331 2", server: 82.38.31.186, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 333", server: 82.38.31.213, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 334", server: 82.38.31.191, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 338", server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 339", server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 340", server: 82.38.31.200, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 341", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, tfo: false}
+  - {name: "@vpnclashfa - 341 2", server: 82.38.31.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 342", server: 82.38.31.204, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 344", server: 82.38.31.205, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
   - {name: "@vpnclashfa - 345", server: 82.38.31.206, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 345 2", server: 13.41.41.26, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mps3FwmDjLrWaOVg, tfo: false}
-  - {name: "@vpnclashfa - 347", server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 348", server: 74.177.162.130, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mps3FwmDjLrWaOVg, tfo: false}
-  - {name: "@vpnclashfa - 351", server: 82.38.31.213, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 351 2", server: 178.130.46.148, port: 47345, type: ss, cipher: chacha20-ietf-poly1305, password: nGSRvZ5IsYcRNDpDtNVrkV, tfo: false}
-  - {name: "@vpnclashfa - 353", server: 82.38.31.215, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 354", server: 82.38.31.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 356", server: 82.38.31.219, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "@vpnclashfa - 356 2", server: 204.136.10.115, port: 1866, type: ss, cipher: chacha20-ietf-poly1305, password: oXGp1+ihlfKg826H, tfo: false}
-  - {name: "@vpnclashfa - 357", server: 64.176.85.73, port: 1866, type: ss, cipher: chacha20-ietf-poly1305, password: oXGp1+ihlfKg826H, tfo: false}
-  - {name: "@vpnclashfa - 359", server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, tfo: false}
-  - {name: "@vpnclashfa - 359 2", server: 193.29.139.141, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 36", server: 162.19.208.118, port: 50285, type: ss, cipher: chacha20-ietf-poly1305, password: 4anGtou86vGB7r1lOm5n8g, tfo: false}
-  - {name: "@vpnclashfa - 360", server: 128.251.12.23, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: lghX3rcG7bqSQ8L6, tfo: false}
-  - {name: "@vpnclashfa - 362", server: 193.29.139.188, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 364", server: 54.238.207.188, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., tfo: false}
-  - {name: "@vpnclashfa - 366", server: 77.105.166.12, port: 8594, type: ss, cipher: chacha20-ietf-poly1305, password: mSQiuT5jR17nyWgcXOPrTW, tfo: false}
-  - {name: "@vpnclashfa - 367", server: 193.29.139.240, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 368", server: 45.158.171.60, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 368 2", server: 46.8.231.216, port: 1010, type: ss, cipher: chacha20-ietf-poly1305, password: mdp65g6lfwphz2w6, tfo: false}
-  - {name: "@vpnclashfa - 370", server: 13.43.190.225, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mps3FwmDjLrWaOVg, tfo: false}
-  - {name: "@vpnclashfa - 372", server: 45.87.175.58, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 373", server: 45.87.175.92, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 378", server: 62.133.63.169, port: 37096, type: ss, cipher: chacha20-ietf-poly1305, password: oGmgmQoKE3xqSQFhU4Isuw, tfo: false}
-  - {name: "@vpnclashfa - 378 2", server: 82.38.31.149, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 380", server: 204.136.10.115, port: 1866, type: ss, cipher: chacha20-ietf-poly1305, password: oXGp1+ihlfKg826H, tfo: false}
-  - {name: "@vpnclashfa - 381", server: 82.38.31.17, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 384", server: 82.38.31.29, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 385", server: 82.38.31.32, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 386", server: 82.38.31.35, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 387", server: 82.38.31.35, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 387 2", server: 193.29.139.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 39", server: 95.142.47.40, port: 62238, type: ss, cipher: chacha20-ietf-poly1305, password: 5y5cwrCR8Iun5nlMSFS8uJ, tfo: false}
-  - {name: "@vpnclashfa - 392", server: 45.158.171.60, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 392 2", server: 82.38.31.46, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 393", server: 82.38.31.47, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 395", server: 45.87.175.28, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 396", server: 82.38.31.57, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 397", server: 45.87.175.92, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 398", server: 45.87.175.92, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 399", server: 82.38.31.7, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 401", server: 82.38.31.11, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 401 2", server: 46.246.97.195, port: 23931, type: ss, cipher: chacha20-ietf-poly1305, password: omCK6FBFuN5SGgX0gClju9, tfo: false}
-  - {name: "@vpnclashfa - 403", server: 87.120.108.28, port: 999, type: ss, cipher: chacha20-ietf-poly1305, password: pziaehtxed1ztfd3, tfo: false}
-  - {name: "@vpnclashfa - 403 2", server: 82.38.31.155, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 405", server: 82.38.31.17, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 406", server: 82.38.31.26, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 407", server: p4.hoomankh.info, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: rC5NNJ5kFygMGmeTwMMIPKC5b-j8YBfH, tfo: false}
-  - {name: "@vpnclashfa - 407 2", server: 82.38.31.28, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 408", server: 176.125.240.190, port: 42360, type: ss, cipher: chacha20-ietf-poly1305, password: rOJwOZ5X814i9F8xnyz7Mg, tfo: false}
-  - {name: "@vpnclashfa - 409", server: 62.133.63.167, port: 61377, type: ss, cipher: chacha20-ietf-poly1305, password: rXNC8o1Q6JcACLL3WTd405, tfo: false}
-  - {name: "@vpnclashfa - 410", server: 107.181.155.244, port: 55330, type: ss, cipher: chacha20-ietf-poly1305, password: rtR4YX74vwqRJu9MGH3e1N3CQdGMWCUFkyLisijiFuvhkU9McV5TpygfkernJ4UQe63JtcDQkrQ9HfchzqQz1kLCnTRor8jg, tfo: false}
-  - {name: "@vpnclashfa - 413", server: 145.249.109.121, port: 25512, type: ss, cipher: chacha20-ietf-poly1305, password: smSMfR9jqLgMkHuQtxSIWh, tfo: false}
-  - {name: "@vpnclashfa - 413 2", server: 82.38.31.35, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 414", server: 103.149.182.105, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, tfo: false}
-  - {name: "@vpnclashfa - 414 2", server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 416", server: 153.121.43.183, port: 10087, type: ss, cipher: aes-128-gcm, password: !<str> 10086, tfo: false}
-  - {name: "@vpnclashfa - 418", server: 82.38.31.46, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 419", server: 36.133.194.43, port: 6607, type: ss, cipher: aes-128-gcm, password: 269f71b9-c45b-43f3-8c48-eb5f986aa707, tfo: false}
-  - {name: "@vpnclashfa - 419 2", server: 82.38.31.47, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 42", server: admin.c4.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 69MUii7VDwMqh7Hz, tfo: false}
-  - {name: "@vpnclashfa - 420", server: 82.38.31.47, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 422", server: 172.245.180.193, port: 16899, type: ss, cipher: aes-128-gcm, password: Yc2CtrIz8L, tfo: false}
-  - {name: "@vpnclashfa - 425", server: 82.38.31.7, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: "@vpnclashfa - 426", server: 141.98.101.179, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
-  - {name: "@vpnclashfa - 428", server: 71.19.148.143, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: p78naCf2EfOlRSLTX0wFVx, tfo: false}
-  - {name: "@vpnclashfa - 429", server: 149.22.87.240, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
-  - {name: "@vpnclashfa - 429 2", server: 87.120.108.28, port: 999, type: ss, cipher: chacha20-ietf-poly1305, password: pziaehtxed1ztfd3, tfo: false}
-  - {name: "@vpnclashfa - 431", server: 20.223.221.41, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: qkRNNhsIrzU6qnkL, tfo: false}
-  - {name: "@vpnclashfa - 433", server: 149.34.244.68, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
-  - {name: "@vpnclashfa - 433 2", server: p4.hoomankh.info, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: rC5NNJ5kFygMGmeTwMMIPKC5b-j8YBfH, tfo: false}
-  - {name: "@vpnclashfa - 434", server: 149.34.244.71, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
-  - {name: "@vpnclashfa - 434 2", server: 176.125.240.190, port: 42360, type: ss, cipher: chacha20-ietf-poly1305, password: rOJwOZ5X814i9F8xnyz7Mg, tfo: false}
-  - {name: "@vpnclashfa - 435", server: 156.146.38.169, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
-  - {name: "@vpnclashfa - 435 2", server: 62.133.63.167, port: 61377, type: ss, cipher: chacha20-ietf-poly1305, password: rXNC8o1Q6JcACLL3WTd405, tfo: false}
-  - {name: "@vpnclashfa - 436", server: 107.181.155.244, port: 55330, type: ss, cipher: chacha20-ietf-poly1305, password: rtR4YX74vwqRJu9MGH3e1N3CQdGMWCUFkyLisijiFuvhkU9McV5TpygfkernJ4UQe63JtcDQkrQ9HfchzqQz1kLCnTRor8jg, tfo: false}
-  - {name: "@vpnclashfa - 437", server: 193.43.104.64, port: 32941, type: ss, cipher: chacha20-ietf-poly1305, password: ryemW70bc7ejzSjmYhFZav, tfo: false}
-  - {name: "@vpnclashfa - 438", server: 158.173.20.171, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
-  - {name: "@vpnclashfa - 439", server: 145.249.109.121, port: 25512, type: ss, cipher: chacha20-ietf-poly1305, password: smSMfR9jqLgMkHuQtxSIWh, tfo: false}
-  - {name: "@vpnclashfa - 439 2", server: 212.102.47.129, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
-  - {name: "@vpnclashfa - 440", server: 103.149.182.105, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, tfo: false}
-  - {name: "@vpnclashfa - 441", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, tfo: false}
-  - {name: "@vpnclashfa - 441 2", server: 212.102.53.193, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
-  - {name: "@vpnclashfa - 442", server: 212.102.53.195, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
-  - {name: "@vpnclashfa - 452", server: 15.188.74.101, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: "@vpnclashfa - 453", server: 141.98.101.181, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
-  - {name: "@vpnclashfa - 455", server: 149.22.87.240, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
-  - {name: "@vpnclashfa - 457", server: 3.145.57.90, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: "@vpnclashfa - 461", server: 156.146.38.169, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
-  - {name: "@vpnclashfa - 461 2", server: 35.156.204.162, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: "@vpnclashfa - 463", server: 52.14.162.98, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: "@vpnclashfa - 465", server: 54.247.223.103, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: "@vpnclashfa - 465 2", server: 212.102.47.129, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
-  - {name: "@vpnclashfa - 466", server: 212.102.47.132, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
-  - {name: "@vpnclashfa - 468", server: 185.153.197.5, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, tfo: false}
-  - {name: "@vpnclashfa - 47", server: 5.181.2.74, port: 45977, type: ss, cipher: chacha20-ietf-poly1305, password: 7GlG7tOauotFCqY0TQZ3gE, tfo: false}
-  - {name: "@vpnclashfa - 470", server: 141.98.101.181, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
-  - {name: "@vpnclashfa - 471", server: 149.22.87.241, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
-  - {name: "@vpnclashfa - 471 2", server: 61.171.92.202, port: 1001, type: ss, cipher: aes-256-gcm, password: !<str> 123, tfo: false}
-  - {name: "@vpnclashfa - 472", server: 195.133.23.27, port: 20111, type: ss, cipher: aes-256-gcm, password: 1a87017d0bf57f34, tfo: false}
-  - {name: "@vpnclashfa - 474", server: 5.129.219.21, port: 8080, type: ss, cipher: aes-128-gcm, password: tKko+YIAuuZ3d0hsPX2+D3NqepytG1Ha0VRLwBrf0Ak=, tfo: false}
-  - {name: "@vpnclashfa - 478", server: de5.taskflowhub.org, port: 2083, type: ss, cipher: aes-256-gcm, password: 7NuB0Y5m3aNzkKMKlFoMwkiajsu6F36c9ok4VKEZnB4=, tfo: false}
-  - {name: "@vpnclashfa - 479", server: 18.133.180.164, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: "@vpnclashfa - 479 2", server: 51.222.157.179, port: 49602, type: ss, cipher: aes-256-gcm, password: 7gaTTlW73G, tfo: false}
-  - {name: "@vpnclashfa - 480", server: 18.159.196.187, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: "@vpnclashfa - 481", server: c331s1.portablesubmarines.com, port: 8505, type: ss, cipher: aes-256-gcm, password: 87xvPPL2WVWnKcse, tfo: false}
-  - {name: "@vpnclashfa - 483", server: 120.241.239.79, port: 23001, type: ss, cipher: aes-256-gcm, password: 8ddc0a47-9a7f-41e1-adf7-f6322276c1ca, tfo: false}
-  - {name: "@vpnclashfa - 484", server: 38.65.93.241, port: 17525, type: ss, cipher: aes-256-gcm, password: 9992b78c6a1122b3aa364721af799807, tfo: false}
-  - {name: "@vpnclashfa - 485", server: 3.75.172.120, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: "@vpnclashfa - 487", server: 35.156.204.162, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: "@vpnclashfa - 489", server: 52.14.162.98, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: "@vpnclashfa - 489 2", server: 38.114.114.19, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, tfo: false}
-  - {name: "@vpnclashfa - 490", server: 38.114.114.67, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, tfo: false}
-  - {name: "@vpnclashfa - 491", server: 54.247.223.103, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: "@vpnclashfa - 495", server: 23.154.136.100, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, tfo: false}
-  - {name: "@vpnclashfa - 495 2", server: 162.19.25.207, port: 34232, type: ss, cipher: aes-256-gcm, password: 3b9ktZGztC, tfo: false}
-  - {name: "@vpnclashfa - 496", server: 23.94.76.55, port: 51981, type: ss, cipher: aes-256-gcm, password: 06gZKkeC2J, tfo: false}
-  - {name: "@vpnclashfa - 500", server: 23.157.40.113, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, tfo: false}
-  - {name: "@vpnclashfa - 501", server: 94.156.250.148, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, tfo: false}
-  - {name: "@vpnclashfa - 502", server: 23.154.136.132, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, tfo: false}
-  - {name: "@vpnclashfa - 502 2", server: 57.131.28.246, port: 2083, type: ss, cipher: aes-256-gcm, password: 34fItyZyz69uIrxkJ+cLR1pdclvG628pv8+fzUNTIC0=, tfo: false}
-  - {name: "@vpnclashfa - 504", server: de5.taskflowhub.org, port: 2083, type: ss, cipher: aes-256-gcm, password: 7NuB0Y5m3aNzkKMKlFoMwkiajsu6F36c9ok4VKEZnB4=, tfo: false}
-  - {name: "@vpnclashfa - 504 2", server: 38.114.114.19, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, tfo: false}
-  - {name: "@vpnclashfa - 505", server: 51.222.157.179, port: 49602, type: ss, cipher: aes-256-gcm, password: 7gaTTlW73G, tfo: false}
-  - {name: "@vpnclashfa - 506", server: 67.220.85.74, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, tfo: false}
+  - {name: "@vpnclashfa - 345 2", server: 194.59.183.134, port: 46114, type: ss, cipher: chacha20-ietf-poly1305, password: lejSRyqa033OEPmEQsvRsl, tfo: false}
+  - {name: "@vpnclashfa - 346", server: 82.38.31.207, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 347", server: 82.38.31.208, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 347 2", server: 54.238.207.188, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., tfo: false}
+  - {name: "@vpnclashfa - 348", server: 3.112.130.53, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., tfo: false}
+  - {name: "@vpnclashfa - 349", server: 82.38.31.211, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 351", server: 62.210.88.22, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mjnZvPS0kp0wTefRahNv92, tfo: false}
+  - {name: "@vpnclashfa - 354", server: 18.168.60.138, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mps3FwmDjLrWaOVg, tfo: false}
+  - {name: "@vpnclashfa - 354 2", server: 82.38.31.215, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 355", server: 82.38.31.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 355 2", server: 74.177.162.130, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mps3FwmDjLrWaOVg, tfo: false}
+  - {name: "@vpnclashfa - 356", server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mps3FwmDjLrWaOVg, tfo: false}
+  - {name: "@vpnclashfa - 356 2", server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 357", server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 358", server: 82.38.31.219, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "@vpnclashfa - 358 2", server: 178.130.46.148, port: 47345, type: ss, cipher: chacha20-ietf-poly1305, password: nGSRvZ5IsYcRNDpDtNVrkV, tfo: false}
+  - {name: "@vpnclashfa - 359", server: 168.63.68.5, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: ntxb1jHgYlCB6Cm2, tfo: false}
+  - {name: "@vpnclashfa - 361", server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, tfo: false}
+  - {name: "@vpnclashfa - 365", server: 64.176.85.73, port: 1866, type: ss, cipher: chacha20-ietf-poly1305, password: oXGp1+ihlfKg826H, tfo: false}
+  - {name: "@vpnclashfa - 366", server: 103.104.247.47, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 367", server: 193.29.139.141, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 368", server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 368 2", server: 77.105.166.12, port: 8594, type: ss, cipher: chacha20-ietf-poly1305, password: mSQiuT5jR17nyWgcXOPrTW, tfo: false}
+  - {name: "@vpnclashfa - 370", server: 193.29.139.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 372", server: 18.168.113.45, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mps3FwmDjLrWaOVg, tfo: false}
+  - {name: "@vpnclashfa - 372 2", server: 193.29.139.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 374", server: 193.29.139.235, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 375", server: 193.29.139.235, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 376", server: 193.29.139.240, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 376 2", server: series-a2.varzesh360.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mps3FwmDjLrWaOVg, tfo: false}
+  - {name: "@vpnclashfa - 377", server: 178.130.46.148, port: 47345, type: ss, cipher: chacha20-ietf-poly1305, password: nGSRvZ5IsYcRNDpDtNVrkV, tfo: false}
+  - {name: "@vpnclashfa - 378", server: 168.63.68.5, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: ntxb1jHgYlCB6Cm2, tfo: false}
+  - {name: "@vpnclashfa - 379", server: 45.87.175.22, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 38", server: 51.75.168.50, port: 26179, type: ss, cipher: chacha20-ietf-poly1305, password: 78b6e93e54225803, tfo: false}
+  - {name: "@vpnclashfa - 381", server: 45.87.175.58, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 383", server: 45.87.175.92, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 384", server: 82.38.31.10, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 385", server: 103.104.247.47, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 387", server: 82.38.31.155, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 388", server: 82.38.31.15, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 389", server: 82.38.31.164, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 390", server: 82.38.31.17, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 390 2", server: 193.29.139.188, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 392", server: 82.38.31.28, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 392 2", server: 193.29.139.209, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 396", server: 45.158.171.60, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 397", server: 82.38.31.35, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 397 2", server: 45.158.171.70, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 398", server: 82.38.31.35, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 398 2", server: 45.87.175.22, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 399", server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 40", server: 45.144.31.24, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 7HQ8w1YWMdNjq68bZt1tNfpDHLFA1BPA, tfo: false}
+  - {name: "@vpnclashfa - 402", server: 82.38.31.3, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 403", server: 82.38.31.10, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 403 2", server: 82.38.31.47, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 404", server: 82.38.31.11, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 404 2", server: 82.38.31.47, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 405", server: 82.38.31.149, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 405 2", server: 82.38.31.57, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 406", server: 82.38.31.155, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 406 2", server: 82.38.31.57, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 407", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 410", server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 410 2", server: 82.38.31.18, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 411", server: 82.38.31.26, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 412", server: 82.38.31.28, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 415", server: 62.60.233.220, port: 18685, type: ss, cipher: chacha20-ietf-poly1305, password: qXsc4kwL4QFPd2PymKd06w, tfo: false}
+  - {name: "@vpnclashfa - 416", server: 217.196.103.206, port: 29312, type: ss, cipher: chacha20-ietf-poly1305, password: qgpdyzHj8rZW9fDxxkUHRI, tfo: false}
+  - {name: "@vpnclashfa - 416 2", server: 82.38.31.34, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 417", server: 2.59.163.105, port: 2222, type: ss, cipher: chacha20-ietf-poly1305, password: qscavF5UviIL-8V-E4raBA, tfo: false}
+  - {name: "@vpnclashfa - 42", server: 185.191.118.33, port: 51523, type: ss, cipher: chacha20-ietf-poly1305, password: 7SEstdmLhf-aFK_G9eaYHKT_YpSov58B, tfo: false}
+  - {name: "@vpnclashfa - 420", server: 107.181.155.244, port: 55330, type: ss, cipher: chacha20-ietf-poly1305, password: rtR4YX74vwqRJu9MGH3e1N3CQdGMWCUFkyLisijiFuvhkU9McV5TpygfkernJ4UQe63JtcDQkrQ9HfchzqQz1kLCnTRor8jg, tfo: false}
+  - {name: "@vpnclashfa - 420 2", server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 421", server: 193.43.104.64, port: 32941, type: ss, cipher: chacha20-ietf-poly1305, password: ryemW70bc7ejzSjmYhFZav, tfo: false}
+  - {name: "@vpnclashfa - 421 2", server: 82.38.31.39, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 422", server: 178.128.195.253, port: 10070, type: ss, cipher: chacha20-ietf-poly1305, password: sarbazanshahid, tfo: false}
+  - {name: "@vpnclashfa - 422 2", server: 82.38.31.3, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 423", server: 145.249.109.121, port: 25512, type: ss, cipher: chacha20-ietf-poly1305, password: smSMfR9jqLgMkHuQtxSIWh, tfo: false}
+  - {name: "@vpnclashfa - 426", server: 82.38.31.57, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 427", server: 153.121.43.183, port: 10087, type: ss, cipher: aes-128-gcm, password: !<str> 10086, tfo: false}
+  - {name: "@vpnclashfa - 427 2", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 428", server: 82.38.31.66, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 428 2", server: 82.180.146.173, port: 30607, type: ss, cipher: aes-128-gcm, password: 162629d7-cb17-43b1-82c9-f9c7ae6cba70, tfo: false}
+  - {name: "@vpnclashfa - 430", server: 36.133.194.43, port: 6607, type: ss, cipher: aes-128-gcm, password: 269f71b9-c45b-43f3-8c48-eb5f986aa707, tfo: false}
+  - {name: "@vpnclashfa - 430 2", server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "@vpnclashfa - 431", server: 46.246.97.195, port: 23931, type: ss, cipher: chacha20-ietf-poly1305, password: omCK6FBFuN5SGgX0gClju9, tfo: false}
+  - {name: "@vpnclashfa - 432", server: 71.19.148.143, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: p78naCf2EfOlRSLTX0wFVx, tfo: false}
+  - {name: "@vpnclashfa - 434", server: 135.125.113.81, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: q6bhpyjk0o352x7i, tfo: false}
+  - {name: "@vpnclashfa - 435", server: 62.60.233.220, port: 18685, type: ss, cipher: chacha20-ietf-poly1305, password: qXsc4kwL4QFPd2PymKd06w, tfo: false}
+  - {name: "@vpnclashfa - 436", server: 217.196.103.206, port: 29312, type: ss, cipher: chacha20-ietf-poly1305, password: qgpdyzHj8rZW9fDxxkUHRI, tfo: false}
+  - {name: "@vpnclashfa - 437", server: 2.59.163.105, port: 2222, type: ss, cipher: chacha20-ietf-poly1305, password: qscavF5UviIL-8V-E4raBA, tfo: false}
+  - {name: "@vpnclashfa - 438", server: 149.22.87.240, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: "@vpnclashfa - 438 2", server: 176.125.240.190, port: 42360, type: ss, cipher: chacha20-ietf-poly1305, password: rOJwOZ5X814i9F8xnyz7Mg, tfo: false}
+  - {name: "@vpnclashfa - 439", server: 62.133.63.167, port: 61377, type: ss, cipher: chacha20-ietf-poly1305, password: rXNC8o1Q6JcACLL3WTd405, tfo: false}
+  - {name: "@vpnclashfa - 44", server: bot.sobhanpor.ir, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 7TG0mOU5RIj7H1DwSQDy9J0VTexlsLJV, tfo: false}
+  - {name: "@vpnclashfa - 440", server: 149.22.87.241, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: "@vpnclashfa - 442", server: 178.128.195.253, port: 10070, type: ss, cipher: chacha20-ietf-poly1305, password: sarbazanshahid, tfo: false}
+  - {name: "@vpnclashfa - 444", server: 156.146.38.169, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: "@vpnclashfa - 447", server: 212.102.47.132, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: "@vpnclashfa - 447 2", server: 153.121.43.183, port: 10087, type: ss, cipher: aes-128-gcm, password: !<str> 10086, tfo: false}
+  - {name: "@vpnclashfa - 450", server: 212.102.53.78, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: "@vpnclashfa - 450 2", server: 36.133.194.43, port: 6607, type: ss, cipher: aes-128-gcm, password: 269f71b9-c45b-43f3-8c48-eb5f986aa707, tfo: false}
+  - {name: "@vpnclashfa - 451", server: 212.102.53.79, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: "@vpnclashfa - 451 2", server: 36.133.54.28, port: 6607, type: ss, cipher: aes-128-gcm, password: 269f71b9-c45b-43f3-8c48-eb5f986aa707, tfo: false}
+  - {name: "@vpnclashfa - 452", server: 82.180.146.173, port: 35652, type: ss, cipher: aes-128-gcm, password: 93498539-7838-4836-b9b3-8311ffc79bcf, tfo: false}
+  - {name: "@vpnclashfa - 452 2", server: 141.98.101.181, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: "@vpnclashfa - 454", server: 158.173.20.208, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: "@vpnclashfa - 454 2", server: 141.98.101.178, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: "@vpnclashfa - 456", server: 141.98.101.179, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: "@vpnclashfa - 457", server: 149.22.87.204, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: "@vpnclashfa - 458", server: 13.38.46.189, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: "@vpnclashfa - 458 2", server: 149.22.87.240, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: "@vpnclashfa - 459", server: 15.188.74.101, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: "@vpnclashfa - 460", server: 18.133.180.164, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: "@vpnclashfa - 461", server: 18.159.196.187, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: "@vpnclashfa - 461 2", server: 149.22.95.183, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: "@vpnclashfa - 463", server: 149.34.244.71, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: "@vpnclashfa - 464", server: 3.145.57.90, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: "@vpnclashfa - 465", server: 156.146.62.164, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: "@vpnclashfa - 467", server: 3.77.54.36, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: "@vpnclashfa - 467 2", server: 212.102.47.132, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: "@vpnclashfa - 468", server: 35.156.204.162, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: "@vpnclashfa - 47", server: bot.sobhanpor.ir, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 7aPU9cCng7FFnYwPF98rLIjDo3ZBzlqs, tfo: false}
+  - {name: "@vpnclashfa - 470", server: 52.14.162.98, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: "@vpnclashfa - 472", server: 141.98.101.181, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: "@vpnclashfa - 474", server: 63.177.252.44, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: "@vpnclashfa - 474 2", server: 158.173.20.208, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: "@vpnclashfa - 475", server: 158.173.24.73, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: "@vpnclashfa - 475 2", server: 63.180.174.194, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: "@vpnclashfa - 476", server: 185.153.197.5, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, tfo: false}
+  - {name: "@vpnclashfa - 476 2", server: 5.129.219.21, port: 8080, type: ss, cipher: aes-128-gcm, password: tKko+YIAuuZ3d0hsPX2+D3NqepytG1Ha0VRLwBrf0Ak=, tfo: false}
+  - {name: "@vpnclashfa - 48", server: bot.sobhanpor.ir, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 7aPU9cCng7FFnYwPF98rLIjDo3ZBzlqs, tfo: false}
+  - {name: "@vpnclashfa - 481", server: 18.159.196.187, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: "@vpnclashfa - 485", server: de5.taskflowhub.org, port: 2083, type: ss, cipher: aes-256-gcm, password: 7NuB0Y5m3aNzkKMKlFoMwkiajsu6F36c9ok4VKEZnB4=, tfo: false}
+  - {name: "@vpnclashfa - 485 2", server: 3.252.208.74, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: "@vpnclashfa - 486", server: 120.241.239.87, port: 16008, type: ss, cipher: aes-256-gcm, password: 5d1fcbee-ba62-4f1e-8b7d-463b788a52a9, tfo: false}
+  - {name: "@vpnclashfa - 487", server: 3.77.54.36, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: "@vpnclashfa - 487 2", server: c331s1.portablesubmarines.com, port: 8505, type: ss, cipher: aes-256-gcm, password: 87xvPPL2WVWnKcse, tfo: false}
+  - {name: "@vpnclashfa - 489", server: 35.180.122.124, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: "@vpnclashfa - 490", server: 52.14.162.98, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: "@vpnclashfa - 491", server: 107.173.192.238, port: 9875, type: ss, cipher: aes-256-gcm, password: BoiX102924, tfo: false}
+  - {name: "@vpnclashfa - 495", server: 63.180.174.194, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: "@vpnclashfa - 496", server: 38.111.114.133, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, tfo: false}
+  - {name: "@vpnclashfa - 496 2", server: 185.153.197.5, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, tfo: false}
+  - {name: "@vpnclashfa - 497", server: 38.114.114.69, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, tfo: false}
+  - {name: "@vpnclashfa - 498", server: 95.38.186.235, port: 11116, type: ss, cipher: aes-256-gcm, password: MTRkMDQ3YmQzYzU1ZGVhMmRmODIyNzAwYmYwZWI5, tfo: false}
+  - {name: "@vpnclashfa - 499", server: 188.121.102.216, port: 9124, type: ss, cipher: aes-256-gcm, password: MTYxMzU2Y2RiZDY5NTg0ZjQ0NGQ3ODM4NDUwZDVj, tfo: false}
+  - {name: "@vpnclashfa - 50", server: 61.231.34.200, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, tfo: false}
+  - {name: "@vpnclashfa - 500", server: 195.133.23.27, port: 20111, type: ss, cipher: aes-256-gcm, password: 1a87017d0bf57f34, tfo: false}
+  - {name: "@vpnclashfa - 501", server: 195.133.23.27, port: 20129, type: ss, cipher: aes-256-gcm, password: 1a87017d0bf57f34, tfo: false}
+  - {name: "@vpnclashfa - 504", server: 23.157.40.103, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, tfo: false}
+  - {name: "@vpnclashfa - 505", server: 38.110.1.43, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, tfo: false}
+  - {name: "@vpnclashfa - 506", server: 38.114.114.207, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, tfo: false}
   - {name: "@vpnclashfa - 507", server: c331s1.portablesubmarines.com, port: 8505, type: ss, cipher: aes-256-gcm, password: 87xvPPL2WVWnKcse, tfo: false}
+  - {name: "@vpnclashfa - 508", server: 23.154.136.132, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, tfo: false}
   - {name: "@vpnclashfa - 509", server: 120.241.239.79, port: 23001, type: ss, cipher: aes-256-gcm, password: 8ddc0a47-9a7f-41e1-adf7-f6322276c1ca, tfo: false}
-  - {name: "@vpnclashfa - 511", server: 69.50.93.100, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, tfo: false}
-  - {name: "@vpnclashfa - 513", server: 23.150.152.56, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
-  - {name: "@vpnclashfa - 514", server: 23.154.136.132, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
-  - {name: "@vpnclashfa - 515", server: 23.157.40.113, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
-  - {name: "@vpnclashfa - 518", server: 188.121.102.216, port: 9124, type: ss, cipher: aes-256-gcm, password: MTYxMzU2Y2RiZDY5NTg0ZjQ0NGQ3ODM4NDUwZDVj, tfo: false}
-  - {name: "@vpnclashfa - 519", server: 95.38.186.235, port: 9114, type: ss, cipher: aes-256-gcm, password: MzhjNTFhOTVlYzYwMTI5YWY0YzU1MTIwYmZkNjJj, tfo: false}
-  - {name: "@vpnclashfa - 519 2", server: 69.50.93.118, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
-  - {name: "@vpnclashfa - 52", server: bot.sobhanpor.ir, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 7TG0mOU5RIj7H1DwSQDy9J0VTexlsLJV, tfo: false}
-  - {name: "@vpnclashfa - 520", server: 167.88.63.82, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, tfo: false}
-  - {name: "@vpnclashfa - 521", server: 23.154.136.100, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, tfo: false}
-  - {name: "@vpnclashfa - 522", server: 92.118.205.211, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
-  - {name: "@vpnclashfa - 523", server: 38.114.114.69, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, tfo: false}
-  - {name: "@vpnclashfa - 524", server: 38.121.43.71, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, tfo: false}
-  - {name: "@vpnclashfa - 524 2", server: 23.157.40.89, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, tfo: false}
-  - {name: "@vpnclashfa - 526", server: 23.157.40.113, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, tfo: false}
+  - {name: "@vpnclashfa - 51", server: 61.231.0.83, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, tfo: false}
+  - {name: "@vpnclashfa - 510", server: 23.157.40.113, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, tfo: false}
+  - {name: "@vpnclashfa - 511", server: 107.173.192.238, port: 9875, type: ss, cipher: aes-256-gcm, password: BoiX102924, tfo: false}
+  - {name: "@vpnclashfa - 511 2", server: 38.114.114.69, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, tfo: false}
+  - {name: "@vpnclashfa - 512", server: 15.204.87.225, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, tfo: false}
+  - {name: "@vpnclashfa - 512 2", server: 38.75.136.21, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, tfo: false}
+  - {name: "@vpnclashfa - 514", server: 15.204.87.222, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, tfo: false}
+  - {name: "@vpnclashfa - 514 2", server: 23.154.136.132, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, tfo: false}
+  - {name: "@vpnclashfa - 516", server: 23.150.152.24, port: 9090, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
+  - {name: "@vpnclashfa - 518", server: 95.38.186.235, port: 11116, type: ss, cipher: aes-256-gcm, password: MTRkMDQ3YmQzYzU1ZGVhMmRmODIyNzAwYmYwZWI5, tfo: false}
+  - {name: "@vpnclashfa - 518 2", server: 23.154.136.132, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
+  - {name: "@vpnclashfa - 519", server: 23.157.40.113, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
+  - {name: "@vpnclashfa - 52", server: r3mrcg001286ek2.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, tfo: false}
+  - {name: "@vpnclashfa - 520", server: 38.110.1.105, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
+  - {name: "@vpnclashfa - 520 2", server: 23.154.136.100, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, tfo: false}
+  - {name: "@vpnclashfa - 521", server: 38.114.114.69, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
+  - {name: "@vpnclashfa - 521 2", server: 38.75.136.21, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, tfo: false}
+  - {name: "@vpnclashfa - 522", server: 38.121.43.71, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
+  - {name: "@vpnclashfa - 523", server: 23.154.136.162, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, tfo: false}
+  - {name: "@vpnclashfa - 524", server: 23.157.40.103, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, tfo: false}
+  - {name: "@vpnclashfa - 525", server: 38.75.136.21, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
+  - {name: "@vpnclashfa - 526", server: 38.86.135.31, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
   - {name: "@vpnclashfa - 527", server: 94.156.250.148, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, tfo: false}
-  - {name: "@vpnclashfa - 528", server: 46.17.40.13, port: 20111, type: ss, cipher: aes-256-gcm, password: b24a80e79cee1d1f, tfo: false}
-  - {name: "@vpnclashfa - 529", server: 23.150.152.16, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, tfo: false}
-  - {name: "@vpnclashfa - 529 2", server: 23.157.40.5, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, tfo: false}
-  - {name: "@vpnclashfa - 53", server: bot.sobhanpor.ir, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 7aPU9cCng7FFnYwPF98rLIjDo3ZBzlqs, tfo: false}
-  - {name: "@vpnclashfa - 53 2", server: 51.75.89.203, port: 13021, type: ss, cipher: chacha20-ietf-poly1305, password: 7a57a403f1acaea1, tfo: false}
-  - {name: "@vpnclashfa - 531", server: 195.133.23.45, port: 60129, type: ss, cipher: aes-256-gcm, password: fbaf33bcffe53cf9, tfo: false}
-  - {name: "@vpnclashfa - 531 2", server: 38.64.138.145, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, tfo: false}
-  - {name: "@vpnclashfa - 532", server: 67.220.85.74, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, tfo: false}
-  - {name: "@vpnclashfa - 532 2", server: 149.202.82.172, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, tfo: false}
-  - {name: "@vpnclashfa - 533", server: 15.204.87.222, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, tfo: false}
-  - {name: "@vpnclashfa - 537", server: 38.68.134.202, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, tfo: false}
-  - {name: "@vpnclashfa - 538", server: 38.114.114.19, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, tfo: false}
-  - {name: "@vpnclashfa - 538 2", server: 38.114.114.69, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, tfo: false}
-  - {name: "@vpnclashfa - 539", server: 23.150.152.56, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
-  - {name: "@vpnclashfa - 542", server: 38.86.135.31, port: 5499, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV, tfo: false}
-  - {name: "@vpnclashfa - 543", server: 38.244.132.14, port: 5499, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV, tfo: false}
-  - {name: "@vpnclashfa - 544", server: 38.121.43.71, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
-  - {name: "@vpnclashfa - 546", server: 38.121.43.142, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, tfo: false}
-  - {name: "@vpnclashfa - 551", server: 23.157.40.95, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, tfo: false}
-  - {name: "@vpnclashfa - 552", server: 84.200.91.158, port: 443, type: ss, cipher: aes-256-gcm, password: a742bd85-0f97-42bd-891f-aa00dbd1a461, tfo: false}
-  - {name: "@vpnclashfa - 554", server: 127.0.0.1, port: 1080, type: ss, cipher: none, password: bcbacaa-acab-caba-bcad-baaaccbcabbc, tfo: false}
-  - {name: "@vpnclashfa - 554 2", server: 46.17.40.13, port: 20111, type: ss, cipher: aes-256-gcm, password: b24a80e79cee1d1f, tfo: false}
-  - {name: "@vpnclashfa - 555", server: 127.0.0.1, port: 8080, type: ss, cipher: none, password: baaabcc-bcaa-abca-dacb-bbaccacabcba, tfo: false}
-  - {name: "@vpnclashfa - 555 2", server: 23.150.152.16, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, tfo: false}
-  - {name: "@vpnclashfa - 556", server: 127.0.0.1, port: 8080, type: ss, cipher: none, password: bbccaaa-baac-caba-acbd-bcaacaccbabb, tfo: false}
-  - {name: "@vpnclashfa - 559", server: 15.204.87.222, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, tfo: false}
-  - {name: "@vpnclashfa - 56", server: 36.224.169.242, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, tfo: false}
-  - {name: "@vpnclashfa - 561", server: 23.150.152.24, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, tfo: false}
-  - {name: "@vpnclashfa - 561 2", server: free.2weradf.xyz, port: 36471, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTZhNmI0NS03MWRjLTQwNTMtYjgzNi05M2ZjODU5NTEzNGU, tfo: false}
-  - {name: "@vpnclashfa - 562", server: 23.154.136.132, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, tfo: false}
-  - {name: "@vpnclashfa - 563", server: free.2weradf.xyz, port: 36641, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTZhNmI0NS03MWRjLTQwNTMtYjgzNi05M2ZjODU5NTEzNGU, tfo: false}
-  - {name: "@vpnclashfa - 564", server: 38.114.114.69, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, tfo: false}
-  - {name: "@vpnclashfa - 564 2", server: free.2weradf.xyz, port: 36671, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTZhNmI0NS03MWRjLTQwNTMtYjgzNi05M2ZjODU5NTEzNGU, tfo: false}
-  - {name: "@vpnclashfa - 566", server: 154.3.8.151, port: 30067, type: ss, cipher: aes-256-gcm, password: iUB0923RBA, tfo: false}
-  - {name: "@vpnclashfa - 568", server: free.2weradf.xyz, port: 36215, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTljYzhmZi0yNjY1LTQ0MjEtODc5MS05YzY0YzU1MDg3MTg, tfo: false}
-  - {name: "@vpnclashfa - 568 2", server: 38.86.135.31, port: 5499, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV, tfo: false}
-  - {name: "@vpnclashfa - 569", server: free.2weradf.xyz, port: 36241, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTljYzhmZi0yNjY1LTQ0MjEtODc5MS05YzY0YzU1MDg3MTg, tfo: false}
-  - {name: "@vpnclashfa - 57", server: 61.231.0.83, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, tfo: false}
-  - {name: "@vpnclashfa - 57 2", server: 77.246.97.187, port: 7749, type: ss, cipher: chacha20-ietf-poly1305, password: 7kJQs2RYHhViTYWaf1RobB, tfo: false}
-  - {name: "@vpnclashfa - 570", server: 154.223.16.41, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, tfo: false}
-  - {name: "@vpnclashfa - 570 2", server: free.2weradf.xyz, port: 36243, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTljYzhmZi0yNjY1LTQ0MjEtODc5MS05YzY0YzU1MDg3MTg, tfo: false}
-  - {name: "@vpnclashfa - 571", server: 23.157.40.5, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, tfo: false}
-  - {name: "@vpnclashfa - 571 2", server: free.2weradf.xyz, port: 36311, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTljYzhmZi0yNjY1LTQ0MjEtODc5MS05YzY0YzU1MDg3MTg, tfo: false}
-  - {name: "@vpnclashfa - 572", server: free.2weradf.xyz, port: 36315, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTljYzhmZi0yNjY1LTQ0MjEtODc5MS05YzY0YzU1MDg3MTg, tfo: false}
-  - {name: "@vpnclashfa - 573", server: free.2weradf.xyz, port: 36341, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTljYzhmZi0yNjY1LTQ0MjEtODc5MS05YzY0YzU1MDg3MTg, tfo: false}
-  - {name: "@vpnclashfa - 576", server: free.2weradf.xyz, port: 36671, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTljYzhmZi0yNjY1LTQ0MjEtODc5MS05YzY0YzU1MDg3MTg, tfo: false}
-  - {name: "@vpnclashfa - 58", server: 77.83.245.116, port: 9753, type: ss, cipher: chacha20-ietf-poly1305, password: 7exNiN1wA7fVCOV8YdOvBN, tfo: false}
-  - {name: "@vpnclashfa - 58 2", server: 46.246.98.39, port: 55818, type: ss, cipher: chacha20-ietf-poly1305, password: 85qJ4wjHhPbVNxWKT1mJnE, tfo: false}
-  - {name: "@vpnclashfa - 580", server: 127.0.0.1, port: 1080, type: ss, cipher: none, password: bcbacaa-acab-caba-bcad-baaaccbcabbc, tfo: false}
-  - {name: "@vpnclashfa - 581", server: free.2apzhfa.xyz, port: 31145, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWE3NzRmMy03YzU3LTQ0NzYtOWE2OC00YTQwNTU3ODU0YTU, tfo: false}
-  - {name: "@vpnclashfa - 582", server: free.2apzhfa.xyz, port: 31173, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWE3NzRmMy03YzU3LTQ0NzYtOWE2OC00YTQwNTU3ODU0YTU, tfo: false}
-  - {name: "@vpnclashfa - 582 2", server: 127.0.0.1, port: 8080, type: ss, cipher: none, password: bbccaaa-baac-caba-acbd-bcaacaccbabb, tfo: false}
-  - {name: "@vpnclashfa - 583", server: free.2apzhfa.xyz, port: 31211, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWE3NzRmMy03YzU3LTQ0NzYtOWE2OC00YTQwNTU3ODU0YTU, tfo: false}
-  - {name: "@vpnclashfa - 584", server: free.2weradf.xyz, port: 36313, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTZhNmI0NS03MWRjLTQwNTMtYjgzNi05M2ZjODU5NTEzNGU, tfo: false}
-  - {name: "@vpnclashfa - 585", server: free.2apzhfa.xyz, port: 31243, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWE3NzRmMy03YzU3LTQ0NzYtOWE2OC00YTQwNTU3ODU0YTU, tfo: false}
-  - {name: "@vpnclashfa - 585 2", server: free.2weradf.xyz, port: 36371, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTZhNmI0NS03MWRjLTQwNTMtYjgzNi05M2ZjODU5NTEzNGU, tfo: false}
-  - {name: "@vpnclashfa - 587", server: free.2weradf.xyz, port: 36471, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTZhNmI0NS03MWRjLTQwNTMtYjgzNi05M2ZjODU5NTEzNGU, tfo: false}
-  - {name: "@vpnclashfa - 588", server: free.2apzhfa.xyz, port: 31313, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWE3NzRmMy03YzU3LTQ0NzYtOWE2OC00YTQwNTU3ODU0YTU, tfo: false}
-  - {name: "@vpnclashfa - 589", server: free.2apzhfa.xyz, port: 31411, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWE3NzRmMy03YzU3LTQ0NzYtOWE2OC00YTQwNTU3ODU0YTU, tfo: false}
-  - {name: "@vpnclashfa - 589 2", server: free.2weradf.xyz, port: 36641, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTZhNmI0NS03MWRjLTQwNTMtYjgzNi05M2ZjODU5NTEzNGU, tfo: false}
-  - {name: "@vpnclashfa - 59", server: 77.83.245.116, port: 9753, type: ss, cipher: chacha20-ietf-poly1305, password: 7exNiN1wA7fVCOV8YdOvBN, tfo: false}
-  - {name: "@vpnclashfa - 59 2", server: 193.17.57.155, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 89NQRFg7Pcybkl9FrDxqj5, tfo: false}
-  - {name: "@vpnclashfa - 590", server: free.2weradf.xyz, port: 36671, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTZhNmI0NS03MWRjLTQwNTMtYjgzNi05M2ZjODU5NTEzNGU, tfo: false}
-  - {name: "@vpnclashfa - 593", server: free.2apzhfa.xyz, port: 31741, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWE3NzRmMy03YzU3LTQ0NzYtOWE2OC00YTQwNTU3ODU0YTU, tfo: false}
-  - {name: "@vpnclashfa - 594", server: free.2weradf.xyz, port: 36215, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTljYzhmZi0yNjY1LTQ0MjEtODc5MS05YzY0YzU1MDg3MTg, tfo: false}
-  - {name: "@vpnclashfa - 595", server: free.2weradf.xyz, port: 36113, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWRkNWMxOC05NmRmLTRiNjAtYTUyMi0zMWI1YzZhNWQ5MzM, tfo: false}
-  - {name: "@vpnclashfa - 596", server: free.2weradf.xyz, port: 36243, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTljYzhmZi0yNjY1LTQ0MjEtODc5MS05YzY0YzU1MDg3MTg, tfo: false}
-  - {name: "@vpnclashfa - 597", server: free.2weradf.xyz, port: 36311, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTljYzhmZi0yNjY1LTQ0MjEtODc5MS05YzY0YzU1MDg3MTg, tfo: false}
-  - {name: "@vpnclashfa - 598", server: free.2weradf.xyz, port: 36315, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTljYzhmZi0yNjY1LTQ0MjEtODc5MS05YzY0YzU1MDg3MTg, tfo: false}
-  - {name: "@vpnclashfa - 599", server: free.2weradf.xyz, port: 36241, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWRkNWMxOC05NmRmLTRiNjAtYTUyMi0zMWI1YzZhNWQ5MzM, tfo: false}
-  - {name: "@vpnclashfa - 60", server: 213.176.16.77, port: 7022, type: ss, cipher: chacha20-ietf-poly1305, password: 8HtC7rj6NfZncXYvAjDV5t, tfo: false}
-  - {name: "@vpnclashfa - 601", server: free.2weradf.xyz, port: 36511, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTljYzhmZi0yNjY1LTQ0MjEtODc5MS05YzY0YzU1MDg3MTg, tfo: false}
-  - {name: "@vpnclashfa - 602", server: free.2weradf.xyz, port: 36671, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTljYzhmZi0yNjY1LTQ0MjEtODc5MS05YzY0YzU1MDg3MTg, tfo: false}
-  - {name: "@vpnclashfa - 602 2", server: free.2weradf.xyz, port: 36313, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWRkNWMxOC05NmRmLTRiNjAtYTUyMi0zMWI1YzZhNWQ5MzM, tfo: false}
-  - {name: "@vpnclashfa - 603", server: free.2weradf.xyz, port: 36731, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTljYzhmZi0yNjY1LTQ0MjEtODc5MS05YzY0YzU1MDg3MTg, tfo: false}
-  - {name: "@vpnclashfa - 604", server: free.2weradf.xyz, port: 36741, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTljYzhmZi0yNjY1LTQ0MjEtODc5MS05YzY0YzU1MDg3MTg, tfo: false}
-  - {name: "@vpnclashfa - 605", server: free.2weradf.xyz, port: 36441, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWRkNWMxOC05NmRmLTRiNjAtYTUyMi0zMWI1YzZhNWQ5MzM, tfo: false}
-  - {name: "@vpnclashfa - 605 2", server: free.2apzhfa.xyz, port: 31111, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWE3NzRmMy03YzU3LTQ0NzYtOWE2OC00YTQwNTU3ODU0YTU, tfo: false}
-  - {name: "@vpnclashfa - 606", server: free.2weradf.xyz, port: 36511, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWRkNWMxOC05NmRmLTRiNjAtYTUyMi0zMWI1YzZhNWQ5MzM, tfo: false}
-  - {name: "@vpnclashfa - 606 2", server: free.2apzhfa.xyz, port: 31115, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWE3NzRmMy03YzU3LTQ0NzYtOWE2OC00YTQwNTU3ODU0YTU, tfo: false}
-  - {name: "@vpnclashfa - 607", server: free.2weradf.xyz, port: 36571, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWRkNWMxOC05NmRmLTRiNjAtYTUyMi0zMWI1YzZhNWQ5MzM, tfo: false}
-  - {name: "@vpnclashfa - 609", server: free.2apzhfa.xyz, port: 31211, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWE3NzRmMy03YzU3LTQ0NzYtOWE2OC00YTQwNTU3ODU0YTU, tfo: false}
-  - {name: "@vpnclashfa - 61", server: 46.246.98.39, port: 55818, type: ss, cipher: chacha20-ietf-poly1305, password: 85qJ4wjHhPbVNxWKT1mJnE, tfo: false}
-  - {name: "@vpnclashfa - 610", server: free.2apzhfa.xyz, port: 31219, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWE3NzRmMy03YzU3LTQ0NzYtOWE2OC00YTQwNTU3ODU0YTU, tfo: false}
-  - {name: "@vpnclashfa - 610 2", server: free.2weradf.xyz, port: 36721, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWRkNWMxOC05NmRmLTRiNjAtYTUyMi0zMWI1YzZhNWQ5MzM, tfo: false}
-  - {name: "@vpnclashfa - 611", server: free.2apzhfa.xyz, port: 31243, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWE3NzRmMy03YzU3LTQ0NzYtOWE2OC00YTQwNTU3ODU0YTU, tfo: false}
-  - {name: "@vpnclashfa - 612", server: free.2weradf.xyz, port: 36111, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MTBlYTUxOC02NzM4LTQwZTctYTQ5NS00NTVkYmQ0NzRkZjA, tfo: false}
-  - {name: "@vpnclashfa - 616", server: free.2apzhfa.xyz, port: 31611, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWE3NzRmMy03YzU3LTQ0NzYtOWE2OC00YTQwNTU3ODU0YTU, tfo: false}
-  - {name: "@vpnclashfa - 619", server: free.2apzhfa.xyz, port: 31175, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYWU1OGE0OC1iYzE3LTQxZDItODQ3MS1mMGFhNWI5YjVlN2I, tfo: false}
+  - {name: "@vpnclashfa - 528", server: 23.154.136.132, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, tfo: false}
+  - {name: "@vpnclashfa - 53", server: 77.83.245.116, port: 9753, type: ss, cipher: chacha20-ietf-poly1305, password: 7exNiN1wA7fVCOV8YdOvBN, tfo: false}
+  - {name: "@vpnclashfa - 530", server: 23.157.40.113, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, tfo: false}
+  - {name: "@vpnclashfa - 531", server: 38.114.114.69, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, tfo: false}
+  - {name: "@vpnclashfa - 532", server: 38.121.43.71, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, tfo: false}
+  - {name: "@vpnclashfa - 533", server: 38.68.134.9, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, tfo: false}
+  - {name: "@vpnclashfa - 533 2", server: 69.50.95.124, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, tfo: false}
+  - {name: "@vpnclashfa - 534", server: 23.154.136.132, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, tfo: false}
+  - {name: "@vpnclashfa - 535", server: 46.17.40.13, port: 20111, type: ss, cipher: aes-256-gcm, password: b24a80e79cee1d1f, tfo: false}
+  - {name: "@vpnclashfa - 536", server: 38.114.114.69, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, tfo: false}
+  - {name: "@vpnclashfa - 538", server: 38.143.66.87, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, tfo: false}
+  - {name: "@vpnclashfa - 539", server: 38.68.134.9, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, tfo: false}
+  - {name: "@vpnclashfa - 54", server: r3mrcg001286ek2.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, tfo: false}
+  - {name: "@vpnclashfa - 540", server: 38.110.1.105, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
+  - {name: "@vpnclashfa - 541", server: 38.114.114.69, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
+  - {name: "@vpnclashfa - 542", server: 38.121.43.71, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
+  - {name: "@vpnclashfa - 543", server: 149.202.82.172, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, tfo: false}
+  - {name: "@vpnclashfa - 545", server: 38.121.43.97, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, tfo: false}
+  - {name: "@vpnclashfa - 546", server: 38.86.135.31, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
+  - {name: "@vpnclashfa - 547", server: 69.50.95.203, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
+  - {name: "@vpnclashfa - 547 2", server: 38.121.43.97, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, tfo: false}
+  - {name: "@vpnclashfa - 548", server: 103.106.229.69, port: 9090, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
+  - {name: "@vpnclashfa - 549", server: 69.50.92.72, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, tfo: false}
+  - {name: "@vpnclashfa - 55", server: 77.246.97.187, port: 7749, type: ss, cipher: chacha20-ietf-poly1305, password: 7kJQs2RYHhViTYWaf1RobB, tfo: false}
+  - {name: "@vpnclashfa - 55 2", server: 77.83.245.116, port: 9753, type: ss, cipher: chacha20-ietf-poly1305, password: 7exNiN1wA7fVCOV8YdOvBN, tfo: false}
+  - {name: "@vpnclashfa - 550", server: 23.157.40.89, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, tfo: false}
+  - {name: "@vpnclashfa - 550 2", server: 23.157.40.95, port: 5498, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV, tfo: false}
+  - {name: "@vpnclashfa - 551", server: 38.114.114.69, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, tfo: false}
+  - {name: "@vpnclashfa - 552", server: 38.121.43.71, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, tfo: false}
+  - {name: "@vpnclashfa - 553", server: 38.68.134.9, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, tfo: false}
+  - {name: "@vpnclashfa - 554", server: 38.114.114.69, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, tfo: false}
+  - {name: "@vpnclashfa - 557", server: 127.0.0.1, port: 1080, type: ss, cipher: none, password: acbabac-aacb-baca-dacb-bbaacccbacba, tfo: false}
+  - {name: "@vpnclashfa - 558", server: 38.143.66.87, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, tfo: false}
+  - {name: "@vpnclashfa - 559", server: 38.68.134.9, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, tfo: false}
+  - {name: "@vpnclashfa - 56", server: 77.83.245.116, port: 9753, type: ss, cipher: chacha20-ietf-poly1305, password: 7exNiN1wA7fVCOV8YdOvBN, tfo: false}
+  - {name: "@vpnclashfa - 563", server: 127.0.0.1, port: 8080, type: ss, cipher: none, password: cbaabac-baac-baca-dcba-babaabcccbca, tfo: false}
+  - {name: "@vpnclashfa - 563 2", server: 149.202.82.172, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, tfo: false}
+  - {name: "@vpnclashfa - 564", server: free.2weradf.xyz, port: 36111, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTZhNmI0NS03MWRjLTQwNTMtYjgzNi05M2ZjODU5NTEzNGU, tfo: false}
+  - {name: "@vpnclashfa - 565", server: free.2weradf.xyz, port: 36115, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTZhNmI0NS03MWRjLTQwNTMtYjgzNi05M2ZjODU5NTEzNGU, tfo: false}
+  - {name: "@vpnclashfa - 565 2", server: 38.121.43.97, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, tfo: false}
+  - {name: "@vpnclashfa - 568", server: 38.68.134.9, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, tfo: false}
+  - {name: "@vpnclashfa - 568 2", server: free.2weradf.xyz, port: 36241, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTZhNmI0NS03MWRjLTQwNTMtYjgzNi05M2ZjODU5NTEzNGU, tfo: false}
+  - {name: "@vpnclashfa - 569", server: free.2weradf.xyz, port: 36311, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTZhNmI0NS03MWRjLTQwNTMtYjgzNi05M2ZjODU5NTEzNGU, tfo: false}
+  - {name: "@vpnclashfa - 569 2", server: 69.50.92.72, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, tfo: false}
+  - {name: "@vpnclashfa - 57", server: 77.246.97.187, port: 7749, type: ss, cipher: chacha20-ietf-poly1305, password: 7kJQs2RYHhViTYWaf1RobB, tfo: false}
+  - {name: "@vpnclashfa - 570", server: 23.157.40.95, port: 5498, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV, tfo: false}
+  - {name: "@vpnclashfa - 571", server: free.2weradf.xyz, port: 36641, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTZhNmI0NS03MWRjLTQwNTMtYjgzNi05M2ZjODU5NTEzNGU, tfo: false}
+  - {name: "@vpnclashfa - 573", server: 38.121.43.142, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, tfo: false}
+  - {name: "@vpnclashfa - 576", server: free.2apzhfa.xyz, port: 31143, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTM4MGNkZS04OTYxLTQ2MWQtYWUyNS0zMjljYTA5ODE0ZGU, tfo: false}
+  - {name: "@vpnclashfa - 579", server: free.2apzhfa.xyz, port: 31175, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTM4MGNkZS04OTYxLTQ2MWQtYWUyNS0zMjljYTA5ODE0ZGU, tfo: false}
+  - {name: "@vpnclashfa - 579 2", server: 127.0.0.1, port: 8080, type: ss, cipher: none, password: abacbac-aabc-abac-cbad-bbacbcacbaac, tfo: false}
+  - {name: "@vpnclashfa - 581", server: 127.0.0.1, port: 1080, type: ss, cipher: none, password: bacacab-bcaa-aabc-dcab-cccaaabbcabb, tfo: false}
+  - {name: "@vpnclashfa - 581 2", server: free.2apzhfa.xyz, port: 31215, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTM4MGNkZS04OTYxLTQ2MWQtYWUyNS0zMjljYTA5ODE0ZGU, tfo: false}
+  - {name: "@vpnclashfa - 582", server: free.2apzhfa.xyz, port: 31219, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTM4MGNkZS04OTYxLTQ2MWQtYWUyNS0zMjljYTA5ODE0ZGU, tfo: false}
+  - {name: "@vpnclashfa - 583", server: free.2apzhfa.xyz, port: 31341, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTM4MGNkZS04OTYxLTQ2MWQtYWUyNS0zMjljYTA5ODE0ZGU, tfo: false}
+  - {name: "@vpnclashfa - 584", server: free.2apzhfa.xyz, port: 31371, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTM4MGNkZS04OTYxLTQ2MWQtYWUyNS0zMjljYTA5ODE0ZGU, tfo: false}
+  - {name: "@vpnclashfa - 584 2", server: free.2weradf.xyz, port: 36111, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTZhNmI0NS03MWRjLTQwNTMtYjgzNi05M2ZjODU5NTEzNGU, tfo: false}
+  - {name: "@vpnclashfa - 585", server: free.2weradf.xyz, port: 36115, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTZhNmI0NS03MWRjLTQwNTMtYjgzNi05M2ZjODU5NTEzNGU, tfo: false}
+  - {name: "@vpnclashfa - 585 2", server: free.2apzhfa.xyz, port: 31411, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTM4MGNkZS04OTYxLTQ2MWQtYWUyNS0zMjljYTA5ODE0ZGU, tfo: false}
+  - {name: "@vpnclashfa - 587", server: free.2apzhfa.xyz, port: 31741, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTM4MGNkZS04OTYxLTQ2MWQtYWUyNS0zMjljYTA5ODE0ZGU, tfo: false}
+  - {name: "@vpnclashfa - 587 2", server: free.2weradf.xyz, port: 36171, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTZhNmI0NS03MWRjLTQwNTMtYjgzNi05M2ZjODU5NTEzNGU, tfo: false}
+  - {name: "@vpnclashfa - 589", server: free.2weradf.xyz, port: 36115, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNjRkZWE0ZS0zY2Y0LTRhNGItYjEyZC04M2EzYWQ0NDIyOTM, tfo: false}
+  - {name: "@vpnclashfa - 589 2", server: free.2weradf.xyz, port: 36311, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTZhNmI0NS03MWRjLTQwNTMtYjgzNi05M2ZjODU5NTEzNGU, tfo: false}
+  - {name: "@vpnclashfa - 59", server: 193.17.57.155, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 89NQRFg7Pcybkl9FrDxqj5, tfo: false}
+  - {name: "@vpnclashfa - 59 2", server: 144.126.146.38, port: 30789, type: ss, cipher: chacha20-ietf-poly1305, password: 8d73e088-dc5a-4dfe-8927-56351ee80407, tfo: false}
+  - {name: "@vpnclashfa - 590", server: free.2weradf.xyz, port: 36441, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTZhNmI0NS03MWRjLTQwNTMtYjgzNi05M2ZjODU5NTEzNGU, tfo: false}
+  - {name: "@vpnclashfa - 591", server: free.2weradf.xyz, port: 36171, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNjRkZWE0ZS0zY2Y0LTRhNGItYjEyZC04M2EzYWQ0NDIyOTM, tfo: false}
+  - {name: "@vpnclashfa - 591 2", server: free.2weradf.xyz, port: 36641, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTZhNmI0NS03MWRjLTQwNTMtYjgzNi05M2ZjODU5NTEzNGU, tfo: false}
+  - {name: "@vpnclashfa - 595", server: free.2weradf.xyz, port: 36311, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNjRkZWE0ZS0zY2Y0LTRhNGItYjEyZC04M2EzYWQ0NDIyOTM, tfo: false}
+  - {name: "@vpnclashfa - 596", server: free.2apzhfa.xyz, port: 31143, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTM4MGNkZS04OTYxLTQ2MWQtYWUyNS0zMjljYTA5ODE0ZGU, tfo: false}
+  - {name: "@vpnclashfa - 597", server: free.2weradf.xyz, port: 36371, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNjRkZWE0ZS0zY2Y0LTRhNGItYjEyZC04M2EzYWQ0NDIyOTM, tfo: false}
+  - {name: "@vpnclashfa - 599", server: free.2apzhfa.xyz, port: 31175, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTM4MGNkZS04OTYxLTQ2MWQtYWUyNS0zMjljYTA5ODE0ZGU, tfo: false}
+  - {name: "@vpnclashfa - 599 2", server: free.2weradf.xyz, port: 36441, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNjRkZWE0ZS0zY2Y0LTRhNGItYjEyZC04M2EzYWQ0NDIyOTM, tfo: false}
+  - {name: "@vpnclashfa - 60", server: 194.110.246.13, port: 29342, type: ss, cipher: chacha20-ietf-poly1305, password: 8m2Tf0mejQSBHENPLtwjAQ, tfo: false}
+  - {name: "@vpnclashfa - 600", server: free.2weradf.xyz, port: 36471, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNjRkZWE0ZS0zY2Y0LTRhNGItYjEyZC04M2EzYWQ0NDIyOTM, tfo: false}
+  - {name: "@vpnclashfa - 601", server: free.2apzhfa.xyz, port: 31215, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTM4MGNkZS04OTYxLTQ2MWQtYWUyNS0zMjljYTA5ODE0ZGU, tfo: false}
+  - {name: "@vpnclashfa - 601 2", server: free.2weradf.xyz, port: 36571, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNjRkZWE0ZS0zY2Y0LTRhNGItYjEyZC04M2EzYWQ0NDIyOTM, tfo: false}
+  - {name: "@vpnclashfa - 603", server: free.2weradf.xyz, port: 36641, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNjRkZWE0ZS0zY2Y0LTRhNGItYjEyZC04M2EzYWQ0NDIyOTM, tfo: false}
+  - {name: "@vpnclashfa - 605", server: free.2weradf.xyz, port: 36721, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNjRkZWE0ZS0zY2Y0LTRhNGItYjEyZC04M2EzYWQ0NDIyOTM, tfo: false}
+  - {name: "@vpnclashfa - 606", server: free.2apzhfa.xyz, port: 31511, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTM4MGNkZS04OTYxLTQ2MWQtYWUyNS0zMjljYTA5ODE0ZGU, tfo: false}
+  - {name: "@vpnclashfa - 607", server: free.2apzhfa.xyz, port: 31113, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZGQyOWNiOS1jZDM3LTQ0NGItOTA3Yi02Y2IxNzk4NDg0ZWI, tfo: false}
+  - {name: "@vpnclashfa - 608", server: free.2apzhfa.xyz, port: 31171, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZGQyOWNiOS1jZDM3LTQ0NGItOTA3Yi02Y2IxNzk4NDg0ZWI, tfo: false}
+  - {name: "@vpnclashfa - 61", server: 46.246.96.42, port: 12346, type: ss, cipher: chacha20-ietf-poly1305, password: 8nr2nWa5RX4fy3Lbd4kQ0c, tfo: false}
+  - {name: "@vpnclashfa - 61 2", server: 144.126.146.38, port: 30789, type: ss, cipher: chacha20-ietf-poly1305, password: 8d73e088-dc5a-4dfe-8927-56351ee80407, tfo: false}
+  - {name: "@vpnclashfa - 610", server: free.2apzhfa.xyz, port: 31211, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMDNkZDRlMy1kNzQyLTRkNmEtOTIyYi01YWRlMTQzZWVjNDk, tfo: false}
+  - {name: "@vpnclashfa - 610 2", server: free.2weradf.xyz, port: 36145, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNjRkZWE0ZS0zY2Y0LTRhNGItYjEyZC04M2EzYWQ0NDIyOTM, tfo: false}
+  - {name: "@vpnclashfa - 611", server: free.2apzhfa.xyz, port: 31215, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMDNkZDRlMy1kNzQyLTRkNmEtOTIyYi01YWRlMTQzZWVjNDk, tfo: false}
+  - {name: "@vpnclashfa - 612", server: free.2apzhfa.xyz, port: 31315, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMDNkZDRlMy1kNzQyLTRkNmEtOTIyYi01YWRlMTQzZWVjNDk, tfo: false}
+  - {name: "@vpnclashfa - 613", server: free.2weradf.xyz, port: 36211, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNjRkZWE0ZS0zY2Y0LTRhNGItYjEyZC04M2EzYWQ0NDIyOTM, tfo: false}
+  - {name: "@vpnclashfa - 614", server: free.2apzhfa.xyz, port: 31741, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMDNkZDRlMy1kNzQyLTRkNmEtOTIyYi01YWRlMTQzZWVjNDk, tfo: false}
+  - {name: "@vpnclashfa - 614 2", server: free.2weradf.xyz, port: 36245, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNjRkZWE0ZS0zY2Y0LTRhNGItYjEyZC04M2EzYWQ0NDIyOTM, tfo: false}
+  - {name: "@vpnclashfa - 615", server: free.2weradf.xyz, port: 36143, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZmE0NjU3Mi0yZDQ0LTRiMzItYmM1Yy0zNTI3YTZiNDEyODY, tfo: false}
+  - {name: "@vpnclashfa - 616", server: free.2weradf.xyz, port: 36315, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNjRkZWE0ZS0zY2Y0LTRhNGItYjEyZC04M2EzYWQ0NDIyOTM, tfo: false}
+  - {name: "@vpnclashfa - 617", server: free.2weradf.xyz, port: 36245, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZmE0NjU3Mi0yZDQ0LTRiMzItYmM1Yy0zNTI3YTZiNDEyODY, tfo: false}
+  - {name: "@vpnclashfa - 617 2", server: free.2weradf.xyz, port: 36371, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNjRkZWE0ZS0zY2Y0LTRhNGItYjEyZC04M2EzYWQ0NDIyOTM, tfo: false}
+  - {name: "@vpnclashfa - 618", server: free.2weradf.xyz, port: 36411, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNjRkZWE0ZS0zY2Y0LTRhNGItYjEyZC04M2EzYWQ0NDIyOTM, tfo: false}
+  - {name: "@vpnclashfa - 619", server: free.2weradf.xyz, port: 36441, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNjRkZWE0ZS0zY2Y0LTRhNGItYjEyZC04M2EzYWQ0NDIyOTM, tfo: false}
   - {name: "@vpnclashfa - 62", server: 194.110.246.13, port: 29342, type: ss, cipher: chacha20-ietf-poly1305, password: 8m2Tf0mejQSBHENPLtwjAQ, tfo: false}
-  - {name: "@vpnclashfa - 620", server: free.2weradf.xyz, port: 36111, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWRkNWMxOC05NmRmLTRiNjAtYTUyMi0zMWI1YzZhNWQ5MzM, tfo: false}
-  - {name: "@vpnclashfa - 620 2", server: free.2apzhfa.xyz, port: 31213, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYWU1OGE0OC1iYzE3LTQxZDItODQ3MS1mMGFhNWI5YjVlN2I, tfo: false}
-  - {name: "@vpnclashfa - 621", server: free.2weradf.xyz, port: 36113, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWRkNWMxOC05NmRmLTRiNjAtYTUyMi0zMWI1YzZhNWQ5MzM, tfo: false}
-  - {name: "@vpnclashfa - 622", server: free.2apzhfa.xyz, port: 31313, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYWU1OGE0OC1iYzE3LTQxZDItODQ3MS1mMGFhNWI5YjVlN2I, tfo: false}
-  - {name: "@vpnclashfa - 623", server: free.2apzhfa.xyz, port: 31315, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYWU1OGE0OC1iYzE3LTQxZDItODQ3MS1mMGFhNWI5YjVlN2I, tfo: false}
-  - {name: "@vpnclashfa - 624", server: free.2apzhfa.xyz, port: 31341, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYWU1OGE0OC1iYzE3LTQxZDItODQ3MS1mMGFhNWI5YjVlN2I, tfo: false}
-  - {name: "@vpnclashfa - 624 2", server: free.2weradf.xyz, port: 36213, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWRkNWMxOC05NmRmLTRiNjAtYTUyMi0zMWI1YzZhNWQ5MzM, tfo: false}
-  - {name: "@vpnclashfa - 627", server: free.2apzhfa.xyz, port: 31571, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYWU1OGE0OC1iYzE3LTQxZDItODQ3MS1mMGFhNWI5YjVlN2I, tfo: false}
-  - {name: "@vpnclashfa - 627 2", server: free.2weradf.xyz, port: 36311, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWRkNWMxOC05NmRmLTRiNjAtYTUyMi0zMWI1YzZhNWQ5MzM, tfo: false}
-  - {name: "@vpnclashfa - 628", server: free.2weradf.xyz, port: 36313, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWRkNWMxOC05NmRmLTRiNjAtYTUyMi0zMWI1YzZhNWQ5MzM, tfo: false}
-  - {name: "@vpnclashfa - 629", server: free.2weradf.xyz, port: 36341, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWRkNWMxOC05NmRmLTRiNjAtYTUyMi0zMWI1YzZhNWQ5MzM, tfo: false}
-  - {name: "@vpnclashfa - 63", server: 213.176.16.77, port: 7022, type: ss, cipher: chacha20-ietf-poly1305, password: 8HtC7rj6NfZncXYvAjDV5t, tfo: false}
-  - {name: "@vpnclashfa - 631", server: free.2apzhfa.xyz, port: 31741, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYWU1OGE0OC1iYzE3LTQxZDItODQ3MS1mMGFhNWI5YjVlN2I, tfo: false}
-  - {name: "@vpnclashfa - 631 2", server: free.2weradf.xyz, port: 36441, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWRkNWMxOC05NmRmLTRiNjAtYTUyMi0zMWI1YzZhNWQ5MzM, tfo: false}
-  - {name: "@vpnclashfa - 633", server: free.2weradf.xyz, port: 36113, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNjczOThkNy0yM2RjLTQxZjEtYjhkOS1lN2FlYzRmZWU3NzE, tfo: false}
-  - {name: "@vpnclashfa - 635", server: free.2weradf.xyz, port: 36241, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNjczOThkNy0yM2RjLTQxZjEtYjhkOS1lN2FlYzRmZWU3NzE, tfo: false}
-  - {name: "@vpnclashfa - 635 2", server: free.2weradf.xyz, port: 36641, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWRkNWMxOC05NmRmLTRiNjAtYTUyMi0zMWI1YzZhNWQ5MzM, tfo: false}
-  - {name: "@vpnclashfa - 636", server: free.2weradf.xyz, port: 36721, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWRkNWMxOC05NmRmLTRiNjAtYTUyMi0zMWI1YzZhNWQ5MzM, tfo: false}
-  - {name: "@vpnclashfa - 637", server: free.2weradf.xyz, port: 36441, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNjczOThkNy0yM2RjLTQxZjEtYjhkOS1lN2FlYzRmZWU3NzE, tfo: false}
-  - {name: "@vpnclashfa - 638", server: free.2weradf.xyz, port: 36111, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MTBlYTUxOC02NzM4LTQwZTctYTQ5NS00NTVkYmQ0NzRkZjA, tfo: false}
-  - {name: "@vpnclashfa - 639", server: free.2weradf.xyz, port: 36243, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MTBlYTUxOC02NzM4LTQwZTctYTQ5NS00NTVkYmQ0NzRkZjA, tfo: false}
-  - {name: "@vpnclashfa - 639 2", server: free.2weradf.xyz, port: 36511, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNjczOThkNy0yM2RjLTQxZjEtYjhkOS1lN2FlYzRmZWU3NzE, tfo: false}
-  - {name: "@vpnclashfa - 641", server: free.2weradf.xyz, port: 36641, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNjczOThkNy0yM2RjLTQxZjEtYjhkOS1lN2FlYzRmZWU3NzE, tfo: false}
-  - {name: "@vpnclashfa - 642", server: free.2apzhfa.xyz, port: 31143, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYWU1OGE0OC1iYzE3LTQxZDItODQ3MS1mMGFhNWI5YjVlN2I, tfo: false}
-  - {name: "@vpnclashfa - 643", server: free.2apzhfa.xyz, port: 31143, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZGQyOWNiOS1jZDM3LTQ0NGItOTA3Yi02Y2IxNzk4NDg0ZWI, tfo: false}
-  - {name: "@vpnclashfa - 644", server: free.2apzhfa.xyz, port: 31171, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZGQyOWNiOS1jZDM3LTQ0NGItOTA3Yi02Y2IxNzk4NDg0ZWI, tfo: false}
-  - {name: "@vpnclashfa - 645", server: free.2apzhfa.xyz, port: 31175, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYWU1OGE0OC1iYzE3LTQxZDItODQ3MS1mMGFhNWI5YjVlN2I, tfo: false}
-  - {name: "@vpnclashfa - 645 2", server: free.2apzhfa.xyz, port: 31215, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZGQyOWNiOS1jZDM3LTQ0NGItOTA3Yi02Y2IxNzk4NDg0ZWI, tfo: false}
-  - {name: "@vpnclashfa - 646", server: free.2apzhfa.xyz, port: 31219, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZGQyOWNiOS1jZDM3LTQ0NGItOTA3Yi02Y2IxNzk4NDg0ZWI, tfo: false}
-  - {name: "@vpnclashfa - 648", server: free.2apzhfa.xyz, port: 31313, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYWU1OGE0OC1iYzE3LTQxZDItODQ3MS1mMGFhNWI5YjVlN2I, tfo: false}
-  - {name: "@vpnclashfa - 648 2", server: free.2apzhfa.xyz, port: 31311, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZGQyOWNiOS1jZDM3LTQ0NGItOTA3Yi02Y2IxNzk4NDg0ZWI, tfo: false}
-  - {name: "@vpnclashfa - 649", server: free.2apzhfa.xyz, port: 31313, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZGQyOWNiOS1jZDM3LTQ0NGItOTA3Yi02Y2IxNzk4NDg0ZWI, tfo: false}
-  - {name: "@vpnclashfa - 650", server: free.2apzhfa.xyz, port: 31341, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYWU1OGE0OC1iYzE3LTQxZDItODQ3MS1mMGFhNWI5YjVlN2I, tfo: false}
-  - {name: "@vpnclashfa - 650 2", server: free.2apzhfa.xyz, port: 31315, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZGQyOWNiOS1jZDM3LTQ0NGItOTA3Yi02Y2IxNzk4NDg0ZWI, tfo: false}
-  - {name: "@vpnclashfa - 651", server: free.2apzhfa.xyz, port: 31471, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYWU1OGE0OC1iYzE3LTQxZDItODQ3MS1mMGFhNWI5YjVlN2I, tfo: false}
-  - {name: "@vpnclashfa - 652", server: free.2apzhfa.xyz, port: 31641, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZGQyOWNiOS1jZDM3LTQ0NGItOTA3Yi02Y2IxNzk4NDg0ZWI, tfo: false}
-  - {name: "@vpnclashfa - 653", server: free.2apzhfa.xyz, port: 31571, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYWU1OGE0OC1iYzE3LTQxZDItODQ3MS1mMGFhNWI5YjVlN2I, tfo: false}
-  - {name: "@vpnclashfa - 653 2", server: free.2apzhfa.xyz, port: 31115, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTA5NTc1OS02ZGZkLTQ0MWYtYmY4Zi0zNDM4YWFhNzg3MGI, tfo: false}
-  - {name: "@vpnclashfa - 656", server: free.2apzhfa.xyz, port: 31721, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYWU1OGE0OC1iYzE3LTQxZDItODQ3MS1mMGFhNWI5YjVlN2I, tfo: false}
-  - {name: "@vpnclashfa - 656 2", server: free.2apzhfa.xyz, port: 31173, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTA5NTc1OS02ZGZkLTQ0MWYtYmY4Zi0zNDM4YWFhNzg3MGI, tfo: false}
-  - {name: "@vpnclashfa - 657", server: free.2apzhfa.xyz, port: 31211, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTA5NTc1OS02ZGZkLTQ0MWYtYmY4Zi0zNDM4YWFhNzg3MGI, tfo: false}
-  - {name: "@vpnclashfa - 659", server: free.2weradf.xyz, port: 36113, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNjczOThkNy0yM2RjLTQxZjEtYjhkOS1lN2FlYzRmZWU3NzE, tfo: false}
-  - {name: "@vpnclashfa - 660", server: free.2weradf.xyz, port: 36173, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNjczOThkNy0yM2RjLTQxZjEtYjhkOS1lN2FlYzRmZWU3NzE, tfo: false}
-  - {name: "@vpnclashfa - 662", server: free.2apzhfa.xyz, port: 31411, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTA5NTc1OS02ZGZkLTQ0MWYtYmY4Zi0zNDM4YWFhNzg3MGI, tfo: false}
-  - {name: "@vpnclashfa - 663", server: free.2apzhfa.xyz, port: 31511, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTA5NTc1OS02ZGZkLTQ0MWYtYmY4Zi0zNDM4YWFhNzg3MGI, tfo: false}
-  - {name: "@vpnclashfa - 664", server: free.2weradf.xyz, port: 36471, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNjczOThkNy0yM2RjLTQxZjEtYjhkOS1lN2FlYzRmZWU3NzE, tfo: false}
-  - {name: "@vpnclashfa - 665", server: free.2weradf.xyz, port: 36511, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNjczOThkNy0yM2RjLTQxZjEtYjhkOS1lN2FlYzRmZWU3NzE, tfo: false}
-  - {name: "@vpnclashfa - 666", server: free.2weradf.xyz, port: 36571, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNjczOThkNy0yM2RjLTQxZjEtYjhkOS1lN2FlYzRmZWU3NzE, tfo: false}
-  - {name: "@vpnclashfa - 667", server: free.2weradf.xyz, port: 36641, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNjczOThkNy0yM2RjLTQxZjEtYjhkOS1lN2FlYzRmZWU3NzE, tfo: false}
-  - {name: "@vpnclashfa - 668", server: free.2weradf.xyz, port: 36721, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNjczOThkNy0yM2RjLTQxZjEtYjhkOS1lN2FlYzRmZWU3NzE, tfo: false}
-  - {name: "@vpnclashfa - 669", server: free.2apzhfa.xyz, port: 31143, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZGQyOWNiOS1jZDM3LTQ0NGItOTA3Yi02Y2IxNzk4NDg0ZWI, tfo: false}
-  - {name: "@vpnclashfa - 67", server: 83.147.216.70, port: 64519, type: ss, cipher: chacha20-ietf-poly1305, password: 9z4XoS0TfzxNsSqBVAWt7N, tfo: false}
-  - {name: "@vpnclashfa - 671", server: free.2apzhfa.xyz, port: 31215, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZGQyOWNiOS1jZDM3LTQ0NGItOTA3Yi02Y2IxNzk4NDg0ZWI, tfo: false}
-  - {name: "@vpnclashfa - 672", server: free.2apzhfa.xyz, port: 31219, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZGQyOWNiOS1jZDM3LTQ0NGItOTA3Yi02Y2IxNzk4NDg0ZWI, tfo: false}
-  - {name: "@vpnclashfa - 673", server: free.2apzhfa.xyz, port: 31271, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZGQyOWNiOS1jZDM3LTQ0NGItOTA3Yi02Y2IxNzk4NDg0ZWI, tfo: false}
-  - {name: "@vpnclashfa - 674", server: free.2apzhfa.xyz, port: 31311, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZGQyOWNiOS1jZDM3LTQ0NGItOTA3Yi02Y2IxNzk4NDg0ZWI, tfo: false}
-  - {name: "@vpnclashfa - 676", server: free.2apzhfa.xyz, port: 31315, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZGQyOWNiOS1jZDM3LTQ0NGItOTA3Yi02Y2IxNzk4NDg0ZWI, tfo: false}
-  - {name: "@vpnclashfa - 679", server: free.2apzhfa.xyz, port: 31115, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTA5NTc1OS02ZGZkLTQ0MWYtYmY4Zi0zNDM4YWFhNzg3MGI, tfo: false}
-  - {name: "@vpnclashfa - 680", server: free.2apzhfa.xyz, port: 31141, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTA5NTc1OS02ZGZkLTQ0MWYtYmY4Zi0zNDM4YWFhNzg3MGI, tfo: false}
-  - {name: "@vpnclashfa - 681", server: free.2apzhfa.xyz, port: 31171, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTA5NTc1OS02ZGZkLTQ0MWYtYmY4Zi0zNDM4YWFhNzg3MGI, tfo: false}
-  - {name: "@vpnclashfa - 682", server: free.2apzhfa.xyz, port: 31173, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTA5NTc1OS02ZGZkLTQ0MWYtYmY4Zi0zNDM4YWFhNzg3MGI, tfo: false}
-  - {name: "@vpnclashfa - 684", server: free.2apzhfa.xyz, port: 31219, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTA5NTc1OS02ZGZkLTQ0MWYtYmY4Zi0zNDM4YWFhNzg3MGI, tfo: false}
-  - {name: "@vpnclashfa - 686", server: free.2apzhfa.xyz, port: 31313, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTA5NTc1OS02ZGZkLTQ0MWYtYmY4Zi0zNDM4YWFhNzg3MGI, tfo: false}
-  - {name: "@vpnclashfa - 687", server: free.2apzhfa.xyz, port: 31371, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTA5NTc1OS02ZGZkLTQ0MWYtYmY4Zi0zNDM4YWFhNzg3MGI, tfo: false}
-  - {name: "@vpnclashfa - 688", server: free.2apzhfa.xyz, port: 31411, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTA5NTc1OS02ZGZkLTQ0MWYtYmY4Zi0zNDM4YWFhNzg3MGI, tfo: false}
-  - {name: "@vpnclashfa - 690", server: free.2apzhfa.xyz, port: 31611, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTA5NTc1OS02ZGZkLTQ0MWYtYmY4Zi0zNDM4YWFhNzg3MGI, tfo: false}
-  - {name: "@vpnclashfa - 691", server: free.2apzhfa.xyz, port: 31741, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTA5NTc1OS02ZGZkLTQ0MWYtYmY4Zi0zNDM4YWFhNzg3MGI, tfo: false}
-  - {name: "@vpnclashfa - 71", server: 83.217.9.17, port: 25232, type: ss, cipher: chacha20-ietf-poly1305, password: 0GAK2b9gkqBatuxi2cswmH, tfo: false}
-  - {name: "@vpnclashfa - 71 2", server: 45.91.171.108, port: 158, type: ss, cipher: chacha20-ietf-poly1305, password: -jd43ayn1mxzQ4t6dEI7OQ, tfo: false}
-  - {name: "@vpnclashfa - 72", server: 4.168.201.246, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 0AsYwucq2Or91WXW, tfo: false}
-  - {name: "@vpnclashfa - 72 2", server: bot.sobhanpor.ir, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 0sabUV5_H0RH2iJFEtjI2nJ02U3SiQR8, tfo: false}
+  - {name: "@vpnclashfa - 62 2", server: 54.36.174.134, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 8zw5j9h, tfo: false}
+  - {name: "@vpnclashfa - 620", server: free.2weradf.xyz, port: 36471, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNjRkZWE0ZS0zY2Y0LTRhNGItYjEyZC04M2EzYWQ0NDIyOTM, tfo: false}
+  - {name: "@vpnclashfa - 623", server: free.2weradf.xyz, port: 36641, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNjRkZWE0ZS0zY2Y0LTRhNGItYjEyZC04M2EzYWQ0NDIyOTM, tfo: false}
+  - {name: "@vpnclashfa - 627", server: free.2apzhfa.xyz, port: 31113, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZGQyOWNiOS1jZDM3LTQ0NGItOTA3Yi02Y2IxNzk4NDg0ZWI, tfo: false}
+  - {name: "@vpnclashfa - 63", server: 46.246.96.42, port: 12346, type: ss, cipher: chacha20-ietf-poly1305, password: 8nr2nWa5RX4fy3Lbd4kQ0c, tfo: false}
+  - {name: "@vpnclashfa - 63 2", server: 141.95.106.127, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 94aae0510188e8c5, tfo: false}
+  - {name: "@vpnclashfa - 632", server: free.2apzhfa.xyz, port: 31315, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMDNkZDRlMy1kNzQyLTRkNmEtOTIyYi01YWRlMTQzZWVjNDk, tfo: false}
+  - {name: "@vpnclashfa - 64", server: 54.36.174.134, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 8zw5j9h, tfo: false}
+  - {name: "@vpnclashfa - 641", server: free.2weradf.xyz, port: 36611, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZmE0NjU3Mi0yZDQ0LTRiMzItYmM1Yy0zNTI3YTZiNDEyODY, tfo: false}
+  - {name: "@vpnclashfa - 643", server: 35.93.25.21, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, tfo: false}
+  - {name: "@vpnclashfa - 65", server: 141.95.106.127, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 94aae0510188e8c5, tfo: false}
+  - {name: "@vpnclashfa - 66", server: 52.236.93.73, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 9g5FMKiBS7Lw1ooW, tfo: false}
+  - {name: "@vpnclashfa - 67", server: 20.223.152.73, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 9zN6WDw5Wbad7ZVb, tfo: false}
+  - {name: "@vpnclashfa - 68", server: 83.147.216.70, port: 64519, type: ss, cipher: chacha20-ietf-poly1305, password: 9z4XoS0TfzxNsSqBVAWt7N, tfo: false}
+  - {name: "@vpnclashfa - 68 2", server: 45.91.171.108, port: 158, type: ss, cipher: chacha20-ietf-poly1305, password: -jd43ayn1mxzQ4t6dEI7OQ, tfo: false}
+  - {name: "@vpnclashfa - 69", server: 20.223.152.73, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 9zN6WDw5Wbad7ZVb, tfo: false}
+  - {name: "@vpnclashfa - 70", server: 45.91.171.108, port: 158, type: ss, cipher: chacha20-ietf-poly1305, password: -jd43ayn1mxzQ4t6dEI7OQ, tfo: false}
+  - {name: "@vpnclashfa - 71", server: 4.168.201.246, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 0AsYwucq2Or91WXW, tfo: false}
   - {name: "@vpnclashfa - 73", server: 83.217.9.17, port: 25232, type: ss, cipher: chacha20-ietf-poly1305, password: 0GAK2b9gkqBatuxi2cswmH, tfo: false}
-  - {name: "@vpnclashfa - 74", server: 46.246.97.195, port: 23931, type: ss, cipher: chacha20-ietf-poly1305, password: 1XSHFjXMLDedtMLJLGDIe8, tfo: false}
-  - {name: "@vpnclashfa - 74 2", server: 83.217.9.17, port: 25232, type: ss, cipher: chacha20-ietf-poly1305, password: 0GAK2b9gkqBatuxi2cswmH, tfo: false}
-  - {name: "@vpnclashfa - 75", server: bot.sobhanpor.ir, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 0sabUV5_H0RH2iJFEtjI2nJ02U3SiQR8, tfo: false}
+  - {name: "@vpnclashfa - 74", server: bot.sobhanpor.ir, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 0sabUV5_H0RH2iJFEtjI2nJ02U3SiQR8, tfo: false}
+  - {name: "@vpnclashfa - 75", server: 95.164.6.178, port: 1925, type: ss, cipher: chacha20-ietf-poly1305, password: 18Vz0GruOhKd3TaRwBwIH2, tfo: false}
+  - {name: "@vpnclashfa - 75 2", server: 46.246.97.195, port: 23931, type: ss, cipher: chacha20-ietf-poly1305, password: 1XSHFjXMLDedtMLJLGDIe8, tfo: false}
   - {name: "@vpnclashfa - 76", server: 45.15.162.92, port: 64351, type: ss, cipher: chacha20-ietf-poly1305, password: 1SlIjDKpIlpzZPgT33x6Eb, tfo: false}
-  - {name: "@vpnclashfa - 77", server: 185.33.84.181, port: 21484, type: ss, cipher: chacha20-ietf-poly1305, password: 1jCMNPLyZb7it1IQJpqbXT, tfo: false}
+  - {name: "@vpnclashfa - 77", server: 46.246.97.195, port: 23931, type: ss, cipher: chacha20-ietf-poly1305, password: 1XSHFjXMLDedtMLJLGDIe8, tfo: false}
   - {name: "@vpnclashfa - 78", server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, tfo: false}
-  - {name: "@vpnclashfa - 79", server: 20.166.91.10, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1hVGiu6pyngcQQdU, tfo: false}
-  - {name: "@vpnclashfa - 79 2", server: 74.177.162.130, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1xO2cqPazqjGfCfd, tfo: false}
-  - {name: "@vpnclashfa - 81", server: 194.59.183.1, port: 21318, type: ss, cipher: chacha20-ietf-poly1305, password: 1wCx73jegQqB0vxKdWONJH, tfo: false}
-  - {name: "@vpnclashfa - 81 2", server: admin.c1.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1xO2cqPazqjGfCfd, tfo: false}
-  - {name: "@vpnclashfa - 85", server: freakconfig13.felafel.org, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1xO2cqPazqjGfCfd, tfo: false}
-  - {name: "@vpnclashfa - 86", server: bgroup.node2.s.nodelist-airport.com, port: 50001, type: ss, cipher: chacha20-ietf-poly1305, password: 2155145a-b1b5-443a-8977-670f6bd10f02, tfo: false}
-  - {name: "@vpnclashfa - 87", server: 45.76.180.205, port: 31368, type: ss, cipher: chacha20-ietf-poly1305, password: 2981511c-becb-4b53-8a89-57cd3c97b328, tfo: false}
-  - {name: "@vpnclashfa - 89", server: 192.53.172.74, port: 30013, type: ss, cipher: chacha20-ietf-poly1305, password: 2df393ef-b5fa-4ffd-9af3-761034bf33e3, tfo: false}
-  - {name: "@vpnclashfa - 89 2", server: 64.137.109.212, port: 44884, type: ss, cipher: chacha20-ietf-poly1305, password: 2DGq3jvVRg5n3CcxmysGK2kmrgJeSNof12A76cZvVxqPpetyC1XEciCFufq5xKvRWGGnKVembpThuUSQhbZ7GMsZY4UVxEBw, tfo: false}
-  - {name: "@vpnclashfa - 90", server: backup.fleetfoxi.link, port: 44884, type: ss, cipher: chacha20-ietf-poly1305, password: 2DGq3jvVRg5n3CcxmysGK2kmrgJeSNof12A76cZvVxqPpetyC1XEciCFufq5xKvRWGGnKVembpThuUSQhbZ7GMsZY4UVxEBw, tfo: false}
-  - {name: "@vpnclashfa - 91", server: 45.139.24.24, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: 360e21d21977dc11, tfo: false}
-  - {name: "@vpnclashfa - 92", server: 45.139.24.24, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: 360e21d21977dc11, tfo: false}
-  - {name: "@vpnclashfa - 92 2", server: 192.53.172.74, port: 30013, type: ss, cipher: chacha20-ietf-poly1305, password: 2df393ef-b5fa-4ffd-9af3-761034bf33e3, tfo: false}
-  - {name: "@vpnclashfa - 93", server: 103.111.114.29, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: 360e21d21977dc11, tfo: false}
-  - {name: "@vpnclashfa - 95", server: 43.173.98.184, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 3t21e/P6fxeSULmI2S4f0mJ3q3b2TiQO, tfo: false}
+  - {name: "@vpnclashfa - 79", server: 194.59.183.1, port: 21318, type: ss, cipher: chacha20-ietf-poly1305, password: 1wCx73jegQqB0vxKdWONJH, tfo: false}
+  - {name: "@vpnclashfa - 80", server: 91.186.193.39, port: 16156, type: ss, cipher: chacha20-ietf-poly1305, password: 1wVcW5UutyV31NX1xz3Ix8gCxIh/ssrTzQOd5w1Ozhs=, tfo: false}
+  - {name: "@vpnclashfa - 81", server: e4.cover20.ir, port: 16156, type: ss, cipher: chacha20-ietf-poly1305, password: 1wVcW5UutyV31NX1xz3Ix8gCxIh/ssrTzQOd5w1Ozhs=, tfo: false}
+  - {name: "@vpnclashfa - 82", server: 91.186.193.39, port: 16156, type: ss, cipher: chacha20-ietf-poly1305, password: 1wVcW5UutyV31NX1xz3Ix8gCxIh/ssrTzQOd5w1Ozhs=, tfo: false}
+  - {name: "@vpnclashfa - 84", server: admin.c1.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1xO2cqPazqjGfCfd, tfo: false}
+  - {name: "@vpnclashfa - 86", server: 45.76.180.205, port: 31368, type: ss, cipher: chacha20-ietf-poly1305, password: 2981511c-becb-4b53-8a89-57cd3c97b328, tfo: false}
+  - {name: "@vpnclashfa - 87", server: freakconfig13.felafel.org, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1xO2cqPazqjGfCfd, tfo: false}
+  - {name: "@vpnclashfa - 88", server: 45.76.180.205, port: 31368, type: ss, cipher: chacha20-ietf-poly1305, password: 2981511c-becb-4b53-8a89-57cd3c97b328, tfo: false}
+  - {name: "@vpnclashfa - 88 2", server: 64.137.109.212, port: 44884, type: ss, cipher: chacha20-ietf-poly1305, password: 2DGq3jvVRg5n3CcxmysGK2kmrgJeSNof12A76cZvVxqPpetyC1XEciCFufq5xKvRWGGnKVembpThuUSQhbZ7GMsZY4UVxEBw, tfo: false}
+  - {name: "@vpnclashfa - 89", server: backup.fleetfoxi.link, port: 44884, type: ss, cipher: chacha20-ietf-poly1305, password: 2DGq3jvVRg5n3CcxmysGK2kmrgJeSNof12A76cZvVxqPpetyC1XEciCFufq5xKvRWGGnKVembpThuUSQhbZ7GMsZY4UVxEBw, tfo: false}
+  - {name: "@vpnclashfa - 92", server: media.mothyleela.cfd, port: 40521, type: ss, cipher: chacha20-ietf-poly1305, password: 2WkRGh6tAv8UmsHh4i3F6zosj2dzA6sCzXbwq4TdXteztMfyA5aZcLy5jY5Z7FZ3QQMcTVwM7TvibdvzYircC7iDZafp2U6z, tfo: false}
+  - {name: "@vpnclashfa - 93", server: 45.139.24.24, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: 360e21d21977dc11, tfo: false}
+  - {name: "@vpnclashfa - 94", server: 103.111.114.29, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: 360e21d21977dc11, tfo: false}
+  - {name: "@vpnclashfa - 94 2", server: 45.139.24.24, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: 360e21d21977dc11, tfo: false}
+  - {name: "@vpnclashfa - 95", server: 45.139.24.24, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: 360e21d21977dc11, tfo: false}
+  - {name: "@vpnclashfa - 96", server: 45.139.24.24, port: 57456, type: ss, cipher: chacha20-ietf-poly1305, password: 360e21d21977dc11, tfo: false}
+  - {name: "@vpnclashfa - 97", server: 185.39.204.161, port: 33563, type: ss, cipher: chacha20-ietf-poly1305, password: 3Q7U16yGY0Jx1yGQe9Xtzp, tfo: false}
+  - {name: "@vpnclashfa - 98", server: 43.173.98.184, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 3t21e/P6fxeSULmI2S4f0mJ3q3b2TiQO, tfo: false}
+  - {name: "@vpnclashfa - 98 2", server: 80.242.58.174, port: 14249, type: ss, cipher: chacha20-ietf-poly1305, password: 3GNhODxPaSK9z2E82pzI1b, tfo: false}

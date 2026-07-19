@@ -15,6 +15,7 @@ proxies:
   - {name: 🇫🇷 法国|BGP优化, server: fr.yuyan.vin, port: 10003, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
   - {name: 🇬🇧 英国 3x, server: j1acjhanlvdsvd.mdlbqwl.com, port: 19026, type: anytls, password: 850a75e0-2969-4391-8182-3044b6429c6a, skip-cert-verify: false, tfo: false}
   - {name: 🇬🇧 英国|BGP优化, server: uk.yuyan.vin, port: 10052, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: "🇭🇰 [DR线]香港", server: h0l2a1i9t3s6s7h4u4p8h8d0t3z4g8f5k0o2f1a8y1z3y7l9p3.o2o0p9m0j1w7l5f6j1q3k4t6q0w9u8j9n5n3z6p2m0e3b1n9b2e8y1f6s0y4.com, port: 8443, type: anytls, password: 0ea23540-790a-4aa1-89fe-a3829505c591, skip-cert-verify: false, tfo: false}
   - {name: "🇭🇰 [H1线]香港1", server: h0l2a1i9t3s6s7h4u4p8h8d0t3z4g8f5k0o2f1a8y1z3y7l9p3.o2o0p9m0j1w7l5f6j1q3k4t6q0w9u8j9n5n3z6p2m0e3b1n9b2e8y1f6s0y4.com, port: 44411, type: anytls, password: 0ea23540-790a-4aa1-89fe-a3829505c591, skip-cert-verify: false, tfo: false}
   - {name: "🇭🇰 [H1线]香港2", server: h0l2a1i9t3s6s7h4u4p8h8d0t3z4g8f5k0o2f1a8y1z3y7l9p3.o2o0p9m0j1w7l5f6j1q3k4t6q0w9u8j9n5n3z6p2m0e3b1n9b2e8y1f6s0y4.com, port: 44412, type: anytls, password: 0ea23540-790a-4aa1-89fe-a3829505c591, skip-cert-verify: false, tfo: false}
   - {name: "🇭🇰 [J1线]香港1", server: z3k4g8d8b0v9s9h3a0d4v4k9c0y4e7u5d2j6a3w6a2p1c6j1a4.o2o0p9m0j1w7l5f6j1q3k4t6q0w9u8j9n5n3z6p2m0e3b1n9b2e8y1f6s0y4.com, port: 44411, type: anytls, password: 0ea23540-790a-4aa1-89fe-a3829505c591, skip-cert-verify: false, tfo: false}
@@ -42,6 +43,8 @@ proxies:
   - {name: 🇭🇰 香港E|BGP优化, server: hke.yuyan.vin, port: 10029, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
   - {name: 🇮🇩 印尼|BGP优化, server: id.yuyan.vin, port: 10041, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
   - {name: 🇮🇩 印度尼西亚 3x, server: j1acjhanlvdsvd.mdlbqwl.com, port: 19028, type: anytls, password: 850a75e0-2969-4391-8182-3044b6429c6a, skip-cert-verify: false, tfo: false}
+  - {name: 🇮🇳 印度 V2CROSS.COM, server: 64.227.5.97, port: 44443, type: anytls, password: 0ea23540-790a-4aa1-89fe-a3829505c591, skip-cert-verify: false, tfo: false}
+  - {name: "🇯🇵 [DR线]日本", server: z3k4g8d8b0v9s9h3a0d4v4k9c0y4e7u5d2j6a3w6a2p1c6j1a4.o2o0p9m0j1w7l5f6j1q3k4t6q0w9u8j9n5n3z6p2m0e3b1n9b2e8y1f6s0y4.com, port: 8443, type: anytls, password: 0ea23540-790a-4aa1-89fe-a3829505c591, skip-cert-verify: false, tfo: false}
   - {name: "🇯🇵 [H1线]日本1", server: h0l2a1i9t3s6s7h4u4p8h8d0t3z4g8f5k0o2f1a8y1z3y7l9p3.o2o0p9m0j1w7l5f6j1q3k4t6q0w9u8j9n5n3z6p2m0e3b1n9b2e8y1f6s0y4.com, port: 44431, type: anytls, password: 0ea23540-790a-4aa1-89fe-a3829505c591, skip-cert-verify: false, tfo: false}
   - {name: "🇯🇵 [H1线]日本2", server: h0l2a1i9t3s6s7h4u4p8h8d0t3z4g8f5k0o2f1a8y1z3y7l9p3.o2o0p9m0j1w7l5f6j1q3k4t6q0w9u8j9n5n3z6p2m0e3b1n9b2e8y1f6s0y4.com, port: 44432, type: anytls, password: 0ea23540-790a-4aa1-89fe-a3829505c591, skip-cert-verify: false, tfo: false}
   - {name: "🇯🇵 [J1线]日本1", server: z3k4g8d8b0v9s9h3a0d4v4k9c0y4e7u5d2j6a3w6a2p1c6j1a4.o2o0p9m0j1w7l5f6j1q3k4t6q0w9u8j9n5n3z6p2m0e3b1n9b2e8y1f6s0y4.com, port: 44431, type: anytls, password: 0ea23540-790a-4aa1-89fe-a3829505c591, skip-cert-verify: false, tfo: false}
@@ -76,8 +79,9 @@ proxies:
   - {name: 🇲🇾 马来西亚3|BGP优化, server: my3.yuyan.vin, port: 10035, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
   - {name: 🇳🇬 尼日利亚|BGP优化, server: ng.yuyan.vin, port: 10046, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
   - {name: 🇳🇱 荷兰 |不加速|1x, server: free.nl1.laodavip.com, port: 443, type: anytls, password: 7468649e-cebd-4a76-8470-982e33062086, skip-cert-verify: false, tfo: false}
-  - {name: 🇳🇱 荷兰 |不加速|1x 2, server: free.nl1.laodavip.com, port: 443, type: anytls, password: 69f56e4d-6403-48c4-876d-16a5819c3672, skip-cert-verify: false, tfo: false}
-  - {name: 🇳🇱 荷兰 |不加速|1x 3, server: free.nl1.laodavip.com, port: 443, type: anytls, password: 2f3a2a4d-ca46-4012-a472-b559d379ad0a, skip-cert-verify: false, tfo: false}
+  - {name: 🇳🇱 荷兰 |不加速|1x 2, server: free.nl1.laodavip.com, port: 443, type: anytls, password: 89281585-8bde-4ef2-8807-96c603281ef8, skip-cert-verify: false, tfo: false}
+  - {name: 🇳🇱 荷兰 |不加速|1x 3, server: free.nl1.laodavip.com, port: 443, type: anytls, password: 69f56e4d-6403-48c4-876d-16a5819c3672, skip-cert-verify: false, tfo: false}
+  - {name: 🇳🇱 荷兰 |不加速|1x 4, server: free.nl1.laodavip.com, port: 443, type: anytls, password: 2f3a2a4d-ca46-4012-a472-b559d379ad0a, skip-cert-verify: false, tfo: false}
   - {name: 🇳🇱 荷兰|BGP优化, server: nl.yuyan.vin, port: 10037, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
   - {name: 🇵🇭 菲律宾1|BGP优化, server: ph1.yuyan.vin, port: 10032, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
   - {name: 🇵🇭 菲律宾2|BGP优化, server: ph2.yuyan.vin, port: 10055, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
