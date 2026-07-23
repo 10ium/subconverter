@@ -1,5 +1,12 @@
 proxies:
+  - {name: TG频道：@zwaaa2, server: sgaws.ccwink.photos, port: 14522, type: anytls, password: 6eca3cb7-eab5-4a96-b95d-444eb566309b, skip-cert-verify: false, tfo: false}
   - {name: 订阅链接已失效, server: youtube.com, port: 24525, type: anytls, password: 7456253f-6d63-46a2-a1ed-9d37cae32811, skip-cert-verify: false, tfo: false}
+  - {name: 距离下次重置剩余：7 天, server: sgaws.ccwink.photos, port: 14522, type: anytls, password: 6eca3cb7-eab5-4a96-b95d-444eb566309b, skip-cert-verify: false, tfo: false}
+  - {name: 🇨🇳 台湾｜02｜HiNet, server: tw.ccwink.cc, port: 6549, type: anytls, password: 6eca3cb7-eab5-4a96-b95d-444eb566309b, skip-cert-verify: false, tfo: false}
+  - {name: 🇨🇳 台湾｜08｜HiNet, server: tw2-vds20.anyhk.co, port: 6549, type: anytls, password: 6eca3cb7-eab5-4a96-b95d-444eb566309b, skip-cert-verify: false, tfo: false}
+  - {name: 🇭🇰 香港｜02｜HKT, server: hkt.ccwink.cc, port: 6549, type: anytls, password: 6eca3cb7-eab5-4a96-b95d-444eb566309b, skip-cert-verify: false, tfo: false}
+  - {name: 🇭🇰 香港｜05｜AWS, server: sgaws.ccwink.photos, port: 33389, type: anytls, password: 6eca3cb7-eab5-4a96-b95d-444eb566309b, skip-cert-verify: false, tfo: false}
+  - {name: 🇭🇰 香港｜06｜AWS, server: jpaws.ccwink.photos, port: 58044, type: anytls, password: 6eca3cb7-eab5-4a96-b95d-444eb566309b, skip-cert-verify: false, tfo: false}
   - {name: 🇯🇵 日本-01, server: awsjptest.qqa456.com, port: 45677, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
   - {name: 🇯🇵 日本-02, server: awsjptest.qqa456.com, port: 45677, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
   - {name: 🇯🇵 日本-03, server: awsjptest.qqa456.com, port: 45677, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
