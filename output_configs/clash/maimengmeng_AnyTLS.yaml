@@ -1,32 +1,25 @@
 proxies:
-  - {name: TG频道：@zwaaa2, server: sgaws.ccwink.photos, port: 14522, type: anytls, password: 6eca3cb7-eab5-4a96-b95d-444eb566309b, skip-cert-verify: false, tfo: false}
   - {name: 订阅链接已失效, server: youtube.com, port: 24525, type: anytls, password: 7456253f-6d63-46a2-a1ed-9d37cae32811, skip-cert-verify: false, tfo: false}
-  - {name: 距离下次重置剩余：2 天, server: sgaws.ccwink.photos, port: 14522, type: anytls, password: 6eca3cb7-eab5-4a96-b95d-444eb566309b, skip-cert-verify: false, tfo: false}
-  - {name: 距离下次重置剩余：26 天, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
-  - {name: 🇦🇺 LV3-🇦🇺澳大利亚「3x」, server: KHDfh0mwVNdXF98JL15z.2v3.kipfel.dev, port: 32518, type: anytls, password: 01eb5730-d5ab-4269-b72b-6504050deec2, skip-cert-verify: false, tfo: false}
+  - {name: 距离下次重置剩余：25 天, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
+  - {name: 🇦🇺 LV3-🇦🇺澳大利亚「3x」, server: CAvpu4rG5boJysPD6lqX.2v3.kipfel.dev, port: 32518, type: anytls, password: 01eb5730-d5ab-4269-b72b-6504050deec2, skip-cert-verify: false, tfo: false}
   - {name: 🇦🇺 澳大利亚|BGP|01|1x, server: 2026.xn--cjz291d.co, port: 47477, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
   - {name: 🇦🇺 澳大利亚|BGP|02|1x, server: 2026.xn--cjz291d.co, port: 47477, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
-  - {name: 🇧🇷 LV3-🇧🇷巴西「3x」, server: 0NWVuqHFgIZpBfhYb7sd.2v3.kipfel.dev, port: 32517, type: anytls, password: 01eb5730-d5ab-4269-b72b-6504050deec2, skip-cert-verify: false, tfo: false}
-  - {name: 🇨🇳 LV2-🇨🇳台湾AN「2x」, server: JgZjNPeuMhGX8UfqDa3V.lv1.kipfel.dev, port: 31923, type: anytls, password: 01eb5730-d5ab-4269-b72b-6504050deec2, skip-cert-verify: false, tfo: false}
-  - {name: 🇨🇳 LV3-🇨🇳台湾「3x」, server: kSEve65zP7jLbpKn1TVW.2v3.kipfel.dev, port: 32513, type: anytls, password: 01eb5730-d5ab-4269-b72b-6504050deec2, skip-cert-verify: false, tfo: false}
+  - {name: 🇧🇷 LV3-🇧🇷巴西「3x」, server: wsqaSjZOpV79xAimMfR8.2v3.kipfel.dev, port: 32517, type: anytls, password: 01eb5730-d5ab-4269-b72b-6504050deec2, skip-cert-verify: false, tfo: false}
+  - {name: 🇨🇳 LV2-🇨🇳台湾AN「2x」, server: NoIA9ygmuaTQZijGM47P.lv1.kipfel.dev, port: 31923, type: anytls, password: 01eb5730-d5ab-4269-b72b-6504050deec2, skip-cert-verify: false, tfo: false}
+  - {name: 🇨🇳 LV3-🇨🇳台湾「3x」, server: vDYFMsC3oW1ZKe0Uc254.2v3.kipfel.dev, port: 32513, type: anytls, password: 01eb5730-d5ab-4269-b72b-6504050deec2, skip-cert-verify: false, tfo: false}
   - {name: 🇨🇳 TW-台湾-4, server: tw4-1.yylxjichang.top, port: 11630, type: anytls, password: 810fe7f2-ab78-44c8-9f20-ddf6ff65e755, skip-cert-verify: false, tfo: false}
-  - {name: 🇨🇳 台湾｜02｜HiNet, server: tw.ccwink.cc, port: 6549, type: anytls, password: 6eca3cb7-eab5-4a96-b95d-444eb566309b, skip-cert-verify: false, tfo: false}
-  - {name: 🇨🇳 台湾｜08｜HiNet, server: tw2-vds20.anyhk.co, port: 6549, type: anytls, password: 6eca3cb7-eab5-4a96-b95d-444eb566309b, skip-cert-verify: false, tfo: false}
   - {name: 🇩🇪 德国|BGP|01|1x, server: 2026.xn--cjz291d.co, port: 65304, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
   - {name: 🇩🇪 德国|BGP|02|1x, server: 2026.xn--cjz291d.co, port: 65304, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
   - {name: 🇬🇧 英国|BGP|01|1x, server: 2026.xn--cjz291d.co, port: 12343, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
   - {name: 🇬🇧 英国|BGP|02|1x, server: 2026.xn--cjz291d.co, port: 12343, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
-  - {name: 🇭🇰 LV2-🇭🇰香港AN「2x」, server: v2aFBD69PT4YNjS5QLtk.lv1.kipfel.dev, port: 31921, type: anytls, password: 01eb5730-d5ab-4269-b72b-6504050deec2, skip-cert-verify: false, tfo: false}
-  - {name: 🇭🇰 LV3-🇭🇰香港「3x」, server: s1I6oO85wqEvc0riJ3Wk.2v3.kipfel.dev, port: 32511, type: anytls, password: 01eb5730-d5ab-4269-b72b-6504050deec2, skip-cert-verify: false, tfo: false}
+  - {name: 🇭🇰 LV2-🇭🇰香港AN「2x」, server: IzAYNE9K5mjChvcyaOU8.lv1.kipfel.dev, port: 31921, type: anytls, password: 01eb5730-d5ab-4269-b72b-6504050deec2, skip-cert-verify: false, tfo: false}
+  - {name: 🇭🇰 LV3-🇭🇰香港「3x」, server: b5YuA092RmrqKafgF7Ww.2v3.kipfel.dev, port: 32511, type: anytls, password: 01eb5730-d5ab-4269-b72b-6504050deec2, skip-cert-verify: false, tfo: false}
   - {name: 🇭🇰 香港|BGP|01|1x, server: 2026.xn--cjz291d.co, port: 36748, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
   - {name: 🇭🇰 香港|BGP|02|1x, server: 2026.xn--cjz291d.co, port: 36748, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
   - {name: 🇭🇰 香港|BGP|03|1x, server: 2026.xn--cjz291d.co, port: 36748, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
-  - {name: 🇭🇰 香港｜02｜HKT, server: hkt.ccwink.cc, port: 6549, type: anytls, password: 6eca3cb7-eab5-4a96-b95d-444eb566309b, skip-cert-verify: false, tfo: false}
-  - {name: 🇭🇰 香港｜05｜AWS, server: sgaws.ccwink.photos, port: 33389, type: anytls, password: 6eca3cb7-eab5-4a96-b95d-444eb566309b, skip-cert-verify: false, tfo: false}
-  - {name: 🇭🇰 香港｜06｜AWS, server: jpaws.ccwink.photos, port: 58044, type: anytls, password: 6eca3cb7-eab5-4a96-b95d-444eb566309b, skip-cert-verify: false, tfo: false}
-  - {name: 🇮🇳 LV3-🇮🇳印度「3x」, server: 2wBxZ8gDakfK5q71mnhF.2v3.kipfel.dev, port: 32519, type: anytls, password: 01eb5730-d5ab-4269-b72b-6504050deec2, skip-cert-verify: false, tfo: false}
-  - {name: 🇯🇵 LV2-🇯🇵日本AN「2x」, server: OJzBek208LfjiXRmn7xa.lv1.kipfel.dev, port: 31924, type: anytls, password: 01eb5730-d5ab-4269-b72b-6504050deec2, skip-cert-verify: false, tfo: false}
-  - {name: 🇯🇵 LV3-🇯🇵日本「3x」, server: GlCAUMFRap8ne4IzTH6W.2v3.kipfel.dev, port: 32514, type: anytls, password: 01eb5730-d5ab-4269-b72b-6504050deec2, skip-cert-verify: false, tfo: false}
+  - {name: 🇮🇳 LV3-🇮🇳印度「3x」, server: Sn9V6EmkvNbZA4TOl7De.2v3.kipfel.dev, port: 32519, type: anytls, password: 01eb5730-d5ab-4269-b72b-6504050deec2, skip-cert-verify: false, tfo: false}
+  - {name: 🇯🇵 LV2-🇯🇵日本AN「2x」, server: MRTjDWm9St4zBh5ECdF6.lv1.kipfel.dev, port: 31924, type: anytls, password: 01eb5730-d5ab-4269-b72b-6504050deec2, skip-cert-verify: false, tfo: false}
+  - {name: 🇯🇵 LV3-🇯🇵日本「3x」, server: mQ7ktY1Fpu9o38afExRb.2v3.kipfel.dev, port: 32514, type: anytls, password: 01eb5730-d5ab-4269-b72b-6504050deec2, skip-cert-verify: false, tfo: false}
   - {name: 🇯🇵 日本-01, server: awsjptest.qqa456.com, port: 45677, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
   - {name: 🇯🇵 日本-02, server: awsjptest.qqa456.com, port: 45677, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
   - {name: 🇯🇵 日本-03, server: awsjptest.qqa456.com, port: 45677, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
@@ -34,10 +27,9 @@ proxies:
   - {name: 🇯🇵 日本|BGP|01|1x, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
   - {name: 🇯🇵 日本|BGP|02|1x, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
   - {name: 🇯🇵 日本|BGP|03|1x, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
-  - {name: 🇯🇵 日本樱花 1 | anytls, server: jpyh1.nekohub.xyz, port: 40001, type: anytls, password: a08912ec-6269-4ab0-bcc1-0a1d38e9088f, skip-cert-verify: false, tfo: false}
-  - {name: 🇰🇷 LV3-🇰🇷韩国「3x」, server: FabMctJuynWYzgOph3ld.2v3.kipfel.dev, port: 32516, type: anytls, password: 01eb5730-d5ab-4269-b72b-6504050deec2, skip-cert-verify: false, tfo: false}
-  - {name: 🇸🇬 LV2-🇸🇬新加坡AN「2x」, server: TAOXbJfPwdnt3ckB1RDg.lv1.kipfel.dev, port: 31922, type: anytls, password: 01eb5730-d5ab-4269-b72b-6504050deec2, skip-cert-verify: false, tfo: false}
-  - {name: 🇸🇬 LV3-🇸🇬新加坡「3x」, server: RhA8LINBciUqHegDsJ96.2v3.kipfel.dev, port: 32512, type: anytls, password: 01eb5730-d5ab-4269-b72b-6504050deec2, skip-cert-verify: false, tfo: false}
+  - {name: 🇰🇷 LV3-🇰🇷韩国「3x」, server: JL6rHX54VUFlYNp7TEGO.2v3.kipfel.dev, port: 32516, type: anytls, password: 01eb5730-d5ab-4269-b72b-6504050deec2, skip-cert-verify: false, tfo: false}
+  - {name: 🇸🇬 LV2-🇸🇬新加坡AN「2x」, server: m1ZbG2B30VHEFJRdgXWS.lv1.kipfel.dev, port: 31922, type: anytls, password: 01eb5730-d5ab-4269-b72b-6504050deec2, skip-cert-verify: false, tfo: false}
+  - {name: 🇸🇬 LV3-🇸🇬新加坡「3x」, server: 0xAS6wTubNKtFLh3kizE.2v3.kipfel.dev, port: 32512, type: anytls, password: 01eb5730-d5ab-4269-b72b-6504050deec2, skip-cert-verify: false, tfo: false}
   - {name: 🇸🇬 新加坡-01, server: sg-aws.xn--9kqp42aims.top, port: 22712, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
   - {name: 🇸🇬 新加坡-02, server: sg-aws.xn--9kqp42aims.top, port: 22712, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
   - {name: 🇸🇬 新加坡-03, server: sg-aws.xn--9kqp42aims.top, port: 22712, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
@@ -49,8 +41,8 @@ proxies:
   - {name: 🇸🇬 新加坡|BGP|03|1x, server: 2026.xn--cjz291d.co, port: 35326, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
   - {name: 🇸🇬 请加入频道获取最新订阅链接, server: github.com, port: 24525, type: anytls, password: 7456253f-6d63-46a2-a1ed-9d37cae32811, skip-cert-verify: false, tfo: false}
   - {name: 🇸🇬 连接不上请刷新订阅, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
-  - {name: 🇺🇸 LV2-🇺🇸美国AN「2x」, server: dzAIES3VDfT0C5g1ikvx.lv1.kipfel.dev, port: 31925, type: anytls, password: 01eb5730-d5ab-4269-b72b-6504050deec2, skip-cert-verify: false, tfo: false}
-  - {name: 🇺🇸 LV3-🇺🇸美国「3x」, server: eX6axmRNwpiuLPJbZ7jM.2v3.kipfel.dev, port: 32515, type: anytls, password: 01eb5730-d5ab-4269-b72b-6504050deec2, skip-cert-verify: false, tfo: false}
+  - {name: 🇺🇸 LV2-🇺🇸美国AN「2x」, server: 7MOa9Hn1WkPBwtzyGb2m.lv1.kipfel.dev, port: 31925, type: anytls, password: 01eb5730-d5ab-4269-b72b-6504050deec2, skip-cert-verify: false, tfo: false}
+  - {name: 🇺🇸 LV3-🇺🇸美国「3x」, server: GrIgRFCDe3V8Ezq4divt.2v3.kipfel.dev, port: 32515, type: anytls, password: 01eb5730-d5ab-4269-b72b-6504050deec2, skip-cert-verify: false, tfo: false}
   - {name: 🇺🇸 美国-04, server: us2.xn--9kqp42aims.top, port: 18445, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
   - {name: 🇺🇸 美国|BGP|01|1x, server: 2026.xn--cjz291d.co, port: 26558, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
   - {name: 🇺🇸 美国|BGP|02|1x, server: 2026.xn--cjz291d.co, port: 26558, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}

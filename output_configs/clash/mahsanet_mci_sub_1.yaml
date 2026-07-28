@@ -1,6 +1,4 @@
 proxies:
-  - {name: "@FarazV2ray", server: 162.159.38.119, port: 443, type: vless, tls: true, uuid: eeb6823c-b926-4ea2-866a-5542edd26e59, servername: t1s1.rittbo.kdns.fr, network: ws, ws-path: "/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed", ws-headers: {Host: t1s1.rittbo.kdns.fr}, skip-cert-verify: false, tfo: false}
-  - {name: "Channel id: @ShadowProxy66 🇺🇸", server: 162.159.38.119, port: 443, type: vless, tls: true, uuid: eeb6823c-b926-4ea2-866a-5542edd26e59, servername: t1s1.rittbo.kdns.fr, network: ws, ws-path: "/?TELEGRAM-ShadowProxy66?ed=512", ws-headers: {Host: t1s1.rittbo.kdns.fr}, skip-cert-verify: false, tfo: false}
   - {name: V2rayng_Fast, server: 82.38.31.204, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
   - {name: "[🇨🇦]t.me/ConfigsHub", server: 158.51.121.63, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: seribus.org, network: ws, ws-path: linkvws, ws-headers: {Host: seribus.org}, tfo: false}
   - {name: 🇳🇱 The Netherlands, server: 82.38.31.34, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
