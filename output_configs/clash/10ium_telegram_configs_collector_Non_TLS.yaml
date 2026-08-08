@@ -1,22 +1,32 @@
 proxies:
   - {name: LATEST-UPDATE 📅 SAT-17-MORDAD-1405 🕑 08:02, server: 127.0.0.1, port: 1080, type: vless, tls: true, uuid: baabcca-aacb-aabc-bcda-acabcbcacabb, skip-cert-verify: false, tfo: false}
-  - {name: SS-TCP-NA 🇮🇱 IL-45.140.204.75:45635, server: 45.140.204.75, port: 45635, type: ss, cipher: chacha20-ietf-poly1305, password: QxU3Q3O44spzHBb6z3l4OS, tfo: false}
-  - {name: SS-TCP-NA 🇮🇷 IR-95.38.166.233:11109, server: 95.38.166.233, port: 11109, type: ss, cipher: aes-256-gcm, password: Yzc4NjhlNTY3ZGU5NzdmOGVjOTk0ZTFhMzM5YWNm, tfo: false}
-  - {name: SS-TCP-NA 🇲🇦 MA-188.214.157.30:990, server: 188.214.157.30, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
-  - {name: SS-TCP-NA 🇹🇭 TH-47.81.56.202:44617, server: 47.81.56.202, port: 44617, type: ss, cipher: chacha20-ietf-poly1305, password: lhuULRwO4slM6k262pAC4cbq5A1H6z8eaOHV27vi7Yw=, tfo: false}
-  - {name: SS-TCP-NA 🇿🇦 ZA-156.38.168.58:990, server: 156.38.168.58, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
+  - {name: SS-TCP-NA 🇦🇪 AE-147.78.0.182:990, server: 147.78.0.182, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
+  - {name: SS-TCP-NA 🇦🇹 AT-37.235.56.69:990, server: 37.235.56.69, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
+  - {name: SS-TCP-NA 🇧🇬 BG-38.244.132.14:5499, server: 38.244.132.14, port: 5499, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV, tfo: false}
+  - {name: SS-TCP-NA 🇧🇴 BO-185.93.173.60:990, server: 185.93.173.60, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
+  - {name: SS-TCP-NA 🇪🇨 EC-185.47.253.227:990, server: 185.47.253.227, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3, tfo: false}
+  - {name: SS-TCP-NA 🇭🇷 HR-5.181.2.73:43248, server: 5.181.2.73, port: 43248, type: ss, cipher: chacha20-ietf-poly1305, password: WavHeSGFxfvrkkbQd48PrB, tfo: false}
+  - {name: SS-TCP-NA 🇮🇷 IR-185.215.231.59:443, server: 185.215.231.59, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kiM81U2p5f8m-AfeRRUi6_un9S4mX8Ly, tfo: false}
+  - {name: SS-TCP-NA 🇮🇷 IR-185.84.158.206:56985, server: 185.84.158.206, port: 56985, type: ss, cipher: chacha20-ietf-poly1305, password: NHnR/CZ9XSTK2hIKVZ6qCVLKHe4cbZsozY58EIq/HZI=, tfo: false}
+  - {name: SS-TCP-NA 🇮🇷 IR-81.12.32.101:443, server: 81.12.32.101, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kiM81U2p5f8m-AfeRRUi6_un9S4mX8Ly, tfo: false}
+  - {name: SS-TCP-NA 🇮🇷 IR-85.198.16.123:2020, server: 85.198.16.123, port: 2020, type: ss, cipher: chacha20-ietf-poly1305, password: 0u47xJvp2_pGbA5c13ASHK87DxDwk5zm, tfo: false}
+  - {name: SS-TCP-NA 🇲🇰 MK-46.183.185.37:990, server: 46.183.185.37, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
+  - {name: SS-TCP-NA 🇷🇴 RO-154.46.31.106:443, server: 154.46.31.106, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: QFWzCw2uX9B9i6qAYeFBIE, tfo: false}
+  - {name: SS-TCP-NA 🇹🇷 TR-185.39.204.161:33563, server: 185.39.204.161, port: 33563, type: ss, cipher: chacha20-ietf-poly1305, password: 3Q7U16yGY0Jx1yGQe9Xtzp, tfo: false}
+  - {name: SS-TCP-NA 🇹🇷 TR-38.180.113.194:8119, server: 38.180.113.194, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, tfo: false}
+  - {name: SS-TCP-NA 🇿🇦 ZA-102.133.165.160:16233, server: 102.133.165.160, port: 16233, type: ss, cipher: chacha20-ietf-poly1305, password: Xsy8Ox4yOV3xLlpxtjzs3X, tfo: false}
+  - {name: SS-TCP-NA 🇿🇦 ZA-102.37.156.224:443, server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, tfo: false}
   - {name: SS-TCP-NA 🏴‍☠️ NA-1.0.0.1:80, server: 1.0.0.1, port: 80, type: ss, cipher: aes-128-gcm, password: password, tfo: false}
-  - {name: SS-TCP-NA 🏴‍☠️ NA-1.1.1.1:443, server: 1.1.1.1, port: 443, type: ss, cipher: aes-128-gcm, password: !<str> 00000000000000000000000000000000, tfo: false}
   - {name: TR-GRPC-NA 🇦🇪 AE-78.17.103.162:443, server: 78.17.103.162, port: 443, type: trojan, password: yooog56ts3ymtpp5, sni: driveservice.mooo.com, skip-cert-verify: false, tfo: false}
-  - {name: TR-TCP-NA 🇮🇪 IE-34.251.228.118:443, server: 34.251.228.118, port: 443, type: trojan, password: UO36402987, sni: definite-ladybird.rooster465.autos, skip-cert-verify: false, tfo: false}
-  - {name: TR-TCP-NA 🇮🇪 IE-34.251.228.118:443 2, server: 34.251.228.118, port: 443, type: trojan, password: UO36402987, skip-cert-verify: false, tfo: false}
+  - {name: TR-TCP-NA 🇮🇪 IE-34.251.228.118:443, server: 34.251.228.118, port: 443, type: trojan, password: UO36402987, skip-cert-verify: false, tfo: false}
+  - {name: TR-TCP-NA 🇮🇪 IE-34.251.228.118:443 2, server: 34.251.228.118, port: 443, type: trojan, password: UO36402987, sni: definite-ladybird.rooster465.autos, skip-cert-verify: false, tfo: false}
   - {name: TR-TCP-NA 🇮🇪 IE-54.170.212.206:443, server: 54.170.212.206, port: 443, type: trojan, password: ND91608427, skip-cert-verify: false, tfo: false}
   - {name: TR-TCP-NA 🇮🇪 IE-54.170.212.206:443 2, server: 54.170.212.206, port: 443, type: trojan, password: ND91608427, sni: skilled-lioness.rooster465.autos, skip-cert-verify: false, tfo: false}
   - {name: TR-TCP-NA 🇮🇪 IE-54.170.212.206:443 3, server: 54.170.212.206, port: 443, type: trojan, password: ND91608427, sni: skilled-lioness.rooster465.autos, skip-cert-verify: false, tfo: false}
-  - {name: TR-TCP-NA 🇮🇪 IE-54.216.124.178:443, server: 54.216.124.178, port: 443, type: trojan, password: UO36402987, sni: warm-bass.rooster465.autos, skip-cert-verify: false, tfo: false}
-  - {name: TR-TCP-NA 🇮🇪 IE-54.216.124.178:443 2, server: 54.216.124.178, port: 443, type: trojan, password: UO36402987, skip-cert-verify: false, tfo: false}
-  - {name: TR-TCP-NA 🇮🇪 IE-54.217.133.71:443, server: 54.217.133.71, port: 443, type: trojan, password: ND91608427, skip-cert-verify: false, tfo: false}
-  - {name: TR-TCP-NA 🇮🇪 IE-54.217.133.71:443 2, server: 54.217.133.71, port: 443, type: trojan, password: ND91608427, sni: willing-beagle.rooster465.autos, skip-cert-verify: false, tfo: false}
+  - {name: TR-TCP-NA 🇮🇪 IE-54.216.124.178:443, server: 54.216.124.178, port: 443, type: trojan, password: UO36402987, skip-cert-verify: false, tfo: false}
+  - {name: TR-TCP-NA 🇮🇪 IE-54.216.124.178:443 2, server: 54.216.124.178, port: 443, type: trojan, password: UO36402987, sni: warm-bass.rooster465.autos, skip-cert-verify: false, tfo: false}
+  - {name: TR-TCP-NA 🇮🇪 IE-54.217.133.71:443, server: 54.217.133.71, port: 443, type: trojan, password: ND91608427, sni: willing-beagle.rooster465.autos, skip-cert-verify: false, tfo: false}
+  - {name: TR-TCP-NA 🇮🇪 IE-54.217.133.71:443 2, server: 54.217.133.71, port: 443, type: trojan, password: ND91608427, skip-cert-verify: false, tfo: false}
   - {name: TR-TCP-NA 🏴‍☠️ NA-1.1.1.1:8080, server: 1.1.1.1, port: 8080, type: trojan, password: cfa36789-94aa-4c4c-ad06-ab35a8eb9312, sni: 1.1.1.1, skip-cert-verify: false, tfo: false}
   - {name: TR-TCP-NA 🏴‍☠️ NA-104.16.174.12:443, server: 104.16.174.12, port: 443, type: trojan, password: humanity, skip-cert-verify: false, tfo: false}
   - {name: TR-TCP-NA 🏴‍☠️ NA-104.16.72.41:443, server: 104.16.72.41, port: 443, type: trojan, password: humanity, skip-cert-verify: false, tfo: false}
@@ -71,10 +81,10 @@ proxies:
   - {name: TR-WS-NA 🏴‍☠️ NA-104.18.152.97:443, server: 104.18.152.97, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, tfo: false}
   - {name: TR-WS-NA 🏴‍☠️ NA-104.18.155.119:443, server: 104.18.155.119, port: 443, type: trojan, password: 988sR-269PKCKlb&3pMrFTEr, sni: LetiRanbrEaTh-7RrkEvFu2HJBIs5UHCXWztz24T5Vp6trF1oka8Dkrw0n.HE3fmQ6z0mfSZSK3Xy2E.wOrkers.deV, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: LetiRanbrEaTh-7RrkEvFu2HJBIs5UHCXWztz24T5Vp6trF1oka8Dkrw0n.HE3fmQ6z0mfSZSK3Xy2E.wOrkers.deV}}, tfo: false}
   - {name: TR-WS-NA 🏴‍☠️ NA-104.18.156.119:443, server: 104.18.156.119, port: 443, type: trojan, password: 988sR-269PKCKlb&3pMrFTEr, sni: LetiRanbrEaTh-7RrkEvFu2HJBIs5UHCXWztz24T5Vp6trF1oka8Dkrw0n.HE3fmQ6z0mfSZSK3Xy2E.wOrkers.deV, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: LetiRanbrEaTh-7RrkEvFu2HJBIs5UHCXWztz24T5Vp6trF1oka8Dkrw0n.HE3fmQ6z0mfSZSK3Xy2E.wOrkers.deV}}, tfo: false}
-  - {name: TR-WS-NA 🏴‍☠️ NA-104.18.22.63:443, server: 104.18.22.63, port: 443, type: trojan, password: humanity, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment}, tfo: false}
-  - {name: TR-WS-NA 🏴‍☠️ NA-104.18.22.63:443 2, server: 104.18.22.63, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, tfo: false}
-  - {name: TR-WS-NA 🏴‍☠️ NA-104.18.23.63:443, server: 104.18.23.63, port: 443, type: trojan, password: humanity, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment}, tfo: false}
-  - {name: TR-WS-NA 🏴‍☠️ NA-104.18.23.63:443 2, server: 104.18.23.63, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, tfo: false}
+  - {name: TR-WS-NA 🏴‍☠️ NA-104.18.22.63:443, server: 104.18.22.63, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, tfo: false}
+  - {name: TR-WS-NA 🏴‍☠️ NA-104.18.22.63:443 2, server: 104.18.22.63, port: 443, type: trojan, password: humanity, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment}, tfo: false}
+  - {name: TR-WS-NA 🏴‍☠️ NA-104.18.23.63:443, server: 104.18.23.63, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, tfo: false}
+  - {name: TR-WS-NA 🏴‍☠️ NA-104.18.23.63:443 2, server: 104.18.23.63, port: 443, type: trojan, password: humanity, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment}, tfo: false}
   - {name: TR-WS-NA 🏴‍☠️ NA-104.18.28.234:443, server: 104.18.28.234, port: 443, type: trojan, password: !<str> 521314, sni: tjplay.lxdxo.kdns.fr, skip-cert-verify: false, network: ws, ws-opts: {path: /Leviko_v2ray, headers: {Host: tjplay.lxdxo.kdns.fr}}, tfo: false}
   - {name: TR-WS-NA 🏴‍☠️ NA-104.18.35.15:443, server: 104.18.35.15, port: 443, type: trojan, password: 87d1bfd4-574e-4c96-ad42-0426f27461ff, sni: _acme-challenge.sb.cloudns.biz, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: _acme-challenge.sb.cloudns.biz}}, tfo: false}
   - {name: TR-WS-NA 🏴‍☠️ NA-104.18.42.98:443, server: 104.18.42.98, port: 443, type: trojan, password: 87961f9d-bee1-4377-826b-e169e7891c4f, sni: yks-dd9.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: yks-dd9.pages.dev}}, tfo: false}
@@ -125,8 +135,8 @@ proxies:
   - {name: TR-WS-NA 🏴‍☠️ NA-172.67.149.60:443, server: 172.67.149.60, port: 443, type: trojan, password: c206d543-023d-46cc-9d5a-1f0f2fc16323, sni: space.byu.id.yxls.eu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /in-pdr, headers: {Host: space.byu.id.yxls.eu.cc}}, tfo: false}
   - {name: TR-WS-NA 🏴‍☠️ NA-172.67.152.183:443, server: 172.67.152.183, port: 443, type: trojan, password: 87961f9d-bee1-4377-826b-e169e7891c4f, sni: yks-dd9.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: yks-dd9.pages.dev}}, tfo: false}
   - {name: TR-WS-NA 🏴‍☠️ NA-172.67.153.253:443, server: 172.67.153.253, port: 443, type: trojan, password: 87961f9d-bee1-4377-826b-e169e7891c4f, sni: yks-dd9.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: yks-dd9.pages.dev}}, tfo: false}
-  - {name: TR-WS-NA 🏴‍☠️ NA-172.67.156.87:443, server: 172.67.156.87, port: 443, type: trojan, password: Telegram_healer_config, sni: tO6R63-kkCHIgHQM2.vXZ0dDUq7to7SU0cdQF.wOrKERS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: tO6R63-kkCHIgHQM2.vXZ0dDUq7to7SU0cdQF.wOrKERS.Dev}}, tfo: false}
-  - {name: TR-WS-NA 🏴‍☠️ NA-172.67.156.87:443 2, server: 172.67.156.87, port: 443, type: trojan, password: Telegram_healer_config, sni: To6R63-kKChiGHqm2.vxz0Dduq7to7Su0CDQf.worKERs.DEV, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: To6R63-kKChiGHqm2.vxz0Dduq7to7Su0CDQf.worKERs.DEV}}, tfo: false}
+  - {name: TR-WS-NA 🏴‍☠️ NA-172.67.156.87:443, server: 172.67.156.87, port: 443, type: trojan, password: Telegram_healer_config, sni: To6R63-kKChiGHqm2.vxz0Dduq7to7Su0CDQf.worKERs.DEV, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: To6R63-kKChiGHqm2.vxz0Dduq7to7Su0CDQf.worKERs.DEV}}, tfo: false}
+  - {name: TR-WS-NA 🏴‍☠️ NA-172.67.156.87:443 2, server: 172.67.156.87, port: 443, type: trojan, password: Telegram_healer_config, sni: tO6R63-kkCHIgHQM2.vXZ0dDUq7to7SU0cdQF.wOrKERS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: tO6R63-kkCHIgHQM2.vXZ0dDUq7to7SU0cdQF.wOrKERS.Dev}}, tfo: false}
   - {name: TR-WS-NA 🏴‍☠️ NA-172.67.173.17:443, server: 172.67.173.17, port: 443, type: trojan, password: 87961f9d-bee1-4377-826b-e169e7891c4f, sni: yks-dd9.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: yks-dd9.pages.dev}}, tfo: false}
   - {name: TR-WS-NA 🏴‍☠️ NA-172.67.174.10:443, server: 172.67.174.10, port: 443, type: trojan, password: 容解析错误trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61, sni: blackshadow.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: /%2F195.123.218.174-443, headers: {Host: blackshadow.dpdns.org}}, tfo: false}
   - {name: TR-WS-NA 🏴‍☠️ NA-172.67.182.52:443, server: 172.67.182.52, port: 443, type: trojan, password: Telegram_healer_config, sni: 6m1rGyIEclMRx9HeF1.Z6-0hlNUbJIBwZPa85.wOrKerS.DEV, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: 6m1rGyIEclMRx9HeF1.Z6-0hlNUbJIBwZPa85.wOrKerS.DEV}}, tfo: false}
@@ -226,10 +236,10 @@ proxies:
   - {name: VL-WS-NA 🏴‍☠️ NA-104.21.40.59:80, server: 104.21.40.59, port: 80, type: vless, tls: true, uuid: 65e6db84-d50f-4de9-a916-02148a71a22b, network: ws, ws-headers: {Host: ftp.debian.org.www.speedtest.net.ncba.ir.}, skip-cert-verify: false, tfo: false}
   - {name: VL-WS-NA 🏴‍☠️ NA-104.21.56.202:80, server: 104.21.56.202, port: 80, type: vless, tls: true, uuid: b0446189-b05d-4f64-acef-e43f13432a43, network: ws, ws-path: "/?ed=2048", ws-headers: {Host: mahdi-hector-wind-8655.sahegaw957.workers.dev}, skip-cert-verify: false, tfo: false}
   - {name: VL-WS-NA 🏴‍☠️ NA-104.21.76.231:2095, server: 104.21.76.231, port: 2095, type: vless, tls: true, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, network: ws, ws-path: /, ws-headers: {Host: nmslfangbinxing.pusytroller.gq}, skip-cert-verify: false, tfo: false}
-  - {name: VL-WS-NA 🏴‍☠️ NA-104.26.0.195:8080, server: 104.26.0.195, port: 8080, type: vless, tls: true, uuid: 59eefc04-b831-45cf-8d68-63ca23381171, network: ws, ws-path: /ws-hTopcF3L, ws-headers: {Host: premium-us-az-01-hostinger.efgwf.online}, skip-cert-verify: false, tfo: false}
-  - {name: VL-WS-NA 🏴‍☠️ NA-104.26.0.195:8080 2, server: 104.26.0.195, port: 8080, type: vless, tls: true, uuid: 4e0f4e59-3613-4f0c-b824-7348413d20e6, network: ws, ws-path: /ws-6Tta3kYF, ws-headers: {Host: premium-us-ca-01-gthost.efgwf.online}, skip-cert-verify: false, tfo: false}
-  - {name: VL-WS-NA 🏴‍☠️ NA-104.26.1.195:8080, server: 104.26.1.195, port: 8080, type: vless, tls: true, uuid: 4e0f4e59-3613-4f0c-b824-7348413d20e6, network: ws, ws-path: /ws-6Tta3kYF, ws-headers: {Host: premium-us-ca-01-gthost.efgwf.online}, skip-cert-verify: false, tfo: false}
-  - {name: VL-WS-NA 🏴‍☠️ NA-104.26.1.195:8080 2, server: 104.26.1.195, port: 8080, type: vless, tls: true, uuid: 59eefc04-b831-45cf-8d68-63ca23381171, network: ws, ws-path: /ws-hTopcF3L, ws-headers: {Host: premium-us-az-01-hostinger.efgwf.online}, skip-cert-verify: false, tfo: false}
+  - {name: VL-WS-NA 🏴‍☠️ NA-104.26.0.195:8080, server: 104.26.0.195, port: 8080, type: vless, tls: true, uuid: 4e0f4e59-3613-4f0c-b824-7348413d20e6, network: ws, ws-path: /ws-6Tta3kYF, ws-headers: {Host: premium-us-ca-01-gthost.efgwf.online}, skip-cert-verify: false, tfo: false}
+  - {name: VL-WS-NA 🏴‍☠️ NA-104.26.0.195:8080 2, server: 104.26.0.195, port: 8080, type: vless, tls: true, uuid: 59eefc04-b831-45cf-8d68-63ca23381171, network: ws, ws-path: /ws-hTopcF3L, ws-headers: {Host: premium-us-az-01-hostinger.efgwf.online}, skip-cert-verify: false, tfo: false}
+  - {name: VL-WS-NA 🏴‍☠️ NA-104.26.1.195:8080, server: 104.26.1.195, port: 8080, type: vless, tls: true, uuid: 59eefc04-b831-45cf-8d68-63ca23381171, network: ws, ws-path: /ws-hTopcF3L, ws-headers: {Host: premium-us-az-01-hostinger.efgwf.online}, skip-cert-verify: false, tfo: false}
+  - {name: VL-WS-NA 🏴‍☠️ NA-104.26.1.195:8080 2, server: 104.26.1.195, port: 8080, type: vless, tls: true, uuid: 4e0f4e59-3613-4f0c-b824-7348413d20e6, network: ws, ws-path: /ws-6Tta3kYF, ws-headers: {Host: premium-us-ca-01-gthost.efgwf.online}, skip-cert-verify: false, tfo: false}
   - {name: VL-WS-NA 🏴‍☠️ NA-172.64.145.202:2095, server: 172.64.145.202, port: 2095, type: vless, tls: true, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, network: ws, ws-headers: {Host: fangbinxingnmsl.pusytroller.gq}, skip-cert-verify: false, tfo: false}
   - {name: VL-WS-NA 🏴‍☠️ NA-172.64.151.134:8880, server: 172.64.151.134, port: 8880, type: vless, tls: true, uuid: 878dd962-027b-4bd3-a1f8-66be68a03c4d, network: ws, ws-path: /pyip=ProxyIP.SG.CMLiussss.net, ws-headers: {Host: young-wind-3c58.240-2ce.workers.dev}, skip-cert-verify: false, tfo: false}
   - {name: VL-WS-NA 🏴‍☠️ NA-172.66.156.81:80, server: 172.66.156.81, port: 80, type: vless, tls: true, uuid: fee15267-4f05-4f6c-a346-e7fe02be0614, network: ws, ws-path: /@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy, ws-headers: {Host: websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.}, skip-cert-verify: false, tfo: false}
@@ -243,8 +253,8 @@ proxies:
   - {name: VL-WS-NA 🏴‍☠️ NA-172.67.204.84:2086, server: 172.67.204.84, port: 2086, type: vless, tls: true, uuid: dc2fd2be-7da0-4ee0-9f7c-6c0d705ac99c, network: ws, ws-headers: {Host: Cloutdcjvg.samancenter.com.}, skip-cert-verify: false, tfo: false}
   - {name: VL-WS-NA 🏴‍☠️ NA-172.67.218.90:80, server: 172.67.218.90, port: 80, type: vless, tls: true, uuid: 65b3cbba-e6ac-485a-9481-976a0415eab9, network: ws, ws-headers: {Host: bLue-sNoW-a243.GeleNE5962.wOrKeRS.dEV}, skip-cert-verify: false, tfo: false}
   - {name: VL-WS-NA 🏴‍☠️ NA-172.67.69.238:80, server: 172.67.69.238, port: 80, type: vless, tls: true, uuid: 542f694b-e8bd-4b9e-858c-ccb1c46a3316, network: ws, ws-headers: {Host: pamchall.com.}, skip-cert-verify: false, tfo: false}
-  - {name: VL-WS-NA 🏴‍☠️ NA-172.67.69.63:8080, server: 172.67.69.63, port: 8080, type: vless, tls: true, uuid: 59eefc04-b831-45cf-8d68-63ca23381171, network: ws, ws-path: /ws-hTopcF3L, ws-headers: {Host: premium-us-az-01-hostinger.efgwf.online}, skip-cert-verify: false, tfo: false}
-  - {name: VL-WS-NA 🏴‍☠️ NA-172.67.69.63:8080 2, server: 172.67.69.63, port: 8080, type: vless, tls: true, uuid: 4e0f4e59-3613-4f0c-b824-7348413d20e6, network: ws, ws-path: /ws-6Tta3kYF, ws-headers: {Host: premium-us-ca-01-gthost.efgwf.online}, skip-cert-verify: false, tfo: false}
+  - {name: VL-WS-NA 🏴‍☠️ NA-172.67.69.63:8080, server: 172.67.69.63, port: 8080, type: vless, tls: true, uuid: 4e0f4e59-3613-4f0c-b824-7348413d20e6, network: ws, ws-path: /ws-6Tta3kYF, ws-headers: {Host: premium-us-ca-01-gthost.efgwf.online}, skip-cert-verify: false, tfo: false}
+  - {name: VL-WS-NA 🏴‍☠️ NA-172.67.69.63:8080 2, server: 172.67.69.63, port: 8080, type: vless, tls: true, uuid: 59eefc04-b831-45cf-8d68-63ca23381171, network: ws, ws-path: /ws-hTopcF3L, ws-headers: {Host: premium-us-az-01-hostinger.efgwf.online}, skip-cert-verify: false, tfo: false}
   - {name: VL-WS-NA 🏴‍☠️ NA-188.114.97.3:80, server: 188.114.97.3, port: 80, type: vless, tls: true, uuid: eca2c27e-3a57-4fcb-ce93-7174e98a7499, network: ws, ws-path: /JOIN-@CHANGE_IP1, ws-headers: {Host: change-ip1-kNdKcxcmngSccOQ.anymath.ir}, skip-cert-verify: false, tfo: false}
   - {name: VL-WS-NA 🏴‍☠️ NA-198.41.208.22:2095, server: 198.41.208.22, port: 2095, type: vless, tls: true, uuid: ef23616d-8a9d-4b22-b2f5-9bda864de179, network: ws, ws-path: /ripbdigi5hdb, ws-headers: {Host: index.arcane509.workers.dev}, skip-cert-verify: false, tfo: false}
   - {name: VL-WS-NA 🏴‍☠️ NA-198.41.209.88:8080, server: 198.41.209.88, port: 8080, type: vless, tls: true, uuid: ef23616d-8a9d-4b22-b2f5-9bda864de179, network: ws, ws-path: /ec4l307nur5g, ws-headers: {Host: index.arcane509.workers.dev}, skip-cert-verify: false, tfo: false}
@@ -258,7 +268,8 @@ proxies:
   - {name: VM-WS-NA 🇦🇪 AE-94.140.0.110:8880, server: 94.140.0.110, port: 8880, type: vmess, uuid: 0d1bf26a-ce97-4707-a270-7f4d2ae37334, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: food.zhaal.ir}, tfo: false}
   - {name: VM-WS-NA 🏴‍☠️ NA-104.19.45.196:2095, server: 104.19.45.196, port: 2095, type: vmess, uuid: 7a737f41-b792-4260-94ff-3d864da67b80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: onea.flha.ru}, tfo: false}
   - {name: ‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ, server: 127.0.0.1, port: 8080, type: vless, tls: true, uuid: acacabb-caab-caab-dacb-abcccacbabab, skip-cert-verify: false, tfo: false}
-  - {name: 🇨🇦 SS-TCP-NA 🇨🇦 CA-184.75.221.134:1080, server: 184.75.221.134, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
+  - {name: 🇦🇺 SS-TCP-NA 🇦🇺 AU-95.173.193.201:1080, server: 95.173.193.201, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: XF0klw7870vXn3uQIxe19Q, tfo: false}
+  - {name: 🇨🇦 SS-TCP-NA 🇨🇦 CA-38.113.188.118:1080, server: 38.113.188.118, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: XF0klw7870vXn3uQIxe19Q, tfo: false}
   - {name: 🇨🇳 VM-TCP-NA 🇨🇳 CN-1.14.62.61:30809, server: 1.14.62.61, port: 30809, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, tfo: false}
   - {name: 🇨🇳 VM-TCP-NA 🇨🇳 CN-101.33.248.61:30809, server: 101.33.248.61, port: 30809, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, tfo: false}
   - {name: 🇨🇳 VM-TCP-NA 🇨🇳 CN-106.54.9.247:30809, server: 106.54.9.247, port: 30809, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, tfo: false}
@@ -284,23 +295,21 @@ proxies:
   - {name: 🇨🇳 VM-TCP-NA 🇹🇼 TW-125.224.51.20:51360, server: 125.224.51.20, port: 51360, type: vmess, uuid: 85ad21e1-c2cd-3407-aa90-815f3f3ea636, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, tfo: false}
   - {name: 🇨🇳 VM-TCP-NA 🇹🇼 TW-165.154.195.38:35034, server: 165.154.195.38, port: 35034, type: vmess, uuid: 959a8caf-4cea-43d0-a548-3628e7ddfafc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, tfo: false}
   - {name: 🇨🇳 VM-WS-NA 🇹🇼 TW-125.230.104.159:2096, server: 125.230.104.159, port: 2096, type: vmess, uuid: 85ad21e1-c2cd-3407-aa90-815f3f3ea636, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /assets/images/, ws-headers: {Host: cos.ap-shanghai.myqcloud.com}, tfo: false}
-  - {name: 🇩🇪 SS-TCP-NA 🇩🇪 DE-147.45.178.24:56259, server: 147.45.178.24, port: 56259, type: ss, cipher: chacha20-ietf-poly1305, password: XEgifzBjI9TWGZzzOU6XOg, tfo: false}
-  - {name: 🇩🇪 SS-TCP-NA 🇩🇪 DE-213.202.208.199:7001, server: 213.202.208.199, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, tfo: false}
-  - {name: 🇩🇪 SS-TCP-NA 🇩🇪 DE-62.113.194.49:1080, server: 62.113.194.49, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: XF0klw7870vXn3uQIxe19Q, tfo: false}
-  - {name: 🇩🇪 SS-TCP-NA 🇩🇪 DE-95.164.123.196:57493, server: 95.164.123.196, port: 57493, type: ss, cipher: chacha20-ietf-poly1305, password: evFIqXOc55xLHMluu5zX31, tfo: false}
-  - {name: 🇩🇪 SS-TCP-NA 🇩🇪 DE-95.164.123.39:32821, server: 95.164.123.39, port: 32821, type: ss, cipher: chacha20-ietf-poly1305, password: fBTl409Xqg3DwqKili0NQF, tfo: false}
+  - {name: 🇩🇪 SS-TCP-NA 🇩🇪 DE-148.253.208.76:3478, server: 148.253.208.76, port: 3478, type: ss, cipher: chacha20-ietf-poly1305, password: yu2XnSPWhmQjxn83iJA3DA, tfo: false}
+  - {name: 🇩🇪 SS-TCP-NA 🇩🇪 DE-62.113.237.3:1080, server: 62.113.237.3, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: Vr06rU_v1vFPYeXq9zbsAA, tfo: false}
+  - {name: 🇩🇪 SS-TCP-NA 🇩🇪 DE-95.164.123.197:36611, server: 95.164.123.197, port: 36611, type: ss, cipher: chacha20-ietf-poly1305, password: OhHa5AsD1WcV61f15843WK, tfo: false}
   - {name: 🇩🇪 TR-TCP-NA 🇩🇪 DE-3.120.37.181:443, server: 3.120.37.181, port: 443, type: trojan, password: UO36402987, sni: many-cricket.rooster465.autos, skip-cert-verify: false, tfo: false}
   - {name: 🇩🇪 TR-TCP-NA 🇩🇪 DE-3.120.37.181:443 2, server: 3.120.37.181, port: 443, type: trojan, password: UO36402987, skip-cert-verify: false, tfo: false}
   - {name: 🇩🇪 TR-TCP-NA 🇩🇪 DE-3.124.187.220:443, server: 3.124.187.220, port: 443, type: trojan, password: ND91608427, skip-cert-verify: false, tfo: false}
   - {name: 🇩🇪 TR-TCP-NA 🇩🇪 DE-3.124.187.220:443 2, server: 3.124.187.220, port: 443, type: trojan, password: ND91608427, sni: rapid-firefly.rooster465.autos, skip-cert-verify: false, tfo: false}
-  - {name: 🇩🇪 TR-TCP-NA 🇩🇪 DE-3.64.59.246:443, server: 3.64.59.246, port: 443, type: trojan, password: ND91608427, sni: gentle-raptor.rooster465.autos, skip-cert-verify: false, tfo: false}
-  - {name: 🇩🇪 TR-TCP-NA 🇩🇪 DE-3.64.59.246:443 2, server: 3.64.59.246, port: 443, type: trojan, password: ND91608427, skip-cert-verify: false, tfo: false}
-  - {name: 🇩🇪 TR-TCP-NA 🇩🇪 DE-3.68.79.32:443, server: 3.68.79.32, port: 443, type: trojan, password: ND91608427, sni: large-baboon.rooster465.autos, skip-cert-verify: false, tfo: false}
-  - {name: 🇩🇪 TR-TCP-NA 🇩🇪 DE-3.68.79.32:443 2, server: 3.68.79.32, port: 443, type: trojan, password: ND91608427, skip-cert-verify: false, tfo: false}
+  - {name: 🇩🇪 TR-TCP-NA 🇩🇪 DE-3.64.59.246:443, server: 3.64.59.246, port: 443, type: trojan, password: ND91608427, skip-cert-verify: false, tfo: false}
+  - {name: 🇩🇪 TR-TCP-NA 🇩🇪 DE-3.64.59.246:443 2, server: 3.64.59.246, port: 443, type: trojan, password: ND91608427, sni: gentle-raptor.rooster465.autos, skip-cert-verify: false, tfo: false}
+  - {name: 🇩🇪 TR-TCP-NA 🇩🇪 DE-3.68.79.32:443, server: 3.68.79.32, port: 443, type: trojan, password: ND91608427, skip-cert-verify: false, tfo: false}
+  - {name: 🇩🇪 TR-TCP-NA 🇩🇪 DE-3.68.79.32:443 2, server: 3.68.79.32, port: 443, type: trojan, password: ND91608427, sni: large-baboon.rooster465.autos, skip-cert-verify: false, tfo: false}
   - {name: 🇩🇪 TR-TCP-NA 🇩🇪 DE-54.93.54.137:443, server: 54.93.54.137, port: 443, type: trojan, password: ND91608427, sni: informed-alpaca.rooster465.autos, skip-cert-verify: false, tfo: false}
   - {name: 🇩🇪 TR-TCP-NA 🇩🇪 DE-54.93.54.137:443 2, server: 54.93.54.137, port: 443, type: trojan, password: ND91608427, skip-cert-verify: false, tfo: false}
-  - {name: 🇩🇪 TR-TCP-NA 🇩🇪 DE-54.93.65.133:443, server: 54.93.65.133, port: 443, type: trojan, password: ND91608427, skip-cert-verify: false, tfo: false}
-  - {name: 🇩🇪 TR-TCP-NA 🇩🇪 DE-54.93.65.133:443 2, server: 54.93.65.133, port: 443, type: trojan, password: ND91608427, sni: next-turkey.rooster465.autos, skip-cert-verify: false, tfo: false}
+  - {name: 🇩🇪 TR-TCP-NA 🇩🇪 DE-54.93.65.133:443, server: 54.93.65.133, port: 443, type: trojan, password: ND91608427, sni: next-turkey.rooster465.autos, skip-cert-verify: false, tfo: false}
+  - {name: 🇩🇪 TR-TCP-NA 🇩🇪 DE-54.93.65.133:443 2, server: 54.93.65.133, port: 443, type: trojan, password: ND91608427, skip-cert-verify: false, tfo: false}
   - {name: 🇩🇪 TR-WS-NA 🇩🇪 DE-5.10.215.9:443, server: 5.10.215.9, port: 443, type: trojan, password: !<str> 521314, sni: tjplay.lxdxo.kdns.fr, skip-cert-verify: false, network: ws, ws-opts: {path: /Telegram🇨🇳+@WangCai2, headers: {Host: tjplay.lxdxo.kdns.fr}}, tfo: false}
   - {name: 🇩🇪 VL-TCP-NA 🇩🇪 DE-128.140.89.215:8443, server: 128.140.89.215, port: 8443, type: vless, tls: true, uuid: 48b84195-5c5e-3cac-1846-39d8c14d57b8, host: play.google.com, path: /, skip-cert-verify: false, tfo: false}
   - {name: 🇩🇪 VL-TCP-NA 🇩🇪 DE-167.233.242.21:8080, server: 167.233.242.21, port: 8080, type: vless, tls: true, uuid: 243ae85b-4f6e-48f3-9220-715312364dd7, host: play.google.com, skip-cert-verify: false, tfo: false}
@@ -323,15 +332,19 @@ proxies:
   - {name: 🇩🇪 VM-TCP-NA 🇩🇪 DE-82.198.246.233:180, server: 82.198.246.233, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, tfo: false}
   - {name: 🇪🇸 TR-TCP-NA 🇪🇸 ES-193.148.19.210:52794, server: 193.148.19.210, port: 52794, type: trojan, password: 2eutknankxtbgkwcajzt, sni: www.vk.com, skip-cert-verify: false, tfo: false}
   - {name: 🇪🇸 TR-TCP-NA 🇪🇸 ES-193.148.19.213:52794, server: 193.148.19.213, port: 52794, type: trojan, password: 2eutknankxtbgkwcajzt, sni: 193.148.19.213, skip-cert-verify: false, tfo: false}
-  - {name: 🇫🇷 SS-TCP-NA 🇫🇷 FR-162.19.192.90:36603, server: 162.19.192.90, port: 36603, type: ss, cipher: aes-128-gcm, password: 577ee7ab-417b-4719-98d8-bed0728a2941, tfo: false}
+  - {name: 🇫🇷 SS-TCP-NA 🇫🇷 FR-162.19.192.90:36602, server: 162.19.192.90, port: 36602, type: ss, cipher: aes-128-gcm, password: 577ee7ab-417b-4719-98d8-bed0728a2941, tfo: false}
+  - {name: 🇫🇷 SS-TCP-NA 🇫🇷 FR-162.19.192.90:36604, server: 162.19.192.90, port: 36604, type: ss, cipher: aes-128-gcm, password: 577ee7ab-417b-4719-98d8-bed0728a2941, tfo: false}
+  - {name: 🇫🇷 SS-TCP-NA 🇫🇷 FR-162.19.192.90:36608, server: 162.19.192.90, port: 36608, type: ss, cipher: aes-128-gcm, password: 577ee7ab-417b-4719-98d8-bed0728a2941, tfo: false}
+  - {name: 🇫🇷 SS-TCP-NA 🇫🇷 FR-162.19.192.90:36611, server: 162.19.192.90, port: 36611, type: ss, cipher: aes-128-gcm, password: 577ee7ab-417b-4719-98d8-bed0728a2941, tfo: false}
   - {name: 🇫🇷 SS-TCP-NA 🇫🇷 FR-162.19.214.191:59724, server: 162.19.214.191, port: 59724, type: ss, cipher: chacha20-ietf-poly1305, password: e7yQKOelKM4UIJCZYLrzQX, tfo: false}
-  - {name: 🇫🇷 TR-TCP-NA 🇫🇷 FR-13.36.175.151:443, server: 13.36.175.151, port: 443, type: trojan, password: ND91608427, sni: classic-gator.rooster465.autos, skip-cert-verify: false, tfo: false}
-  - {name: 🇫🇷 TR-TCP-NA 🇫🇷 FR-13.36.175.151:443 2, server: 13.36.175.151, port: 443, type: trojan, password: ND91608427, skip-cert-verify: false, tfo: false}
+  - {name: 🇫🇷 SS-TCP-NA 🇫🇷 FR-54.36.174.134:443, server: 54.36.174.134, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 8zw5j9h, tfo: false}
+  - {name: 🇫🇷 TR-TCP-NA 🇫🇷 FR-13.36.175.151:443, server: 13.36.175.151, port: 443, type: trojan, password: ND91608427, skip-cert-verify: false, tfo: false}
+  - {name: 🇫🇷 TR-TCP-NA 🇫🇷 FR-13.36.175.151:443 2, server: 13.36.175.151, port: 443, type: trojan, password: ND91608427, sni: classic-gator.rooster465.autos, skip-cert-verify: false, tfo: false}
   - {name: 🇫🇷 TR-TCP-NA 🇫🇷 FR-15.237.137.197:443, server: 15.237.137.197, port: 443, type: trojan, password: ND91608427, sni: fancy-skink.rooster465.autos, skip-cert-verify: false, tfo: false}
   - {name: 🇫🇷 TR-TCP-NA 🇫🇷 FR-15.237.137.197:443 2, server: 15.237.137.197, port: 443, type: trojan, password: ND91608427, skip-cert-verify: false, tfo: false}
   - {name: 🇫🇷 TR-TCP-NA 🇫🇷 FR-15.237.219.234:443, server: 15.237.219.234, port: 443, type: trojan, password: ND91608427, sni: careful-tadpole.rooster465.autos, skip-cert-verify: false, tfo: false}
-  - {name: 🇫🇷 TR-TCP-NA 🇫🇷 FR-15.237.219.234:443 2, server: 15.237.219.234, port: 443, type: trojan, password: ND91608427, skip-cert-verify: false, tfo: false}
-  - {name: 🇫🇷 TR-TCP-NA 🇫🇷 FR-15.237.219.234:443 3, server: 15.237.219.234, port: 443, type: trojan, password: ND91608427, sni: careful-tadpole.rooster465.autos, skip-cert-verify: false, tfo: false}
+  - {name: 🇫🇷 TR-TCP-NA 🇫🇷 FR-15.237.219.234:443 2, server: 15.237.219.234, port: 443, type: trojan, password: ND91608427, sni: careful-tadpole.rooster465.autos, skip-cert-verify: false, tfo: false}
+  - {name: 🇫🇷 TR-TCP-NA 🇫🇷 FR-15.237.219.234:443 3, server: 15.237.219.234, port: 443, type: trojan, password: ND91608427, skip-cert-verify: false, tfo: false}
   - {name: 🇫🇷 TR-TCP-NA 🇫🇷 FR-15.237.49.244:443, server: 15.237.49.244, port: 443, type: trojan, password: ND91608427, sni: star-kiwi.rooster465.autos, skip-cert-verify: false, tfo: false}
   - {name: 🇫🇷 TR-TCP-NA 🇫🇷 FR-15.237.49.244:443 2, server: 15.237.49.244, port: 443, type: trojan, password: ND91608427, sni: star-kiwi.rooster465.autos, skip-cert-verify: false, tfo: false}
   - {name: 🇫🇷 TR-TCP-NA 🇫🇷 FR-15.237.49.244:443 3, server: 15.237.49.244, port: 443, type: trojan, password: ND91608427, skip-cert-verify: false, tfo: false}
@@ -349,32 +362,20 @@ proxies:
   - {name: 🇫🇷 VM-WS-NA 🇫🇷 FR-162.19.192.89:16641, server: 162.19.192.89, port: 16641, type: vmess, uuid: bb569882-779a-4b5e-9dbf-abc428a80cb9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: ecd43b0076ced4a5030f17593ac3b4ae.mobgslb.tbcache.com}, tfo: false}
   - {name: 🇫🇷 VM-WS-NA 🇫🇷 FR-162.19.192.89:16644, server: 162.19.192.89, port: 16644, type: vmess, uuid: bb569882-779a-4b5e-9dbf-abc428a80cb9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: ecd43b0076ced4a5030f17593ac3b4ae.mobgslb.tbcache.com}, tfo: false}
   - {name: 🇫🇷 VM-WS-NA 🇫🇷 FR-162.19.192.89:16648, server: 162.19.192.89, port: 16648, type: vmess, uuid: bb569882-779a-4b5e-9dbf-abc428a80cb9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: ecd43b0076ced4a5030f17593ac3b4ae.mobgslb.tbcache.com}, tfo: false}
-  - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-158.173.24.73:443, server: 158.173.24.73, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
-  - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-82.38.31.10:8080, server: 82.38.31.10, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-82.38.31.149:8080, server: 82.38.31.149, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-82.38.31.156:8080, server: 82.38.31.156, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-82.38.31.162:443, server: 82.38.31.162, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-82.38.31.186:8080, server: 82.38.31.186, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-146.70.61.37:8080, server: 146.70.61.37, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
+  - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-74.177.207.175:443, server: 74.177.207.175, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c, tfo: false}
   - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-82.38.31.192:8080, server: 82.38.31.192, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-82.38.31.200:8080, server: 82.38.31.200, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
   - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-82.38.31.201:8080, server: 82.38.31.201, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-82.38.31.208:8080, server: 82.38.31.208, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-82.38.31.212:8080, server: 82.38.31.212, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
   - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-82.38.31.218:8080, server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-82.38.31.35:443, server: 82.38.31.35, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-82.38.46.80:26902, server: 82.38.46.80, port: 26902, type: ss, cipher: chacha20-ietf-poly1305, password: 461f4996-a430-4482-a103-acef0713281a, tfo: false}
-  - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-82.38.46.80:26911, server: 82.38.46.80, port: 26911, type: ss, cipher: chacha20-ietf-poly1305, password: 461f4996-a430-4482-a103-acef0713281a, tfo: false}
-  - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-82.38.46.80:26912, server: 82.38.46.80, port: 26912, type: ss, cipher: chacha20-ietf-poly1305, password: 461f4996-a430-4482-a103-acef0713281a, tfo: false}
+  - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-82.38.31.29:443, server: 82.38.31.29, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-82.38.31.39:8080, server: 82.38.31.39, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-82.38.31.9:8080, server: 82.38.31.9, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
   - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-89.249.74.188:1080, server: 89.249.74.188, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: XF0klw7870vXn3uQIxe19Q, tfo: false}
   - {name: 🇬🇧 VL-WS-NA 🇬🇧 GB-185.170.166.30:8880, server: 185.170.166.30, port: 8880, type: vless, tls: true, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, network: ws, ws-path: /, ws-headers: {Host: vms.lifetime04.workers.dev}, skip-cert-verify: false, tfo: false}
   - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-103.141.221.101:8388, server: 103.141.221.101, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, tfo: false}
-  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-103.149.182.105:8388, server: 103.149.182.105, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, tfo: false}
-  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-18.167.225.76:40006, server: 18.167.225.76, port: 40006, type: ss, cipher: chacha20-ietf-poly1305, password: 28789988-887e-4e41-83cd-27bbfb7999ad, tfo: false}
-  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-45.149.92.35:28039, server: 45.149.92.35, port: 28039, type: ss, cipher: chacha20-ietf-poly1305, password: 0305e0ec-ec7e-4770-9aa3-81e3427f91b6, tfo: false}
-  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-45.149.92.35:36521, server: 45.149.92.35, port: 36521, type: ss, cipher: chacha20-ietf-poly1305, password: 0305e0ec-ec7e-4770-9aa3-81e3427f91b6, tfo: false}
-  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-45.149.92.35:36602, server: 45.149.92.35, port: 36602, type: ss, cipher: aes-128-gcm, password: 577ee7ab-417b-4719-98d8-bed0728a2941, tfo: false}
-  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-45.149.92.35:40172, server: 45.149.92.35, port: 40172, type: ss, cipher: chacha20-ietf-poly1305, password: 0305e0ec-ec7e-4770-9aa3-81e3427f91b6, tfo: false}
-  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-45.149.92.35:42142, server: 45.149.92.35, port: 42142, type: ss, cipher: chacha20-ietf-poly1305, password: 0305e0ec-ec7e-4770-9aa3-81e3427f91b6, tfo: false}
-  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-45.149.92.35:42213, server: 45.149.92.35, port: 42213, type: ss, cipher: chacha20-ietf-poly1305, password: 0305e0ec-ec7e-4770-9aa3-81e3427f91b6, tfo: false}
+  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-45.149.92.35:15474, server: 45.149.92.35, port: 15474, type: ss, cipher: chacha20-ietf-poly1305, password: 0305e0ec-ec7e-4770-9aa3-81e3427f91b6, tfo: false}
+  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-45.149.92.35:36603, server: 45.149.92.35, port: 36603, type: ss, cipher: aes-128-gcm, password: 577ee7ab-417b-4719-98d8-bed0728a2941, tfo: false}
   - {name: 🇭🇰 TR-GRPC-NA 🇭🇰 HK-42.200.172.56:443, server: 42.200.172.56, port: 443, type: trojan, password: 29db38f0-e302-3768-8867-0b9bf00c77e4cmynw, sni: www.zueuqnpjvcllc.co, skip-cert-verify: false, tfo: false}
   - {name: 🇭🇰 TR-TCP-NA 🇭🇰 HK-18.163.180.201:6357, server: 18.163.180.201, port: 6357, type: trojan, password: d1960ba9f0f6353353994fa844cf817b, sni: www.nintendogames.net, skip-cert-verify: false, tfo: false}
   - {name: 🇭🇰 TR-TCP-NA 🇭🇰 HK-185.244.208.13:443, server: 185.244.208.13, port: 443, type: trojan, password: ND91608427, sni: ace-starling.rooster465.autos, skip-cert-verify: false, tfo: false}
@@ -385,8 +386,6 @@ proxies:
   - {name: 🇭🇰 VL-WS-NA 🇭🇰 HK-39.109.117.110:43646, server: 39.109.117.110, port: 43646, type: vless, tls: true, uuid: d92afe21-8e8b-42c7-98c2-8a33da64d28f, network: ws, ws-path: /d92afe21, skip-cert-verify: false, tfo: false}
   - {name: 🇭🇰 VM-HTTP-NA 🇭🇰 HK-47.86.167.194:800, server: 47.86.167.194, port: 800, type: vmess, uuid: f2c67cae-c09d-4739-947d-f5302d87a3c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [""], headers: {Host: [sjskendn.dingtalk.com]}}, tfo: false}
   - {name: 🇭🇰 VM-WS-NA 🇭🇰 HK-47.244.120.197:44867, server: 47.244.120.197, port: 44867, type: vmess, uuid: 845e6b08-2919-4290-ade0-5dc7dcea59ca, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: "/arki?ed=2048", tfo: false}
-  - {name: 🇯🇵 SS-TCP-NA 🇯🇵 JP-13.231.162.164:443, server: 13.231.162.164, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 🇯🇵 SS-TCP-NA 🇯🇵 JP-52.68.250.37:16688, server: 52.68.250.37, port: 16688, type: ss, cipher: chacha20-ietf-poly1305, password: 792e0bdb-01db-450c-94c4-925151eb396e, tfo: false}
   - {name: 🇯🇵 TR-RAW-NA 🇯🇵 JP-18.181.164.216:443, server: 18.181.164.216, port: 443, type: trojan, password: ND91608427, sni: upright-impala.rooster465.autos, skip-cert-verify: false, tfo: false}
   - {name: 🇯🇵 TR-RAW-NA 🇯🇵 JP-3.112.238.99:443, server: 3.112.238.99, port: 443, type: trojan, password: ND91608427, sni: stunning-mite.rooster465.autos, skip-cert-verify: false, tfo: false}
   - {name: 🇯🇵 TR-RAW-NA 🇯🇵 JP-35.72.13.34:443, server: 35.72.13.34, port: 443, type: trojan, password: ND91608427, sni: casual-bee.rooster465.autos, skip-cert-verify: false, tfo: false}
@@ -442,7 +441,7 @@ proxies:
   - {name: 🇯🇵 TR-WS-NA 🇯🇵 JP-52.69.198.193:20230, server: 52.69.198.193, port: 20230, type: trojan, password: 2ba7e4d0-f2f9-456e-a43e-f5a724d7e367, sni: www.alibaba.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: www.alibaba.com}}, tfo: false}
   - {name: 🇯🇵 TR-WS-NA 🇯🇵 JP-54.249.198.125:20230, server: 54.249.198.125, port: 20230, type: trojan, password: 2ba7e4d0-f2f9-456e-a43e-f5a724d7e367, sni: www.alibaba.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: www.alibaba.com}}, tfo: false}
   - {name: 🇯🇵 VM-WS-NA 🇯🇵 JP-4.189.75.68:36801, server: 4.189.75.68, port: 36801, type: vmess, uuid: a6ab6513-6ec3-327f-a068-b89fe72954b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: ajax.microsoft.com}, tfo: false}
-  - {name: 🇰🇷 SS-TCP-NA 🇰🇷 KR-141.164.45.187:5498, server: 141.164.45.187, port: 5498, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV, tfo: false}
+  - {name: 🇰🇷 SS-TCP-NA 🇰🇷 KR-141.164.45.187:8000, server: 141.164.45.187, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, tfo: false}
   - {name: 🇰🇷 TR-TCP-NA 🇰🇷 KR-13.125.239.182:443, server: 13.125.239.182, port: 443, type: trojan, password: ND91608427, sni: saving-octopus.rooster465.autos, skip-cert-verify: false, tfo: false}
   - {name: 🇰🇷 TR-TCP-NA 🇰🇷 KR-3.35.140.99:443, server: 3.35.140.99, port: 443, type: trojan, password: ND91608427, sni: moved-meerkat.rooster465.autos, skip-cert-verify: false, tfo: false}
   - {name: 🇰🇷 TR-TCP-NA 🇰🇷 KR-3.35.140.99:443 2, server: 3.35.140.99, port: 443, type: trojan, password: ND91608427, sni: moved-meerkat.rooster465.autos, skip-cert-verify: false, tfo: false}
@@ -473,13 +472,14 @@ proxies:
   - {name: 🇰🇷 TR-TCP-NA 🇰🇷 KR-54.180.228.238:443, server: 54.180.228.238, port: 443, type: trojan, password: ND91608427, sni: pure-ram.rooster465.autos, skip-cert-verify: false, tfo: false}
   - {name: 🇰🇷 TR-TCP-NA 🇰🇷 KR-54.180.228.238:443 2, server: 54.180.228.238, port: 443, type: trojan, password: ND91608427, sni: pure-ram.rooster465.autos, skip-cert-verify: false, tfo: false}
   - {name: 🇲🇾 VM-WS-NA 🇲🇾 MY-20.17.157.20:36803, server: 20.17.157.20, port: 36803, type: vmess, uuid: a6ab6513-6ec3-327f-a068-b89fe72954b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: "", ws-headers: {Host: ajax.microsoft.com}, tfo: false}
-  - {name: 🇳🇱 SS-TCP-NA 🇳🇱 NL-108.181.126.122:8388, server: 108.181.126.122, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: CJmTCCx7Ltud, tfo: false}
-  - {name: 🇳🇱 SS-TCP-NA 🇳🇱 NL-109.104.154.163:2375, server: 109.104.154.163, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, tfo: false}
-  - {name: 🇳🇱 SS-TCP-NA 🇳🇱 NL-193.29.139.132:8080, server: 193.29.139.132, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: 🇳🇱 SS-TCP-NA 🇳🇱 NL-193.29.139.225:8080, server: 193.29.139.225, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
-  - {name: 🇳🇱 SS-TCP-NA 🇳🇱 NL-62.84.102.28:26923, server: 62.84.102.28, port: 26923, type: ss, cipher: chacha20-ietf-poly1305, password: 5yOoUqBpwEevaGQ7gMxC0F, tfo: false}
-  - {name: 🇳🇱 TR-TCP-NA 🇳🇱 NL-89.39.70.180:443, server: 89.39.70.180, port: 443, type: trojan, password: ND91608427, skip-cert-verify: false, tfo: false}
-  - {name: 🇳🇱 TR-TCP-NA 🇳🇱 NL-89.39.70.180:443 2, server: 89.39.70.180, port: 443, type: trojan, password: ND91608427, sni: eager-louse.rooster465.autos, skip-cert-verify: false, tfo: false}
+  - {name: 🇳🇱 SS-TCP-NA 🇳🇱 NL-109.201.152.181:443, server: 109.201.152.181, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks, tfo: false}
+  - {name: 🇳🇱 SS-TCP-NA 🇳🇱 NL-158.173.20.208:443, server: 158.173.20.208, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: 🇳🇱 SS-TCP-NA 🇳🇱 NL-190.2.147.119:1080, server: 190.2.147.119, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: XF0klw7870vXn3uQIxe19Q, tfo: false}
+  - {name: 🇳🇱 SS-TCP-NA 🇳🇱 NL-193.29.139.151:8080, server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: 🇳🇱 SS-TCP-NA 🇳🇱 NL-193.29.139.204:8080, server: 193.29.139.204, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: 🇳🇱 SS-TCP-NA 🇳🇱 NL-92.112.126.90:443, server: 92.112.126.90, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 9tqhMdIrTkgQ46PvhyAtMH, tfo: false}
+  - {name: 🇳🇱 TR-TCP-NA 🇳🇱 NL-89.39.70.180:443, server: 89.39.70.180, port: 443, type: trojan, password: ND91608427, sni: eager-louse.rooster465.autos, skip-cert-verify: false, tfo: false}
+  - {name: 🇳🇱 TR-TCP-NA 🇳🇱 NL-89.39.70.180:443 2, server: 89.39.70.180, port: 443, type: trojan, password: ND91608427, skip-cert-verify: false, tfo: false}
   - {name: 🇳🇱 TR-WS-NA 🇳🇱 NL-45.131.4.118:443, server: 45.131.4.118, port: 443, type: trojan, password: f18d6149-e214-8554-e737-f7523c8b2eea, sni: 0403.infinityconfig4.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: /sync, headers: {Host: 0403.infinityconfig4.workers.dev}}, tfo: false}
   - {name: 🇳🇱 TR-WS-NA 🇳🇱 NL-45.131.5.9:443, server: 45.131.5.9, port: 443, type: trojan, password: !<str> 521314, sni: tjplay.lxdxo.kdns.fr, skip-cert-verify: false, network: ws, ws-opts: {path: /Telegram🇨🇳+@WangCai2, headers: {Host: tjplay.lxdxo.kdns.fr}}, tfo: false}
   - {name: 🇳🇱 VL-TCP-NA 🇳🇱 NL-158.178.145.70:62145, server: 158.178.145.70, port: 62145, type: vless, tls: true, uuid: 8fb65472-5957-4f64-ba2d-b5812b2f155a, path: /, skip-cert-verify: false, tfo: false}
@@ -487,13 +487,15 @@ proxies:
   - {name: 🇳🇱 VL-TCP-NA 🇳🇱 NL-5.255.107.149:8883, server: 5.255.107.149, port: 8883, type: vless, tls: true, uuid: 6dde1138-4f6d-4202-9c40-a4bed38c1121, host: play.google.com, skip-cert-verify: false, tfo: false}
   - {name: 🇳🇱 VL-WS-NA 🇳🇱 NL-163.172.213.174:80, server: 163.172.213.174, port: 80, type: vless, tls: true, uuid: e73df646-1f62-41bf-8c50-653497d603d0, network: ws, ws-path: /vless/, ws-headers: {Host: SC-TheNetherlands2.09vpn.com}, skip-cert-verify: false, tfo: false}
   - {name: 🇳🇱 VL-WS-NA 🇳🇱 NL-188.164.248.117:2087, server: 188.164.248.117, port: 2087, type: vless, tls: true, uuid: fb978279-0a28-4045-8258-e9ab97deaf2b, servername: 3da0360c.myblog-2hd.pages.dev, network: ws, ws-path: /security=tls, ws-headers: {Host: 3da0360c.myblog-2hd.pages.dev}, skip-cert-verify: false, tfo: false}
+  - {name: 🇵🇱 SS-TCP-NA 🇵🇱 PL-146.70.85.72:1080, server: 146.70.85.72, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: XF0klw7870vXn3uQIxe19Q, tfo: false}
   - {name: 🇵🇱 TR-GRPC-NA 🇵🇱 PL-31.76.251.127:443, server: 31.76.251.127, port: 443, type: trojan, password: 581e14a5fcc14107b9326cc54f047891, sni: 31.76.251.127.cdn-one.org, skip-cert-verify: false, tfo: false}
   - {name: 🇵🇱 TR-TCP-NA 🇵🇱 PL-202.78.163.148:443, server: 202.78.163.148, port: 443, type: trojan, password: ND91608427, sni: discrete-basilisk.rooster465.autos, skip-cert-verify: false, tfo: false}
   - {name: 🇵🇱 TR-TCP-NA 🇵🇱 PL-202.78.163.248:443, server: 202.78.163.248, port: 443, type: trojan, password: ND91608427, sni: relaxed-gull.rooster465.autos, skip-cert-verify: false, tfo: false}
   - {name: 🇵🇱 TR-TCP-NA 🇵🇱 PL-202.78.163.248:443 2, server: 202.78.163.248, port: 443, type: trojan, password: ND91608427, sni: relaxed-gull.rooster465.autos, skip-cert-verify: false, tfo: false}
   - {name: 🇵🇱 TR-TCP-NA 🇵🇱 PL-202.78.163.248:443 3, server: 202.78.163.248, port: 443, type: trojan, password: ND91608427, sni: relaxed-gull.rooster465.autos, skip-cert-verify: false, tfo: false}
   - {name: 🇵🇱 VL-WS-NA 🇵🇱 PL-128.204.223.94:9815, server: 128.204.223.94, port: 9815, type: vless, tls: true, uuid: 37a0bd7c-8b9f-4693-8916-bd1e2da0a817, network: ws, ws-path: /, skip-cert-verify: false, tfo: false}
-  - {name: 🇷🇺 SS-TCP-NA 🇷🇺 RU-212.192.14.226:41968, server: 212.192.14.226, port: 41968, type: ss, cipher: chacha20-ietf-poly1305, password: gC7aQv9DsENaVfKzTPDKYV, tfo: false}
+  - {name: 🇷🇺 SS-TCP-NA 🇷🇺 RU-145.249.109.148:16548, server: 145.249.109.148, port: 16548, type: ss, cipher: chacha20-ietf-poly1305, password: ge0S0k9UQZuJS4N5pEH80E, tfo: false}
+  - {name: 🇷🇺 SS-TCP-NA 🇷🇺 RU-31.172.67.43:443, server: 31.172.67.43, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa, tfo: false}
   - {name: 🇷🇺 TR-WS-NA 🇷🇺 RU-45.67.215.9:443, server: 45.67.215.9, port: 443, type: trojan, password: !<str> 521314, sni: tjplay.lxdxo.kdns.fr, skip-cert-verify: false, network: ws, ws-opts: {path: /Telegram🇨🇳+@WangCai2, headers: {Host: tjplay.lxdxo.kdns.fr}}, tfo: false}
   - {name: 🇷🇺 VL-TCP-NA 🇷🇺 RU-176.123.165.127:57836, server: 176.123.165.127, port: 57836, type: vless, tls: true, uuid: 566f8818-17fe-4ca9-8035-c9081ece6f68, skip-cert-verify: false, tfo: false}
   - {name: 🇷🇺 VL-WS-NA 🇷🇺 RU-168.222.202.187:4100, server: 168.222.202.187, port: 4100, type: vless, tls: true, uuid: 55009b9b-7b9c-4830-86c6-cb058a7a2e2f, network: ws, ws-path: /v1, skip-cert-verify: false, tfo: false}
@@ -502,6 +504,7 @@ proxies:
   - {name: 🇷🇺 VL-WS-NA 🇷🇺 RU-194.26.229.220:2200 2, server: 194.26.229.220, port: 2200, type: vless, tls: true, uuid: 47947923-49ac-49f8-86ed-2912bcbf2d18, network: ws, ws-path: /v1, ws-headers: {Host: rzd.ru}, skip-cert-verify: false, tfo: false}
   - {name: 🇷🇺 VL-WS-NA 🇷🇺 RU-31.129.96.186:2200, server: 31.129.96.186, port: 2200, type: vless, tls: true, uuid: 112912a9-cedf-485d-b8ed-d8f8d4774437, network: ws, ws-path: /v1, skip-cert-verify: false, tfo: false}
   - {name: 🇷🇺 VL-WS-NA 🇷🇺 RU-77.222.37.89:2200, server: 77.222.37.89, port: 2200, type: vless, tls: true, uuid: b79c54f3-68e9-4e9d-8b57-22cbbe978730, network: ws, ws-path: /v1, skip-cert-verify: false, tfo: false}
+  - {name: 🇸🇬 SS-TCP-NA 🇸🇬 SG-13.229.108.224:19000, server: 13.229.108.224, port: 19000, type: ss, cipher: chacha20-ietf-poly1305, password: 792e0bdb-01db-450c-94c4-925151eb396e, tfo: false}
   - {name: 🇸🇬 TR-TCP-NA 🇸🇬 SG-139.59.238.97:50573, server: 139.59.238.97, port: 50573, type: trojan, password: pvZE3UfT0ziK1omVLlsjINBqeqqwab1M, sni: 139.59.238.97, skip-cert-verify: false, tfo: false}
   - {name: 🇸🇬 TR-TCP-NA 🇸🇬 SG-54.255.35.23:443, server: 54.255.35.23, port: 443, type: trojan, password: ND91608427, sni: tidy-gelding.rooster465.autos, skip-cert-verify: false, tfo: false}
   - {name: 🇸🇬 TR-TCP-NA 🇸🇬 SG-54.255.35.23:443 2, server: 54.255.35.23, port: 443, type: trojan, password: ND91608427, sni: tidy-gelding.rooster465.autos, skip-cert-verify: false, tfo: false}
@@ -513,15 +516,11 @@ proxies:
   - {name: 🇸🇬 VM-WS-NA 🇸🇬 SG-43.160.192.151:36802, server: 43.160.192.151, port: 36802, type: vmess, uuid: a6ab6513-6ec3-327f-a068-b89fe72954b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: ajax.microsoft.com}, tfo: false}
   - {name: 🇸🇬 VM-WS-NA 🇸🇬 SG-43.160.195.73:36822, server: 43.160.195.73, port: 36822, type: vmess, uuid: 4f198ea9-311e-3dcf-910c-896de6cb160b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: ajax.microsoft.com}, tfo: false}
   - {name: 🇸🇬 VM-WS-NA 🇸🇬 SG-43.160.245.181:36824, server: 43.160.245.181, port: 36824, type: vmess, uuid: 4f198ea9-311e-3dcf-910c-896de6cb160b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: "", ws-headers: {Host: ajax.microsoft.com}, tfo: false}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-107.151.182.253:8080, server: 107.151.182.253, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, tfo: false}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-108.181.0.177:8388, server: 108.181.0.177, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: G5p6ww4o67HB, tfo: false}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-108.181.57.93:8388, server: 108.181.57.93, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: RSo52SbxW40r, tfo: false}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-156.146.38.169:443, server: 156.146.38.169, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-172.245.235.84:2375, server: 172.245.235.84, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, tfo: false}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-173.244.56.6:443, server: 173.244.56.6, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
   - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-177.3.208.20:5228, server: 177.3.208.20, port: 5228, type: ss, cipher: chacha20-ietf-poly1305, password: fzY0W9xIGitzlJwXTkEHkz, tfo: false}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-37.19.198.243:443, server: 37.19.198.243, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-68.168.222.210:1234, server: 68.168.222.210, port: 1234, type: ss, cipher: chacha20-ietf-poly1305, password: zz0dHjDfoaSaZuRFLGH-hNfBALSEJUYD, tfo: false}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-98.93.33.57:443, server: 98.93.33.57, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-185.247.68.94:1080, server: 185.247.68.94, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: XF0klw7870vXn3uQIxe19Q, tfo: false}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-37.19.198.244:443, server: 37.19.198.244, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.180.135.39:8313, server: 38.180.135.39, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., tfo: false}
   - {name: 🇺🇸 TR-GRPC-NA 🇺🇸 US-177.3.208.169:443, server: 177.3.208.169, port: 443, type: trojan, password: 581e14a5fcc14107b9326cc54f047891, sni: titandarkness.mooo.com, skip-cert-verify: false, tfo: false}
   - {name: 🇺🇸 TR-GRPC-NA 🇺🇸 US-177.3.208.169:443 2, server: 177.3.208.169, port: 443, type: trojan, password: 581e14a5fcc14107b9326cc54f047891, sni: titandarkness.mooo.com, skip-cert-verify: false, tfo: false}
   - {name: 🇺🇸 TR-GRPC-NA 🇺🇸 US-177.3.208.169:443 3, server: 177.3.208.169, port: 443, type: trojan, password: 581e14a5fcc14107b9326cc54f047891, sni: titandarkness.mooo.com, skip-cert-verify: false, tfo: false}
@@ -529,8 +528,8 @@ proxies:
   - {name: 🇺🇸 TR-TCP-NA 🇺🇸 US-103.133.1.2:443, server: 103.133.1.2, port: 443, type: trojan, password: humanity, skip-cert-verify: false, tfo: false}
   - {name: 🇺🇸 TR-TCP-NA 🇺🇸 US-153.75.250.171:49271, server: 153.75.250.171, port: 49271, type: trojan, password: 9ad83f65a560960e6509b677eb6162c1, sni: 153.75.250.171.sslip.io, skip-cert-verify: false, tfo: false}
   - {name: 🇺🇸 TR-TCP-NA 🇺🇸 US-157.254.38.210:20041, server: 157.254.38.210, port: 20041, type: trojan, password: ba07a8af-5544-48ac-ab62-3b6c00a44fa6, skip-cert-verify: false, tfo: false}
-  - {name: 🇺🇸 TR-TCP-NA 🇺🇸 US-157.254.38.210:20041 2, server: 157.254.38.210, port: 20041, type: trojan, password: ba07a8af-5544-48ac-ab62-3b6c00a44fa6, sni: Hkdcrtc-e.catcat321.com, skip-cert-verify: false, tfo: false}
-  - {name: 🇺🇸 TR-TCP-NA 🇺🇸 US-157.254.38.210:20041 3, server: 157.254.38.210, port: 20041, type: trojan, password: ba07a8af-5544-48ac-ab62-3b6c00a44fa6, sni: de.catxstar.com, skip-cert-verify: false, tfo: false}
+  - {name: 🇺🇸 TR-TCP-NA 🇺🇸 US-157.254.38.210:20041 2, server: 157.254.38.210, port: 20041, type: trojan, password: ba07a8af-5544-48ac-ab62-3b6c00a44fa6, sni: de.catxstar.com, skip-cert-verify: false, tfo: false}
+  - {name: 🇺🇸 TR-TCP-NA 🇺🇸 US-157.254.38.210:20041 3, server: 157.254.38.210, port: 20041, type: trojan, password: ba07a8af-5544-48ac-ab62-3b6c00a44fa6, sni: Hkdcrtc-e.catcat321.com, skip-cert-verify: false, tfo: false}
   - {name: 🇺🇸 TR-TCP-NA 🇺🇸 US-157.254.38.210:20068, server: 157.254.38.210, port: 20068, type: trojan, password: 41c406e2-12b5-41f2-a329-d0621052d675, sni: hk.catxstar.com, skip-cert-verify: false, tfo: false}
   - {name: 🇺🇸 TR-TCP-NA 🇺🇸 US-162.159.152.101:443, server: 162.159.152.101, port: 443, type: trojan, password: auto, skip-cert-verify: false, tfo: false}
   - {name: 🇺🇸 TR-TCP-NA 🇺🇸 US-35.86.90.51:443, server: 35.86.90.51, port: 443, type: trojan, password: ND91608427, sni: natural-collie.rooster465.autos, skip-cert-verify: false, tfo: false}

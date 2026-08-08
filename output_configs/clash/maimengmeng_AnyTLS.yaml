@@ -1,51 +1,69 @@
 proxies:
-  - {name: ✅续费地址：12.kg, server: 127.0.0.1, port: 80, type: anytls, password: e0bd847e-e4f5-4f6f-bee2-9dc4f19b9ff5, skip-cert-verify: false, tfo: false}
-  - {name: ✅续费地址：12.kg 2, server: 127.0.0.1, port: 80, type: anytls, password: 9e51eb62-797c-42fa-a6af-e993a99e6ece, skip-cert-verify: false, tfo: false}
+  - {name: ✅续费地址：12.kg, server: 127.0.0.1, port: 80, type: anytls, password: 9e51eb62-797c-42fa-a6af-e993a99e6ece, skip-cert-verify: false, tfo: false}
+  - {name: ✅续费地址：12.kg 2, server: 127.0.0.1, port: 80, type: anytls, password: e0bd847e-e4f5-4f6f-bee2-9dc4f19b9ff5, skip-cert-verify: false, tfo: false}
   - {name: ✅续费地址：12.kg 3, server: 127.0.0.1, port: 80, type: anytls, password: eed25fb8-7c22-49d1-8ca0-0e2c0ad16b6a, skip-cert-verify: false, tfo: false}
-  - {name: ㅤ, server: 127.0.0.1, port: 80, type: anytls, password: eed25fb8-7c22-49d1-8ca0-0e2c0ad16b6a, skip-cert-verify: false, tfo: false}
-  - {name: ㅤ 2, server: 127.0.0.1, port: 80, type: anytls, password: 9e51eb62-797c-42fa-a6af-e993a99e6ece, skip-cert-verify: false, tfo: false}
+  - {name: ㅤ, server: 127.0.0.1, port: 80, type: anytls, password: 9e51eb62-797c-42fa-a6af-e993a99e6ece, skip-cert-verify: false, tfo: false}
+  - {name: ㅤ 2, server: 127.0.0.1, port: 80, type: anytls, password: eed25fb8-7c22-49d1-8ca0-0e2c0ad16b6a, skip-cert-verify: false, tfo: false}
   - {name: ㅤ 3, server: 127.0.0.1, port: 80, type: anytls, password: e0bd847e-e4f5-4f6f-bee2-9dc4f19b9ff5, skip-cert-verify: false, tfo: false}
   - {name: ㅤㅤ, server: 127.0.0.1, port: 80, type: anytls, password: e0bd847e-e4f5-4f6f-bee2-9dc4f19b9ff5, skip-cert-verify: false, tfo: false}
   - {name: ㅤㅤ 2, server: 127.0.0.1, port: 80, type: anytls, password: eed25fb8-7c22-49d1-8ca0-0e2c0ad16b6a, skip-cert-verify: false, tfo: false}
   - {name: ㅤㅤ 3, server: 127.0.0.1, port: 80, type: anytls, password: 9e51eb62-797c-42fa-a6af-e993a99e6ece, skip-cert-verify: false, tfo: false}
-  - {name: 距离下次重置剩余：15 天, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
-  - {name: 距离下次重置剩余：15 天 2, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
-  - {name: 距离下次重置剩余：15 天 3, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
-  - {name: 🇦🇺 澳大利亚|BGP|01|1x, server: 2026.xn--cjz291d.co, port: 47477, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
-  - {name: 🇦🇺 澳大利亚|BGP|01|1x 2, server: 2026.xn--cjz291d.co, port: 47477, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
-  - {name: 🇦🇺 澳大利亚|BGP|01|1x 3, server: 2026.xn--cjz291d.co, port: 47477, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
-  - {name: 🇦🇺 澳大利亚|BGP|02|1x, server: 2026.xn--cjz291d.co, port: 47477, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
-  - {name: 🇦🇺 澳大利亚|BGP|02|1x 2, server: 2026.xn--cjz291d.co, port: 47477, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
-  - {name: 🇦🇺 澳大利亚|BGP|02|1x 3, server: 2026.xn--cjz291d.co, port: 47477, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
-  - {name: 🇨🇳 台湾|BGP|01|1x, server: 2026.xn--cjz291d.co, port: 22518, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
-  - {name: 🇨🇳 台湾|BGP|01|1x 2, server: 2026.xn--cjz291d.co, port: 22518, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
-  - {name: 🇨🇳 台湾|BGP|01|1x 3, server: 2026.xn--cjz291d.co, port: 22518, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
+  - {name: 距离下次重置剩余：14 天, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
+  - {name: 距离下次重置剩余：14 天 2, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
+  - {name: 距离下次重置剩余：14 天 3, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
+  - {name: 🇦🇺 澳大利亚|BGP|01|1x, server: 2026.xn--cjz291d.co, port: 47477, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
+  - {name: 🇦🇺 澳大利亚|BGP|01|1x 2, server: 2026.xn--cjz291d.co, port: 47477, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
+  - {name: 🇦🇺 澳大利亚|BGP|01|1x 3, server: 2026.xn--cjz291d.co, port: 47477, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
+  - {name: 🇦🇺 澳大利亚|BGP|02|1x, server: 2026.xn--cjz291d.co, port: 47477, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
+  - {name: 🇦🇺 澳大利亚|BGP|02|1x 2, server: 2026.xn--cjz291d.co, port: 47477, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
+  - {name: 🇦🇺 澳大利亚|BGP|02|1x 3, server: 2026.xn--cjz291d.co, port: 47477, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
+  - {name: 🇨🇦 加拿大|BGP优化, server: ca.yuyan.vin, port: 10021, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇨🇳 台湾1|BGP优化, server: tw1.yuyan.vin, port: 10028, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇨🇳 台湾2|BGP优化, server: tw2.yuyan.vin, port: 10027, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇨🇳 台湾3|BGP优化, server: tw3.yuyan.vin, port: 10013, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇨🇳 台湾4|BGP优化, server: tw4.yuyan.vin, port: 10038, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇨🇳 台湾|BGP|01|1x, server: 2026.xn--cjz291d.co, port: 22518, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
+  - {name: 🇨🇳 台湾|BGP|01|1x 2, server: 2026.xn--cjz291d.co, port: 22518, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
+  - {name: 🇨🇳 台湾|BGP|01|1x 3, server: 2026.xn--cjz291d.co, port: 22518, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
   - {name: 🇨🇳 台湾|BGP|02|1x, server: 2026.xn--cjz291d.co, port: 22518, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
-  - {name: 🇨🇳 台湾|BGP|02|1x 2, server: 2026.xn--cjz291d.co, port: 22518, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
-  - {name: 🇨🇳 台湾|BGP|02|1x 3, server: 2026.xn--cjz291d.co, port: 22518, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
-  - {name: 🇨🇳 台湾|BGP|03|1x, server: 2026.xn--cjz291d.co, port: 22518, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
+  - {name: 🇨🇳 台湾|BGP|02|1x 2, server: 2026.xn--cjz291d.co, port: 22518, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
+  - {name: 🇨🇳 台湾|BGP|02|1x 3, server: 2026.xn--cjz291d.co, port: 22518, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
+  - {name: 🇨🇳 台湾|BGP|03|1x, server: 2026.xn--cjz291d.co, port: 22518, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
   - {name: 🇨🇳 台湾|BGP|03|1x 2, server: 2026.xn--cjz291d.co, port: 22518, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
-  - {name: 🇨🇳 台湾|BGP|03|1x 3, server: 2026.xn--cjz291d.co, port: 22518, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
-  - {name: 🇩🇪 德国|BGP|01|1x, server: 2026.xn--cjz291d.co, port: 65304, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
-  - {name: 🇩🇪 德国|BGP|01|1x 2, server: 2026.xn--cjz291d.co, port: 65304, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
-  - {name: 🇩🇪 德国|BGP|01|1x 3, server: 2026.xn--cjz291d.co, port: 65304, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
-  - {name: 🇩🇪 德国|BGP|02|1x, server: 2026.xn--cjz291d.co, port: 65304, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
+  - {name: 🇨🇳 台湾|BGP|03|1x 3, server: 2026.xn--cjz291d.co, port: 22518, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
+  - {name: 🇩🇪 德国|BGP|01|1x, server: 2026.xn--cjz291d.co, port: 65304, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
+  - {name: 🇩🇪 德国|BGP|01|1x 2, server: 2026.xn--cjz291d.co, port: 65304, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
+  - {name: 🇩🇪 德国|BGP|01|1x 3, server: 2026.xn--cjz291d.co, port: 65304, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
+  - {name: 🇩🇪 德国|BGP|02|1x, server: 2026.xn--cjz291d.co, port: 65304, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
   - {name: 🇩🇪 德国|BGP|02|1x 2, server: 2026.xn--cjz291d.co, port: 65304, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
-  - {name: 🇩🇪 德国|BGP|02|1x 3, server: 2026.xn--cjz291d.co, port: 65304, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
+  - {name: 🇩🇪 德国|BGP|02|1x 3, server: 2026.xn--cjz291d.co, port: 65304, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
+  - {name: 🇩🇪 德国|BGP优化, server: de.yuyan.vin, port: 10023, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇫🇷 法国|BGP优化, server: fr.yuyan.vin, port: 10003, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
   - {name: 🇬🇧 英国|BGP|01|1x, server: 2026.xn--cjz291d.co, port: 12343, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
-  - {name: 🇬🇧 英国|BGP|01|1x 2, server: 2026.xn--cjz291d.co, port: 12343, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
-  - {name: 🇬🇧 英国|BGP|01|1x 3, server: 2026.xn--cjz291d.co, port: 12343, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
-  - {name: 🇬🇧 英国|BGP|02|1x, server: 2026.xn--cjz291d.co, port: 12343, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
-  - {name: 🇬🇧 英国|BGP|02|1x 2, server: 2026.xn--cjz291d.co, port: 12343, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
-  - {name: 🇬🇧 英国|BGP|02|1x 3, server: 2026.xn--cjz291d.co, port: 12343, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
-  - {name: 🇭🇰 香港|BGP|01|1x, server: 2026.xn--cjz291d.co, port: 36748, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
-  - {name: 🇭🇰 香港|BGP|01|1x 2, server: 2026.xn--cjz291d.co, port: 36748, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
-  - {name: 🇭🇰 香港|BGP|01|1x 3, server: 2026.xn--cjz291d.co, port: 36748, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
+  - {name: 🇬🇧 英国|BGP|01|1x 2, server: 2026.xn--cjz291d.co, port: 12343, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
+  - {name: 🇬🇧 英国|BGP|01|1x 3, server: 2026.xn--cjz291d.co, port: 12343, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
+  - {name: 🇬🇧 英国|BGP|02|1x, server: 2026.xn--cjz291d.co, port: 12343, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
+  - {name: 🇬🇧 英国|BGP|02|1x 2, server: 2026.xn--cjz291d.co, port: 12343, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
+  - {name: 🇬🇧 英国|BGP|02|1x 3, server: 2026.xn--cjz291d.co, port: 12343, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
+  - {name: 🇬🇧 英国|BGP优化, server: uk.yuyan.vin, port: 10052, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇭🇰 香港1|BGP优化, server: hk1.yuyan.vin, port: 10001, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇭🇰 香港2|BGP优化, server: hk2.yuyan.vin, port: 10005, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇭🇰 香港3|BGP优化, server: hk3.yuyan.vin, port: 10010, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇭🇰 香港4|BGP优化, server: hk4.yuyan.vin, port: 10002, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇭🇰 香港5|BGP优化, server: hk5.yuyan.vin, port: 10022, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇭🇰 香港A|BGP优化, server: hka.yuyan.vin, port: 11001, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇭🇰 香港B|BGP优化, server: hkb.yuyan.vin, port: 11002, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇭🇰 香港C|BGP优化, server: hkc.yuyan.vin, port: 11003, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇭🇰 香港D|BGP优化, server: hkd.yuyan.vin, port: 11004, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇭🇰 香港E|BGP优化, server: hke.yuyan.vin, port: 10029, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇭🇰 香港|BGP|01|1x, server: 2026.xn--cjz291d.co, port: 36748, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
+  - {name: 🇭🇰 香港|BGP|01|1x 2, server: 2026.xn--cjz291d.co, port: 36748, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
+  - {name: 🇭🇰 香港|BGP|01|1x 3, server: 2026.xn--cjz291d.co, port: 36748, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
   - {name: 🇭🇰 香港|BGP|02|1x, server: 2026.xn--cjz291d.co, port: 36748, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
   - {name: 🇭🇰 香港|BGP|02|1x 2, server: 2026.xn--cjz291d.co, port: 36748, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
   - {name: 🇭🇰 香港|BGP|02|1x 3, server: 2026.xn--cjz291d.co, port: 36748, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
-  - {name: 🇭🇰 香港|BGP|03|1x, server: 2026.xn--cjz291d.co, port: 36748, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
-  - {name: 🇭🇰 香港|BGP|03|1x 2, server: 2026.xn--cjz291d.co, port: 36748, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
+  - {name: 🇭🇰 香港|BGP|03|1x, server: 2026.xn--cjz291d.co, port: 36748, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
+  - {name: 🇭🇰 香港|BGP|03|1x 2, server: 2026.xn--cjz291d.co, port: 36748, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
   - {name: 🇭🇰 香港|BGP|03|1x 3, server: 2026.xn--cjz291d.co, port: 36748, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
   - {name: 🇭🇰 香港|BGP|04|1x, server: 2026.xn--cjz291d.co, port: 36232, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
   - {name: 🇭🇰 香港|BGP|04|1x 2, server: 2026.xn--cjz291d.co, port: 36232, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
@@ -53,52 +71,88 @@ proxies:
   - {name: 🇭🇰 香港|BGP|05|1x, server: 2026.xn--cjz291d.co, port: 36232, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
   - {name: 🇭🇰 香港|BGP|05|1x 2, server: 2026.xn--cjz291d.co, port: 36232, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
   - {name: 🇭🇰 香港|BGP|05|1x 3, server: 2026.xn--cjz291d.co, port: 36232, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
+  - {name: 🇮🇩 印尼|BGP优化, server: id.yuyan.vin, port: 10041, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
   - {name: 🇯🇵 日本-01, server: awsjptest.qqa456.com, port: 45677, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
   - {name: 🇯🇵 日本-02, server: awsjptest.qqa456.com, port: 45677, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
   - {name: 🇯🇵 日本-03, server: awsjptest.qqa456.com, port: 45677, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
   - {name: 🇯🇵 日本-04, server: awsjptest.qqa456.com, port: 45677, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
+  - {name: 🇯🇵 日本1|BGP优化, server: jp1.yuyan.vin, port: 10017, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇯🇵 日本2|BGP优化, server: jp2.yuyan.vin, port: 10039, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇯🇵 日本3|BGP优化, server: jp3.yuyan.vin, port: 10008, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇯🇵 日本4|BGP优化, server: jp4.yuyan.vin, port: 10007, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇯🇵 日本5|BGP优化, server: jp5.yuyan.vin, port: 10009, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇯🇵 日本6|BGP优化, server: jp6.yuyan.vin, port: 10045, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇯🇵 日本7|BGP优化, server: jp7.yuyan.vin, port: 10024, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇯🇵 日本8|BGP优化, server: jp8.yuyan.vin, port: 10044, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
   - {name: 🇯🇵 日本|BGP|01|1x, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
-  - {name: 🇯🇵 日本|BGP|01|1x 2, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
-  - {name: 🇯🇵 日本|BGP|01|1x 3, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
-  - {name: 🇯🇵 日本|BGP|02|1x, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
+  - {name: 🇯🇵 日本|BGP|01|1x 2, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
+  - {name: 🇯🇵 日本|BGP|01|1x 3, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
+  - {name: 🇯🇵 日本|BGP|02|1x, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
   - {name: 🇯🇵 日本|BGP|02|1x 2, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
-  - {name: 🇯🇵 日本|BGP|02|1x 3, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
-  - {name: 🇯🇵 日本|BGP|03|1x, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
+  - {name: 🇯🇵 日本|BGP|02|1x 3, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
+  - {name: 🇯🇵 日本|BGP|03|1x, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
   - {name: 🇯🇵 日本|BGP|03|1x 2, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
-  - {name: 🇯🇵 日本|BGP|03|1x 3, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
+  - {name: 🇯🇵 日本|BGP|03|1x 3, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
+  - {name: 🇰🇷 韩国1|BGP优化, server: kr.yuyan.vin, port: 10019, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇰🇷 韩国2|BGP优化, server: kr2.yuyan.vin, port: 10058, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇲🇾 马来西亚1|BGP优化, server: my1.yuyan.vin, port: 10006, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇲🇾 马来西亚2|BGP优化, server: my2.yuyan.vin, port: 10054, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇲🇾 马来西亚3|BGP优化, server: my3.yuyan.vin, port: 10035, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇳🇬 尼日利亚|BGP优化, server: ng.yuyan.vin, port: 10046, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇳🇱 荷兰|BGP优化, server: nl.yuyan.vin, port: 10037, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇵🇭 菲律宾1|BGP优化, server: ph1.yuyan.vin, port: 10032, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇵🇭 菲律宾2|BGP优化, server: ph2.yuyan.vin, port: 10055, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇵🇭 菲律宾3|BGP优化, server: ph3.yuyan.vin, port: 10056, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇵🇭 菲律宾4|BGP优化, server: ph4.yuyan.vin, port: 10057, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇵🇰 巴基斯坦|BGP优化, server: pk.yuyan.vin, port: 10034, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
   - {name: 🇸🇬 新加坡-01, server: sg-aws.xn--9kqp42aims.top, port: 22712, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
   - {name: 🇸🇬 新加坡-02, server: sg-aws.xn--9kqp42aims.top, port: 22712, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
   - {name: 🇸🇬 新加坡-03, server: sg-aws.xn--9kqp42aims.top, port: 22712, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
   - {name: 🇸🇬 新加坡-04, server: sg-aws.xn--9kqp42aims.top, port: 18443, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
   - {name: 🇸🇬 新加坡-05 | v6, server: siyuev6.dickaws.top, port: 18443, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
   - {name: 🇸🇬 新加坡-06 | v6, server: siyuev6.dickaws.top, port: 22712, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
+  - {name: 🇸🇬 新加坡1|BGP优化, server: sg1.yuyan.vin, port: 10033, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇸🇬 新加坡2|BGP优化, server: sg2.yuyan.vin, port: 10030, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇸🇬 新加坡3|BGP优化, server: sg3.yuyan.vin, port: 10011, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇸🇬 新加坡4|BGP优化, server: sg4.yuyan.vin, port: 10012, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇸🇬 新加坡5|BGP优化, server: sg5.yuyan.vin, port: 10047, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇸🇬 新加坡6|BGP优化, server: sg6.yuyan.vin, port: 10048, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
   - {name: 🇸🇬 新加坡|BGP|01|1x, server: 2026.xn--cjz291d.co, port: 35326, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
   - {name: 🇸🇬 新加坡|BGP|01|1x 2, server: 2026.xn--cjz291d.co, port: 35326, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
   - {name: 🇸🇬 新加坡|BGP|01|1x 3, server: 2026.xn--cjz291d.co, port: 35326, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
-  - {name: 🇸🇬 新加坡|BGP|02|1x, server: 2026.xn--cjz291d.co, port: 35326, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
-  - {name: 🇸🇬 新加坡|BGP|02|1x 2, server: 2026.xn--cjz291d.co, port: 35326, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
-  - {name: 🇸🇬 新加坡|BGP|02|1x 3, server: 2026.xn--cjz291d.co, port: 35326, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
-  - {name: 🇸🇬 新加坡|BGP|03|1x, server: 2026.xn--cjz291d.co, port: 35326, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
-  - {name: 🇸🇬 新加坡|BGP|03|1x 2, server: 2026.xn--cjz291d.co, port: 35326, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
+  - {name: 🇸🇬 新加坡|BGP|02|1x, server: 2026.xn--cjz291d.co, port: 35326, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
+  - {name: 🇸🇬 新加坡|BGP|02|1x 2, server: 2026.xn--cjz291d.co, port: 35326, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
+  - {name: 🇸🇬 新加坡|BGP|02|1x 3, server: 2026.xn--cjz291d.co, port: 35326, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
+  - {name: 🇸🇬 新加坡|BGP|03|1x, server: 2026.xn--cjz291d.co, port: 35326, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
+  - {name: 🇸🇬 新加坡|BGP|03|1x 2, server: 2026.xn--cjz291d.co, port: 35326, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
   - {name: 🇸🇬 新加坡|BGP|03|1x 3, server: 2026.xn--cjz291d.co, port: 35326, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
-  - {name: 🇸🇬 连接不上请刷新订阅, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
-  - {name: 🇸🇬 连接不上请刷新订阅 2, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
+  - {name: 🇸🇬 连接不上请刷新订阅, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
+  - {name: 🇸🇬 连接不上请刷新订阅 2, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
   - {name: 🇸🇬 连接不上请刷新订阅 3, server: 2026.xn--cjz291d.co, port: 35404, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
+  - {name: 🇹🇭 泰国|BGP优化, server: th.yuyan.vin, port: 10040, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇹🇷 土耳其|BGP优化, server: tr.yuyan.vin, port: 10053, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
   - {name: 🇺🇸 美国-04, server: us2.xn--9kqp42aims.top, port: 18445, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
-  - {name: 🇺🇸 美国|BGP|01|1x, server: 2026.xn--cjz291d.co, port: 26558, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
-  - {name: 🇺🇸 美国|BGP|01|1x 2, server: 2026.xn--cjz291d.co, port: 26558, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
+  - {name: 🇺🇸 美国1|BGP优化, server: us1.yuyan.vin, port: 10025, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇺🇸 美国2|BGP优化, server: us2.yuyan.vin, port: 10016, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇺🇸 美国3|BGP优化, server: us3.yuyan.vin, port: 10026, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇺🇸 美国4|BGP优化, server: us4.yuyan.vin, port: 10018, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇺🇸 美国5|BGP优化, server: us5.yuyan.vin, port: 10015, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇺🇸 美国6|BGP优化, server: us6.yuyan.vin, port: 10014, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇺🇸 美国|BGP|01|1x, server: 2026.xn--cjz291d.co, port: 26558, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
+  - {name: 🇺🇸 美国|BGP|01|1x 2, server: 2026.xn--cjz291d.co, port: 26558, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
   - {name: 🇺🇸 美国|BGP|01|1x 3, server: 2026.xn--cjz291d.co, port: 26558, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
-  - {name: 🇺🇸 美国|BGP|02|1x, server: 2026.xn--cjz291d.co, port: 26558, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
-  - {name: 🇺🇸 美国|BGP|02|1x 2, server: 2026.xn--cjz291d.co, port: 26558, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
-  - {name: 🇺🇸 美国|BGP|02|1x 3, server: 2026.xn--cjz291d.co, port: 26558, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
-  - {name: 🇺🇸 美国|BGP|03|1x, server: 2026.xn--cjz291d.co, port: 26558, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
-  - {name: 🇺🇸 美国|BGP|03|1x 2, server: 2026.xn--cjz291d.co, port: 26558, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
+  - {name: 🇺🇸 美国|BGP|02|1x, server: 2026.xn--cjz291d.co, port: 26558, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
+  - {name: 🇺🇸 美国|BGP|02|1x 2, server: 2026.xn--cjz291d.co, port: 26558, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
+  - {name: 🇺🇸 美国|BGP|02|1x 3, server: 2026.xn--cjz291d.co, port: 26558, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
+  - {name: 🇺🇸 美国|BGP|03|1x, server: 2026.xn--cjz291d.co, port: 26558, type: anytls, password: 8125e1cf-7bbd-4d7c-b531-566bf65bf33c, skip-cert-verify: false, tfo: false}
+  - {name: 🇺🇸 美国|BGP|03|1x 2, server: 2026.xn--cjz291d.co, port: 26558, type: anytls, password: fcf66830-53e7-4214-88c9-01854fb7009e, skip-cert-verify: false, tfo: false}
   - {name: 🇺🇸 美国|BGP|03|1x 3, server: 2026.xn--cjz291d.co, port: 26558, type: anytls, password: 31b27d2f-5aa3-4be5-ae36-dfde980d5762, skip-cert-verify: false, tfo: false}
+  - {name: 🇻🇳 越南|BGP优化, server: vn1.yuyan.vin, port: 10050, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
   - {name: "🏳️‍🌈 [流量 28天后 自动重置]", server: 127.0.0.1, port: 80, type: anytls, password: eed25fb8-7c22-49d1-8ca0-0e2c0ad16b6a, skip-cert-verify: false, tfo: false}
   - {name: 🏳️‍🌈 ⚠️‼️ 您的流量已耗尽 ‼️, server: 127.0.0.1, port: 80, type: anytls, password: eed25fb8-7c22-49d1-8ca0-0e2c0ad16b6a, skip-cert-verify: false, tfo: false}
-  - {name: 🏳️‍🌈 ⚠️‼️ 您的订阅已过期 ‼️, server: 127.0.0.1, port: 80, type: anytls, password: 9e51eb62-797c-42fa-a6af-e993a99e6ece, skip-cert-verify: false, tfo: false}
-  - {name: 🏳️‍🌈 ⚠️‼️ 您的订阅已过期 ‼️ 2, server: 127.0.0.1, port: 80, type: anytls, password: e0bd847e-e4f5-4f6f-bee2-9dc4f19b9ff5, skip-cert-verify: false, tfo: false}
+  - {name: 🏳️‍🌈 ⚠️‼️ 您的订阅已过期 ‼️, server: 127.0.0.1, port: 80, type: anytls, password: e0bd847e-e4f5-4f6f-bee2-9dc4f19b9ff5, skip-cert-verify: false, tfo: false}
+  - {name: 🏳️‍🌈 ⚠️‼️ 您的订阅已过期 ‼️ 2, server: 127.0.0.1, port: 80, type: anytls, password: 9e51eb62-797c-42fa-a6af-e993a99e6ece, skip-cert-verify: false, tfo: false}
   - {name: 🏳️‍🌈 ⚠️‼️ 流量已耗尽 请加流量 ‼️, server: 127.0.0.1, port: 80, type: anytls, password: eed25fb8-7c22-49d1-8ca0-0e2c0ad16b6a, skip-cert-verify: false, tfo: false}
-  - {name: 🏳️‍🌈 ⚠️‼️ 订阅已过期 请续费 ‼️, server: 127.0.0.1, port: 80, type: anytls, password: 9e51eb62-797c-42fa-a6af-e993a99e6ece, skip-cert-verify: false, tfo: false}
-  - {name: 🏳️‍🌈 ⚠️‼️ 订阅已过期 请续费 ‼️ 2, server: 127.0.0.1, port: 80, type: anytls, password: e0bd847e-e4f5-4f6f-bee2-9dc4f19b9ff5, skip-cert-verify: false, tfo: false}
+  - {name: 🏳️‍🌈 ⚠️‼️ 订阅已过期 请续费 ‼️, server: 127.0.0.1, port: 80, type: anytls, password: e0bd847e-e4f5-4f6f-bee2-9dc4f19b9ff5, skip-cert-verify: false, tfo: false}
+  - {name: 🏳️‍🌈 ⚠️‼️ 订阅已过期 请续费 ‼️ 2, server: 127.0.0.1, port: 80, type: anytls, password: 9e51eb62-797c-42fa-a6af-e993a99e6ece, skip-cert-verify: false, tfo: false}
   - {name: "🏳️‍🌈 流量[剩余: 0 B] 已用 300.1 GB", server: 127.0.0.1, port: 80, type: anytls, password: eed25fb8-7c22-49d1-8ca0-0e2c0ad16b6a, skip-cert-verify: false, tfo: false}
