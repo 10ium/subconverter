@@ -114,6 +114,4 @@ proxies:
   - {name: 🇺🇸 美国4|BGP优化, server: us4.yuyan.vin, port: 10018, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
   - {name: 🇺🇸 美国5|BGP优化, server: us5.yuyan.vin, port: 10015, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
   - {name: 🇺🇸 美国6|BGP优化, server: us6.yuyan.vin, port: 10014, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
-  - {name: 🇺🇸 美国圣何塞-01, server: us-host.xn--9kqp42aims.top, port: 443, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
-  - {name: 🇺🇸 美国圣何塞-02, server: us-host.xn--9kqp42aims.top, port: 443, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
   - {name: 🇻🇳 越南|BGP优化, server: vn1.yuyan.vin, port: 10050, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
