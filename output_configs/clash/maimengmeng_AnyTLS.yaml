@@ -99,6 +99,8 @@ proxies:
   - {name: 🇸🇬 新加坡4|BGP优化, server: sg4.yuyan.vin, port: 10012, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
   - {name: 🇸🇬 新加坡5|BGP优化, server: sg5.yuyan.vin, port: 10047, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
   - {name: 🇸🇬 新加坡6|BGP优化, server: sg6.yuyan.vin, port: 10048, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇸🇬 新加坡7|BGP优化, server: sg7.yuyan.vin, port: 10059, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
+  - {name: 🇸🇬 新加坡8|BGP优化, server: sg8.yuyan.vin, port: 10060, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
   - {name: 🇹🇭 泰国|BGP优化, server: th.yuyan.vin, port: 10040, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
   - {name: 🇹🇷 土耳其|BGP优化, server: tr.yuyan.vin, port: 10053, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
   - {name: "🇺🇸 [H1线]美国1", server: h0l2a1i9t3s6s7h4u4p8h8d0t3z4g8f5k0o2f1a8y1z3y7l9p3.o2o0p9m0j1w7l5f6j1q3k4t6q0w9u8j9n5n3z6p2m0e3b1n9b2e8y1f6s0y4.com, port: 44441, type: anytls, password: 0ea23540-790a-4aa1-89fe-a3829505c591, skip-cert-verify: false, tfo: false}
@@ -106,7 +108,6 @@ proxies:
   - {name: "🇺🇸 [J1线]美国1", server: z3k4g8d8b0v9s9h3a0d4v4k9c0y4e7u5d2j6a3w6a2p1c6j1a4.o2o0p9m0j1w7l5f6j1q3k4t6q0w9u8j9n5n3z6p2m0e3b1n9b2e8y1f6s0y4.com, port: 44441, type: anytls, password: 0ea23540-790a-4aa1-89fe-a3829505c591, skip-cert-verify: false, tfo: false}
   - {name: "🇺🇸 [J1线]美国2", server: z3k4g8d8b0v9s9h3a0d4v4k9c0y4e7u5d2j6a3w6a2p1c6j1a4.o2o0p9m0j1w7l5f6j1q3k4t6q0w9u8j9n5n3z6p2m0e3b1n9b2e8y1f6s0y4.com, port: 44442, type: anytls, password: 0ea23540-790a-4aa1-89fe-a3829505c591, skip-cert-verify: false, tfo: false}
   - {name: "🇺🇸 [直连]美国1", server: 172.245.246.44, port: 44443, type: anytls, password: 0ea23540-790a-4aa1-89fe-a3829505c591, skip-cert-verify: false, tfo: false}
-  - {name: 🇺🇸 美国-04, server: us2.xn--9kqp42aims.top, port: 18445, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
   - {name: 🇺🇸 美国01 |优化2|1.5x, server: 1t.twpp.ccwu.cc, port: 57397, type: anytls, password: 030480b7-440f-40d5-8e41-38eca9d4ab31, skip-cert-verify: false, tfo: false}
   - {name: 🇺🇸 美国1|BGP优化, server: us1.yuyan.vin, port: 10025, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
   - {name: 🇺🇸 美国2|BGP优化, server: us2.yuyan.vin, port: 10016, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
