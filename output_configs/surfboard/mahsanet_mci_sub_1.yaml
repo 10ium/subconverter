@@ -1,2 +1,6 @@
 #!MANAGED-CONFIG http://127.0.0.1:25500/sub?add_emoji=true&append_info=true&append_type=false&classic=false&emoji=true&expand=true&fdn=true&insert=true&list=true&new_name=false&prepend=true&remove_emoji=false&script=false&scv=false&sort=true&target=surfboard&tfo=false&tls13=false&udp=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fmahsanet%2FMahsaFreeConfig%2Frefs%2Fheads%2Fmain%2Fmci%2Fsub_1.txt interval=86400 strict=false
 
+@mehrosaboran = trojan, 151.101.56.7, 443, password=M%69TiVPN, sni=ssl.fastly.com, skip-cert-verify=false, tfo=false, udp-relay=true
+@mehrosaboran 2 = trojan, 199.232.78.160, 443, password=M%69TiVPN, sni=ssl.fastly.com, skip-cert-verify=false, tfo=false, udp-relay=true
+@prrofile_purple | 𝗙𝗮𝗦𝗧 💚 = trojan, 199.232.78.160, 443, password=MiTiVPN, sni=ssl.fastly.com, skip-cert-verify=false, tfo=false, udp-relay=true
+اگه میخوای قطع نشی جوین شو : @farsiproxy = trojan, 151.101.56.7, 443, password=MiTiVPN, sni=ssl.fastly.com, skip-cert-verify=false, tfo=false, udp-relay=true
