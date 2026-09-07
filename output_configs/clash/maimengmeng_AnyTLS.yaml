@@ -1,7 +1,6 @@
 proxies:
   - {name: 卡塔尔 |优化2|1.5x, server: 1t.twpp.ccwu.cc, port: 27823, type: anytls, password: 030480b7-440f-40d5-8e41-38eca9d4ab31, skip-cert-verify: false, tfo: false}
-  - {name: 距离下次重置剩余：23 天, server: 1t.twpp.ccwu.cc, port: 59460, type: anytls, password: 030480b7-440f-40d5-8e41-38eca9d4ab31, skip-cert-verify: false, tfo: false}
-  - {name: 距离下次重置剩余：7 天, server: 178.105.126.242, port: 443, type: anytls, password: e70ec0f2ab60e8c22b316156bf9ac43fec98b45be6681401, skip-cert-verify: false, tfo: false}
+  - {name: 距离下次重置剩余：22 天, server: 1t.twpp.ccwu.cc, port: 59460, type: anytls, password: 030480b7-440f-40d5-8e41-38eca9d4ab31, skip-cert-verify: false, tfo: false}
   - {name: 🇦🇺 澳大利亚01 |优化2|1.5x, server: 1t.twpp.ccwu.cc, port: 47906, type: anytls, password: 030480b7-440f-40d5-8e41-38eca9d4ab31, skip-cert-verify: false, tfo: false}
   - {name: 🇨🇦 加拿大|BGP优化, server: ca.yuyan.vin, port: 10021, type: anytls, password: 53db9c44-94a1-4976-8682-5d1c3642058d, skip-cert-verify: false, tfo: false}
   - {name: 🇨🇳 台湾01 |优化2|1x, server: 1t.twpp.ccwu.cc, port: 60594, type: anytls, password: 030480b7-440f-40d5-8e41-38eca9d4ab31, skip-cert-verify: false, tfo: false}
@@ -88,7 +87,6 @@ proxies:
   - {name: "🇸🇬 [直连]新加坡1", server: 47.236.4.215, port: 44443, type: anytls, password: 0ea23540-790a-4aa1-89fe-a3829505c591, skip-cert-verify: false, tfo: false}
   - {name: "🇸🇬 [直连]新加坡2", server: 8.219.15.63, port: 44443, type: anytls, password: 0ea23540-790a-4aa1-89fe-a3829505c591, skip-cert-verify: false, tfo: false}
   - {name: "🇸🇬 [直连]新加坡3", server: 152.42.164.248, port: 44443, type: anytls, password: 0ea23540-790a-4aa1-89fe-a3829505c591, skip-cert-verify: false, tfo: false}
-  - {name: 🇸🇬 德国 -超时更新-03, server: 178.105.126.242, port: 443, type: anytls, password: e70ec0f2ab60e8c22b316156bf9ac43fec98b45be6681401, skip-cert-verify: false, tfo: false}
   - {name: 🇸🇬 新加坡-01, server: sg.xn--9kqp42aims.top, port: 443, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
   - {name: 🇸🇬 新加坡-02, server: sg.xn--9kqp42aims.top, port: 443, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
   - {name: 🇸🇬 新加坡-03, server: aliyun-sg.xn--9kqp42aims.top, port: 443, type: anytls, password: ceeb8370-d87a-40c7-b8b9-566716210763, skip-cert-verify: false, tfo: false}
