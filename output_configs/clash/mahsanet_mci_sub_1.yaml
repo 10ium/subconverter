@@ -1,3 +1,10 @@
 proxies:
-  - {name: "@mehrosaboran", server: 199.232.78.160, port: 443, type: vless, tls: true, uuid: "%58pnTeam-34", servername: ssl.fastly.com, alpn: [http%2F1.1], network: ws, ws-path: /, ws-headers: {Host: ssl.fastly.com}, skip-cert-verify: false, tfo: false}
-  - {name: "@mehrosaboran 2", server: 199.232.78.170, port: 443, type: vless, tls: true, uuid: "%58pnTeam-33", servername: ssl.fastly.com, alpn: [http%2F1.1], network: ws, ws-path: /, ws-headers: {Host: ssl.fastly.com}, skip-cert-verify: false, tfo: false}
+  - {name: (S101), server: 18.169.206.105, port: 22222, type: vless, tls: true, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, skip-cert-verify: false, tfo: false}
+  - {name: (S103), server: 15.237.141.142, port: 22222, type: vless, tls: true, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, skip-cert-verify: false, tfo: false}
+  - {name: 19@oneclickvpnkeys, server: 82.24.203.20, port: 2087, type: vless, tls: true, uuid: 5fcdc9b7-e70f-4a5c-85c3-e018ad818326, network: ws, ws-path: /fd5ba98a3970, skip-cert-verify: false, tfo: false}
+  - {name: 24@oneclickvpnkeys, server: 82.24.203.20, port: 2087, type: vless, tls: true, uuid: 5fcdc9b7-e70f-4a5c-85c3-e018ad818326, network: ws, ws-path: /fd5ba98a3970, ws-headers: {Host: 82.24.203.20}, skip-cert-verify: false, tfo: false}
+  - {name: "@Capoit", server: 151.101.56.255, port: 443, type: trojan, password: MiTiVPN, sni: ssl.fastly.com, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: ssl.fastly.com}}, tfo: false}
+  - {name: "@VlessConfig", server: 35.181.245.210, port: 22224, type: vless, tls: true, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, skip-cert-verify: false, tfo: false}
+  - {name: "@VlessConfig 2", server: 15.237.141.142, port: 22224, type: vless, tls: true, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, skip-cert-verify: false, tfo: false}
+  - {name: OurChannel, server: 35.181.245.210, port: 22223, type: vless, tls: true, uuid: e4514801-0d5a-42ba-869f-39bd605aef9e, skip-cert-verify: false, tfo: false}
+  - {name: 𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | 🇩🇪, server: arcturus.yokkastars.com, port: 40443, type: vless, tls: true, uuid: bb0f1ed0-0298-40a1-adb1-1f5d6ab33d54, servername: deepl.com, alpn: [networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-], host: deepl.com, flow: xtls-rprx-vision, reality-opts: {public-key: w4AYHvQnQS6olDqoG9ptLOtgehaWOsv9HQhDax5bLA4, short-id: db46e2946fc466fd}, client-fingerprint: random, skip-cert-verify: false, tfo: false}
