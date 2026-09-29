@@ -1,13 +1,12 @@
 proxies:
   - {name: "@EAGLE_IG : جهت خرید کانفیگ شخصی👨🏻‍💻", server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, tfo: false}
-  - {name: "آخرین آپدیت :  دوشنبه  -  1405/07/06 💎", server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, tfo: false}
+  - {name: "آخرین آپدیت :  سه‌شنبه  - 1405/07/07 💎", server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, tfo: false}
   - {name: بِ‌یاد جاویدنامان 18/19 دی،بچه‌‌های میناب🖤, server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, tfo: false}
-  - {name: "زمان  آپدیت :  12:45  -   ظهر  -  دوشنبه ⏳️", server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, tfo: false}
+  - {name: "زمان آپدیت :  12:45  -  ظهر  -  سه‌شنبه ⏳️", server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, tfo: false}
   - {name: لطفا هر 12 ساعت،لینک ساب رو آپدیت کنید⚡️, server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, tfo: false}
   - {name: ️ | @Eag1e_YT『🇨🇦』, server: 188.114.96.19, port: 80, type: vmess, uuid: 479526cd-5011-43cf-a788-504da95e07c2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: google.whatsapp.snapp.torob.basalam.fortresshost.ir.}, tfo: false}
   - {name: ️ | @Eag1e_YT『🇩🇪』, server: 156.146.38.169, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
   - {name: ️ | @Eag1e_YT『🇩🇪』 2, server: cf.877774.xyz, port: 8443, type: vless, tls: true, uuid: fdc48be3-a615-41ac-8bd1-ed844c931048, servername: edgetunnel-4uw.pages.dev, network: ws, ws-path: /, ws-headers: {Host: edgetunnel-4uw.pages.dev}, skip-cert-verify: false, tfo: false}
-  - {name: ️ | @Eag1e_YT『🇩🇪』 3, server: 176.108.247.104, port: 9881, type: vless, tls: true, uuid: 5d16ac22-6eea-426f-b778-6f4c2961faef, servername: dl.google.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc-tunnel}, reality-opts: {public-key: Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0, short-id: aabb}, client-fingerprint: random, skip-cert-verify: false, tfo: false}
   - {name: ️ | @Eag1e_YT『🇫🇷』, server: 104.18.152.225, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, tfo: false}
   - {name: ️ | @Eag1e_YT『🇫🇷』 2, server: 104.16.174.36, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, tfo: false}
   - {name: ️ | @Eag1e_YT『🇫🇷』 3, server: 104.16.174.121, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.ignitelimit.com}}, tfo: false}
