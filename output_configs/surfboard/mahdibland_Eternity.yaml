@@ -1,203 +1,203 @@
 #!MANAGED-CONFIG http://127.0.0.1:25500/sub?add_emoji=true&append_info=true&append_type=false&classic=false&emoji=true&expand=true&fdn=true&insert=true&list=true&new_name=false&prepend=true&remove_emoji=false&script=false&scv=false&sort=true&target=surfboard&tfo=false&tls13=false&udp=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fmahdibland%2FShadowsocksAggregator%2Fmaster%2FEternity.yml interval=86400 strict=false
 
-BR-89.39.161.157-0811 | 15.669MB = vmess, 89.39.161.157, 443, username=03fcc618-b93d-6796-6aed-8a38c975d581, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=aksai.org, ws-headers=Host:aksai.org, skip-cert-verify=false, tfo=false, udp-relay=true
-CH-132.243.175.144-0159 | 1.651MB = ss, 132.243.175.144, 8388, encrypt-method=chacha20-ietf-poly1305, password=e8KgS8fD0yDqYFpgN4G5piCOt9aFyqA3, tfo=false, udp-relay=true
-ID-103.160.63.199-0437 | 0.301MB = ss, 103.160.63.199, 31348, encrypt-method=chacha20-ietf-poly1305, password=8C5valhOd8vfwaTXUSZ6Zyb0Ip34lRR5z7P8az, tfo=false, udp-relay=true
-IE-3.253.106.233-0468 | 25.355MB = trojan, loved-shark.rooster465.autos, 443, password=UX82473651, sni=loved-shark.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-IT-57.131.48.45-2435 | 34.474MB = ss, 57.131.48.45, 8388, encrypt-method=aes-256-gcm, password=itzvpn@321, tfo=false, udp-relay=true
-MX-64.177.90.30-0215 | 60.113MB = ss, 64.177.90.30, 8388, encrypt-method=aes-256-gcm, password=BWyPPTusFKhGgzKh, tfo=false, udp-relay=true
-NO-185.213.23.63-0141 | 0.0MB = ss, 185.213.23.63, 990, encrypt-method=chacha20-ietf-poly1305, password=ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo=false, udp-relay=true
-RELAY-104.16.85.20-0179 | 0.0MB = vmess, 104.16.85.20, 80, username=c6747da4-fb2e-4a2a-bdb7-8614bdd6b0b3, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=sg4-v2ray.sshkit.org, ws-headers=Host:sg4-v2ray.sshkit.org, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY-141.101.114.102-1030 | 0.0MB = vmess, 141.101.114.102, 443, username=5f64fa65-7b14-49c5-954d-aa15c6bfcacd, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=clash6.ssr-free.xyz, ws-headers=Host:clash6.ssr-free.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY-141.101.114.2-0209 | 0.0MB = vmess, 141.101.114.2, 443, username=105c635f-918d-4b2a-8c9d-d5426e94eb4b, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=lg2.zhujicn2.com, ws-headers=Host:lg2.zhujicn2.com, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY-141.101.114.80-0184 | 0.0MB = vmess, 141.101.114.80, 443, username=2b61c372-ba2a-4cec-b222-42a4da3aefb7, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=v2ray1.zhujicn2.org, ws-headers=Host:v2ray1.zhujicn2.org, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY-141.101.115.2-0208 | 0.0MB = vmess, 141.101.115.2, 443, username=a5ba8b2b-8fc5-4521-a35e-9281be61c1c3, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=lg1.zhujicn2.com, ws-headers=Host:lg1.zhujicn2.com, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY-172.64.144.100-0182 | 0.0MB = vmess, 172.64.144.100, 443, username=6e9217de-ad7e-4a67-bd17-a6dca951733b, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=lg3.zhujicn2.com, ws-headers=Host:lg3.zhujicn2.com, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY-172.64.155.200-0210 | 0.0MB = vmess, 172.64.155.200, 443, username=a8030afd-812a-4afe-a766-9c76ff3eddd4, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=lg4.zhujicn2.com, ws-headers=Host:lg4.zhujicn2.com, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY-172.67.70.92-0176 | 0.0MB = vmess, yg1.ygkkk.dpdns.org, 443, username=b2ba4a73-3123-479e-aa96-5973a9ecd0c0, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=jmp1.907737.xyz, ws-headers=Host:jmp1.907737.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY-188.114.96.19-0170 | 0.393MB = vmess, 188.114.96.19, 80, username=aed88e79-5762-4d2f-86fa-f438f32a7654, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=google.whatsapp.snapp.torob.basalam.hesanid8.ir., ws-headers=Host:google.whatsapp.snapp.torob.basalam.hesanid8.ir., skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY-198.41.212.150-0202 | 0.0MB = vmess, 198.41.212.150, 443, username=bf4619e4-01dc-48ca-be08-0976b54968ce, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=lg5.zhujicn2.com, ws-headers=Host:lg5.zhujicn2.com, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY-198.41.212.2-0187 | 0.0MB = vmess, 198.41.212.2, 443, username=07a63fe3-8a46-4f89-b548-9151c61b9dc8, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=v2ray1.zhujicn2.com, ws-headers=Host:v2ray1.zhujicn2.com, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY-23.227.38.33-0197 | 0.0MB = vmess, shopify.com, 80, username=2508cb1d-bd54-47c0-aead-1b8f55090427, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=scw.cloudflare.quest, ws-headers=Host:scw.cloudflare.quest, skip-cert-verify=false, tfo=false, udp-relay=true
-RELAY-23.227.38.33-0212 | 0.0MB = vmess, shopify.com, 80, username=4397d066-f753-4300-e7ed-44797ddfcd24, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=linode.cloudflare.quest, ws-headers=Host:linode.cloudflare.quest, skip-cert-verify=false, tfo=false, udp-relay=true
-RO-154.46.31.106-0233 | 0.231MB = ss, 154.46.31.106, 443, encrypt-method=chacha20-ietf-poly1305, password=QFWzCw2uX9B9i6qAYeFBIE, tfo=false, udp-relay=true
-SE-51.20.86.152-0206 | 0.0MB = ss, 51.20.86.152, 443, encrypt-method=aes-256-cfb, password=amazonskr05, tfo=false, udp-relay=true
-ZA-102.133.165.160-0143 | 9.67MB = ss, 102.133.165.160, 16233, encrypt-method=chacha20-ietf-poly1305, password=Xsy8Ox4yOV3xLlpxtjzs3X, tfo=false, udp-relay=true
-ZA-102.37.156.224-0144 | 9.304MB = ss, 102.37.156.224, 443, encrypt-method=chacha20-ietf-poly1305, password=aduB9HGxQHjA2SBMRjkHX6, tfo=false, udp-relay=true
-ZA-139.84.247.164-0132 | 0.0MB = ss, 139.84.247.164, 8388, encrypt-method=chacha20-ietf-poly1305, password=tfAcRikawhNoZAhu, tfo=false, udp-relay=true
-🇨🇦 CA-108.181.118.10-0116 | 167.63MB = ss, 108.181.118.10, 8388, encrypt-method=chacha20-ietf-poly1305, password=G5p6ww4o67HB, tfo=false, udp-relay=true
-🇨🇦 CA-134.195.198.147-0142 | 0.0MB = vmess, 134.195.198.147, 443, username=03fcc618-b93d-6796-6aed-8a38c975d581, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=vk.com, ws-headers=Host:vk.com, skip-cert-verify=false, tfo=false, udp-relay=true
-🇨🇦 CA-137.184.174.93-0076 | 54.1MB = ss, 137.184.174.93, 8080, encrypt-method=rc4-md5, password=14fFPrbezE3HDZzsMOr6, tfo=false, udp-relay=true
-🇨🇦 CA-149.22.95.183-0126 | 75.677MB = ss, 149.22.95.183, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇨🇦 CA-15.235.75.71-0207 | 0.0MB = ss, 15.235.75.71, 8388, encrypt-method=chacha20-ietf-poly1305, password=FD3rCuOsxOay, tfo=false, udp-relay=true
-🇨🇦 CA-185.156.47.97-0070 | 1.27MB = ss, yyz-ca-01.blncvpn4u.cc, 9443, encrypt-method=aes-256-gcm, password=eveaaTOb8ji8yntw2Z9yWUG0d6Ir8Ld8m3ymH8THdC5egiTH1mXCiBc0Skr7FibH, tfo=false, udp-relay=true
-🇨🇦 CA-185.156.47.97-0075 | 1.429MB = ss, 185.156.47.97, 9443, encrypt-method=aes-256-gcm, password=eveaaTOb8ji8yntw2Z9yWUG0d6Ir8Ld8m3ymH8THdC5egiTH1mXCiBc0Skr7FibH, tfo=false, udp-relay=true
-🇨🇦 CA-51.222.12.127-0166 | 2.754MB = ss, 51.222.12.127, 445, encrypt-method=aes-256-gcm, password=zDNVedRFPQexG9v, tfo=false, udp-relay=true
-🇨🇦 CA-51.222.155.113-0259 | 2.084MB = ss, 51.222.155.113, 5601, encrypt-method=aes-256-gcm, password=Y6R9pAtvxxzmGC, tfo=false, udp-relay=true
-🇨🇦 CA-51.222.200.165-0185 | 3.915MB = ss, 51.222.200.165, 5000, encrypt-method=aes-256-gcm, password=Y6R9pAtvxxzmGC, tfo=false, udp-relay=true
-🇨🇦 CA-51.79.49.116-0164 | 0.0MB = ss, 51.79.49.116, 8882, encrypt-method=aes-256-gcm, password=kDWvXYZoTBcGkC4, tfo=false, udp-relay=true
-🇨🇦 CA-51.79.64.198-0157 | 0.0MB = ss, 51.79.64.198, 8119, encrypt-method=aes-256-gcm, password=cdBIDV42DCwnfIN, tfo=false, udp-relay=true
-🇨🇦 CA-51.79.85.185-0266 | 0.816MB = ss, 51.79.85.185, 8118, encrypt-method=aes-256-gcm, password=cdBIDV42DCwnfIN, tfo=false, udp-relay=true
-🇨🇳 CN-183.236.51.9-0204 | 0.0MB = trojan, 183.236.51.9, 10826, password=7d223bae-e183-4bf6-89c3-e327b15df490, skip-cert-verify=false, tfo=false, udp-relay=true
-🇨🇳 CN-210.75.24.222-0217 | 0.0MB = vmess, 210.75.24.222, 443, username=1bbf1ef7-3056-4160-9cab-491e024de705, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=sgamd.ptuu.ga, ws-headers=Host:sgamd.ptuu.ga, skip-cert-verify=false, tfo=false, udp-relay=true
-🇩🇪 DE-172.104.205.54-0198 | 0.0MB = vmess, 172.104.205.54, 51776, username=21fcb00c-26c0-4d1c-b8df-2c20b5323ced, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=172.104.205.54, skip-cert-verify=false, tfo=false, udp-relay=true
-🇩🇪 DE-209.46.102.22-0133 | 33.736MB = ss, 209.46.102.22, 8388, encrypt-method=chacha20-ietf-poly1305, password=1hhrqrokj3ag, tfo=false, udp-relay=true
-🇩🇪 DE-3.75.93.113-0646 | 20.81MB = trojan, meet-goshawk.rooster465.autos, 443, password=UX82473651, sni=meet-goshawk.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇩🇪 DE-63.178.198.94-0453 | 0.644MB = trojan, pleased-albacore.rooster465.autos, 443, password=UX82473651, sni=pleased-albacore.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇩🇪 DE-8.209.74.72-0134 | 18.993MB = ss, 8.209.74.72, 20001, encrypt-method=chacha20-ietf-poly1305, password=PWpjPo3tqhPN4yRZ, tfo=false, udp-relay=true
-🇩🇪 DE-91.195.241.232-0213 | 0.0MB = vmess, api.cloudbazaar.de, 80, username=b831381d-6324-4d53-ad4f-8cda48b30811, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=api.cloudbazaar.de, ws-headers=Host:api.cloudbazaar.de, skip-cert-verify=false, tfo=false, udp-relay=true
-🇪🇸 ES-108.181.121.226-0130 | 28.362MB = ss, 108.181.121.226, 8388, encrypt-method=chacha20-ietf-poly1305, password=WSyL4XTwNsdv, tfo=false, udp-relay=true
-🇪🇸 ES-140.174.184.5-0131 | 14.1MB = ss, 140.174.184.5, 8388, encrypt-method=chacha20-ietf-poly1305, password=qItG8SueYQcP, tfo=false, udp-relay=true
-🇫🇷 FR-51.255.13.232-0149 | 39.879MB = ss, 51.255.13.232, 8388, encrypt-method=chacha20-ietf-poly1305, password=BqnqToih0PbU, tfo=false, udp-relay=true
-🇫🇷 FR-52.47.133.105-0411 | 22.666MB = ss, 52.47.133.105, 443, encrypt-method=aes-256-cfb, password=amazonskr05, tfo=false, udp-relay=true
-🇬🇧 GB-141.98.101.181-0147 | 17.242MB = ss, 141.98.101.181, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇬🇧 GB-186.190.211.67-1408 | 3.618MB = vmess, 186.190.211.67, 443, username=03fcc618-b93d-6796-6aed-8a38c975d581, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=pahobac.org, ws-headers=Host:pahobac.org, skip-cert-verify=false, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.10-0115 | 15.991MB = ss, 82.38.31.10, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.149-0104 | 15.844MB = ss, 82.38.31.149, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.155-0096 | 59.236MB = ss, 82.38.31.155, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.16-0085 | 12.391MB = ss, 82.38.31.16, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.162-0109 | 59.419MB = ss, 82.38.31.162, 443, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.174-0095 | 60.02MB = ss, 82.38.31.174, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.174-0108 | 53.811MB = ss, 82.38.31.174, 443, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.176-0146 | 8.001MB = ss, 82.38.31.176, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.179-0105 | 57.73MB = ss, 82.38.31.179, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.180-0102 | 56.257MB = ss, 82.38.31.180, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.181-0079 | 59.989MB = ss, 82.38.31.181, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.184-0112 | 57.888MB = ss, 82.38.31.184, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.186-0196 | 44.069MB = ss, 82.38.31.186, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.187-0106 | 40.951MB = ss, 82.38.31.187, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.189-0125 | 30.408MB = ss, 82.38.31.189, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.190-0129 | 28.915MB = ss, 82.38.31.190, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.191-0082 | 57.917MB = ss, 82.38.31.191, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.192-0111 | 45.073MB = ss, 82.38.31.192, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.193-0092 | 60.617MB = ss, 82.38.31.193, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.194-0145 | 12.949MB = ss, 82.38.31.194, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.199-0153 | 1.987MB = ss, 82.38.31.199, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.2-0083 | 17.785MB = ss, 82.38.31.2, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.202-0160 | 3.038MB = ss, 82.38.31.202, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.203-0101 | 58.95MB = ss, 82.38.31.203, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.205-0087 | 58.179MB = ss, 82.38.31.205, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.206-0078 | 58.518MB = ss, 82.38.31.206, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.207-0084 | 59.07MB = ss, 82.38.31.207, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.208-0094 | 61.389MB = ss, 82.38.31.208, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.210-0136 | 20.081MB = ss, 82.38.31.210, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.212-0113 | 56.907MB = ss, 82.38.31.212, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.214-0086 | 60.004MB = ss, 82.38.31.214, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.216-0151 | 39.31MB = ss, 82.38.31.216, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.217-0200 | 32.651MB = ss, 82.38.31.217, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.218-0148 | 0.71MB = ss, 82.38.31.218, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.219-0155 | 2.831MB = ss, 82.38.31.219, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.3-0091 | 15.411MB = ss, 82.38.31.3, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.34-0099 | 16.101MB = ss, 82.38.31.34, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.35-0088 | 16.178MB = ss, 82.38.31.35, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.42-0093 | 17.576MB = ss, 82.38.31.42, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.46-0158 | 1.688MB = ss, 82.38.31.46, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.47-0097 | 16.268MB = ss, 82.38.31.47, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.48-0089 | 16.589MB = ss, 82.38.31.48, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.49-0090 | 16.946MB = ss, 82.38.31.49, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.61-0100 | 16.399MB = ss, 82.38.31.61, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.62-0135 | 15.876MB = ss, 82.38.31.62, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.66-0103 | 15.858MB = ss, 82.38.31.66, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇬🇧 GB-82.38.31.82-0186 | 12.683MB = ss, 82.38.31.82, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇬🇧 GB-94.156.250.148-0168 | 0.0MB = ss, 94.156.250.148, 7001, encrypt-method=aes-256-gcm, password=RexnBgU7EV5ADxG, tfo=false, udp-relay=true
-🇭🇰 HK-103.149.182.79-0165 | 0.0MB = ss, 103.149.182.79, 8388, encrypt-method=chacha20-ietf, password=asd123456, tfo=false, udp-relay=true
-🇭🇰 HK-156.245.232.239-0173 | 0.012MB = vmess, 156.245.232.239, 35043, username=b15e481d-17e4-41a8-84c2-23d4f0514d9a, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=156.245.232.239, skip-cert-verify=false, tfo=false, udp-relay=true
-🇭🇰 HK-181.215.18.110-0436 | 6.18MB = ss, telegramx.khp25.com, 1080, encrypt-method=chacha20-ietf-poly1305, password=m5nsedvdczx6x06e, tfo=false, udp-relay=true
-🇭🇰 HK-181.215.18.196-0154 | 8.805MB = ss, telegram.khp25.com, 1080, encrypt-method=chacha20-ietf-poly1305, password=pno0e2keji2gsfea, tfo=false, udp-relay=true
-🇭🇰 HK-47.244.120.197-0172 | 0.0MB = vmess, 47.244.120.197, 44867, username=845e6b08-2919-4290-ade0-5dc7dcea59ca, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=47.244.120.197, skip-cert-verify=false, tfo=false, udp-relay=true
-🇭🇰 HK-47.244.120.197-0203 | 0.0MB = vmess, 47.244.120.197, 36703, username=45b83519-9c4f-4052-a11b-02e017b636d4, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=47.244.120.197, skip-cert-verify=false, tfo=false, udp-relay=true
-🇭🇰 HK-47.244.120.197-5362 | 0.053MB = vmess, 47.244.120.197, 44867, username=845e6b08-2919-4290-ade0-5dc7dcea59ca, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=47.244.120.197, skip-cert-verify=false, tfo=false, udp-relay=true
-🇭🇰 HK-47.76.44.32-2507 | 16.245MB = vmess, 93ucrn4i0pffuabk.v.3dns.vip, 443, username=f23bb427-c1f9-4373-876c-2f43e9f790f3, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=93ucrn4i0pffuabk.v.3dns.vip, ws-headers=Host:93ucrn4i0pffuabk.v.3dns.vip, skip-cert-verify=false, tfo=false, udp-relay=true
-🇮🇳 IN-139.84.166.47-0250 | 32.887MB = ss, 139.84.166.47, 8388, encrypt-method=aes-256-gcm, password=GEdoeeqLZtkJRgSa, tfo=false, udp-relay=true
-🇮🇳 IN-152.67.8.205-0219 | 3.355MB = vmess, 152.67.8.205, 80, username=9db4c708-aef8-4359-821b-38e47990be0d, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=152.67.8.205, skip-cert-verify=false, tfo=false, udp-relay=true
-🇯🇵 JP-13.230.139.12-0478 | 23.615MB = trojan, brief-glider.rooster465.autos, 443, password=UX82473651, sni=brief-glider.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇯🇵 JP-13.230.91.226-2510 | 27.8MB = trojan, musical-terrier.rooster465.autos, 443, password=UX82473651, sni=musical-terrier.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇯🇵 JP-13.231.247.130-0470 | 27.279MB = trojan, concrete-aardvark.rooster465.autos, 443, password=UX82473651, sni=concrete-aardvark.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇯🇵 JP-149.22.87.204-0140 | 27.556MB = ss, 149.22.87.204, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇯🇵 JP-149.22.87.240-0138 | 30.233MB = ss, 149.22.87.240, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇯🇵 JP-149.22.87.241-0137 | 29.832MB = ss, 149.22.87.241, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇯🇵 JP-168.138.43.75-0183 | 0.0MB = vmess, 168.138.43.75, 80, username=11c3627f-31e8-4695-dfbd-34076e2f1f5d, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=jp01.a0a.xyz, ws-headers=Host:jp01.a0a.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
-🇯🇵 JP-176.34.5.100-0476 | 28.138MB = trojan, assuring-skink.rooster465.autos, 443, password=UX82473651, sni=assuring-skink.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇯🇵 JP-18.176.61.69-0471 | 27.296MB = trojan, intense-sole.rooster465.autos, 443, password=UX82473651, sni=intense-sole.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇯🇵 JP-18.181.165.254-0205 | 0.0MB = ss, 18.181.165.254, 443, encrypt-method=aes-256-cfb, password=amazonskr05, tfo=false, udp-relay=true
-🇯🇵 JP-3.112.245.255-2511 | 27.962MB = trojan, dynamic-imp.rooster465.autos, 443, password=UX82473651, sni=dynamic-imp.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇯🇵 JP-43.207.198.39-0472 | 28.084MB = trojan, fancy-javelin.rooster465.autos, 443, password=UX82473651, sni=fancy-javelin.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇯🇵 JP-43.207.89.91-0407 | 27.73MB = trojan, organic-caribou.rooster465.autos, 443, password=UX82473651, sni=organic-caribou.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇯🇵 JP-52.192.217.187-0477 | 28.265MB = trojan, evolving-platypus.rooster465.autos, 443, password=UX82473651, sni=evolving-platypus.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇯🇵 JP-52.192.45.137-0474 | 27.608MB = trojan, promoted-rattler.rooster465.autos, 443, password=UX82473651, sni=promoted-rattler.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇯🇵 JP-54.199.66.128-0475 | 27.834MB = trojan, integral-rodent.rooster465.autos, 443, password=UX82473651, sni=integral-rodent.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇯🇵 JP-54.238.153.132-0469 | 27.297MB = trojan, obliging-louse.rooster465.autos, 443, password=UX82473651, sni=obliging-louse.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇯🇵 JP-54.249.36.167-0473 | 27.572MB = trojan, comic-poodle.rooster465.autos, 443, password=UX82473651, sni=comic-poodle.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇯🇵 JP-54.250.237.143-0647 | 27.251MB = trojan, accurate-frog.rooster465.autos, 443, password=UX82473651, sni=accurate-frog.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇯🇵 JP-54.65.177.190-0408 | 27.389MB = trojan, winning-marten.rooster465.autos, 443, password=UX82473651, sni=winning-marten.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇯🇵 JP-84.247.155.196-0152 | 4.119MB = ss, 84.247.155.196, 443, encrypt-method=aes-256-gcm, password=3eOFeNssde7PYYMv, tfo=false, udp-relay=true
-🇯🇵 JP-84.247.155.196-0162 | 0.598MB = ss, 84.247.155.196, 80, encrypt-method=aes-256-gcm, password=3eOFeNssde7PYYMv, tfo=false, udp-relay=true
-🇰🇷 KR-13.125.197.117-0403 | 23.02MB = trojan, liked-eft.rooster465.autos, 443, password=UX82473651, sni=liked-eft.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇰🇷 KR-13.125.69.162-0479 | 21.775MB = trojan, engaging-toucan.rooster465.autos, 443, password=UX82473651, sni=engaging-toucan.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇰🇷 KR-141.164.45.187-0167 | 0.0MB = ss, 141.164.45.187, 8119, encrypt-method=aes-256-gcm, password=cdBIDV42DCwnfIN, tfo=false, udp-relay=true
-🇰🇷 KR-141.164.45.187-0195 | 0.0MB = ss, 141.164.45.187, 7001, encrypt-method=aes-256-gcm, password=RexnBgU7EV5ADxG, tfo=false, udp-relay=true
-🇰🇷 KR-141.164.45.187-0199 | 0.0MB = ss, 141.164.45.187, 9101, encrypt-method=aes-256-gcm, password=e4FCWrgpkji3QY, tfo=false, udp-relay=true
-🇰🇷 KR-141.164.45.187-0201 | 0.0MB = ss, 141.164.45.187, 8000, encrypt-method=aes-256-gcm, password=KixLvKzwjekG00rm, tfo=false, udp-relay=true
-🇰🇷 KR-141.164.45.187-0218 | 0.0MB = ss, 141.164.45.187, 6679, encrypt-method=aes-256-gcm, password=TEzjfAYq2IjtuoS, tfo=false, udp-relay=true
-🇰🇷 KR-211.178.105.134-0161 | 0.0MB = ss, 211.178.105.134, 6123, encrypt-method=aes-256-cfb, password=qwerREWQ@@, tfo=false, udp-relay=true
-🇰🇷 KR-3.34.131.153-0480 | 22.231MB = trojan, pretty-rat.rooster465.autos, 443, password=UX82473651, sni=pretty-rat.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇰🇷 KR-3.35.168.225-0410 | 23.901MB = trojan, noted-cougar.rooster465.autos, 443, password=UX82473651, sni=noted-cougar.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇰🇷 KR-3.35.207.188-0481 | 13.665MB = trojan, main-fawn.rooster465.autos, 443, password=UX82473651, sni=main-fawn.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇰🇷 KR-3.39.225.215-0406 | 21.821MB = trojan, kind-stork.rooster465.autos, 443, password=UX82473651, sni=kind-stork.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇰🇷 KR-43.201.100.203-0414 | 23.271MB = trojan, optimum-snapper.rooster465.autos, 443, password=UX82473651, sni=optimum-snapper.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇰🇷 KR-43.201.103.218-0648 | 0.014MB = ss, 43.201.103.218, 8443, encrypt-method=chacha20-ietf-poly1305, password=7e68e32f-8015-4f37-9082-70e8b0b58043, tfo=false, udp-relay=true
-🇰🇷 KR-43.201.252.164-0482 | 22.692MB = trojan, balanced-stag.rooster465.autos, 443, password=UX82473651, sni=balanced-stag.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇰🇷 KR-52.78.203.191-0649 | 21.871MB = trojan, delicate-buck.rooster465.autos, 443, password=UX82473651, sni=delicate-buck.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇰🇷 KR-54.180.236.195-0413 | 22.253MB = trojan, evolving-ewe.rooster465.autos, 443, password=UX82473651, sni=evolving-ewe.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇳🇱 NL-108.181.126.122-0123 | 0.0MB = ss, 108.181.126.122, 8388, encrypt-method=chacha20-ietf-poly1305, password=CJmTCCx7Ltud, tfo=false, udp-relay=true
-🇳🇱 NL-108.181.58.239-0121 | 0.0MB = ss, 108.181.58.239, 8388, encrypt-method=chacha20-ietf-poly1305, password=CJmTCCx7Ltud, tfo=false, udp-relay=true
-🇳🇱 NL-109.201.152.181-0117 | 44.204MB = ss, 109.201.152.181, 443, encrypt-method=aes-128-cfb, password=shadowsocks, tfo=false, udp-relay=true
-🇳🇱 NL-158.173.20.171-0128 | 0.0MB = ss, 158.173.20.171, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇳🇱 NL-193.29.139.147-0098 | 59.927MB = ss, 193.29.139.147, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-🇳🇱 NL-193.29.139.151-0169 | 16.274MB = ss, 193.29.139.151, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇳🇱 NL-193.29.139.168-0156 | 7.23MB = ss, 193.29.139.168, 8080, encrypt-method=chacha20-ietf-poly1305, password=QCXDxuDlTTMD7jtgHUjIoj, tfo=false, udp-relay=true
-🇳🇱 NL-193.29.139.204-0081 | 58.711MB = ss, 193.29.139.204, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇳🇱 NL-193.29.139.223-0122 | 16.108MB = ss, 193.29.139.223, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
-🇳🇱 NL-193.29.139.235-0127 | 48.634MB = ss, 193.29.139.235, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
-🇳🇱 NL-213.183.59.211-5036 | 0.0MB = ss, 213.183.59.211, 9001, encrypt-method=aes-256-cfb, password=UkXRsXvR6buDMG2Y, tfo=false, udp-relay=true
-🇵🇭 PH-149.104.109.252-0180 | 0.0MB = ss, 149.104.109.252, 8882, encrypt-method=aes-256-gcm, password=kDWvXYZoTBcGkC4, tfo=false, udp-relay=true
-🇸🇬 SG-13.212.81.3-0650 | 15.774MB = trojan, holy-lamb.rooster465.autos, 443, password=UX82473651, sni=holy-lamb.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇸🇬 SG-139.180.220.175-2443 | 48.359MB = ss, 139.180.220.175, 8388, encrypt-method=aes-256-gcm, password=qpSevKaUXYQKvSjp, tfo=false, udp-relay=true
-🇸🇬 SG-139.99.68.21-0216 | 0.0MB = ss, 139.99.68.21, 6379, encrypt-method=aes-256-gcm, password=zDNVedRFPQexG9v, tfo=false, udp-relay=true
-🇸🇬 SG-18.143.92.167-0485 | 13.334MB = trojan, glowing-marmoset.rooster465.autos, 443, password=UX82473651, sni=glowing-marmoset.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇸🇬 SG-43.159.109.162-0211 | 0.0MB = vmess, www.gov.hk, 80, username=f9247df4-02d5-4b31-acc5-4022652c5953, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=ee.cloudflare.quest, ws-headers=Host:ee.cloudflare.quest, skip-cert-verify=false, tfo=false, udp-relay=true
-🇸🇬 SG-45.128.12.20-0171 | 0.0MB = ss, 45.128.12.20, 14249, encrypt-method=chacha20-ietf-poly1305, password=9epp3o9ng8ej59uv, tfo=false, udp-relay=true
-🇸🇬 SG-52.221.218.179-0405 | 15.075MB = trojan, real-cardinal.rooster465.autos, 443, password=UX82473651, sni=real-cardinal.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇸🇬 SG-54.254.59.149-0404 | 15.185MB = trojan, desired-boxer.rooster465.autos, 443, password=UX82473651, sni=desired-boxer.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇸🇬 SG-68.183.227.4-0139 | 24.789MB = ss, 68.183.227.4, 8080, encrypt-method=rc4-md5, password=14fFPrbezE3HDZzsMOr6, tfo=false, udp-relay=true
-🇺🇸 US-103.214.111.162-0214 | 0.0MB = ss, 103.214.111.162, 16469, encrypt-method=aes-128-gcm, password=87e9cb62706b5cd08da95b8b423cb673, tfo=false, udp-relay=true
-🇺🇸 US-108.181.0.177-0114 | 159.653MB = ss, 108.181.0.177, 8388, encrypt-method=chacha20-ietf-poly1305, password=G5p6ww4o67HB, tfo=false, udp-relay=true
-🇺🇸 US-129.146.77.248-0181 | 0.0MB = vmess, 129.146.77.248, 39495, username=f836c736-87fc-4fde-aabc-00857ecdff3e, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=129.146.77.248, ws-headers=Host:129.146.77.248, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 US-138.199.42.68-0178 | 65.747MB = ss, 138.199.42.68, 8080, encrypt-method=rc4-md5, password=14fFPrbezE3HDZzsMOr6, tfo=false, udp-relay=true
-🇺🇸 US-140.82.63.79-0072 | 0.159MB = ss, 140.82.63.79, 8388, encrypt-method=chacha20-ietf-poly1305, password=ZoZtfPOyVvmKARUN, tfo=false, udp-relay=true
-🇺🇸 US-15.204.247.206-0150 | 0.0MB = ss, 15.204.247.206, 4444, encrypt-method=aes-256-gcm, password=pKEW8JPByTVTLtM, tfo=false, udp-relay=true
-🇺🇸 US-156.146.38.167-0077 | 118.595MB = ss, 156.146.38.167, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇺🇸 US-156.146.38.168-0107 | 111.565MB = ss, 156.146.38.168, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇺🇸 US-156.146.38.169-0080 | 114.263MB = ss, 156.146.38.169, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇺🇸 US-156.146.38.170-0110 | 118.051MB = ss, 156.146.38.170, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇺🇸 US-167.17.68.89-0813 | 21.674MB = vmess, 167.17.68.89, 443, username=03fcc618-b93d-6796-6aed-8a38c975d581, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=vspeedfast.org, ws-headers=Host:vspeedfast.org, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 US-167.88.62.68-0174 | 0.0MB = ss, 167.88.62.68, 6679, encrypt-method=aes-256-gcm, password=TEzjfAYq2IjtuoS, tfo=false, udp-relay=true
-🇺🇸 US-167.88.63.82-0192 | 0.0MB = ss, 167.88.63.82, 7306, encrypt-method=aes-256-gcm, password=FoOiGlkAA9yPEGP, tfo=false, udp-relay=true
-🇺🇸 US-167.88.63.82-0193 | 0.0MB = ss, 167.88.63.82, 5600, encrypt-method=aes-256-gcm, password=Y6R9pAtvxxzmGC, tfo=false, udp-relay=true
-🇺🇸 US-173.234.25.90-0177 | 0.0MB = ss, 173.234.25.90, 15240, encrypt-method=aes-128-gcm, password=62dd75ba944947d4ca983cf1679b3797, tfo=false, udp-relay=true
-🇺🇸 US-173.244.56.6-0119 | 115.806MB = ss, 173.244.56.6, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇺🇸 US-173.244.56.9-0120 | 133.121MB = ss, 173.244.56.9, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇺🇸 US-198.98.53.130-0068 | 1.303MB = ss, 198.98.53.130, 443, encrypt-method=chacha20-ietf-poly1305, password=eDfN7SODQceIOmIAbtJJtK, tfo=false, udp-relay=true
-🇺🇸 US-34.220.15.24-0487 | 75.925MB = trojan, guided-ferret.rooster465.autos, 443, password=UX82473651, sni=guided-ferret.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 US-37.19.198.160-0071 | 2.551MB = ss, 37.19.198.160, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇺🇸 US-37.19.198.236-0073 | 2.883MB = ss, 37.19.198.236, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇺🇸 US-37.19.198.243-0069 | 2.637MB = ss, 37.19.198.243, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇺🇸 US-37.19.198.244-0074 | 2.655MB = ss, 37.19.198.244, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
-🇺🇸 US-38.68.134.48-0191 | 0.0MB = ss, 38.68.134.48, 9101, encrypt-method=aes-256-gcm, password=e4FCWrgpkji3QY, tfo=false, udp-relay=true
-🇺🇸 US-38.68.135.18-0189 | 0.0MB = ss, 38.68.135.18, 8090, encrypt-method=aes-256-gcm, password=PCnnH6SQSnfoS27, tfo=false, udp-relay=true
-🇺🇸 US-38.75.136.21-0188 | 0.0MB = ss, 38.75.136.21, 8881, encrypt-method=aes-256-gcm, password=kDWvXYZoTBcGkC4, tfo=false, udp-relay=true
-🇺🇸 US-38.86.135.27-0175 | 0.0MB = ss, 38.86.135.27, 8881, encrypt-method=aes-256-gcm, password=kDWvXYZoTBcGkC4, tfo=false, udp-relay=true
-🇺🇸 US-44.255.123.205-0412 | 77.631MB = trojan, happy-gibbon.rooster465.autos, 443, password=UX82473651, sni=happy-gibbon.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 US-54.213.238.59-0653 | 68.571MB = trojan, ultimate-jaguar.rooster465.autos, 443, password=UX82473651, sni=ultimate-jaguar.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
-🇺🇸 US-74.201.177.54-0124 | 0.0MB = ss, 74.201.177.54, 14680, encrypt-method=aes-128-gcm, password=1377d5cfafc9279a904deb3bfa4f3de2, tfo=false, udp-relay=true
-🇺🇸 US-98.88.75.157-2512 | 48.623MB = ss, 98.88.75.157, 443, encrypt-method=aes-256-cfb, password=amazonskr05, tfo=false, udp-relay=true
+BR-89.39.161.157-0172 | 0.0MB = vmess, 89.39.161.157, 443, username=03fcc618-b93d-6796-6aed-8a38c975d581, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=aksai.org, ws-headers=Host:aksai.org, skip-cert-verify=false, tfo=false, udp-relay=true
+CH-132.243.175.144-0199 | 1.916MB = ss, 132.243.175.144, 8388, encrypt-method=chacha20-ietf-poly1305, password=e8KgS8fD0yDqYFpgN4G5piCOt9aFyqA3, tfo=false, udp-relay=true
+CL-64.176.2.21-0084 | 0.0MB = ss, 64.176.2.21, 8388, encrypt-method=aes-256-gcm, password=xBStBEVqvGwHPocc, tfo=false, udp-relay=true
+CY-45.149.114.171-0430 | 12.046MB = ss, 45.149.114.171, 777, encrypt-method=chacha20-ietf-poly1305, password=Jeoq8ujfkqZKKvACQhoqBQ1PA3uq4242, tfo=false, udp-relay=true
+CY-45.82.253.234-0038 | 0.0MB = trojan, 45.82.253.234, 28443, password=5ceb716a-9a0c-493a-9a0b-a05e08a1b1fc, sni=glc.hruqoaw.cn, skip-cert-verify=false, tfo=false, udp-relay=true
+EE-176.112.146.190-0043 | 0.0MB = vmess, 176.112.146.190, 80, username=f9247df4-02d5-4b31-acc5-4022652c5953, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=176.112.146.190, skip-cert-verify=false, tfo=false, udp-relay=true
+ID-41.216.177.41-5071 | 0.0MB = trojan, 41.216.177.41, 443, password=274c1b23-2bfe-40ac-943c-ebc1aa044b22, skip-cert-verify=false, tfo=false, udp-relay=true
+IE-3.253.106.233-0147 | 22.181MB = trojan, loved-shark.rooster465.autos, 443, password=UX82473651, sni=loved-shark.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+IE-34.242.77.118-0406 | 23.911MB = trojan, sacred-anemone.rooster465.autos, 443, password=UX82473651, sni=sacred-anemone.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+NO-185.213.23.63-0169 | 23.118MB = ss, 185.213.23.63, 990, encrypt-method=chacha20-ietf-poly1305, password=ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo=false, udp-relay=true
+RELAY-104.26.4.60-1429 | 9.399MB = vmess, yg1.ygkkk.dpdns.org, 443, username=b2ba4a73-3123-479e-aa96-5973a9ecd0c0, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=jmp1.907737.xyz, ws-headers=Host:jmp1.907737.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY-141.101.114.199-0064 | 0.0MB = vmess, 141.101.114.199, 443, username=5ceb716a-9a0c-493a-9a0b-a05e08a1b1fc, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=hinet.meizhiyuanya.xyz, ws-headers=Host:hinet.meizhiyuanya.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY-141.101.114.80-0039 | 0.0MB = vmess, 141.101.114.80, 443, username=2b61c372-ba2a-4cec-b222-42a4da3aefb7, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=v2ray1.zhujicn2.org, ws-headers=Host:v2ray1.zhujicn2.org, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY-141.101.115.158-0058 | 0.0MB = vmess, 141.101.115.158, 443, username=5ceb716a-9a0c-493a-9a0b-a05e08a1b1fc, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=hinet.meizhiyuanya.xyz, ws-headers=Host:hinet.meizhiyuanya.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY-172.64.144.100-0034 | 0.0MB = vmess, 172.64.144.100, 443, username=6e9217de-ad7e-4a67-bd17-a6dca951733b, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=lg3.zhujicn2.com, ws-headers=Host:lg3.zhujicn2.com, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY-188.114.96.19-0195 | 2.505MB = vmess, 188.114.96.19, 80, username=aed88e79-5762-4d2f-86fa-f438f32a7654, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=google.whatsapp.snapp.torob.basalam.hesanid8.ir., ws-headers=Host:google.whatsapp.snapp.torob.basalam.hesanid8.ir., skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY-203.30.191.2-0214 | 0.0MB = vmess, 203.30.191.2, 443, username=c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=oplg1.cfcdn2.xyz, ws-headers=Host:oplg1.cfcdn2.xyz, skip-cert-verify=false, tfo=false, udp-relay=true
+RELAY-23.227.38.33-0060 | 0.0MB = vmess, shopify.com, 80, username=2508cb1d-bd54-47c0-aead-1b8f55090427, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=scw.cloudflare.quest, ws-headers=Host:scw.cloudflare.quest, skip-cert-verify=false, tfo=false, udp-relay=true
+RO-154.46.31.106-0207 | 0.0MB = ss, bogging-eyeteeth-fly.freesocks.work, 443, encrypt-method=chacha20-ietf-poly1305, password=QFWzCw2uX9B9i6qAYeFBIE, tfo=false, udp-relay=true
+RO-154.46.31.106-0216 | 0.251MB = ss, 154.46.31.106, 443, encrypt-method=chacha20-ietf-poly1305, password=QFWzCw2uX9B9i6qAYeFBIE, tfo=false, udp-relay=true
+VN-103.173.255.127-0040 | 0.0MB = trojan, 103.173.255.127, 28443, password=5ceb716a-9a0c-493a-9a0b-a05e08a1b1fc, sni=glc.hruqoaw.cn, skip-cert-verify=false, tfo=false, udp-relay=true
+VN-103.173.255.21-0047 | 0.0MB = trojan, 103.173.255.21, 28443, password=5ceb716a-9a0c-493a-9a0b-a05e08a1b1fc, sni=glc.hruqoaw.cn, skip-cert-verify=false, tfo=false, udp-relay=true
+VN-103.173.255.228-0055 | 0.0MB = trojan, 103.173.255.228, 28443, password=5ceb716a-9a0c-493a-9a0b-a05e08a1b1fc, sni=glc.hruqoaw.cn, skip-cert-verify=false, tfo=false, udp-relay=true
+VN-103.173.255.234-0048 | 0.0MB = trojan, 103.173.255.234, 28443, password=5ceb716a-9a0c-493a-9a0b-a05e08a1b1fc, sni=glc.hruqoaw.cn, skip-cert-verify=false, tfo=false, udp-relay=true
+ZA-102.133.165.160-0177 | 9.368MB = ss, 102.133.165.160, 16233, encrypt-method=chacha20-ietf-poly1305, password=Xsy8Ox4yOV3xLlpxtjzs3X, tfo=false, udp-relay=true
+ZA-102.37.156.224-0178 | 8.765MB = ss, 102.37.156.224, 443, encrypt-method=chacha20-ietf-poly1305, password=aduB9HGxQHjA2SBMRjkHX6, tfo=false, udp-relay=true
+ZA-139.84.247.164-0126 | 31.216MB = ss, 139.84.247.164, 8388, encrypt-method=chacha20-ietf-poly1305, password=tfAcRikawhNoZAhu, tfo=false, udp-relay=true
+🇨🇦 CA-108.181.118.10-0073 | 165.473MB = ss, 108.181.118.10, 8388, encrypt-method=chacha20-ietf-poly1305, password=G5p6ww4o67HB, tfo=false, udp-relay=true
+🇨🇦 CA-137.184.174.93-0107 | 51.114MB = ss, 137.184.174.93, 8080, encrypt-method=rc4-md5, password=14fFPrbezE3HDZzsMOr6, tfo=false, udp-relay=true
+🇨🇦 CA-149.22.95.183-0068 | 107.974MB = ss, 149.22.95.183, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇨🇦 CA-185.156.47.97-0071 | 108.889MB = ss, yyz-ca-01.blncvpn4u.cc, 9443, encrypt-method=aes-256-gcm, password=eveaaTOb8ji8yntw2Z9yWUG0d6Ir8Ld8m3ymH8THdC5egiTH1mXCiBc0Skr7FibH, tfo=false, udp-relay=true
+🇨🇦 CA-185.156.47.97-0072 | 108.379MB = ss, 185.156.47.97, 9443, encrypt-method=aes-256-gcm, password=eveaaTOb8ji8yntw2Z9yWUG0d6Ir8Ld8m3ymH8THdC5egiTH1mXCiBc0Skr7FibH, tfo=false, udp-relay=true
+🇨🇦 CA-51.222.12.127-0191 | 2.708MB = ss, 51.222.12.127, 445, encrypt-method=aes-256-gcm, password=zDNVedRFPQexG9v, tfo=false, udp-relay=true
+🇨🇦 CA-51.222.136.236-0188 | 0.0MB = ss, 51.222.136.236, 8882, encrypt-method=aes-256-gcm, password=kDWvXYZoTBcGkC4, tfo=false, udp-relay=true
+🇨🇦 CA-51.222.141.125-0194 | 5.519MB = ss, 51.222.141.125, 445, encrypt-method=aes-256-gcm, password=zDNVedRFPQexG9v, tfo=false, udp-relay=true
+🇨🇦 CA-51.222.155.113-0189 | 2.58MB = ss, 51.222.155.113, 5601, encrypt-method=aes-256-gcm, password=Y6R9pAtvxxzmGC, tfo=false, udp-relay=true
+🇨🇦 CA-51.222.155.32-0220 | 2.21MB = ss, 51.222.155.32, 5003, encrypt-method=aes-256-gcm, password=g5MeD6Ft3CWlJId, tfo=false, udp-relay=true
+🇨🇦 CA-51.222.200.165-0196 | 8.493MB = ss, 51.222.200.165, 5000, encrypt-method=aes-256-gcm, password=Y6R9pAtvxxzmGC, tfo=false, udp-relay=true
+🇨🇦 CA-51.79.49.116-0233 | 2.637MB = ss, 51.79.49.116, 8882, encrypt-method=aes-256-gcm, password=kDWvXYZoTBcGkC4, tfo=false, udp-relay=true
+🇨🇦 CA-51.79.64.198-0186 | 5.454MB = ss, 51.79.64.198, 8119, encrypt-method=aes-256-gcm, password=cdBIDV42DCwnfIN, tfo=false, udp-relay=true
+🇨🇦 CA-51.79.85.185-0182 | 2.425MB = ss, 51.79.85.185, 8118, encrypt-method=aes-256-gcm, password=cdBIDV42DCwnfIN, tfo=false, udp-relay=true
+🇨🇳 CN-183.236.51.9-5142 | 0.0MB = trojan, 183.236.51.9, 10826, password=7d223bae-e183-4bf6-89c3-e327b15df490, skip-cert-verify=false, tfo=false, udp-relay=true
+🇨🇳 CN-210.75.24.222-0044 | 0.0MB = vmess, 210.75.24.222, 443, username=1bbf1ef7-3056-4160-9cab-491e024de705, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=sgamd.ptuu.ga, ws-headers=Host:sgamd.ptuu.ga, skip-cert-verify=false, tfo=false, udp-relay=true
+🇨🇳 CN-59.42.247.221-0046 | 0.0MB = trojan, updates.sub-nthu.com, 35007, password=e02b9927-7971-4429-8cd9-47b845960108, sni=updates.sub-nthu.com, skip-cert-verify=false, tfo=false, udp-relay=true
+🇩🇪 DE-141.11.170.13-0041 | 0.0MB = trojan, 141.11.170.13, 28443, password=5ceb716a-9a0c-493a-9a0b-a05e08a1b1fc, sni=glc.hruqoaw.cn, skip-cert-verify=false, tfo=false, udp-relay=true
+🇩🇪 DE-209.46.102.22-0116 | 24.373MB = ss, 209.46.102.22, 8388, encrypt-method=chacha20-ietf-poly1305, password=1hhrqrokj3ag, tfo=false, udp-relay=true
+🇩🇪 DE-63.178.198.94-0148 | 9.508MB = trojan, pleased-albacore.rooster465.autos, 443, password=UX82473651, sni=pleased-albacore.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇩🇪 DE-8.209.74.72-0206 | 15.806MB = ss, 8.209.74.72, 20001, encrypt-method=chacha20-ietf-poly1305, password=PWpjPo3tqhPN4yRZ, tfo=false, udp-relay=true
+🇩🇪 DE-80.78.132.177-0065 | 0.0MB = trojan, 80.78.132.177, 28443, password=5ceb716a-9a0c-493a-9a0b-a05e08a1b1fc, sni=glc.hruqoaw.cn, skip-cert-verify=false, tfo=false, udp-relay=true
+🇩🇪 DE-89.163.220.99-0066 | 0.0MB = trojan, 89.163.220.99, 28443, password=5ceb716a-9a0c-493a-9a0b-a05e08a1b1fc, sni=glc.hruqoaw.cn, skip-cert-verify=false, tfo=false, udp-relay=true
+🇪🇸 ES-108.181.121.226-0133 | 23.913MB = ss, 108.181.121.226, 8388, encrypt-method=chacha20-ietf-poly1305, password=WSyL4XTwNsdv, tfo=false, udp-relay=true
+🇪🇸 ES-140.174.184.5-0135 | 26.487MB = ss, 140.174.184.5, 8388, encrypt-method=chacha20-ietf-poly1305, password=qItG8SueYQcP, tfo=false, udp-relay=true
+🇫🇷 FR-51.255.13.232-0112 | 29.797MB = ss, 51.255.13.232, 8388, encrypt-method=chacha20-ietf-poly1305, password=BqnqToih0PbU, tfo=false, udp-relay=true
+🇬🇧 GB-141.98.101.181-0153 | 15.994MB = ss, 141.98.101.181, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇬🇧 GB-146.70.61.37-5499 | 56.935MB = ss, 146.70.61.37, 8080, encrypt-method=rc4-md5, password=14fFPrbezE3HDZzsMOr6, tfo=false, udp-relay=true
+🇬🇧 GB-186.190.211.67-0175 | 0.0MB = vmess, 186.190.211.67, 443, username=03fcc618-b93d-6796-6aed-8a38c975d581, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=pahobac.org, ws-headers=Host:pahobac.org, skip-cert-verify=false, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.10-0163 | 13.551MB = ss, 82.38.31.10, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.149-0157 | 14.604MB = ss, 82.38.31.149, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.155-0101 | 55.769MB = ss, 82.38.31.155, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.16-0168 | 13.843MB = ss, 82.38.31.16, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.162-0092 | 54.342MB = ss, 82.38.31.162, 443, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.174-0090 | 53.724MB = ss, 82.38.31.174, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.174-0105 | 56.476MB = ss, 82.38.31.174, 443, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.176-0081 | 7.461MB = ss, 82.38.31.176, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.179-0082 | 53.12MB = ss, 82.38.31.179, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.180-0083 | 49.773MB = ss, 82.38.31.180, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.181-0102 | 53.035MB = ss, 82.38.31.181, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.184-0103 | 58.473MB = ss, 82.38.31.184, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.186-0200 | 41.741MB = ss, 82.38.31.186, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.187-0183 | 40.26MB = ss, 82.38.31.187, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.189-0156 | 53.937MB = ss, 82.38.31.189, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.190-0197 | 33.165MB = ss, 82.38.31.190, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.191-0091 | 57.687MB = ss, 82.38.31.191, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.192-0087 | 54.329MB = ss, 82.38.31.192, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.193-0094 | 55.289MB = ss, 82.38.31.193, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.194-0174 | 5.279MB = ss, 82.38.31.194, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.199-0192 | 50.501MB = ss, 82.38.31.199, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.2-0167 | 14.36MB = ss, 82.38.31.2, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.203-0097 | 52.057MB = ss, 82.38.31.203, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.205-0099 | 52.339MB = ss, 82.38.31.205, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.206-0089 | 53.599MB = ss, 82.38.31.206, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.207-0085 | 53.749MB = ss, 82.38.31.207, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.208-0096 | 47.81MB = ss, 82.38.31.208, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.210-0248 | 29.355MB = ss, 82.38.31.210, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.212-0095 | 52.422MB = ss, 82.38.31.212, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.214-0093 | 50.678MB = ss, 82.38.31.214, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.216-0150 | 38.119MB = ss, 82.38.31.216, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.217-0185 | 44.484MB = ss, 82.38.31.217, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.218-0176 | 6.784MB = ss, 82.38.31.218, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.219-0181 | 0.697MB = ss, 82.38.31.219, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.3-0154 | 13.433MB = ss, 82.38.31.3, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.34-0171 | 13.22MB = ss, 82.38.31.34, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.35-0170 | 14.469MB = ss, 82.38.31.35, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.42-0162 | 14.285MB = ss, 82.38.31.42, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.46-0204 | 7.595MB = ss, 82.38.31.46, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.47-0161 | 14.982MB = ss, 82.38.31.47, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.48-0165 | 14.085MB = ss, 82.38.31.48, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.49-0166 | 13.478MB = ss, 82.38.31.49, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.61-0164 | 14.857MB = ss, 82.38.31.61, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.62-0160 | 15.876MB = ss, 82.38.31.62, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.66-0159 | 14.465MB = ss, 82.38.31.66, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇬🇧 GB-82.38.31.82-0187 | 10.229MB = ss, 82.38.31.82, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇬🇧 GB-94.156.250.148-0230 | 3.975MB = ss, 94.156.250.148, 7001, encrypt-method=aes-256-gcm, password=RexnBgU7EV5ADxG, tfo=false, udp-relay=true
+🇭🇰 HK-103.149.182.79-0215 | 0.809MB = ss, 103.149.182.79, 8388, encrypt-method=chacha20-ietf, password=asd123456, tfo=false, udp-relay=true
+🇭🇰 HK-156.245.232.239-0211 | 0.017MB = vmess, 156.245.232.239, 35043, username=b15e481d-17e4-41a8-84c2-23d4f0514d9a, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=156.245.232.239, skip-cert-verify=false, tfo=false, udp-relay=true
+🇭🇰 HK-181.215.18.110-0428 | 4.944MB = ss, telegramx.khp25.com, 1080, encrypt-method=chacha20-ietf-poly1305, password=m5nsedvdczx6x06e, tfo=false, udp-relay=true
+🇭🇰 HK-181.215.18.196-0427 | 7.794MB = ss, telegram.khp25.com, 1080, encrypt-method=chacha20-ietf-poly1305, password=pno0e2keji2gsfea, tfo=false, udp-relay=true
+🇭🇰 HK-185.244.208.69-0173 | 11.159MB = trojan, strong-haddock.rooster465.autos, 443, password=UX82473651, sni=strong-haddock.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇭🇰 HK-210.0.158.220-0051 | 0.0MB = trojan, 210.0.158.220, 28443, password=5ceb716a-9a0c-493a-9a0b-a05e08a1b1fc, sni=glc.hruqoaw.cn, skip-cert-verify=false, tfo=false, udp-relay=true
+🇭🇰 HK-47.240.80.220-2533 | 0.096MB = trojan, 47.240.80.220, 2052, password=tFjD2X1F6i9FfWp2GDU5Vbi1conuaChDKIYbw9zMFrqvMoSz, sni=vpn.12169.top, skip-cert-verify=false, tfo=false, udp-relay=true
+🇭🇰 HK-47.243.153.153-2532 | 0.005MB = vmess, i2psm3knof5qjjix.v.3dns.vip, 443, username=f23bb427-c1f9-4373-876c-2f43e9f790f3, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=i2psm3knof5qjjix.v.3dns.vip, ws-headers=Host:i2psm3knof5qjjix.v.3dns.vip, skip-cert-verify=false, tfo=false, udp-relay=true
+🇭🇰 HK-47.244.120.197-0212 | 0.0MB = vmess, 47.244.120.197, 44867, username=845e6b08-2919-4290-ade0-5dc7dcea59ca, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=47.244.120.197, skip-cert-verify=false, tfo=false, udp-relay=true
+🇭🇰 HK-47.244.120.197-0523 | 0.033MB = vmess, 47.244.120.197, 44867, username=845e6b08-2919-4290-ade0-5dc7dcea59ca, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=47.244.120.197, skip-cert-verify=false, tfo=false, udp-relay=true
+🇭🇰 HK-47.76.44.32-0521 | 0.022MB = vmess, 93ucrn4i0pffuabk.v.3dns.vip, 443, username=f23bb427-c1f9-4373-876c-2f43e9f790f3, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=93ucrn4i0pffuabk.v.3dns.vip, ws-headers=Host:93ucrn4i0pffuabk.v.3dns.vip, skip-cert-verify=false, tfo=false, udp-relay=true
+🇭🇰 HK-5.181.4.104-0049 | 0.0MB = trojan, 5.181.4.104, 28443, password=5ceb716a-9a0c-493a-9a0b-a05e08a1b1fc, sni=glc.hruqoaw.cn, skip-cert-verify=false, tfo=false, udp-relay=true
+🇭🇰 HK-8.210.24.181-0817 | 0.003MB = vmess, 6jdvarazgu3qqr6q.v.3dns.vip, 443, username=f23bb427-c1f9-4373-876c-2f43e9f790f3, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=6JDvArazgU3qQR6Q.v.3dns.vip, ws-headers=Host:6JDvArazgU3qQR6Q.v.3dns.vip, skip-cert-verify=false, tfo=false, udp-relay=true
+🇯🇵 JP-13.230.139.12-0131 | 17.772MB = trojan, brief-glider.rooster465.autos, 443, password=UX82473651, sni=brief-glider.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇯🇵 JP-13.230.91.226-0525 | 27.402MB = trojan, musical-terrier.rooster465.autos, 443, password=UX82473651, sni=musical-terrier.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇯🇵 JP-13.231.247.130-0127 | 26.499MB = trojan, concrete-aardvark.rooster465.autos, 443, password=UX82473651, sni=concrete-aardvark.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇯🇵 JP-149.22.87.204-0119 | 30.033MB = ss, 149.22.87.204, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇯🇵 JP-149.22.87.240-0117 | 28.572MB = ss, 149.22.87.240, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇯🇵 JP-149.22.87.241-0118 | 29.774MB = ss, 149.22.87.241, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇯🇵 JP-176.34.5.100-0129 | 28.807MB = trojan, assuring-skink.rooster465.autos, 443, password=UX82473651, sni=assuring-skink.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇯🇵 JP-18.176.61.69-0130 | 15.927MB = trojan, intense-sole.rooster465.autos, 443, password=UX82473651, sni=intense-sole.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇯🇵 JP-3.112.245.255-2485 | 28.608MB = trojan, dynamic-imp.rooster465.autos, 443, password=UX82473651, sni=dynamic-imp.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇯🇵 JP-43.207.198.39-0128 | 27.864MB = trojan, fancy-javelin.rooster465.autos, 443, password=UX82473651, sni=fancy-javelin.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇯🇵 JP-43.207.89.91-0121 | 28.415MB = trojan, organic-caribou.rooster465.autos, 443, password=UX82473651, sni=organic-caribou.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇯🇵 JP-52.192.217.187-0132 | 28.721MB = trojan, evolving-platypus.rooster465.autos, 443, password=UX82473651, sni=evolving-platypus.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇯🇵 JP-52.192.45.137-0123 | 20.742MB = trojan, promoted-rattler.rooster465.autos, 443, password=UX82473651, sni=promoted-rattler.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇯🇵 JP-54.199.66.128-0125 | 26.181MB = trojan, integral-rodent.rooster465.autos, 443, password=UX82473651, sni=integral-rodent.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇯🇵 JP-54.238.153.132-0122 | 28.541MB = trojan, obliging-louse.rooster465.autos, 443, password=UX82473651, sni=obliging-louse.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇯🇵 JP-54.249.36.167-0124 | 25.813MB = trojan, comic-poodle.rooster465.autos, 443, password=UX82473651, sni=comic-poodle.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇯🇵 JP-54.249.55.154-0403 | 29.064MB = trojan, prime-corgi.rooster465.autos, 443, password=UX82473651, sni=prime-corgi.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇯🇵 JP-54.250.237.143-0526 | 18.225MB = trojan, accurate-frog.rooster465.autos, 443, password=UX82473651, sni=accurate-frog.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇯🇵 JP-54.65.177.190-0120 | 28.265MB = trojan, winning-marten.rooster465.autos, 443, password=UX82473651, sni=winning-marten.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇯🇵 JP-84.247.155.196-0190 | 4.093MB = ss, 84.247.155.196, 80, encrypt-method=aes-256-gcm, password=3eOFeNssde7PYYMv, tfo=false, udp-relay=true
+🇯🇵 JP-84.247.155.196-0202 | 1.182MB = ss, 84.247.155.196, 443, encrypt-method=aes-256-gcm, password=3eOFeNssde7PYYMv, tfo=false, udp-relay=true
+🇰🇷 KR-13.125.197.117-0139 | 23.055MB = trojan, liked-eft.rooster465.autos, 443, password=UX82473651, sni=liked-eft.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇰🇷 KR-13.125.69.162-0138 | 22.781MB = trojan, engaging-toucan.rooster465.autos, 443, password=UX82473651, sni=engaging-toucan.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇰🇷 KR-141.164.45.187-0193 | 0.0MB = ss, 141.164.45.187, 8000, encrypt-method=aes-256-gcm, password=KixLvKzwjekG00rm, tfo=false, udp-relay=true
+🇰🇷 KR-141.164.45.187-0201 | 0.138MB = ss, 141.164.45.187, 7001, encrypt-method=aes-256-gcm, password=RexnBgU7EV5ADxG, tfo=false, udp-relay=true
+🇰🇷 KR-141.164.45.187-0203 | 0.163MB = ss, 141.164.45.187, 6679, encrypt-method=aes-256-gcm, password=TEzjfAYq2IjtuoS, tfo=false, udp-relay=true
+🇰🇷 KR-141.164.45.187-0205 | 0.166MB = ss, 141.164.45.187, 5498, encrypt-method=aes-256-gcm, password=lGqs95QkFHo2NV, tfo=false, udp-relay=true
+🇰🇷 KR-141.164.45.187-0208 | 0.16MB = ss, 141.164.45.187, 6697, encrypt-method=aes-256-gcm, password=TEzjfAYq2IjtuoS, tfo=false, udp-relay=true
+🇰🇷 KR-141.164.45.187-0219 | 0.086MB = ss, 141.164.45.187, 2376, encrypt-method=aes-256-gcm, password=faBAoD54k87UJG7, tfo=false, udp-relay=true
+🇰🇷 KR-141.164.45.187-2454 | 0.139MB = ss, 141.164.45.187, 8119, encrypt-method=aes-256-gcm, password=cdBIDV42DCwnfIN, tfo=false, udp-relay=true
+🇰🇷 KR-144.24.87.99-0036 | 0.0MB = trojan, 144.24.87.99, 28443, password=5ceb716a-9a0c-493a-9a0b-a05e08a1b1fc, sni=glc.hruqoaw.cn, skip-cert-verify=false, tfo=false, udp-relay=true
+🇰🇷 KR-146.56.40.117-0052 | 0.0MB = vmess, 146.56.40.117, 27675, username=053ca0f4-057e-493d-ad30-5ba51f00f59c, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=146.56.40.117, skip-cert-verify=false, tfo=false, udp-relay=true
+🇰🇷 KR-211.174.113.172-0210 | 0.019MB = ss, ce1fc2d8.krkt.hkssip.com, 49642, encrypt-method=aes-256-gcm, password=ac9c0a7b, tfo=false, udp-relay=true
+🇰🇷 KR-211.178.105.134-0209 | 0.066MB = ss, 211.178.105.134, 6123, encrypt-method=aes-256-cfb, password=qwerREWQ@@, tfo=false, udp-relay=true
+🇰🇷 KR-3.34.131.153-0136 | 23.826MB = trojan, pretty-rat.rooster465.autos, 443, password=UX82473651, sni=pretty-rat.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇰🇷 KR-3.35.168.225-0144 | 23.08MB = trojan, noted-cougar.rooster465.autos, 443, password=UX82473651, sni=noted-cougar.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇰🇷 KR-3.35.207.188-0140 | 22.184MB = trojan, main-fawn.rooster465.autos, 443, password=UX82473651, sni=main-fawn.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇰🇷 KR-3.35.217.113-0527 | 21.445MB = trojan, amazing-peacock.rooster465.autos, 443, password=UX82473651, sni=amazing-peacock.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇰🇷 KR-3.39.225.215-0141 | 23.5MB = trojan, kind-stork.rooster465.autos, 443, password=UX82473651, sni=kind-stork.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇰🇷 KR-43.200.164.211-0035 | 0.0MB = trojan, 43.200.164.211, 28443, password=5ceb716a-9a0c-493a-9a0b-a05e08a1b1fc, sni=glc.hruqoaw.cn, skip-cert-verify=false, tfo=false, udp-relay=true
+🇰🇷 KR-43.201.100.203-0137 | 22.882MB = trojan, optimum-snapper.rooster465.autos, 443, password=UX82473651, sni=optimum-snapper.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇰🇷 KR-43.201.252.164-0142 | 23.304MB = trojan, balanced-stag.rooster465.autos, 443, password=UX82473651, sni=balanced-stag.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇰🇷 KR-54.180.236.195-0143 | 23.226MB = trojan, evolving-ewe.rooster465.autos, 443, password=UX82473651, sni=evolving-ewe.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇳🇱 NL-108.181.126.122-0115 | 37.851MB = ss, 108.181.126.122, 8388, encrypt-method=chacha20-ietf-poly1305, password=CJmTCCx7Ltud, tfo=false, udp-relay=true
+🇳🇱 NL-108.181.58.239-0114 | 41.591MB = ss, 108.181.58.239, 8388, encrypt-method=chacha20-ietf-poly1305, password=CJmTCCx7Ltud, tfo=false, udp-relay=true
+🇳🇱 NL-109.201.152.181-0104 | 50.744MB = ss, 109.201.152.181, 443, encrypt-method=aes-128-cfb, password=shadowsocks, tfo=false, udp-relay=true
+🇳🇱 NL-13.73.229.250-0063 | 0.0MB = vmess, 13.73.229.250, 443, username=4893ed3e-8a5f-48dc-aa1e-bbc2e67a065b, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=13.73.229.250, skip-cert-verify=false, tfo=false, udp-relay=true
+🇳🇱 NL-140.82.56.38-0088 | 0.0MB = ss, 140.82.56.38, 8388, encrypt-method=aes-256-gcm, password=iOaIXNsQXVIxwmkY, tfo=false, udp-relay=true
+🇳🇱 NL-158.173.20.171-0149 | 20.143MB = ss, 158.173.20.171, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇳🇱 NL-193.29.139.147-0098 | 52.092MB = ss, 193.29.139.147, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+🇳🇱 NL-193.29.139.151-0158 | 15.555MB = ss, 193.29.139.151, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇳🇱 NL-193.29.139.168-0198 | 38.327MB = ss, 193.29.139.168, 8080, encrypt-method=chacha20-ietf-poly1305, password=QCXDxuDlTTMD7jtgHUjIoj, tfo=false, udp-relay=true
+🇳🇱 NL-193.29.139.204-0106 | 53.254MB = ss, 193.29.139.204, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇳🇱 NL-193.29.139.223-0184 | 41.711MB = ss, 193.29.139.223, 8080, encrypt-method=chacha20-ietf-poly1305, password=k1dBOmOB4oqi7Ump37a1bQ, tfo=false, udp-relay=true
+🇳🇱 NL-193.29.139.235-0146 | 46.069MB = ss, 193.29.139.235, 8080, encrypt-method=chacha20-ietf-poly1305, password=oZIoA69Q8yhcQV8ka3Pa3A, tfo=false, udp-relay=true
+🇳🇱 NL-195.54.174.18-0213 | 0.0MB = vmess, 195.54.174.18, 80, username=6d6f413f-3dc2-4d02-8d35-8b45e39feb72, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=195.54.174.18, skip-cert-verify=false, tfo=false, udp-relay=true
+🇸🇬 SG-18.143.92.167-0151 | 16.503MB = trojan, glowing-marmoset.rooster465.autos, 443, password=UX82473651, sni=glowing-marmoset.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇸🇬 SG-45.128.12.20-0223 | 0.006MB = ss, 45.128.12.20, 14249, encrypt-method=chacha20-ietf-poly1305, password=9epp3o9ng8ej59uv, tfo=false, udp-relay=true
+🇸🇬 SG-52.221.218.179-0155 | 15.646MB = trojan, real-cardinal.rooster465.autos, 443, password=UX82473651, sni=real-cardinal.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇸🇬 SG-52.221.220.227-0407 | 16.583MB = trojan, pet-antelope.rooster465.autos, 443, password=UX82473651, sni=pet-antelope.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇸🇬 SG-54.254.59.149-0152 | 15.734MB = trojan, desired-boxer.rooster465.autos, 443, password=UX82473651, sni=desired-boxer.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇸🇬 SG-56.10.9.77-0404 | 15.596MB = trojan, inviting-ferret.rooster465.autos, 443, password=UX82473651, sni=inviting-ferret.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇸🇬 SG-68.183.227.4-0134 | 24.489MB = ss, 68.183.227.4, 8080, encrypt-method=rc4-md5, password=14fFPrbezE3HDZzsMOr6, tfo=false, udp-relay=true
+🇺🇸 US-108.181.0.177-0074 | 180.716MB = ss, 108.181.0.177, 8388, encrypt-method=chacha20-ietf-poly1305, password=G5p6ww4o67HB, tfo=false, udp-relay=true
+🇺🇸 US-138.199.42.68-0078 | 0.0MB = ss, 138.199.42.68, 8080, encrypt-method=rc4-md5, password=14fFPrbezE3HDZzsMOr6, tfo=false, udp-relay=true
+🇺🇸 US-140.82.63.79-0113 | 0.252MB = ss, 140.82.63.79, 8388, encrypt-method=chacha20-ietf-poly1305, password=ZoZtfPOyVvmKARUN, tfo=false, udp-relay=true
+🇺🇸 US-15.204.247.206-0179 | 9.737MB = ss, 15.204.247.206, 4444, encrypt-method=aes-256-gcm, password=pKEW8JPByTVTLtM, tfo=false, udp-relay=true
+🇺🇸 US-156.146.38.167-0080 | 70.449MB = ss, 156.146.38.167, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇺🇸 US-156.146.38.168-0079 | 75.95MB = ss, 156.146.38.168, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇺🇸 US-156.146.38.169-0100 | 72.411MB = ss, 156.146.38.169, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇺🇸 US-156.146.38.170-0086 | 73.073MB = ss, 156.146.38.170, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇺🇸 US-167.17.68.89-0145 | 0.0MB = vmess, 167.17.68.89, 443, username=03fcc618-b93d-6796-6aed-8a38c975d581, tls=true, vmess-aead=true, tls13=false, ws=true, ws-path=/, sni=vspeedfast.org, ws-headers=Host:vspeedfast.org, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 US-172.237.129.108-0057 | 0.0MB = vmess, cfhk.oppo.quest, 80, username=2508cb1d-bd54-47c0-aead-1b8f55090427, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=scw.cloudflare.quest, ws-headers=Host:scw.cloudflare.quest, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 US-172.237.129.236-0045 | 0.0MB = vmess, ee.oppo.quest, 80, username=f9247df4-02d5-4b31-acc5-4022652c5953, tls=false, vmess-aead=true, ws=true, ws-path=/, sni=ee.oppo.quest, ws-headers=Host:ee.oppo.quest, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 US-173.244.56.6-0077 | 99.142MB = ss, 173.244.56.6, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇺🇸 US-173.244.56.9-0076 | 103.393MB = ss, 173.244.56.9, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇺🇸 US-198.98.53.130-0075 | 95.62MB = ss, 198.98.53.130, 443, encrypt-method=chacha20-ietf-poly1305, password=eDfN7SODQceIOmIAbtJJtK, tfo=false, udp-relay=true
+🇺🇸 US-34.220.15.24-0069 | 124.729MB = trojan, guided-ferret.rooster465.autos, 443, password=UX82473651, sni=guided-ferret.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 US-37.19.198.160-0109 | 42.236MB = ss, 37.19.198.160, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇺🇸 US-37.19.198.236-0108 | 45.904MB = ss, 37.19.198.236, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇺🇸 US-37.19.198.243-0111 | 37.666MB = ss, 37.19.198.243, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇺🇸 US-37.19.198.244-0110 | 46.852MB = ss, 37.19.198.244, 443, encrypt-method=aes-128-gcm, password=shadowsocks, tfo=false, udp-relay=true
+🇺🇸 US-44.255.123.205-0070 | 122.745MB = trojan, happy-gibbon.rooster465.autos, 443, password=UX82473651, sni=happy-gibbon.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
+🇺🇸 US-54.173.150.39-0530 | 40.879MB = ss, 54.173.150.39, 443, encrypt-method=aes-256-cfb, password=amazonskr05, tfo=false, udp-relay=true
+🇺🇸 US-54.213.238.59-0409 | 104.513MB = trojan, ultimate-jaguar.rooster465.autos, 443, password=UX82473651, sni=ultimate-jaguar.rooster465.autos, skip-cert-verify=false, tfo=false, udp-relay=true
