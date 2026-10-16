@@ -1,5 +1,4 @@
 proxies:
-  - {name: 🇩🇪 HYSTERIA-UDP 🇩🇪 DE-192.248.180.203:56818, server: 192.248.180.203, port: 56818, type: hysteria2, ports: 56818, password: 95vw9exfa91h3q2u, obfs: salamander, obfs-password: 8pd7jsogcjit6qsa, sni: rfiwnhkq.easyiran.org, skip-cert-verify: false, tfo: false}
   - {name: 🇬🇧 HYSTERIA-UDP 🇬🇧 GB-81.168.83.89:2083, server: 81.168.83.89, port: 2083, type: hysteria2, ports: 2083, password: YwuvGJk36B, obfs: salamander, obfs-password: khameniiko%40smad%40ret, sni: kotlet.arshiacomplus.dpdns.org, skip-cert-verify: false, tfo: false}
   - {name: 🇭🇰 HYSTERIA-UDP 🇭🇰 HK-212.192.15.53:24591, server: 212.192.15.53, port: 24591, type: hysteria2, ports: 24591, password: ae845cbd-08fb-4346-929a-e28a6f3960a8, sni: hk1.shiyuandian.shop, skip-cert-verify: false, tfo: false}
   - {name: 🇯🇵 TUIC-UDP 🇯🇵 JP-47.74.22.234:65006, server: 47.74.22.234, port: 65006, type: tuic, uuid: ceeb8370-d87a-40c7-b8b9-566716210763, password: ceeb8370-d87a-40c7-b8b9-566716210763, alpn: [h3], udp-relay-mode: native, congestion-controller: bbr, disable-sni: true, skip-cert-verify: false, tfo: false}
