@@ -1,8 +1,8 @@
 proxies:
   - {name: "@EAGLE_IG : جهت خرید کانفیگ شخصی👨🏻‍💻", server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, tfo: false}
-  - {name: "آخرین آپدیت : سه‌شنبه  -  1405/08/19 💎", server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, tfo: false}
+  - {name: "آخرین آپدیت : چهارشنبه - 1405/08/20 💎", server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, tfo: false}
   - {name: بِ‌یاد جاویدنامان 18/19 دی،بچه‌‌های میناب🖤, server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, tfo: false}
-  - {name: "زمان آپدیت : 12:45  -  ظهر   - سه‌شنبه ⏳️", server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, tfo: false}
+  - {name: "زمان آپدیت : 12:45  -  ظهر - چهارشنبه ⏳️", server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, tfo: false}
   - {name: لطفا هر 12 ساعت،لینک ساب رو آپدیت کنید⚡️, server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, tfo: false}
   - {name: ️ | @Eag1e_YT『🇨🇭』, server: 208.69.78.217, port: 2053, type: vless, tls: true, uuid: c0dd6d59-1573-43af-8b70-1470b2632a6d, servername: www.apple.com, host: www.apple.com, reality-opts: {public-key: A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0, short-id: ad86e2d52ff40ebd}, client-fingerprint: random, skip-cert-verify: false, tfo: false}
   - {name: ️ | @Eag1e_YT『🇩🇪』, server: 193.108.117.111, port: 19999, type: ss, cipher: aes-256-gcm, password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=, tfo: false}
@@ -19,7 +19,6 @@ proxies:
   - {name: ️ | @Eag1e_YT『🇳🇱』 3, server: 193.29.139.235, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
   - {name: ️ | @Eag1e_YT『🇺🇳』, server: 216.152.156.65, port: 443, type: trojan, password: 0ab6c98dae3b48e8b9c4a776b6c9c19a, sni: learn.healthcarejobshubenhancemedicalprofessionalskillstoday.com, skip-cert-verify: false, tfo: false}
   - {name: ️ | @Eag1e_YT『🇺🇳』 2, server: 216.152.155.176, port: 443, type: trojan, password: 0ab6c98dae3b48e8b9c4a776b6c9c19a, sni: blog.nextjobopportunityandclaimyouridealrole.com, skip-cert-verify: false, tfo: false}
-  - {name: ️ | @Eag1e_YT『🇺🇳』 3, server: 149.22.95.183, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
   - {name: ️ | @Eag1e_YT『🇺🇸』, server: 216.152.155.59, port: 443, type: trojan, password: 0ab6c98dae3b48e8b9c4a776b6c9c19a, sni: api.nextjobopportunityandclaimyouridealrole.com, skip-cert-verify: false, tfo: false}
   - {name: ️ | @Eag1e_YT『🇺🇸』 2, server: 169.197.140.214, port: 443, type: trojan, password: 0ab6c98dae3b48e8b9c4a776b6c9c19a, sni: courses.discoverfreshgraduatejobsstartyourprofessionaljourney.com, skip-cert-verify: false, tfo: false}
   - {name: ️ | @Eag1e_YT『🇺🇸』 3, server: 170.101.101.131, port: 443, type: trojan, password: 0ab6c98dae3b48e8b9c4a776b6c9c19a, sni: blog.explorecreativejobsandenhanceyourcareerportfolio.com, skip-cert-verify: false, tfo: false}
