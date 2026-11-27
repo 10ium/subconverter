@@ -1,4 +1,6 @@
 proxies:
+  - {name: HYSTERIA-UDP 🇦🇪 AE-128.254.186.190:13337, server: 128.254.186.190, port: 13337, type: hysteria2, ports: 13337, password: 900c8c92-1979-4c7c-8f2f-63e87d53d8fe, sni: mother-earth.fyi, skip-cert-verify: false, tfo: false}
+  - {name: HYSTERIA-UDP 🇦🇪 AE-128.254.186.57:13337, server: 128.254.186.57, port: 13337, type: hysteria2, ports: 13337, password: 900c8c92-1979-4c7c-8f2f-63e87d53d8fe, sni: mother-earth.fyi, skip-cert-verify: false, tfo: false}
   - {name: 🇬🇧 HYSTERIA-UDP 🇬🇧 GB-81.168.83.89:2083, server: 81.168.83.89, port: 2083, type: hysteria2, ports: 2083, password: YwuvGJk36B, obfs: salamander, obfs-password: khameniiko%40smad%40ret, sni: kotlet.arshiacomplus.dpdns.org, skip-cert-verify: false, tfo: false}
   - {name: 🇭🇰 HYSTERIA-UDP 🇭🇰 HK-152.32.254.68:5010, server: 152.32.254.68, port: 5010, type: hysteria2, ports: 5010, password: eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ, obfs: salamander, obfs-password: 7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9, sni: nas.aizhzo.com, skip-cert-verify: false, tfo: false}
   - {name: 🇯🇵 TUIC-UDP 🇯🇵 JP-47.74.22.234:65006, server: 47.74.22.234, port: 65006, type: tuic, uuid: ceeb8370-d87a-40c7-b8b9-566716210763, password: ceeb8370-d87a-40c7-b8b9-566716210763, alpn: [h3], udp-relay-mode: native, congestion-controller: bbr, disable-sni: true, skip-cert-verify: false, tfo: false}
